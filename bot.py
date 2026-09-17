@@ -116,7 +116,7 @@ def handle(text):
     cfg = load_config()
     prompt = SYSTEM.replace("__CONFIG__", json.dumps(cfg, ensure_ascii=False, indent=2))
     out = llm([{"role": "system", "content": prompt},
-               {"role": "user", "content": text}], max_tokens=4000, temperature=0.2)
+               {"role": "user", "content": text}], max_tokens=12000, temperature=0.2)
     data = parse_json(out)
     if isinstance(data, dict) and "config" in data:
         apply_config(data["config"])
