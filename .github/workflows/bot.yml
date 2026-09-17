@@ -1,0 +1,28 @@
+name: Discord control bot
+on:
+  schedule:
+    - cron: "*/5 * * * *"     # check for new Discord messages every 5 minutes
+  workflow_dispatch: {}       # manual run for instant testing
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discord-bot
+  cancel-in-progress: false
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    env:
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+      DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+      DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
+      PANEWS_RSS: ${{ secrets.PANEWS_RSS }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: python bot.py
