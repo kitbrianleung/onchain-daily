@@ -39,6 +39,8 @@ jobs:
       - name: Save used-article memory
         if: always()
         run: |
+          git config user.name "onchain-bot"
+          git config user.email "bot@users.noreply.github.com"
           git add state/posted.json
           git commit -m "state $(date -u +%F)" || echo "nothing to commit"
           git pull --rebase origin main || true
