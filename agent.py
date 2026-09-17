@@ -41,7 +41,6 @@ TEXT RULES:
     "rss_feeds": {
         "The Block":   "https://www.theblock.co/rss.xml",
         "The Defiant": "https://thedefiant.io/feed/",
-        "CryptoNews":  "https://cryptonews.com/news/feed/",
     },
     "scrape_pages": {
         "PANews Newsflash":     "https://www.panewslab.com/zh-hant/newsflash",
@@ -50,8 +49,8 @@ TEXT RULES:
         "The Block Web3":       "https://www.theblock.co/news/web3",
         "The Block DeFi":       "https://www.theblock.co/news/defi",
         "BlockBeats Newsflash": "https://en.theblockbeats.news/newsflash",
-        "CryptoNews DeFi":      "https://cryptonews.com/news/defi/",
-        "CryptoNews Altcoins":  "https://cryptonews.com/news/altcoins/",
+        "CryptoNews DeFi":      "https://cryptonews.net/news/defi/",
+        "CryptoNews Altcoins":  "https://cryptonews.net/news/altcoins/",
     },
     "model": "moonshotai/kimi-k3",
     "caption_hashtags": "#altcoins #defi #onchain #crypto #alpha",
@@ -92,13 +91,37 @@ def notify(msg):
         except Exception as e:
             log(f"discord notify failed: {e}")
 
-def llm(messages, max_tokens=3000, temperature=0.3):
-    r = requests.post("https://openrouter.ai/api/v1/chat/completions",
-        headers={"Authorization": f"Bearer {OPENROUTER_API_KEY}", "X-Title": "OnchainDaily"},
-        json={"model": MODEL, "messages": messages, "max_tokens": max_tokens,
-              "temperature": temperature}, timeout=180)
-    r.raise_for_status()
-    return r.json()["choices"][0]["message"]["content"]
+def llm(messages, max_tokens=8000, temperature=0.3):
+    """Call the model via OpenRouter.
+    Retries once with double the token budget if the model returns empty
+    content (common with reasoning models that spend the budget 'thinking')."""
+    payload = {"model": MODEL, "messages": messages, "temperature": temperature}
+    effort = os.environ.get("REASONING_EFFORT", "")
+    if effort:
+        payload["reasoning"] = {"effort": effort}
+    finish = None
+    for attempt in range(2):
+        payload["max_tokens"] = max_tokens * (attempt + 1)
+        r = requests.post("https://openrouter.ai/api/v1/chat/completions",
+            headers={"Authorization": f"Bearer {OPENROUTER_API_KEY}", "X-Title": "OnchainDaily"},
+            json=payload, timeout=300)
+        r.raise_for_status()
+        data = r.json()
+        if "error" in data:                       # OpenRouter sometimes returns 200 + error body
+            raise RuntimeError(f"OpenRouter error: {data['error']}")
+        choice = data["choices"][0]
+        msg = choice.get("message") or {}
+        content = msg.get("content")
+        if isinstance(content, list):             # some providers return content as parts
+            content = "".join(p.get("text", "") for p in content if isinstance(p, dict))
+        finish = choice.get("finish_reason")
+        log(f"llm: finish={finish} usage={data.get('usage')}")
+        if content and content.strip():
+            return content
+        log(f"llm: empty content on attempt {attempt + 1} (finish={finish})")
+    raise RuntimeError(
+        f"Model returned empty content twice (finish_reason={finish}). "
+        "Set REASONING_EFFORT=low in the workflow env or pick a non-reasoning model.")
 
 def parse_json(text):
     m = re.search(r"```(?:json)?\s*(.*?)```", text, re.S)
@@ -196,7 +219,7 @@ Rules: absolute URLs only; skip ads/navigation/sponsored/price-prediction filler
 PAGE TEXT:
 {text}"""
     try:
-        arr = parse_json(llm([{"role": "user", "content": prompt}], max_tokens=2500))
+        arr = parse_json(llm([{"role": "user", "content": prompt}], max_tokens=8000))
         return [{"source": source, **it} for it in arr if str(it.get("url", "")).startswith("http")]
     except Exception as ex: log(f"extract {source} failed: {ex}"); return []
 
@@ -211,7 +234,7 @@ PREVIOUSLY USED URLs (never reuse):
 
 CANDIDATES (JSON):
 {listing}"""
-    items = parse_json(llm([{"role": "user", "content": prompt}], max_tokens=2000, temperature=0.4))
+    items = parse_json(llm([{"role": "user", "content": prompt}], max_tokens=8000, temperature=0.4))
     items = [i for i in items if i.get("headline") and str(i.get("url", "")).startswith("http")]
     seen, out = set(), []
     for i in items:
