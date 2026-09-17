@@ -20,6 +20,7 @@ jobs:
       DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
       DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
       PANEWS_RSS: ${{ secrets.PANEWS_RSS }}
+      REASONING_EFFORT: low
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
