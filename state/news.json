@@ -1,0 +1,35 @@
+{
+  "date": "17 SEP 2026",
+  "items": [
+    {
+      "headline": "Circle Launches Arc L1, Mints 10B $ARC With Visa Onboard",
+      "summary": "Circle's new Layer 1 Arc is live with BlackRock, Visa and DTCC among 11 validators, and 10B $ARC were minted at genesis. Public token launch still undecided.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250",
+      "token": "$ARC"
+    },
+    {
+      "headline": "$ZEC Defies Fed Hike, Rockets to $1,383",
+      "summary": "$ZEC ripped to $1,383 even as the Fed's first rate hike since 2023 whipsawed $BTC. Privacy coins are stealing the spotlight this week.",
+      "url": "https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026",
+      "token": "$ZEC"
+    },
+    {
+      "headline": "World Money Super App Launches With Stripe, $WLD Rewards",
+      "summary": "World's new self-custody super app plugs into Stripe, Kalshi and Morpho, with World ID unlocking boosted rewards. A big DeFi-onboarding play for $WLD.",
+      "url": "https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394",
+      "token": "$WLD"
+    },
+    {
+      "headline": "MEV Bot Front-Runs $7.8M $RSETH Exploit on Ethereum",
+      "summary": "An MEV bot called Yoink beat the original attacker into the same block, sweeping 2,882 $RSETH worth ~$7.8M. Part rescue, part heist.",
+      "url": "https://thedefiant.io/news/hacks/mev-bot-front-runs-7-8-million-rseth-exploit-on-ethereum",
+      "token": "$RSETH"
+    },
+    {
+      "headline": "US $HYPE Perps? Kraken Parent Plans Permissioned Markets",
+      "summary": "Kraken parent Bitnomial plans permissioned Hyperliquid perps for US traders, with NinjaTrader Clearing carrying accounts. A new regulated lane for $HYPE.",
+      "url": "https://thedefiant.io/news/defi/kraken-parent-plans-permissioned-hyperliquid-perps-for-us-traders",
+      "token": "$HYPE"
+    }
+  ]
+}
