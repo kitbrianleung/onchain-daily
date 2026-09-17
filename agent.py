@@ -336,6 +336,17 @@ def build_caption(items):
     lines.append(HASHTAGS)
     return "\n".join(lines)[:2100]
 
+def resolve_ig_user_id():
+    """Ask Instagram which account this token belongs to (prevents wrong-ID errors)."""
+    r = requests.get(f"{GRAPH}/me", params={"fields": "user_id,username",
+                                            "access_token": IG_ACCESS_TOKEN}, timeout=30)
+    r.raise_for_status()
+    d = r.json()
+    log(f"IG token belongs to @{d.get('username')} (user_id={d.get('user_id')})")
+    if str(d.get("user_id")) != str(IG_USER_ID):
+        log(f"NOTE: IG_USER_ID secret ({IG_USER_ID}) differs from token's account ({d.get('user_id')}) — using the token's account.")
+    return str(d["user_id"])
+
 # ---------------- Commands ----------------
 def cmd_generate():
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=48)
@@ -365,6 +376,8 @@ def cmd_generate():
            + "\n".join(f"{i+1}. {x['headline']}" for i, x in enumerate(items)))
 
 def cmd_publish():
+    global IG_USER_ID
+    IG_USER_ID = resolve_ig_user_id()
     news = json.load(open(NEWS_FILE)); items = news["items"]
     ts = int(time.time())
     story_id = ig_publish(ig_container(f"{IMAGE_BASE_URL}/story.jpg?cb={ts}", story=True))
