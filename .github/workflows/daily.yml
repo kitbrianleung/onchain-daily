@@ -19,6 +19,7 @@ jobs:
       PANEWS_RSS: ${{ secrets.PANEWS_RSS }}
       BLOCKBEATS_API_KEY: ${{ secrets.BLOCKBEATS_API_KEY }}
       IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/images
+      REASONING_EFFORT: low
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
