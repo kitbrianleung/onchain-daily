@@ -144,6 +144,14 @@ def save_state(s):
     os.makedirs("state", exist_ok=True)
     json.dump(s, open(STATE_FILE, "w"), indent=1)
 
+def get_cutoff():
+    """Morning run (before noon HKT): last 48h. Evening run: today only (since midnight HKT)."""
+    if os.environ.get("WINDOW_HOURS"):
+        return datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=float(os.environ["WINDOW_HOURS"]))
+    if NOW.hour < 12:
+        return datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=48)
+    return NOW.replace(hour=0, minute=0, second=0, microsecond=0)
+    
 # ---------------- 1. Fetch news ----------------
 def fetch_rss(name, url, cutoff):
     out = []
@@ -349,7 +357,8 @@ def resolve_ig_user_id():
 
 # ---------------- Commands ----------------
 def cmd_generate():
-    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=48)
+    cutoff = get_cutoff()
+    log(f"news window: since {cutoff:%Y-%m-%d %H:%M} UTC ({'morning/48h' if NOW.hour < 12 else 'evening/today-only'} run)")
     cands = []
     for name, url in RSS_FEEDS.items():
         if url: cands += fetch_rss(name, url, cutoff)
