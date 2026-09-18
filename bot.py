@@ -129,28 +129,36 @@ def handle(text):
 def main():
     first_run = not os.path.exists(STATE_FILE)
     last_id = load_last_id()
+    print(f"DEBUG: first_run={first_run}, last_id={last_id}, my_user_id={MY_USER_ID}")
     r = requests.get(f"{API}/channels/{CHANNEL_ID}/messages",
                      headers=HEADERS, params={"after": last_id, "limit": 50}, timeout=30)
     r.raise_for_status()
     msgs = r.json()  # newest first
+    print(f"DEBUG: fetched {len(msgs)} messages")
     if not msgs:
         print("no new messages"); return
     newest = str(msgs[0]["id"])
     if first_run:
-        # Don't reply to old channel history on the very first run
         save_last_id(newest)
         print("initialized; skipping history"); return
     for m in reversed(msgs):  # oldest first
         author = m.get("author", {})
-        if author.get("bot"):
-            continue                       # ignore ourselves / other bots
-        if str(author.get("id")) != MY_USER_ID:
-            send(f"⛔ <@{author.get('id')}> This is a private bot.")
-            continue
+        author_id = str(author.get("id", ""))
+        username = author.get("username", "?")
         text = (m.get("content") or "").strip()
+        print(f"DEBUG: msg from {username} (id={author_id}): {text[:50]}")
+        if author.get("bot"):
+            print("  -> skipped (bot)")
+            continue
+        if author_id != MY_USER_ID:
+            print(f"  -> skipped (wrong user: {author_id} != {MY_USER_ID})")
+            send(f"⛔ <@{author_id}> This is a private bot.")
+            continue
         if not text:
+            print("  -> skipped (empty)")
             continue
         try:
+            print("  -> processing")
             send(handle(text))
         except Exception:
             send("❌ Something went wrong:\n" + traceback.format_exc()[-1200:])
