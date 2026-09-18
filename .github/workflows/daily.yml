@@ -2,6 +2,7 @@ name: Onchain Daily
 on:
   schedule:
     - cron: "0 0 * * *"        # 08:00 Hong Kong time (UTC+8)
+    - cron: "0 12 * * *"       # 20:00 Hong Kong time (UTC+8)
   workflow_dispatch: {}        # manual "Run workflow" button for testing
 
 permissions:
