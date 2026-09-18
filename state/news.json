@@ -1,35 +1,35 @@
 {
-  "date": "18 SEP 2026",
+  "date": "19 SEP 2026",
   "items": [
     {
-      "headline": "$ZEC Rockets to $1,383 While Market Dumps",
-      "summary": "$ZEC defied a broad crypto selloff after the Fed's first rate hike since 2023, ripping to $1,383 as privacy coins caught a sudden bid.",
-      "url": "https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026",
+      "headline": "$ZEC ETF Plans 3-for-1 Split After $233M Inflow Surge",
+      "summary": "Grayscale's $ZEC ETF nears $890M in assets as the privacy coin's rally pushes mining competition to record highs.",
+      "url": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
       "token": "$ZEC"
     },
     {
-      "headline": "$ARC Mainnet Live: BlackRock, Visa Validate",
-      "summary": "Circle launched its Arc L1 with $ARC (10B minted), USDC gas, and 100+ apps including Aave and Uniswap, validated by BlackRock, DTCC and Visa.",
-      "url": "https://thedefiant.io/converge/blockchains/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-producing-blocks",
-      "token": "$ARC"
+      "headline": "$MORPHO Opens Borrowing Against Coinbase Stock Tokens",
+      "summary": "Holders of five Coinbase tokenized stocks can now pledge them for USDC loans on Base via $MORPHO — a fresh DeFi use case for RWAs.",
+      "url": "https://thedefiant.io/news/defi/morpho-coinbase-tokenized-stocks-borrowing-base",
+      "token": "$MORPHO"
     },
     {
-      "headline": "$PONS Whale Nets $2M in 24 Hours",
-      "summary": "Trader 'Bonk Guy' made ~$2.08M in a day topping the Fomo leaderboard, with $PONS as his largest holding — a signal the small-cap is heating up.",
-      "url": "https://en.theblockbeats.news/newsflash",
-      "token": "$PONS"
+      "headline": "$CANTON Tops Blockchain Fee Rankings With $60M in 30 Days",
+      "summary": "Digital Asset's institutional chain $CANTON outpaced Tron and Ethereum in monthly fees, signaling surging onchain activity.",
+      "url": "https://thedefiant.io/news/blockchains/canton-network-tops-blockchain-fee-rankings-60m-30-days",
+      "token": "$CANTON"
     },
     {
-      "headline": "$WLD Launches 'World Money' Super App",
-      "summary": "World rolled out a self-custody $WLD super app with stablecoins, Stripe integration, Morpho lending and boosted rewards for World ID users.",
-      "url": "https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394",
-      "token": "$WLD"
+      "headline": "$SOPH Kills Its zkSync Chain, Rebuilds on Base",
+      "summary": "After raising $60M but drawing under 200 daily users, $SOPH is shutting its L2 and pivoting to a consumer app studio on Base.",
+      "url": "https://thedefiant.io/news/blockchains/sophon-shuts-down-zksync-chain-rebuilds-base",
+      "token": "$SOPH"
     },
     {
-      "headline": "$HYPE RWA Trading Surges on Hyperliquid",
-      "summary": "RWA trading is surging on Hyperliquid as tokenized stocks and bonds gain traction, and Kraken's parent now plans permissioned $HYPE perps for US traders.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-17-as-rwa-trading-surges-hyperliquid-dragonflys-qureshi-makes-case-multichain-future-415406",
-      "token": "$HYPE"
+      "headline": "Polymarket Hires Ex-$ZORA CEO for Onchain Push",
+      "summary": "Polymarket taps the former $ZORA chief as it rebuilds its central limit order book in Rust for a full onchain product overhaul.",
+      "url": "https://thedefiant.io/news/defi/polymarket-hires-ex-zora-ceo-for-onchain-product-push",
+      "token": "$ZORA"
     }
   ]
 }
