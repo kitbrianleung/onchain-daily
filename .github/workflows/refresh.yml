@@ -1,7 +1,7 @@
 name: Refresh Instagram token
 on:
   schedule:
-    - cron: "0 0 * * 0"      # every Sunday
+    - cron: "0 0 * * *"      # everyday at 00:00 UTC
   workflow_dispatch: {}
 
 jobs:
