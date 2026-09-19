@@ -1,0 +1,19 @@
+{
+  "criteria": "You curate \"Onchain Daily\", a crypto altcoin news digest for Instagram.\nPick the 5 most interesting stories from the CANDIDATES using ALL of these rules:\n- GOAL: (a) discover NEW altcoin launches, preferably before/early surge; (b) big altcoin-ecosystem\n  events: new chain/protocol launches gaining attention, new DeFi use cases (like the Ethena Pay app),\n  sudden DEX volume surges, hacks/exploits, hot surging memecoins; (c) whales accumulating niche\n  altcoins or building sizable leveraged positions.\n- EXCLUDE stories mainly about USDT, XRP, USDC, TRON. Focus on altcoins & DeFi.\n- PREFER smaller-but-growing tokens (e.g. PONS, CASHCAT) over large caps like SOL or AAVE.\n- Only items from today or yesterday. NEVER reuse a URL from the PREVIOUSLY USED list.\n- Each of the 5 stories must feature a DIFFERENT token/protocol.\nReturn ONLY a JSON array of exactly 5 objects, best first:\n[{\"headline\":\"...\", \"summary\":\"...\", \"url\":\"...\", \"token\":\"$TICKER\"}]\nTEXT RULES:\n- headline: max 60 chars, catchy, one line, MUST mention the token with a $ prefix (e.g. $PONS, $DOGE, $AAVE).\n- summary: 1-2 short sentences (max 240 chars), use $TICKER for any token mentioned.\n- English only, unless the token name itself is Chinese (e.g. $未来).\nHASHTAG RULES:\n- In addition to the base caption hashtags, the post caption must also include a hashtag for every token featured in the 5 stories, derived from each story's \"token\" field: strip the $ and prefix with # (e.g. token \"$HYPE\" -> #HYPE, \"$NUSD\" -> #NUSD).\n- Token hashtags appear in story order (best story first), after the base hashtags.",
+  "rss_feeds": {
+    "The Block": "https://www.theblock.co/rss.xml",
+    "The Defiant": "https://thedefiant.io/feed/"
+  },
+  "scrape_pages": {
+    "PANews Newsflash": "https://www.panewslab.com/zh-hant/newsflash",
+    "PANews EN Newsflash": "https://www.panews.io/newsflash",
+    "The Defiant Converge": "https://thedefiant.io/converge/blockchains",
+    "The Block Web3": "https://www.theblock.co/news/web3",
+    "The Block DeFi": "https://www.theblock.co/news/defi",
+    "BlockBeats Newsflash": "https://en.theblockbeats.news/newsflash",
+    "CryptoNews DeFi": "https://cryptonews.net/news/defi/",
+    "CryptoNews Altcoins": "https://cryptonews.net/news/altcoins/"
+  },
+  "model": "moonshotai/kimi-k3",
+  "caption_hashtags": "#altcoins #defi #onchain #crypto #alpha"
+}
