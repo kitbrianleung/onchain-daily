@@ -2,34 +2,34 @@
   "date": "19 SEP 2026",
   "items": [
     {
-      "headline": "$HYPE Lending Launch Sees $269M Borrowed Day One",
-      "summary": "Hyperliquid's new manual borrowing and lending feature pulled in $269M in loans within 24 hours, a massive DeFi debut for $HYPE.",
-      "url": "https://blockchainreporter.net/hyperliquid-launches-manual-borrowing-and-lending-with-269m-borrowed-on-day-one/",
-      "token": "$HYPE"
+      "headline": "$ETHFI Jumps 14% on Buyback Vote as Market Sells Off",
+      "summary": "$ETHFI rose 14.2% after a buyback vote, bucking a broad crypto selloff that hit 103 of the 125 largest non-stablecoin tokens.",
+      "url": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
+      "token": "$ETHFI"
     },
     {
-      "headline": "$POL Set for 100M Token Permissionless Burn",
-      "summary": "Polygon is preparing a community-callable burn of 100 million $POL, with contracts on testnet awaiting final Security Council signatures.",
-      "url": "https://thedefiant.io/news/tokens/polygon-prepares-permissionless-burn-of-100-million-pol",
-      "token": "$POL"
+      "headline": "$ARC Unveils AI Agent That Builds Onchain Apps From Prompts",
+      "summary": "$ARC launched Arc Studio, an AI coding agent that generates onchain apps and smart contracts from simple text prompts.",
+      "url": "https://www.panewslab.com/zh-hant/newsflash",
+      "token": "$ARC"
     },
     {
-      "headline": "$NEAR Surges 32% as Tokenization Tokens Lead Rally",
-      "summary": "$NEAR jumped 32% with $STRK up 27% and $ARB up 26%, as tokenization-themed alts led a broad market rally.",
-      "url": "https://thedefiant.io/news/markets/bitcoin-81000-near-tokenization-tokens-lead-rally-sep-18-2026",
-      "token": "$NEAR"
+      "headline": "Robinhood Chain Mainnet Goes Live With Stock Tokens & Lending",
+      "summary": "Robinhood opened its Arbitrum-based L2, adding stock tokens, onchain lending, and agentic AI crypto trading. Big new DeFi use cases for $HOOD's ecosystem.",
+      "url": "https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-agentic-crypto-trading",
+      "token": "$HOOD"
     },
     {
-      "headline": "$ZEC Whale Moves $360M, First Exchange Deposit in 10 Months",
-      "summary": "A $ZEC whale shifted $362.56M and deposited $15M to Coinbase — its first exchange move in ten months, sparking sell-off speculation.",
-      "url": "https://www.panews.io/newsflash",
-      "token": "$ZEC"
+      "headline": "Korean Super-App Toss Pilots Won Stablecoin on $OP Stack",
+      "summary": "South Korean fintech giant Toss will run a won stablecoin pilot on Optimism's $OP Stack, a major real-world adoption signal for the ecosystem.",
+      "url": "https://thedefiant.io/news/blockchains/south-korea-super-app-toss-to-run-won-stablecoin-pilot-on-op-stack",
+      "token": "$OP"
     },
     {
-      "headline": "$NUSD Depegs to 51 Cents, Junior Tranche Faces Wipeout",
-      "summary": "Neutrl opened $NUSD redemptions at just $0.51 while Strata's junior tranche jrNUSD faces being written to zero — a fresh DeFi blowup.",
-      "url": "https://thedefiant.io/news/defi/neutrl-opens-nusd-redemptions-at-51-cents-as-strata-junior-tranche-faces-wipeout",
-      "token": "$NUSD"
+      "headline": "Revolut Starts $EURR Rollout With Bridge as Issuer",
+      "summary": "Revolut opened $EURR to selected customers in three countries, with Bridge reporting just €374 outstanding versus €394.5M of Circle's EURC — huge room to grow.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+      "token": "$EURR"
     }
   ]
 }
