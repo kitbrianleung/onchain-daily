@@ -2,34 +2,34 @@
   "date": "19 SEP 2026",
   "items": [
     {
-      "headline": "$NEAR Pumps 32% as Tokenization Tokens Lead Rally",
-      "summary": "$NEAR surged 32% while $STRK and $ARB added 27% and 26%, leading a broad altcoin rally as Bitcoin touched $81K. Tokenization-themed tokens are the day's hottest sector.",
-      "url": "https://thedefiant.io/news/markets/bitcoin-81000-near-tokenization-tokens-lead-rally-sep-18-2026",
-      "token": "$NEAR"
+      "headline": "$HYPE Lending Launch Sees $269M Borrowed Day One",
+      "summary": "Hyperliquid's new manual borrowing and lending feature pulled in $269M in loans within 24 hours, a massive DeFi debut for $HYPE.",
+      "url": "https://blockchainreporter.net/hyperliquid-launches-manual-borrowing-and-lending-with-269m-borrowed-on-day-one/",
+      "token": "$HYPE"
     },
     {
       "headline": "$POL Set for 100M Token Permissionless Burn",
-      "summary": "Polygon is preparing a permissionless burn of 100 million $POL, with contracts on testnet awaiting final signatures. Quarterly base-fee burns will later become community-callable.",
+      "summary": "Polygon is preparing a community-callable burn of 100 million $POL, with contracts on testnet awaiting final Security Council signatures.",
       "url": "https://thedefiant.io/news/tokens/polygon-prepares-permissionless-burn-of-100-million-pol",
       "token": "$POL"
     },
     {
-      "headline": "$NUSD Depegs to $0.51, Junior Tranche Faces Wipeout",
-      "summary": "Neutrl opened $NUSD redemptions at just 51 cents while Strata's junior tranche faces a full write-down to zero. Senior tranche withdrawals settle in $sNUSD at revised values.",
+      "headline": "$NEAR Surges 32% as Tokenization Tokens Lead Rally",
+      "summary": "$NEAR jumped 32% with $STRK up 27% and $ARB up 26%, as tokenization-themed alts led a broad market rally.",
+      "url": "https://thedefiant.io/news/markets/bitcoin-81000-near-tokenization-tokens-lead-rally-sep-18-2026",
+      "token": "$NEAR"
+    },
+    {
+      "headline": "$ZEC Whale Moves $360M, First Exchange Deposit in 10 Months",
+      "summary": "A $ZEC whale shifted $362.56M and deposited $15M to Coinbase — its first exchange move in ten months, sparking sell-off speculation.",
+      "url": "https://www.panews.io/newsflash",
+      "token": "$ZEC"
+    },
+    {
+      "headline": "$NUSD Depegs to 51 Cents, Junior Tranche Faces Wipeout",
+      "summary": "Neutrl opened $NUSD redemptions at just $0.51 while Strata's junior tranche jrNUSD faces being written to zero — a fresh DeFi blowup.",
       "url": "https://thedefiant.io/news/defi/neutrl-opens-nusd-redemptions-at-51-cents-as-strata-junior-tranche-faces-wipeout",
       "token": "$NUSD"
-    },
-    {
-      "headline": "NYSE Spent a Year Testing $AVAX for Tokenization",
-      "summary": "Ava Labs' president revealed the NYSE spent a year testing $AVAX tech for its tokenization plans, working closely with exchange parent ICE. No final selection confirmed yet.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
-      "token": "$AVAX"
-    },
-    {
-      "headline": "Arc Launches AI Agent That Builds Onchain Apps",
-      "summary": "Arc unveiled Arc Studio, an AI coding agent that generates onchain apps and smart contracts from simple prompts. The tool could lower the barrier for launching new DeFi protocols.",
-      "url": "https://www.panewslab.com/zh-hant/newsflash",
-      "token": "$ARC"
     }
   ]
 }
