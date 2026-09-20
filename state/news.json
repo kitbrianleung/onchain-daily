@@ -1,35 +1,35 @@
 {
-  "date": "19 SEP 2026",
+  "date": "20 SEP 2026",
   "items": [
     {
-      "headline": "$ETHFI Jumps 14% on Buyback Vote as Market Sells Off",
-      "summary": "$ETHFI rose 14.2% after a buyback vote, bucking a broad crypto selloff that hit 103 of the 125 largest non-stablecoin tokens.",
-      "url": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "token": "$ETHFI"
+      "headline": "$INJ Breaks Out on ETF Staking & Phantom Buzz",
+      "summary": "$INJ rallied as ETF staking plans and a new Phantom wallet integration fueled fresh market hype around the Injective ecosystem.",
+      "url": "https://coinpedia.org/",
+      "token": "$INJ"
     },
     {
-      "headline": "$ARC Unveils AI Agent That Builds Onchain Apps From Prompts",
-      "summary": "$ARC launched Arc Studio, an AI coding agent that generates onchain apps and smart contracts from simple text prompts.",
-      "url": "https://www.panewslab.com/zh-hant/newsflash",
-      "token": "$ARC"
+      "headline": "$POL to Burn 100M Tokens as Revenue Hits $24.5M",
+      "summary": "Polygon plans a permissionless burn of 100M $POL after revenue reached $24.5M, though traders are split on whether it will lift the price.",
+      "url": "https://ambcrypto.com/",
+      "token": "$POL"
     },
     {
-      "headline": "Robinhood Chain Mainnet Goes Live With Stock Tokens & Lending",
-      "summary": "Robinhood opened its Arbitrum-based L2, adding stock tokens, onchain lending, and agentic AI crypto trading. Big new DeFi use cases for $HOOD's ecosystem.",
-      "url": "https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-agentic-crypto-trading",
-      "token": "$HOOD"
+      "headline": "$HYPE Rallies as Crypto Shrugs Off Clarity Setback",
+      "summary": "$HYPE joined a broad altcoin rally as markets looked past the stalled Clarity Act, with the SEC and CFTC still advancing crypto rulemaking.",
+      "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
+      "token": "$HYPE"
     },
     {
-      "headline": "Korean Super-App Toss Pilots Won Stablecoin on $OP Stack",
-      "summary": "South Korean fintech giant Toss will run a won stablecoin pilot on Optimism's $OP Stack, a major real-world adoption signal for the ecosystem.",
-      "url": "https://thedefiant.io/news/blockchains/south-korea-super-app-toss-to-run-won-stablecoin-pilot-on-op-stack",
-      "token": "$OP"
+      "headline": "$AVAX: NYSE Tested Avalanche Tech for a Year",
+      "summary": "Ava Labs' president revealed the NYSE spent a year testing $AVAX technology for tokenization plans, signaling deepening Wall Street interest.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
+      "token": "$AVAX"
     },
     {
-      "headline": "Revolut Starts $EURR Rollout With Bridge as Issuer",
-      "summary": "Revolut opened $EURR to selected customers in three countries, with Bridge reporting just €374 outstanding versus €394.5M of Circle's EURC — huge room to grow.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "token": "$EURR"
+      "headline": "$EGLD Probes Potential Mainnet Issue",
+      "summary": "MultiversX is investigating a possible issue affecting its mainnet, putting $EGLD holders on alert for further updates.",
+      "url": "https://crypto.news/",
+      "token": "$EGLD"
     }
   ]
 }
