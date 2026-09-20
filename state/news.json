@@ -2,34 +2,34 @@
   "date": "20 SEP 2026",
   "items": [
     {
-      "headline": "$INJ Breaks Out on ETF Staking & Phantom Buzz",
-      "summary": "$INJ rallied as ETF staking plans and a new Phantom wallet integration fueled fresh market hype around the Injective ecosystem.",
-      "url": "https://coinpedia.org/",
-      "token": "$INJ"
+      "headline": "$SOL Ships Native Payments Rail for Subscriptions",
+      "summary": "Solana adds built-in recurring payments and allowance-style transfers, pushing $SOL deeper into consumer payments.",
+      "url": "https://thedefiant.io/news/solana/solana-native-payments-rail-subscriptions-allowances",
+      "token": "$SOL"
     },
     {
-      "headline": "$POL to Burn 100M Tokens as Revenue Hits $24.5M",
-      "summary": "Polygon plans a permissionless burn of 100M $POL after revenue reached $24.5M, though traders are split on whether it will lift the price.",
-      "url": "https://ambcrypto.com/",
-      "token": "$POL"
+      "headline": "$SOPH Ditches zkSync, Rebuilds as App Studio on Base",
+      "summary": "After raising $60M but attracting under 200 daily users, $SOPH is shutting its zkSync chain and pivoting to consumer apps on Base.",
+      "url": "https://thedefiant.io/news/blockchains/sophon-shuts-down-zksync-chain-rebuilds-consumer-app-studio-base",
+      "token": "$SOPH"
     },
     {
-      "headline": "$HYPE Rallies as Crypto Shrugs Off Clarity Setback",
-      "summary": "$HYPE joined a broad altcoin rally as markets looked past the stalled Clarity Act, with the SEC and CFTC still advancing crypto rulemaking.",
-      "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
-      "token": "$HYPE"
+      "headline": "$ZEC ETF Files 3-for-1 Split as Inflows Surge",
+      "summary": "Grayscale's $ZEC ETF announced a 3-for-1 forward share split following a $233M inflow surge, signaling rising demand for privacy coins.",
+      "url": "https://cointelegraph.com",
+      "token": "$ZEC"
     },
     {
-      "headline": "$AVAX: NYSE Tested Avalanche Tech for a Year",
-      "summary": "Ava Labs' president revealed the NYSE spent a year testing $AVAX technology for tokenization plans, signaling deepening Wall Street interest.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
-      "token": "$AVAX"
+      "headline": "$LDO Completes Wind-Down of Simple DVT Module",
+      "summary": "Lido has fully shut down its Simple DVT module, streamlining $LDO's staking infrastructure roadmap.",
+      "url": "https://bitcoinist.com",
+      "token": "$LDO"
     },
     {
-      "headline": "$EGLD Probes Potential Mainnet Issue",
-      "summary": "MultiversX is investigating a possible issue affecting its mainnet, putting $EGLD holders on alert for further updates.",
-      "url": "https://crypto.news/",
-      "token": "$EGLD"
+      "headline": "$ETH Plan: MEV Elimination, Default Privacy, ETH Pay",
+      "summary": "The Ethereum Foundation's interim ED laid out an execution plan targeting MEV removal, default privacy, and an $ETH payments push.",
+      "url": "https://thedefiant.io/news/ethereum/ethereum-foundation-interim-ed-execution-plan-mev-privacy-eth-pay",
+      "token": "$ETH"
     }
   ]
 }
