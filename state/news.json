@@ -1,35 +1,35 @@
 {
-  "date": "21 SEP 2026",
+  "date": "22 SEP 2026",
   "items": [
     {
-      "headline": "$ZETA Ditches Its Own Chain, Migrates to Solana",
-      "summary": "ZetaChain governance voted to sunset its L1 and move $ZETA to Solana, pivoting focus to its private AI app Anuma. One more vote is needed to finalize.",
-      "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
-      "token": "$ZETA"
+      "headline": "$NEAR explodes 80% in a week as Intents volume nears $30B",
+      "summary": "$NEAR is on a tear, rallying nearly 80% in seven days as its Intents liquidity layer approaches $30B in volume. One of the strongest large-mid cap moves this week.",
+      "url": "https://cointelegraph.com/news/near-jumps-80-percent-week-intents-volume-30b",
+      "token": "$NEAR"
     },
     {
-      "headline": "$POLY Hit by $10M Fraud Attempt, 500 Accounts Hacked",
-      "summary": "Polymarket faced a $10M fraud attempt while its CEO pushed growth over compliance, per WSJ. Hackers also compromised nearly 500 user accounts with stolen personal data.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
-      "token": "$POLY"
+      "headline": "New launch: Paimon Finance debuts $pPOLY with PancakeSwap",
+      "summary": "Paimon Finance just launched its $pPOLY project in partnership with PancakeSwap, bringing a fresh token to the BNB Chain DEX ecosystem. Early-stage launch worth watching.",
+      "url": "https://coinfomania.com/paimon-finance-launches-ppoly-project-with-pancakeswap",
+      "token": "$pPOLY"
     },
     {
-      "headline": "$SHIB Sees 144B Exchange Netflow Despite 5% Rally",
-      "summary": "A massive 144 billion $SHIB netflow to exchanges is flashing warning signs even as the memecoin posts a 5% price rally. Whales may be preparing to sell.",
-      "url": "https://u.today/",
-      "token": "$SHIB"
+      "headline": "$INJ Meridian upgrade vote targets Sept 24 mainnet",
+      "summary": "Injective's Meridian upgrade vote is live, targeting mainnet activation on September 24. A major protocol milestone that could catalyze $INJ momentum this week.",
+      "url": "https://blockchainreporter.net/injective-meridian-upgrade-vote-targets-september-24-mainnet-activation",
+      "token": "$INJ"
     },
     {
-      "headline": "$POL Burn: Polygon to Destroy 100M Tokens Forever",
-      "summary": "Polygon announced a permanent burn of 100 million $POL tokens, a major supply cut that could tighten tokenomics and spark fresh momentum for the ecosystem.",
-      "url": "https://blockchainreporter.net/",
-      "token": "$POL"
+      "headline": "$STONK hits new highs after erasing 27% crash",
+      "summary": "$STONK fully recovered from a brutal 27% drop and ripped to fresh all-time highs. The hot surging token is drawing speculative attention from momentum traders.",
+      "url": "https://cryptopolitan.com/stonk-hits-new-highs-after-erasing-27-crash",
+      "token": "$STONK"
     },
     {
-      "headline": "$ADA Treasury Vote: Hoskinson Says Cardano Comes Second",
-      "summary": "Charles Hoskinson admitted Cardano no longer comes first as a key treasury vote unfolds, stirring debate over $ADA's priorities and future direction.",
-      "url": "https://cryptoslate.com/",
-      "token": "$ADA"
+      "headline": "$UNI v4 leads DeFi in tokenized stock deposits",
+      "summary": "Uniswap v4 now tops all DeFi protocols in tokenized stock deposit volume, riding the SEC's new exemption for onchain equities. A fresh DeFi use case gaining traction for $UNI.",
+      "url": "https://coinfomania.com/uniswap-v4-leads-defi-tokenized-stock-deposits/",
+      "token": "$UNI"
     }
   ]
 }
