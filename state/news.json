@@ -1,35 +1,35 @@
 {
-  "date": "20 SEP 2026",
+  "date": "21 SEP 2026",
   "items": [
     {
-      "headline": "$SOL Ships Native Payments Rail for Subscriptions",
-      "summary": "Solana adds built-in recurring payments and allowance-style transfers, pushing $SOL deeper into consumer payments.",
-      "url": "https://thedefiant.io/news/solana/solana-native-payments-rail-subscriptions-allowances",
-      "token": "$SOL"
+      "headline": "$ZETA Ditches Its Own Chain, Migrates to Solana",
+      "summary": "ZetaChain governance voted to sunset its L1 and move $ZETA to Solana, pivoting focus to its private AI app Anuma. One more vote is needed to finalize.",
+      "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
+      "token": "$ZETA"
     },
     {
-      "headline": "$SOPH Ditches zkSync, Rebuilds as App Studio on Base",
-      "summary": "After raising $60M but attracting under 200 daily users, $SOPH is shutting its zkSync chain and pivoting to consumer apps on Base.",
-      "url": "https://thedefiant.io/news/blockchains/sophon-shuts-down-zksync-chain-rebuilds-consumer-app-studio-base",
-      "token": "$SOPH"
+      "headline": "$POLY Hit by $10M Fraud Attempt, 500 Accounts Hacked",
+      "summary": "Polymarket faced a $10M fraud attempt while its CEO pushed growth over compliance, per WSJ. Hackers also compromised nearly 500 user accounts with stolen personal data.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+      "token": "$POLY"
     },
     {
-      "headline": "$ZEC ETF Files 3-for-1 Split as Inflows Surge",
-      "summary": "Grayscale's $ZEC ETF announced a 3-for-1 forward share split following a $233M inflow surge, signaling rising demand for privacy coins.",
-      "url": "https://cointelegraph.com",
-      "token": "$ZEC"
+      "headline": "$SHIB Sees 144B Exchange Netflow Despite 5% Rally",
+      "summary": "A massive 144 billion $SHIB netflow to exchanges is flashing warning signs even as the memecoin posts a 5% price rally. Whales may be preparing to sell.",
+      "url": "https://u.today/",
+      "token": "$SHIB"
     },
     {
-      "headline": "$LDO Completes Wind-Down of Simple DVT Module",
-      "summary": "Lido has fully shut down its Simple DVT module, streamlining $LDO's staking infrastructure roadmap.",
-      "url": "https://bitcoinist.com",
-      "token": "$LDO"
+      "headline": "$POL Burn: Polygon to Destroy 100M Tokens Forever",
+      "summary": "Polygon announced a permanent burn of 100 million $POL tokens, a major supply cut that could tighten tokenomics and spark fresh momentum for the ecosystem.",
+      "url": "https://blockchainreporter.net/",
+      "token": "$POL"
     },
     {
-      "headline": "$ETH Plan: MEV Elimination, Default Privacy, ETH Pay",
-      "summary": "The Ethereum Foundation's interim ED laid out an execution plan targeting MEV removal, default privacy, and an $ETH payments push.",
-      "url": "https://thedefiant.io/news/ethereum/ethereum-foundation-interim-ed-execution-plan-mev-privacy-eth-pay",
-      "token": "$ETH"
+      "headline": "$ADA Treasury Vote: Hoskinson Says Cardano Comes Second",
+      "summary": "Charles Hoskinson admitted Cardano no longer comes first as a key treasury vote unfolds, stirring debate over $ADA's priorities and future direction.",
+      "url": "https://cryptoslate.com/",
+      "token": "$ADA"
     }
   ]
 }
