@@ -2,34 +2,34 @@
   "date": "22 SEP 2026",
   "items": [
     {
-      "headline": "$NEAR explodes 80% in a week as Intents volume nears $30B",
-      "summary": "$NEAR is on a tear, rallying nearly 80% in seven days as its Intents liquidity layer approaches $30B in volume. One of the strongest large-mid cap moves this week.",
-      "url": "https://cointelegraph.com/news/near-jumps-80-percent-week-intents-volume-30b",
-      "token": "$NEAR"
+      "headline": "$ZETA Ditches Its Own Chain, Migrates to Solana",
+      "summary": "ZetaChain's Proposal 68 passed with 99.4% support to wind down its Layer 1 and move $ZETA to Solana. Exchanges must confirm the swap before a second vote sets the shutdown schedule.",
+      "url": "https://thedefiant.io/news/blockchains/zetachain-votes-to-wind-down-layer-1-and-move-zeta-to-solana",
+      "token": "$ZETA"
     },
     {
-      "headline": "New launch: Paimon Finance debuts $pPOLY with PancakeSwap",
-      "summary": "Paimon Finance just launched its $pPOLY project in partnership with PancakeSwap, bringing a fresh token to the BNB Chain DEX ecosystem. Early-stage launch worth watching.",
-      "url": "https://coinfomania.com/paimon-finance-launches-ppoly-project-with-pancakeswap",
-      "token": "$pPOLY"
+      "headline": "$WLFI Opens Vote on 180-Day Governance Rewards",
+      "summary": "Trump-linked World Liberty opened a $WLFI vote on 180-day governance rewards, with payouts funded by the treasury and World Liberty Markets fees at no fixed rate.",
+      "url": "https://thedefiant.io/news/defi/world-liberty-opens-wlfi-vote-on-180-day-governance-rewards",
+      "token": "$WLFI"
     },
     {
-      "headline": "$INJ Meridian upgrade vote targets Sept 24 mainnet",
-      "summary": "Injective's Meridian upgrade vote is live, targeting mainnet activation on September 24. A major protocol milestone that could catalyze $INJ momentum this week.",
-      "url": "https://blockchainreporter.net/injective-meridian-upgrade-vote-targets-september-24-mainnet-activation",
-      "token": "$INJ"
+      "headline": "$GRAM Faces $52M Unlock Near a Full Day of Volume",
+      "summary": "A $52 million $GRAM token unlock is landing near a full day of TON trading volume, putting the niche token's liquidity to the test.",
+      "url": "https://cryptopolitan.com/",
+      "token": "$GRAM"
     },
     {
-      "headline": "$STONK hits new highs after erasing 27% crash",
-      "summary": "$STONK fully recovered from a brutal 27% drop and ripped to fresh all-time highs. The hot surging token is drawing speculative attention from momentum traders.",
-      "url": "https://cryptopolitan.com/stonk-hits-new-highs-after-erasing-27-crash",
-      "token": "$STONK"
+      "headline": "$PENDLE Launches RWAfi to Bridge DeFi and TradFi",
+      "summary": "$PENDLE introduced RWAfi, a new product connecting DeFi yield markets with traditional finance returns — a fresh use case for the yield-trading protocol.",
+      "url": "https://coinfomania.com/pendle-launches-rwafi-to-bridge-defi-and-tradfi-yields/",
+      "token": "$PENDLE"
     },
     {
-      "headline": "$UNI v4 leads DeFi in tokenized stock deposits",
-      "summary": "Uniswap v4 now tops all DeFi protocols in tokenized stock deposit volume, riding the SEC's new exemption for onchain equities. A fresh DeFi use case gaining traction for $UNI.",
-      "url": "https://coinfomania.com/uniswap-v4-leads-defi-tokenized-stock-deposits/",
-      "token": "$UNI"
+      "headline": "$1INCH Spots Unique Liquidity Loop Across 4 Tokens",
+      "summary": "$1INCH highlighted a distinctive liquidity loop involving four tokens, showcasing unusual DEX routing dynamics worth watching for onchain traders.",
+      "url": "https://coinfomania.com/1inch-highlights-unique-liquidity-loop-among-four-tokens/",
+      "token": "$1INCH"
     }
   ]
 }
