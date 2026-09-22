@@ -61,50 +61,91 @@ def find_pairs(obj):
     return None
 
 DEX_API = "https://api.dexscreener.com"
+MIN_PAIRS_NEEDED = 30  # fetch at least this many candidates for smart-money filter
 
 def _chunks(lst, n):
     for i in range(0, len(lst), n):
         yield lst[i:i + n]
 
 def fetch_dex_pairs():
-    """Official Dexscreener API: boosted/trending tokens, ranked by 24H volume (our proxy for trending)."""
-    # 1) Get trending token addresses (boosted = active/trending right now)
-    r = requests.get(f"{DEX_API}/token-boosts/latest/v1", headers=UA, timeout=30)
-    if r.status_code != 200:
-        raise RuntimeError(f"dexscreener boosts HTTP {r.status_code}")
-    boosts = r.json()
-    seen, tokens = set(), []
-    for b in boosts:
-        key = (b.get("chainId"), b.get("tokenAddress"))
-        if key not in seen and b.get("tokenAddress"):
-            seen.add(key)
-            tokens.append(b)
-    log(f"dexscreener: {len(tokens)} boosted tokens")
-
-    # 2) Fetch pair data in batches of 30 per chain
-    by_chain = {}
-    for t in tokens:
-        by_chain.setdefault(t["chainId"], []).append(t["tokenAddress"])
-
+    """Get trending tokens via Dexscreener API. Try boosted first, fallback to top pairs by volume."""
     pairs = []
-    for chain, addrs in by_chain.items():
-        for batch in _chunks(addrs[:60], 30):
-            rr = requests.get(f"{DEX_API}/token-pairs/v1/{chain}/{','.join(batch)}",
-                              headers=UA, timeout=30)
-            if rr.status_code != 200:
-                log(f"dex pairs {chain} -> HTTP {rr.status_code}")
-                continue
-            for p in rr.json():
-                if p.get("priceUsd"):
-                    pairs.append(p)
-            time.sleep(0.2)
-
-    # 3) Rank by 24H volume descending (our trending proxy)
+    
+    # 1) Try top boosted (trending) tokens
+    try:
+        r = requests.get(f"{DEX_API}/token-boosts/top/v1", headers=UA, timeout=30)
+        if r.status_code == 200:
+            boosts = r.json()
+            seen, tokens = set(), []
+            for b in boosts:
+                key = (b.get("chainId"), b.get("tokenAddress"))
+                if key not in seen and b.get("tokenAddress"):
+                    seen.add(key)
+                    tokens.append(b)
+            log(f"dexscreener: {len(tokens)} top boosted tokens")
+            pairs = _fetch_pairs_for_tokens(tokens)
+    except Exception as ex:
+        log(f"boosted failed: {ex}")
+    
+    # 2) If too few, fallback: top pairs by 24H volume on major chains
+    if len(pairs) < MIN_PAIRS_NEEDED:
+        log(f"only {len(pairs)} pairs, falling back to top-volume pairs")
+        major_chains = ["solana", "ethereum", "bsc", "base", "arbitrum", "avalanche"]
+        for chain in major_chains:
+            if len(pairs) >= MIN_PAIRS_NEEDED:
+                break
+            try:
+                # Get top pairs for this chain (sorted by volume by default)
+                rr = requests.get(f"{DEX_API}/pairs/v1/{chain}", headers=UA, timeout=30,
+                                  params={"limit": 50})
+                if rr.status_code != 200:
+                    log(f"pairs {chain} -> HTTP {rr.status_code}")
+                    continue
+                chain_pairs = [p for p in rr.json() if p.get("priceUsd")]
+                pairs.extend(chain_pairs)
+                log(f"added {len(chain_pairs)} pairs from {chain}")
+                time.sleep(0.3)
+            except Exception as ex:
+                log(f"pairs {chain} failed: {ex}")
+    
+    # 3) Dedupe by (chain, address) and rank by 24H volume
+    seen = set()
+    unique = []
+    for p in pairs:
+        key = (p.get("chainId"), p.get("baseToken", {}).get("address"))
+        if key not in seen:
+            seen.add(key)
+            unique.append(p)
+    
     def vol24(p):
         try: return float((p.get("volume") or {}).get("h24") or 0)
         except Exception: return 0
-    pairs.sort(key=vol24, reverse=True)
-    log(f"dexscreener: {len(pairs)} pairs with price, top vol24={vol24(pairs[0]) if pairs else 0:,.0f}")
+    
+    unique.sort(key=vol24, reverse=True)
+    log(f"dexscreener: {len(unique)} unique pairs, top vol24={vol24(unique[0]) if unique else 0:,.0f}")
+    return unique
+
+def _fetch_pairs_for_tokens(tokens):
+    """Fetch pair data for a list of {chainId, tokenAddress} objects."""
+    by_chain = {}
+    for t in tokens:
+        by_chain.setdefault(t["chainId"], []).append(t["tokenAddress"])
+    
+    pairs = []
+    for chain, addrs in by_chain.items():
+        for batch in _chunks(addrs[:60], 30):
+            try:
+                rr = requests.get(f"{DEX_API}/token-pairs/v1/{chain}/{','.join(batch)}",
+                                  headers=UA, timeout=30)
+                if rr.status_code != 200:
+                    log(f"dex pairs {chain} -> HTTP {rr.status_code}")
+                    continue
+                for p in rr.json():
+                    if p.get("priceUsd"):
+                        pairs.append(p)
+                time.sleep(0.2)
+            except Exception as ex:
+                log(f"pairs batch {chain} failed: {ex}")
     return pairs
 
 # ---------------- 2. GMGN smart-money count ----------------
