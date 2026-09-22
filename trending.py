@@ -19,8 +19,9 @@ GMGN_HOST          = os.environ.get("GMGN_HOST", "https://openapi.gmgn.ai")
 IMAGE_BASE_URL     = os.environ.get("IMAGE_BASE_URL", "").rstrip("/")
 NOW                = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=8)
 STATE_FILE         = "state/trending.json"
-DEX_URL            = "https://dexscreener.com/?rankBy=trendingScoreH24&order=desc"
-CHAIN_MAP          = {"solana": "sol", "ethereum": "eth", "bsc": "bsc", "base": "base"}
+DEX_API            = "https://api.dexscreener.com"
+CHAIN_MAP          = {"solana": "sol", "ethereum": "eth", "bsc": "bsc", "base": "base",
+                      "arbitrum": "arb", "avalanche": "avax"}
 CANDIDATE_LIMIT    = 25
 TOP_N              = 10
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"}
@@ -45,79 +46,110 @@ def llm(messages, max_tokens=800, temperature=0.4):
     r.raise_for_status()
     return r.json()["choices"][0]["message"]["content"]
 
-# ---------------- 1. Fetch Dexscreener trending (embedded JSON) ----------------
-def find_pairs(obj):
-    """Walk the embedded JSON until we find the ranked pairs list."""
-    if isinstance(obj, list):
-        if obj and isinstance(obj[0], dict) and "baseToken" in obj[0]:
-            return obj
-        for it in obj:
-            r = find_pairs(it)
-            if r: return r
-    elif isinstance(obj, dict):
-        for v in obj.values():
-            r = find_pairs(v)
-            if r: return r
-    return None
+def pct_str(v):
+    return f"{v:+.1f}%" if isinstance(v, (int, float)) else "—"
 
-DEX_API = "https://api.dexscreener.com"
-
+# ---------------- 1. Fetch Dexscreener trending ----------------
 def _chunks(lst, n):
     for i in range(0, len(lst), n):
         yield lst[i:i + n]
 
+def _as_list(data):
+    """API responses may be a raw list or wrapped in an object."""
+    if isinstance(data, list):
+        return data
+    if isinstance(data, dict):
+        for key in ("pairs", "boosts", "tokens", "data"):
+            if isinstance(data.get(key), list):
+                return data[key]
+    return []
+
+def _fetch_batch(chain, addrs, endpoint):
+    """endpoint: 'tokens' or 'token-pairs'. Returns (pairs, status_note)."""
+    url = f"{DEX_API}/{endpoint}/v1/{chain}/{','.join(addrs)}"
+    rr = requests.get(url, headers=UA, timeout=30)
+    if rr.status_code != 200:
+        return [], f"HTTP {rr.status_code}"
+    try:
+        lst = _as_list(rr.json())
+    except Exception:
+        return [], "non-JSON response"
+    return [p for p in lst if isinstance(p, dict) and p.get("priceUsd")], f"HTTP 200, {len(lst)} raw"
+
 def fetch_dex_pairs():
-    """Get trending tokens: use token-boosts to find candidates, then fetch full pair data."""
-    # 1) Get boosted token addresses (these ARE the trending ones)
+    """Trending = top boosted tokens. Full pair data via the official multi-token endpoint."""
+    # 1) Top boosted tokens (Dexscreener's trending universe)
     r = requests.get(f"{DEX_API}/token-boosts/top/v1", headers=UA, timeout=30)
     if r.status_code != 200:
         raise RuntimeError(f"dexscreener boosts HTTP {r.status_code}")
-    boosts = r.json()
-    
-    # Dedupe by (chain, address), keep chainId for filtering
-    seen = set()
-    tokens = []
+    boosts = _as_list(r.json())
+
+    seen, tokens = set(), []
     for b in boosts:
+        if not isinstance(b, dict):
+            continue
         key = (b.get("chainId"), b.get("tokenAddress"))
-        if key not in seen and b.get("tokenAddress"):
+        if key not in seen and b.get("tokenAddress") and b.get("chainId"):
             seen.add(key)
             tokens.append({"chainId": b["chainId"], "address": b["tokenAddress"]})
-    log(f"dexscreener: {len(tokens)} unique boosted tokens")
-    
-    # 2) Fetch pair data for these tokens (batch by 30 per chain)
+    log(f"dexscreener: {len(tokens)} unique boosted tokens across {len({t['chainId'] for t in tokens})} chains")
+
+    # 2) Full pair data — try /tokens/v1 first (documented multi-token endpoint),
+    #    fall back to /token-pairs/v1 for any chain that returned nothing.
     by_chain = {}
     for t in tokens:
         by_chain.setdefault(t["chainId"], []).append(t["address"])
-    
-    pairs = []
+
+    pairs, empty_chains = [], []
     for chain, addrs in by_chain.items():
-        for batch in _chunks(addrs[:60], 30):  # max 60 per chain
+        got = 0
+        for batch in _chunks(addrs[:60], 30):
             try:
-                url = f"{DEX_API}/token-pairs/v1/{chain}/{','.join(batch)}"
-                rr = requests.get(url, headers=UA, timeout=30)
-                if rr.status_code != 200:
-                    log(f"pairs {chain} -> HTTP {rr.status_code}")
-                    continue
-                for p in rr.json():
-                    if p.get("priceUsd"):  # only pairs with price
-                        pairs.append(p)
-                time.sleep(0.2)
+                found, note = _fetch_batch(chain, batch, "tokens")
+                pairs.extend(found); got += len(found)
+                log(f"dex /tokens/v1 {chain} batch({len(batch)} addrs): {note}, kept {len(found)}")
+                time.sleep(0.25)
             except Exception as ex:
-                log(f"pairs batch {chain} failed: {ex}")
-    
-    # 3) Rank by 24H volume descending
+                log(f"dex /tokens/v1 {chain} batch failed: {ex}")
+        if got == 0:
+            empty_chains.append(chain)
+
+    # Fallback pass with the older endpoint for chains that gave nothing
+    for chain in empty_chains:
+        for batch in _chunks(by_chain[chain][:60], 30):
+            try:
+                found, note = _fetch_batch(chain, batch, "token-pairs")
+                pairs.extend(found)
+                log(f"dex /token-pairs/v1 {chain} batch({len(batch)} addrs): {note}, kept {len(found)}")
+                time.sleep(0.25)
+            except Exception as ex:
+                log(f"dex /token-pairs/v1 {chain} batch failed: {ex}")
+
+    # 3) Dedupe by pair address, rank by 24H volume (our trending proxy)
+    uniq = {}
+    for p in pairs:
+        key = (p.get("chainId"), p.get("pairAddress"))
+        if key not in uniq:
+            uniq[key] = p
+    pairs = list(uniq.values())
+
     def vol24(p):
         try: return float((p.get("volume") or {}).get("h24") or 0)
         except Exception: return 0
-    
+
     pairs.sort(key=vol24, reverse=True)
-    log(f"dexscreener: {len(pairs)} pairs with price, top vol24={vol24(pairs[0]) if pairs else 0:,.0f}")
+    log(f"dexscreener: {len(pairs)} pairs with price, top vol24={vol24(pairs[0]):,.0f}" if pairs
+        else "dexscreener: 0 pairs with price")
     return pairs
 
 # ---------------- 2. GMGN smart-money count ----------------
+_gmgn_debugged = False
+
 def gmgn_smart_wallets(chain_id, address):
+    global _gmgn_debugged
     chain = CHAIN_MAP.get(chain_id)
-    if not chain or not GMGN_API_KEY: return None
+    if not chain or not GMGN_API_KEY:
+        return None
     try:
         r = requests.get(f"{GMGN_HOST}/v1/token/info",
             headers={"X-APIKEY": GMGN_API_KEY, **UA},
@@ -125,9 +157,12 @@ def gmgn_smart_wallets(chain_id, address):
                     "timestamp": str(int(time.time())), "client_id": "onchain-daily"},
             timeout=30)
         if r.status_code != 200:
-            log(f"gmgn {chain}:{address[:8]} -> HTTP {r.status_code}")
+            log(f"gmgn {chain}:{address[:8]} -> HTTP {r.status_code}: {r.text[:150]}")
             return None
         d = r.json().get("data", r.json())
+        if not _gmgn_debugged:   # one-time dump so we can verify the field names
+            log(f"gmgn sample response: {json.dumps(d, ensure_ascii=False)[:600]}")
+            _gmgn_debugged = True
         wts = d.get("wallet_tags_stat") or {}
         return wts.get("smart_wallets")
     except Exception as ex:
@@ -139,11 +174,12 @@ def num(x):
     except (TypeError, ValueError): return None
 
 def build_rows(pairs):
-    rows = []
+    rows, gmgn_calls = [], 0
     for p in pairs[:CANDIDATE_LIMIT]:
         bt  = p.get("baseToken", {})
         addr, chain_id = bt.get("address"), p.get("chainId", "")
         smart = gmgn_smart_wallets(chain_id, addr) if addr else None
+        gmgn_calls += 1
         if not smart:
             log(f"skip ${bt.get('symbol','?')} ({chain_id}) — no smart money / unsupported chain")
             continue
@@ -152,7 +188,7 @@ def build_rows(pairs):
             "name":   bt.get("name", ""),
             "chain":  chain_id,
             "price":  num(p.get("priceUsd")),
-            "mcap":   num(p.get("marketCap")),
+            "mcap":   num(p.get("marketCap") or p.get("fdv")),
             "smart_wallets": smart,
             "vol24":  num((p.get("volume") or {}).get("h24")),
             "h1":     num((p.get("priceChange") or {}).get("h1")),
@@ -161,7 +197,10 @@ def build_rows(pairs):
         })
         time.sleep(0.3)
         if len(rows) >= TOP_N: break
-    if len(rows) < 3: raise RuntimeError(f"only {len(rows)} tokens with smart money found")
+    if len(rows) < 3:
+        raise RuntimeError(f"only {len(rows)} tokens with smart money found "
+                           f"({gmgn_calls} GMGN lookups — check the gmgn logs above: "
+                           f"HTTP 401 = bad key, missing field = field name changed)")
     return rows
 
 # ---------------- 3. Render the table ----------------
@@ -174,7 +213,7 @@ GREEN = (90, 215, 130)
 RED   = (255, 105, 120)
 TEXT  = (225, 230, 245)
 
-def font(size, bold=True, size_override=None):
+def font(size, bold=True):
     paths = (["fonts/Orbitron-Bold.ttf"] if bold else []) + [
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"]
@@ -204,11 +243,10 @@ def cell_text(row, idx):
     v = [row["token"] + "\n" + (row.get("name") or ""), row["chain"],
          price_fmt(row["price"]), usd(row["mcap"]), str(row["smart_wallets"]),
          usd(row["vol24"])]
-    if idx < 6: color = TEXT
-    else:
-        label, color = pct(row[{6: "h1", 7: "h6", 8: "h24"}[idx]])
-        return label, color
-    return v[idx], TEXT
+    if idx < 6:
+        return v[idx], TEXT
+    label, color = pct(row[{6: "h1", 7: "h6", 8: "h24"}[idx]])
+    return label, color
 
 def render_table(rows, path, W, H):
     img = Image.new("RGB", (W, H)); d = ImageDraw.Draw(img)
@@ -216,7 +254,6 @@ def render_table(rows, path, W, H):
         t = y / max(1, H - 1)
         d.line([(0, y), (W, y)], fill=tuple(int(NAVY_TOP[i] + (NAVY_BOT[i] - NAVY_TOP[i]) * t) for i in range(3)))
     margin = 40
-    # Title
     t1, tf1 = "24 HOUR TRENDING TOKENS", font(56)
     tw = d.textlength(t1, font=tf1)
     d.text(((W - tw) / 2, 45), t1, font=tf1, fill=(255, 255, 255))
@@ -226,7 +263,6 @@ def render_table(rows, path, W, H):
     dt = NOW.strftime("%B %d, %Y")
     tw = d.textlength(dt, font=font(30))
     d.text(((W - tw) / 2, 180), dt, font=font(30), fill=(190, 200, 230))
-    # Table
     xs, x = [], margin
     for _, w, _ in COLS: xs.append(x); x += w
     header_h, y0 = 70, 260
@@ -244,9 +280,10 @@ def render_table(rows, path, W, H):
         ry = y0 + header_h + (ri + 1) * row_h
         for ci, ((label, w, align), xpos) in enumerate(zip(COLS, xs)):
             txt, color = cell_text(row, ci)
-            for li, ln in enumerate(txt.split("\n"))[:2]:
+            lines = txt.split("\n")[:2]
+            for li, ln in enumerate(lines):
                 tw = d.textlength(ln, font=cf)
-                d.text((xpos + w / 2 - tw / 2, ry + row_h / 2 - (len(txt.split("\n")) - li - 0.5) * 22 + 1),
+                d.text((xpos + w / 2 - tw / 2, ry + row_h / 2 - (len(lines) - li - 0.5) * 22 + 1),
                        ln, font=cf, fill=color)
         d.line([(margin, ry + row_h), (W - margin, ry + row_h)], fill=(50, 60, 95), width=1)
     img.save(path, "JPEG", quality=92)
@@ -293,13 +330,15 @@ def cmd_generate():
     if not GMGN_API_KEY:
         raise RuntimeError("GMGN_API_KEY secret is missing — get a free key at https://gmgn.ai/ai")
     pairs = fetch_dex_pairs()
+    if not pairs:
+        raise RuntimeError("dexscreener returned 0 usable pairs — check the per-batch logs above")
     rows  = build_rows(pairs)
     os.makedirs("state", exist_ok=True); os.makedirs("images", exist_ok=True)
     json.dump({"date": NOW.strftime("%B %d, %Y"), "rows": rows}, open(STATE_FILE, "w"), ensure_ascii=False, indent=2)
     render_table(rows, "images/trending-story.jpg", 1080, 1920)
     render_table(rows, "images/trending-post.jpg", 1080, 1350)
     notify(f"📊 Trending x Smart Money: {len(rows)} tokens from {min(len(pairs), CANDIDATE_LIMIT)} candidates:\n"
-           + "\n".join(f"{i+1}. ${x['token']} ({x['chain']}) — {x['smart_wallets']} SM wallets, {x['h24']:+.1f}% 24H"
+           + "\n".join(f"{i+1}. ${x['token']} ({x['chain']}) — {x['smart_wallets']} SM wallets, {pct_str(x['h24'])} 24H"
                        for i, x in enumerate(rows)))
 
 def cmd_publish():
