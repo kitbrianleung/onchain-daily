@@ -60,58 +60,51 @@ def find_pairs(obj):
             if r: return r
     return None
 
-import urllib3
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+DEX_API = "https://api.dexscreener.com"
 
-BOGUS_CERTS = [
-    "7CD38B32385130FA2E7660D0F0D4F0C3C84E0C58",
-    "6A5289F6C4E160F511DBF6D64DA132C351FE4760",
-]
-
-def get_json(url, host="graph.codex.io"):
-    """Fetch Codex's GraphQL API with the known workaround for bogus SSL + blocked IPs
-    (frag_ure_ + bogus cert + spoofed SNI), per Stack Overflow: https://stackoverflow.com/a/78982095"""
-    for cert in BOGUS_CERTS:
-        try:
-            r = requests.get(
-                url,
-                headers={**UA, "Origin": "https://dexscreener.com", "Referer": "https://dexscreener.com/"},
-                verify=False,                    # bogus cert chain -> skip verification (payload is the same public data)
-                timeout=40,
-            )
-            if r.status_code == 200:
-                d = r.json()
-                if d.get("data"):
-                    return d["data"]
-            log(f"codex[{host}] cert {cert[:8]} -> HTTP {r.status_code}")
-        except Exception as ex:
-            log(f"codex[{host}] attempt failed: {ex}")
-    raise RuntimeError(f"Codex API blocked from GitHub runners. Last URL: {url}")
-
-RANKINGS_URL = ("https://graph.codex.io/graphql?operationName=ExploreTokens&"
-  "variables=%7B%22filters%22%3A%7B%22networks%22%3A%5B1%2C56%2C137%2C8453%2C1399811149%2C88259%2C1313161554%2C43114%2C250%2C321%2C42161%2C324%2C534352%2C10%2C59144%2C1101%2C288%2C25%2C169%2C2046399126%2C57073%2C60808%5D%2C%22quotes%22%3A%5B%22ETH%22%2C%22BNB%22%2C%22POL%22%2C%22USDC%22%2C%22WETH%22%2C%22SOL%22%2C%22USDT%22%2C%22DAI%22%2C%22WBTC%22%2C%22WMATIC%22%2C%22SUI%22%2C%22BTC%22%2C%22MANTA%22%2C%22AVAX%22%2C%22TLOS%22%2C%22TIA%22%2C%22ASTR%22%2C%22STX%22%2C%22XDC%22%2C%22KCS%22%2C%22ZETA%22%2C%22NEON%22%2C%22BN%22%2C%22CDS%22%2C%22FTM%22%2C%22GLMR%22%2C%22KAVA%22%2C%22METIS%22%2C%22CSPR%22%2C%22XAI%22%2C%22BORCH%22%2C%22MULTI%22%2C%22BERA%22%2C%22DORA%22%2C%22HYPER%22%2C%22LYN%22%2C%22SCR%22%2C%22SOLNET%22%7D%2C%22limit%22%3A200%2C%22offset%22%3A0%2C%22rankingType%22%3A%22TrendingScoreH24%22%2C%22window%22%3A%22DAY%22%7D&"
-  "query=query%20ExploreTokens%28%24filters%3A%20ExploreTokensFilters%2C%20%24limit%3A%20Int%2C%20%24offset%3A%20Int%2C%20%24rankingType%3A%20ExploreTokensRankingEnum%2C%20%24window%3A%20ExploreTokensWindowEnum%29%20%7B%20exploreTokens%28filters%3A%20%24filters%2C%20limit%3A%20%24limit%2C%20offset%3A%20%24offset%2C%20rankingType%3A%20%24rankingType%2C%20window%3A%20%24window%29%20%7B%20tokens%20%7B%20id%20address%20name%20symbol%20networkId%20price%20marketCap%20volume24%20change1%20change6%20change24%20percentChange1%20percentChange6%20percentChange24%20liquidMarketCap%20%7D%20%7D%20%7D")
+def _chunks(lst, n):
+    for i in range(0, len(lst), n):
+        yield lst[i:i + n]
 
 def fetch_dex_pairs():
-    """Fetch trending tokens from Codex (Dexscreener's backend GraphQL)."""
-    data = get_json(RANKINGS_URL)
-    tokens = (data.get("exploreTokens") or {}).get("tokens") or []
-    pairs = []
-    CHAIN_ID = {1: "ethereum", 56: "bsc", 137: "polygon", 8453: "base", 1399811149: "solana",
-                88259: "arbitrum", 1313161554: "avalanche", 43114: "avalanche", 10: "optimism"}
+    """Official Dexscreener API: boosted/trending tokens, ranked by 24H volume (our proxy for trending)."""
+    # 1) Get trending token addresses (boosted = active/trending right now)
+    r = requests.get(f"{DEX_API}/token-boosts/latest/v1", headers=UA, timeout=30)
+    if r.status_code != 200:
+        raise RuntimeError(f"dexscreener boosts HTTP {r.status_code}")
+    boosts = r.json()
+    seen, tokens = set(), []
+    for b in boosts:
+        key = (b.get("chainId"), b.get("tokenAddress"))
+        if key not in seen and b.get("tokenAddress"):
+            seen.add(key)
+            tokens.append(b)
+    log(f"dexscreener: {len(tokens)} boosted tokens")
+
+    # 2) Fetch pair data in batches of 30 per chain
+    by_chain = {}
     for t in tokens:
-        chain = CHAIN_ID.get(t.get("networkId"), "ethereum")
-        pairs.append({
-            "chainId": chain,
-            "baseToken": {"address": t.get("address"), "symbol": t.get("symbol"),
-                          "name": t.get("name")},
-            "priceUsd": t.get("price"),
-            "marketCap": t.get("liquidMarketCap") or t.get("marketCap"),
-            "volume": {"h24": t.get("volume24")},
-            "priceChange": {"h1": t.get("percentChange1"), "h6": t.get("percentChange6"),
-                            "h24": t.get("percentChange24")},
-        })
-    log(f"codex: {len(pairs)} trending tokens found")
+        by_chain.setdefault(t["chainId"], []).append(t["tokenAddress"])
+
+    pairs = []
+    for chain, addrs in by_chain.items():
+        for batch in _chunks(addrs[:60], 30):
+            rr = requests.get(f"{DEX_API}/token-pairs/v1/{chain}/{','.join(batch)}",
+                              headers=UA, timeout=30)
+            if rr.status_code != 200:
+                log(f"dex pairs {chain} -> HTTP {rr.status_code}")
+                continue
+            for p in rr.json():
+                if p.get("priceUsd"):
+                    pairs.append(p)
+            time.sleep(0.2)
+
+    # 3) Rank by 24H volume descending (our trending proxy)
+    def vol24(p):
+        try: return float((p.get("volume") or {}).get("h24") or 0)
+        except Exception: return 0
+    pairs.sort(key=vol24, reverse=True)
+    log(f"dexscreener: {len(pairs)} pairs with price, top vol24={vol24(pairs[0]) if pairs else 0:,.0f}")
     return pairs
 
 # ---------------- 2. GMGN smart-money count ----------------
