@@ -2,34 +2,34 @@
   "date": "22 SEP 2026",
   "items": [
     {
-      "headline": "$ZETA Ditches Its Own Chain, Migrates to Solana",
-      "summary": "ZetaChain's Proposal 68 passed with 99.4% support to wind down its Layer 1 and move $ZETA to Solana. Exchanges must confirm the swap before a second vote sets the shutdown schedule.",
-      "url": "https://thedefiant.io/news/blockchains/zetachain-votes-to-wind-down-layer-1-and-move-zeta-to-solana",
-      "token": "$ZETA"
+      "headline": "$VVV Hits Record $34 on Privacy-AI Staking Frenzy",
+      "summary": "Venice's $VVV token reached an all-time high of $34 as fresh bets pour into its privacy-focused AI staking model.",
+      "url": "https://www.cryptopolitan.com/venice-vvv-token-record-34-privacy-ai/",
+      "token": "$VVV"
     },
     {
-      "headline": "$WLFI Opens Vote on 180-Day Governance Rewards",
-      "summary": "Trump-linked World Liberty opened a $WLFI vote on 180-day governance rewards, with payouts funded by the treasury and World Liberty Markets fees at no fixed rate.",
-      "url": "https://thedefiant.io/news/defi/world-liberty-opens-wlfi-vote-on-180-day-governance-rewards",
-      "token": "$WLFI"
+      "headline": "$SEI Surges 25% as Canary's 90% Staking Plan Tightens Supply",
+      "summary": "$SEI jumped 25% after Canary proposed staking 90% of supply, with a staked $SEI ETF filing adding fuel to the rally.",
+      "url": "https://ambcrypto.com/sei-surges-25-canary-staking-plan/",
+      "token": "$SEI"
     },
     {
-      "headline": "$GRAM Faces $52M Unlock Near a Full Day of Volume",
-      "summary": "A $52 million $GRAM token unlock is landing near a full day of TON trading volume, putting the niche token's liquidity to the test.",
-      "url": "https://cryptopolitan.com/",
+      "headline": "$GRAM's $52M Unlock Looms Over a Full Day of TON Volume",
+      "summary": "A $52M $GRAM token unlock is approaching, nearly matching a full day of TON trading volume — traders are watching for sell pressure.",
+      "url": "https://www.cryptopolitan.com/gram-52-million-unlock-ton-trading/",
       "token": "$GRAM"
     },
     {
-      "headline": "$PENDLE Launches RWAfi to Bridge DeFi and TradFi",
-      "summary": "$PENDLE introduced RWAfi, a new product connecting DeFi yield markets with traditional finance returns — a fresh use case for the yield-trading protocol.",
-      "url": "https://coinfomania.com/pendle-launches-rwafi-to-bridge-defi-and-tradfi-yields/",
-      "token": "$PENDLE"
+      "headline": "$APT Nears $1B in Tokenized Real-World Assets",
+      "summary": "Aptos is closing in on $1 billion in tokenized RWA value on its network, cementing $APT as a growing hub for onchain assets.",
+      "url": "https://coinfomania.com/aptos-1b-tokenized-real-world-assets/",
+      "token": "$APT"
     },
     {
-      "headline": "$1INCH Spots Unique Liquidity Loop Across 4 Tokens",
-      "summary": "$1INCH highlighted a distinctive liquidity loop involving four tokens, showcasing unusual DEX routing dynamics worth watching for onchain traders.",
-      "url": "https://coinfomania.com/1inch-highlights-unique-liquidity-loop-among-four-tokens/",
-      "token": "$1INCH"
+      "headline": "$SUI Rallies 50% in Days as Ecosystem Expands",
+      "summary": "$SUI climbed 50% in just days as its ecosystem diversifies, with new apps and activity driving fresh momentum.",
+      "url": "https://coinfomania.com/sui-rises-50-ecosystem-expands/",
+      "token": "$SUI"
     }
   ]
 }
