@@ -341,7 +341,23 @@ def build_caption(items):
     lines = [f"📡 ONCHAIN DAILY — {NOW:%d %b %Y}".upper(), ""]
     for i, it in enumerate(items):
         lines += [f"{i+1}. {it['summary']}", f"🔗 {it['url']}", ""]
-    lines.append(HASHTAGS)
+    
+    # Base hashtags from config
+    base_hashtags = HASHTAGS.strip()
+    
+    # Extract tokens from stories (e.g. "$ZETA" -> "#ZETA")
+    token_tags = []
+    for it in items:
+        token = it.get("token", "").strip().lstrip("$").upper()
+        if token and token not in token_tags:
+            token_tags.append(token)
+    
+    # Combine: base hashtags first, then token hashtags in story order
+    all_tags = base_hashtags
+    if token_tags:
+        all_tags += " " + " ".join(f"#{t}" for t in token_tags)
+    
+    lines.append(all_tags)
     return "\n".join(lines)[:2100]
 
 def resolve_ig_user_id():
