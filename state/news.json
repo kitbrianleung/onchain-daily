@@ -1,35 +1,35 @@
 {
-  "date": "22 SEP 2026",
+  "date": "23 SEP 2026",
   "items": [
     {
-      "headline": "$VVV Hits Record $34 on Privacy-AI Staking Frenzy",
-      "summary": "Venice's $VVV token reached an all-time high of $34 as fresh bets pour into its privacy-focused AI staking model.",
-      "url": "https://www.cryptopolitan.com/venice-vvv-token-record-34-privacy-ai/",
-      "token": "$VVV"
+      "headline": "Kinetiq Opens Elysium Testnet for Hyperliquid DeFi",
+      "summary": "Liquid staking protocol Kinetiq launched the Elysium testnet, an Arbitrum Orbit chain built for Hyperliquid-focused DeFi apps, citing HyperEVM throughput limits. $KNTQ ecosystem expansion is one to watch.",
+      "url": "https://thedefiant.io/news/defi/kinetiq-opens-elysium-testnet-for-hyperliquid-focused-defi-apps",
+      "token": "$KNTQ"
     },
     {
-      "headline": "$SEI Surges 25% as Canary's 90% Staking Plan Tightens Supply",
-      "summary": "$SEI jumped 25% after Canary proposed staking 90% of supply, with a staked $SEI ETF filing adding fuel to the rally.",
-      "url": "https://ambcrypto.com/sei-surges-25-canary-staking-plan/",
+      "headline": "$NEAR Adds Ondo Tokenized Stocks With Private Execution",
+      "summary": "near.com now offers Ondo Finance's tokenized US stocks and ETFs, purchasable with crypto across 30+ networks with confidential trade execution. A big RWA win for $NEAR.",
+      "url": "https://thedefiant.io/news/tradfi-and-fintech/near-com-adds-ondo-tokenized-stocks-confidential-execution",
+      "token": "$NEAR"
+    },
+    {
+      "headline": "CME to List $UNI and Bitcoin Cash Futures Oct. 19",
+      "summary": "CME Group will launch standard and Micro futures for $UNI and BCH, expanding its single-token crypto lineup to eleven. Institutional derivatives access could boost $UNI liquidity.",
+      "url": "https://thedefiant.io/news/markets/cme-group-to-list-bitcoin-cash-and-uniswap-futures-oct-19",
+      "token": "$UNI"
+    },
+    {
+      "headline": "$SEI Giga Test Hits 63,200 Requests Per Second",
+      "summary": "Sei Giga completed its first full test, processing 63,200 requests per second. The throughput milestone strengthens the $SEI case as a high-performance trading chain.",
+      "url": "https://usethebitcoin.com/sei-giga-completes-first-full-test-with-63200-requests-per-second/",
       "token": "$SEI"
     },
     {
-      "headline": "$GRAM's $52M Unlock Looms Over a Full Day of TON Volume",
-      "summary": "A $52M $GRAM token unlock is approaching, nearly matching a full day of TON trading volume — traders are watching for sell pressure.",
-      "url": "https://www.cryptopolitan.com/gram-52-million-unlock-ton-trading/",
-      "token": "$GRAM"
-    },
-    {
-      "headline": "$APT Nears $1B in Tokenized Real-World Assets",
-      "summary": "Aptos is closing in on $1 billion in tokenized RWA value on its network, cementing $APT as a growing hub for onchain assets.",
-      "url": "https://coinfomania.com/aptos-1b-tokenized-real-world-assets/",
-      "token": "$APT"
-    },
-    {
-      "headline": "$SUI Rallies 50% in Days as Ecosystem Expands",
-      "summary": "$SUI climbed 50% in just days as its ecosystem diversifies, with new apps and activity driving fresh momentum.",
-      "url": "https://coinfomania.com/sui-rises-50-ecosystem-expands/",
-      "token": "$SUI"
+      "headline": "$STRK Unveils Proof of Privacy Initiative, Demo Day",
+      "summary": "Starknet announced its Proof of Privacy initiative and its first cohort demo day, pushing privacy-focused development on the L2. A fresh narrative catalyst for $STRK.",
+      "url": "https://coinfomania.com/starknet-announces-proof-of-privacy-cohort-01-demo-day/",
+      "token": "$STRK"
     }
   ]
 }
