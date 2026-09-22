@@ -21,7 +21,7 @@ NOW                = datetime.datetime.now(datetime.timezone.utc) + datetime.tim
 STATE_FILE         = "state/trending.json"
 DEX_API            = "https://api.dexscreener.com"
 CHAIN_MAP          = {"solana": "sol", "ethereum": "eth", "bsc": "bsc", "base": "base",
-                      "arbitrum": "arb", "avalanche": "avax"}
+                      "arbitrum": "arb", "avalanche": "avax", "robinhood": "robinhood"}
 CANDIDATE_LIMIT    = 25
 TOP_N              = 10
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"}
@@ -153,8 +153,7 @@ def gmgn_smart_wallets(chain_id, address):
     try:
         r = requests.get(f"{GMGN_HOST}/v1/token/info",
             headers={"X-APIKEY": GMGN_API_KEY, **UA},
-            params={"chain": chain, "address": address,
-                    "timestamp": str(int(time.time())), "client_id": "onchain-daily"},
+            params={"chain": chain, "address": address},
             timeout=30)
         if r.status_code != 200:
             log(f"gmgn {chain}:{address[:8]} -> HTTP {r.status_code}: {r.text[:150]}")
