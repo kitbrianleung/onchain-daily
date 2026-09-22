@@ -349,10 +349,18 @@ def ig_container(image_url, caption=None, story=False):
     raise RuntimeError(f"IG container failed: {r.status_code}: {r.text[:300]}")
 
 def ig_publish(cid):
-    r = requests.post(f"{GRAPH}/{IG_USER_ID}/media_publish",
-                      data={"creation_id": cid, "access_token": IG_ACCESS_TOKEN}, timeout=60)
-    if r.status_code == 200: return r.json()["id"]
-    raise RuntimeError(f"IG publish failed: {r.status_code}: {r.text[:300]}")
+    """Publish with retry: IG processes the container asynchronously; 9007 = not ready yet."""
+    last = ""
+    for attempt in range(8):
+        r = requests.post(f"{GRAPH}/{IG_USER_ID}/media_publish",
+                          data={"creation_id": cid, "access_token": IG_ACCESS_TOKEN}, timeout=60)
+        if r.status_code == 200:
+            return r.json()["id"]
+        last = f"{r.status_code}: {r.text[:300]}"
+        wait = min(5 * (attempt + 1), 30)          # 5s, 10s, 15s ... max 30s
+        log(f"publish attempt {attempt + 1} failed ({last[:100]}), retrying in {wait}s")
+        time.sleep(wait)
+    raise RuntimeError(f"IG publish failed after retries: {last}")
 
 # ---------------- Commands ----------------
 def cmd_generate():
