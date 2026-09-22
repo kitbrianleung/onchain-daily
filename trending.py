@@ -145,27 +145,57 @@ def fetch_dex_pairs():
 # ---------------- 2. GMGN smart-money count ----------------
 _gmgn_debugged = False
 
+import uuid
+
+_gmgn_debugged = False
+_gmgn_429_count = 0
+
 def gmgn_smart_wallets(chain_id, address):
-    global _gmgn_debugged
+    """GMGN OpenAPI. Auth = client_id + timestamp, where client_id must be UNIQUE per request
+    (reused client_ids are rejected as 'replayed'). Respects rate-limit reset_at."""
+    global _gmgn_debugged, _gmgn_429_count
     chain = CHAIN_MAP.get(chain_id)
-    if not chain or not GMGN_API_KEY:
+    if not chain:
         return None
-    try:
-        r = requests.get(f"{GMGN_HOST}/v1/token/info",
-            headers={"X-APIKEY": GMGN_API_KEY, **UA},
-            params={"chain": chain, "address": address},
-            timeout=30)
-        if r.status_code != 200:
-            log(f"gmgn {chain}:{address[:8]} -> HTTP {r.status_code}: {r.text[:150]}")
+    params = {"chain": chain, "address": address,
+              "timestamp": str(int(time.time())),
+              "client_id": f"ocd-{uuid.uuid4().hex[:12]}"}   # unique nonce per call
+    headers = dict(UA)
+    if GMGN_API_KEY:
+        headers["X-APIKEY"] = GMGN_API_KEY
+    for attempt in range(2):
+        try:
+            r = requests.get(f"{GMGN_HOST}/v1/token/info",
+                             headers=headers, params=params, timeout=30)
+            if r.status_code == 429:
+                _gmgn_429_count += 1
+                if _gmgn_429_count > 3:
+                    raise RuntimeError("GMGN rate limit persists — aborting to avoid extending the IP ban")
+                try: reset_at = r.json().get("reset_at")
+                except Exception: reset_at = None
+                wait = max(5, min(120, int(reset_at - time.time()) + 1)) if reset_at else 60
+                log(f"gmgn rate-limited, backing off {wait}s")
+                time.sleep(wait)
+                continue
+            if r.status_code != 200:
+                log(f"gmgn {chain}:{address[:8]} -> HTTP {r.status_code}: {r.text[:150]}")
+                return None
+            d = r.json().get("data", r.json())
+            if not _gmgn_debugged:   # one-time dump to verify the smart-money field name
+                log(f"gmgn sample response: {json.dumps(d, ensure_ascii=False)[:1500]}")
+                _gmgn_debugged = True
+            wts = d.get("wallet_tags_stat") or {}
+            for cand in (wts.get("smart_wallets"), d.get("smart_degen_count"),
+                         d.get("smart_money_count"), d.get("smart_money"),
+                         (d.get("token_info") or {}).get("smart_degen_count")):
+                if isinstance(cand, (int, float)):
+                    return int(cand)
+            return 0
+        except RuntimeError:
+            raise
+        except Exception as ex:
+            log(f"gmgn failed for {address}: {ex}")
             return None
-        d = r.json().get("data", r.json())
-        if not _gmgn_debugged:   # one-time dump so we can verify the field names
-            log(f"gmgn sample response: {json.dumps(d, ensure_ascii=False)[:600]}")
-            _gmgn_debugged = True
-        wts = d.get("wallet_tags_stat") or {}
-        return wts.get("smart_wallets")
-    except Exception as ex:
-        log(f"gmgn failed for {address}: {ex}")
     return None
 
 def num(x):
@@ -194,7 +224,7 @@ def build_rows(pairs):
             "h6":     num((p.get("priceChange") or {}).get("h6")),
             "h24":    num((p.get("priceChange") or {}).get("h24")),
         })
-        time.sleep(0.3)
+        time.sleep(1.2)
         if len(rows) >= TOP_N: break
     if len(rows) < 3:
         raise RuntimeError(f"only {len(rows)} tokens with smart money found "
