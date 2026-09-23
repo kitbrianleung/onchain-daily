@@ -2,34 +2,34 @@
   "date": "23 SEP 2026",
   "items": [
     {
-      "headline": "Kinetiq Opens Elysium Testnet for Hyperliquid DeFi",
-      "summary": "Liquid staking protocol Kinetiq launched the Elysium testnet, an Arbitrum Orbit chain built for Hyperliquid-focused DeFi apps, citing HyperEVM throughput limits. $KNTQ ecosystem expansion is one to watch.",
-      "url": "https://thedefiant.io/news/defi/kinetiq-opens-elysium-testnet-for-hyperliquid-focused-defi-apps",
-      "token": "$KNTQ"
+      "headline": "Vitalik Backs Trueo, $TRUE Explodes 900% in 24H",
+      "summary": "Prediction market Trueo is migrating to Ethereum mainnet, and Vitalik Buterin praised it as 'ethical, not corposlop.' $TRUE surged 900% in 24 hours as traders pile in early.",
+      "url": "https://thedefiant.io/news/defi/vitalik-buterin-backs-trueo-ethereum-move-true-jumps-900",
+      "token": "$TRUE"
     },
     {
-      "headline": "$NEAR Adds Ondo Tokenized Stocks With Private Execution",
-      "summary": "near.com now offers Ondo Finance's tokenized US stocks and ETFs, purchasable with crypto across 30+ networks with confidential trade execution. A big RWA win for $NEAR.",
-      "url": "https://thedefiant.io/news/tradfi-and-fintech/near-com-adds-ondo-tokenized-stocks-confidential-execution",
-      "token": "$NEAR"
+      "headline": "$BCH Rips 27% on CME Futures Listing News",
+      "summary": "$BCH jumped 14% in a single hour after CME announced futures contracts, closing the day up 27% on double the volume. $BSV rode along with a 20% gain.",
+      "url": "https://thedefiant.io/news/markets/bitcoin-cash-cme-futures-listing-sep-22-2026",
+      "token": "$BCH"
     },
     {
-      "headline": "CME to List $UNI and Bitcoin Cash Futures Oct. 19",
-      "summary": "CME Group will launch standard and Micro futures for $UNI and BCH, expanding its single-token crypto lineup to eleven. Institutional derivatives access could boost $UNI liquidity.",
-      "url": "https://thedefiant.io/news/markets/cme-group-to-list-bitcoin-cash-and-uniswap-futures-oct-19",
+      "headline": "CME to List $UNI Futures, Token Spikes 11%",
+      "summary": "CME Group will offer standard and Micro $UNI futures (10,000 and 1,000 UNI contracts), a major institutional nod for the top DEX token. $UNI spiked 11% on the news.",
+      "url": "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049",
       "token": "$UNI"
     },
     {
-      "headline": "$SEI Giga Test Hits 63,200 Requests Per Second",
-      "summary": "Sei Giga completed its first full test, processing 63,200 requests per second. The throughput milestone strengthens the $SEI case as a high-performance trading chain.",
-      "url": "https://usethebitcoin.com/sei-giga-completes-first-full-test-with-63200-requests-per-second/",
-      "token": "$SEI"
+      "headline": "Coinbase Taps $MORPHO for Fixed-Rate BTC Loans",
+      "summary": "Coinbase added fixed-rate bitcoin-backed loans via $MORPHO Midnight, letting users borrow USDC against BTC. Another big CeFi-DeFi integration win for the lending protocol.",
+      "url": "https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050",
+      "token": "$MORPHO"
     },
     {
-      "headline": "$STRK Unveils Proof of Privacy Initiative, Demo Day",
-      "summary": "Starknet announced its Proof of Privacy initiative and its first cohort demo day, pushing privacy-focused development on the L2. A fresh narrative catalyst for $STRK.",
-      "url": "https://coinfomania.com/starknet-announces-proof-of-privacy-cohort-01-demo-day/",
-      "token": "$STRK"
+      "headline": "Mastercard's BVNK Adds $XLM Stablecoin Rail",
+      "summary": "BVNK, acquired by Mastercard for up to $1.8B, has gone live with $XLM-based Stellar rails for stablecoin payments across 130+ markets, with more Stellar-native assets coming.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-owned-bvnk-adds-stellar-rail-for-stablecoin-payments",
+      "token": "$XLM"
     }
   ]
 }
