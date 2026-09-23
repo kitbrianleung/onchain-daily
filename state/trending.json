@@ -2,64 +2,40 @@
   "date": "September 23, 2026",
   "rows": [
     {
-      "token": "BASEDCAT",
-      "name": "BASEDCAT",
-      "chain": "solana",
-      "price": 4.308e-05,
-      "mcap": 39996.0,
-      "smart_wallets": 25,
-      "vol24": 713668.97,
-      "h1": 2.07,
-      "h6": 7.08,
-      "h24": -11.38
-    },
-    {
       "token": "UPTOBER",
       "name": "Uptober",
       "chain": "solana",
-      "price": 0.0001695,
-      "mcap": 164864.0,
+      "price": 0.0002118,
+      "mcap": 206049.0,
       "smart_wallets": 4,
-      "vol24": 468984.26,
-      "h1": 24.2,
-      "h6": 31.31,
-      "h24": 217.0
+      "vol24": 583881.87,
+      "h1": 23.08,
+      "h6": 28.81,
+      "h24": 296.0
     },
     {
       "token": "INU",
       "name": "INU",
       "chain": "solana",
-      "price": 0.0005983,
-      "mcap": 598339.0,
+      "price": 0.0004114,
+      "mcap": 411410.0,
       "smart_wallets": 60,
-      "vol24": 369330.34,
-      "h1": 4.49,
-      "h6": -21.69,
-      "h24": -7.86
+      "vol24": 358672.16,
+      "h1": -8.18,
+      "h6": -31.32,
+      "h24": -55.23
     },
     {
-      "token": "STONKCAT",
-      "name": "Stonk Cat",
+      "token": "GATO",
+      "name": "GTA6CAT",
       "chain": "solana",
-      "price": 0.0004871,
-      "mcap": 487155.0,
-      "smart_wallets": 30,
-      "vol24": 142445.58,
-      "h1": -5.13,
-      "h6": 7.62,
-      "h24": -33.73
-    },
-    {
-      "token": "Uptober",
-      "name": "Uptober",
-      "chain": "solana",
-      "price": 3.002e-06,
-      "mcap": 2599.0,
-      "smart_wallets": 4,
-      "vol24": 105949.98,
-      "h1": -2.51,
-      "h6": -2.45,
-      "h24": -93.88
+      "price": 0.00173,
+      "mcap": 1708343.0,
+      "smart_wallets": 15,
+      "vol24": 129932.0,
+      "h1": -8.35,
+      "h6": 8.13,
+      "h24": 22.0
     }
   ]
 }
