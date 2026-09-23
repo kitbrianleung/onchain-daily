@@ -299,7 +299,7 @@ def render_table(rows, path, W, H):
     t2, tf2 = "with SMART MONEY", font(56)
     tw = d.textlength(t2, font=tf2)
     d.text(((W - tw) / 2, top + 65), t2, font=tf2, fill=GOLD)
-    dt = NOW.strftime("%B %d, %Y")
+    dt = NOW.strftime("%d %b %Y").upper()
     fdt = font(30)
     tw = d.textlength(dt, font=fdt)
     d.text(((W - tw) / 2, top + 135), dt, font=fdt, fill=(190, 200, 230))
@@ -358,9 +358,13 @@ Table (JSON): {data}
 Call out the biggest movers (24H %) and which tokens have the most smart-money wallets.
 End with a blank line then hashtags: #dexscreener #smartmoney #onchain #crypto plus one #TICKER hashtag per token (use the token symbols, without $)."""
     try:
-        return llm([{"role": "user", "content": prompt}], max_tokens=700).strip()[:2000] + "\n\nData from DEXSCREENER"
+        cap = llm([{"role": "user", "content": prompt}], max_tokens=700).strip()[:2100]
+        idx = cap.find("#")
+        if idx == -1:
+            return cap + "\n\nData from DEX Screener"
+        return cap[:idx].rstrip() + "\n\nData from DEX Screener\n\n" + cap[idx:]
     except Exception:
-        return "📊 Top 24H trending tokens held by smart money.\n\n#dexscreener #smartmoney #onchain #crypto\n\nData from DEXSCREENER"
+        return "📊 Top 24H trending tokens held by smart money.\n\nData from DEX Screener\n\n#dexscreener #smartmoney #onchain #crypto"
 
 # ---------------- 5. Publish ----------------
 def resolve_ig_user_id():
