@@ -1,35 +1,35 @@
 {
-  "date": "23 SEP 2026",
+  "date": "24 SEP 2026",
   "items": [
     {
-      "headline": "Vitalik Backs Trueo, $TRUE Explodes 900% in 24H",
-      "summary": "Prediction market Trueo is migrating to Ethereum mainnet, and Vitalik Buterin praised it as 'ethical, not corposlop.' $TRUE surged 900% in 24 hours as traders pile in early.",
-      "url": "https://thedefiant.io/news/defi/vitalik-buterin-backs-trueo-ethereum-move-true-jumps-900",
+      "headline": "Vitalik Backs $TRUE as Trueo Migrates to Ethereum",
+      "summary": "Onchain prediction market Trueo moved to Ethereum, with Vitalik Buterin calling $TRUE a decentralized, ethical contender that is 'not corposlop.'",
+      "url": "https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999",
       "token": "$TRUE"
     },
     {
-      "headline": "$BCH Rips 27% on CME Futures Listing News",
-      "summary": "$BCH jumped 14% in a single hour after CME announced futures contracts, closing the day up 27% on double the volume. $BSV rode along with a 20% gain.",
-      "url": "https://thedefiant.io/news/markets/bitcoin-cash-cme-futures-listing-sep-22-2026",
-      "token": "$BCH"
+      "headline": "Galaxy Buys $SKY, Adds $100M sUSDS to Treasury",
+      "summary": "Galaxy added $100M of Sky's sUSDS to its treasury, bought $SKY tokens, and approved the savings token as institutional loan collateral with a 3.6% yield.",
+      "url": "https://thedefiant.io/news/defi/galaxy-adds-100-million-of-susds-to-treasury-approves-it-as-loan-collateral",
+      "token": "$SKY"
     },
     {
-      "headline": "CME to List $UNI Futures, Token Spikes 11%",
-      "summary": "CME Group will offer standard and Micro $UNI futures (10,000 and 1,000 UNI contracts), a major institutional nod for the top DEX token. $UNI spiked 11% on the news.",
-      "url": "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049",
-      "token": "$UNI"
-    },
-    {
-      "headline": "Coinbase Taps $MORPHO for Fixed-Rate BTC Loans",
-      "summary": "Coinbase added fixed-rate bitcoin-backed loans via $MORPHO Midnight, letting users borrow USDC against BTC. Another big CeFi-DeFi integration win for the lending protocol.",
-      "url": "https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050",
+      "headline": "Circle's BTC-Backed Lending on $MORPHO Jumps 10x",
+      "summary": "The cirBTC market on Arc hit $14.3M of USDC borrowed via $MORPHO, up from $1.37M in days, with Galaxy and Keyrock supplying nearly all the liquidity.",
+      "url": "https://thedefiant.io/news/defi/circle-opens-bitcoin-backed-usdc-borrowing-to-mint-clients-on-morpho",
       "token": "$MORPHO"
     },
     {
-      "headline": "Mastercard's BVNK Adds $XLM Stablecoin Rail",
-      "summary": "BVNK, acquired by Mastercard for up to $1.8B, has gone live with $XLM-based Stellar rails for stablecoin payments across 130+ markets, with more Stellar-native assets coming.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-owned-bvnk-adds-stellar-rail-for-stablecoin-payments",
-      "token": "$XLM"
+      "headline": "$ONDO Opens In-Kind Minting for Tokenized Stocks",
+      "summary": "$ONDO now lets approved institutions swap existing share inventory for tokenized US stocks through Alpaca, removing the cash funding step from issuance.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-in-kind-minting-for-tokenized-us-stocks",
+      "token": "$ONDO"
+    },
+    {
+      "headline": "Kalshi Denies Faking Its Crypto Volume",
+      "summary": "Kalshi says the repeating trade size behind wash-trading accusations came from a single paid market maker losing money to faster traders — not fake volume.",
+      "url": "https://thedefiant.io/news/cefi/kalshi-denies-faking-its-crypto-volume",
+      "token": "Kalshi"
     }
   ]
 }
