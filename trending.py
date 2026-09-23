@@ -233,9 +233,9 @@ def build_rows(pairs):
     return rows
 
 # ---------------- 3. Render the table ----------------
-COLS = [("TOKEN", 150, "left"), ("CHAIN", 85, "center"), ("PRICE", 100, "center"),
-        ("MCAP", 100, "center"), ("SMART MONEY\nWALLETS", 90, "center"), ("24H VOL", 100, "center"),
-        ("1H %", 75, "center"), ("6H %", 75, "center"), ("24H %", 80, "center")]
+COLS = [("TOKEN", 160, "center"), ("CHAIN", 100, "center"), ("PRICE", 130, "center"),
+        ("MCAP", 110, "center"), ("24H VOL", 120, "center"),
+        ("1H %", 100, "center"), ("24H %", 110, "center"), ("SMART\nWALLET", 130, "center")]
 NAVY_TOP, NAVY_BOT = (8, 12, 38), (14, 18, 55)
 GOLD  = (232, 186, 76)
 GREEN = (90, 215, 130)
@@ -269,44 +269,65 @@ def pct(v):
     return f"{v:+.1f}%", c
 
 def cell_text(row, idx):
-    v = [row["token"] + "\n" + (row.get("name") or ""), row["chain"],
-         price_fmt(row["price"]), usd(row["mcap"]), str(row["smart_wallets"]),
-         usd(row["vol24"])]
-    if idx < 6:
-        return v[idx], TEXT
-    label, color = pct(row[{6: "h1", 7: "h6", 8: "h24"}[idx]])
-    return label, color
+    if idx == 0: return row["token"], TEXT              # single token name only
+    if idx == 1: return row["chain"], TEXT
+    if idx == 2: return price_fmt(row["price"]), TEXT
+    if idx == 3: return usd(row["mcap"]), TEXT
+    if idx == 4: return usd(row["vol24"]), TEXT
+    if idx == 5: return pct(row["h1"])
+    if idx == 6: return pct(row["h24"])
+    return str(row["smart_wallets"]), TEXT              # SMART WALLET = last column
 
 def render_table(rows, path, W, H):
     img = Image.new("RGB", (W, H)); d = ImageDraw.Draw(img)
     for y in range(H):
         t = y / max(1, H - 1)
         d.line([(0, y), (W, y)], fill=tuple(int(NAVY_TOP[i] + (NAVY_BOT[i] - NAVY_TOP[i]) * t) for i in range(3)))
-    margin = 40
+
+    # ---- vertical centering: measure the whole content block first ----
+    header_h = 70
+    row_h = 95
+    title_h = 175                      # two title lines + date
+    gap = 40                           # space between date and table
+    table_h = header_h + len(rows) * row_h
+    top = max(30, (H - title_h - gap - table_h) // 2)
+
+    # ---- title block ----
     t1, tf1 = "24 HOUR TRENDING TOKENS", font(56)
     tw = d.textlength(t1, font=tf1)
-    d.text(((W - tw) / 2, 45), t1, font=tf1, fill=(255, 255, 255))
+    d.text(((W - tw) / 2, top), t1, font=tf1, fill=(255, 255, 255))
     t2, tf2 = "with SMART MONEY", font(56)
     tw = d.textlength(t2, font=tf2)
-    d.text(((W - tw) / 2, 110), t2, font=tf2, fill=GOLD)
+    d.text(((W - tw) / 2, top + 65), t2, font=tf2, fill=GOLD)
     dt = NOW.strftime("%B %d, %Y")
-    tw = d.textlength(dt, font=font(30))
-    d.text(((W - tw) / 2, 180), dt, font=font(30), fill=(190, 200, 230))
-    xs, x = [], margin
-    for _, w, _ in COLS: xs.append(x); x += w
-    header_h, y0 = 70, 260
-    row_h = min((H - y0 - header_h - 60) // (len(rows) + 1), 105)
-    d.rectangle([margin, y0, W - margin, y0 + header_h], fill=GOLD)
-    hf = font(20)
+    fdt = font(30)
+    tw = d.textlength(dt, font=fdt)
+    d.text(((W - tw) / 2, top + 135), dt, font=fdt, fill=(190, 200, 230))
+
+    # ---- table geometry (columns centered on the canvas) ----
+    total_w = sum(w for _, w, _ in COLS)
+    x0 = (W - total_w) // 2
+    xs, x = [], x0
+    for _, w, _ in COLS:
+        xs.append(x); x += w
+    x1 = x0 + total_w
+    y0 = top + title_h + gap
+    y1 = y0 + table_h
+
+    # ---- header ----
+    d.rectangle([x0, y0, x1, y0 + header_h], fill=GOLD)
+    hf = font(18)
     for (label, w, _), xpos in zip(COLS, xs):
         lines = label.split("\n")
         for li, ln in enumerate(lines):
             tw = d.textlength(ln, font=hf)
-            d.text((xpos + w / 2 - tw / 2, y0 + header_h / 2 - (len(lines) - li - 0.5) * 24), ln,
+            d.text((xpos + w / 2 - tw / 2, y0 + header_h / 2 - (len(lines) - li - 0.5) * 22), ln,
                    font=hf, fill=(12, 14, 40))
+
+    # ---- data rows ----
     cf = font(19)
     for ri, row in enumerate(rows):
-        ry = y0 + header_h + (ri + 1) * row_h
+        ry = y0 + header_h + ri * row_h
         for ci, ((label, w, align), xpos) in enumerate(zip(COLS, xs)):
             txt, color = cell_text(row, ci)
             lines = txt.split("\n")[:2]
@@ -314,7 +335,17 @@ def render_table(rows, path, W, H):
                 tw = d.textlength(ln, font=cf)
                 d.text((xpos + w / 2 - tw / 2, ry + row_h / 2 - (len(lines) - li - 0.5) * 22 + 1),
                        ln, font=cf, fill=color)
-        d.line([(margin, ry + row_h), (W - margin, ry + row_h)], fill=(50, 60, 95), width=1)
+
+    # ---- full grid: borders around every cell ----
+    GRID = (70, 82, 130)
+    d.rectangle([x0, y0, x1, y1], outline=GRID, width=3)                       # outer border
+    for xpos in xs[1:]:                                                        # vertical lines
+        d.line([(xpos, y0), (xpos, y1)], fill=GRID, width=2)
+    d.line([(x0, y0 + header_h), (x1, y0 + header_h)], fill=GRID, width=2)     # under header
+    for ri in range(1, len(rows)):                                             # row separators
+        yy = y0 + header_h + ri * row_h
+        d.line([(x0, yy), (x1, yy)], fill=GRID, width=2)
+
     img.save(path, "JPEG", quality=92)
     log(f"rendered {path}")
 
@@ -327,9 +358,9 @@ Table (JSON): {data}
 Call out the biggest movers (24H %) and which tokens have the most smart-money wallets.
 End with a blank line then hashtags: #dexscreener #smartmoney #onchain #crypto plus one #TICKER hashtag per token (use the token symbols, without $)."""
     try:
-        return llm([{"role": "user", "content": prompt}], max_tokens=700).strip()[:2100]
+        return llm([{"role": "user", "content": prompt}], max_tokens=700).strip()[:2000] + "\n\nData from DEXSCREENER"
     except Exception:
-        return "📊 Top 24H trending tokens held by smart money.\n\n#dexscreener #smartmoney #onchain #crypto"
+        return "📊 Top 24H trending tokens held by smart money.\n\n#dexscreener #smartmoney #onchain #crypto\n\nData from DEXSCREENER"
 
 # ---------------- 5. Publish ----------------
 def resolve_ig_user_id():
