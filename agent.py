@@ -397,7 +397,7 @@ def cmd_generate():
               open(NEWS_FILE, "w"), ensure_ascii=False, indent=2)
     render(items, "images/story.jpg", 1080, 1920)
     render(items, "images/post.jpg", 1080, 1350)
-    notify(f"🛠 Onchain Daily: picked {len(items)} stories from {len(cands)} candidates:\n"
+    notify(f"🛠 Onchain Daily Wrap: picked {len(items)} stories from {len(cands)} candidates:\n"
            + "\n".join(f"{i+1}. {x['headline']}" for i, x in enumerate(items)))
 
 def cmd_publish():
@@ -411,7 +411,7 @@ def cmd_publish():
     st = load_state()
     st["used_urls"] = (st["used_urls"] + [i["url"] for i in items])[-600:]
     save_state(st)
-    notify(f"✅ ONCHAIN DAILY {news['date']} published! (story {story_id}, post {post_id})\n\n"
+    notify(f"✅ ONCHAIN DAILY WRAP {news['date']} published! (story {story_id}, post {post_id})\n\n"
            + "\n".join(f"{i+1}. {x['headline']}\n{x['url']}" for i, x in enumerate(items)))
 
 if __name__ == "__main__":
@@ -419,5 +419,5 @@ if __name__ == "__main__":
     try:
         {"generate": cmd_generate, "publish": cmd_publish}[cmd]()
     except Exception:
-        notify("❌ Onchain Daily FAILED:\n" + traceback.format_exc()[-3500:])
+        notify("❌ Onchain Daily Wrap FAILED:\n" + traceback.format_exc()[-3500:])
         raise
