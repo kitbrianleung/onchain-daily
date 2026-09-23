@@ -281,7 +281,7 @@ def render(items, path, W, H):
     date_txt = f"{NOW:%d %b %Y}".upper()
     tw = d.textlength(date_txt, font=date_f)
     d.text(((W - tw) / 2, 70), date_txt, font=date_f, fill=(170, 190, 255))
-    title, tf = "ONCHAIN DAILY", font(96 if H > 1500 else 64)
+    title, tf = "ONCHAIN DAILY WRAP", font(96 if H > 1500 else 64)
     while d.textlength(title, font=tf) > W - 2 * margin:
         tf = font(tf.size - 4)
     glow = Image.new("RGBA", (W, H), (0, 0, 0, 0)); g = ImageDraw.Draw(glow)
@@ -338,7 +338,7 @@ def ig_publish(cid):
     raise RuntimeError(f"IG publish failed: {last}")
 
 def build_caption(items):
-    lines = [f"📡 ONCHAIN DAILY — {NOW:%d %b %Y}".upper(), ""]
+    lines = [f"📡 ONCHAIN DAILY WRAP — {NOW:%d %b %Y}".upper(), ""]
     for i, it in enumerate(items):
         lines += [f"{i+1}. {it['summary']}", f"🔗 {it['url']}", ""]
     
