@@ -2,34 +2,34 @@
   "date": "24 SEP 2026",
   "items": [
     {
-      "headline": "Vitalik Backs $TRUE as Trueo Migrates to Ethereum",
-      "summary": "Onchain prediction market Trueo moved to Ethereum, with Vitalik Buterin calling $TRUE a decentralized, ethical contender that is 'not corposlop.'",
-      "url": "https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999",
-      "token": "$TRUE"
+      "headline": "$VAR Token Confirmed: 32% Airdrop in Q4 Launch",
+      "summary": "Variational sets its Q4 $VAR token launch with a hefty 32% airdrop allocation. Points keep flowing at 150K per week while team and investor tokens sit under a 12-month lock.",
+      "url": "https://thedefiant.io/news/tokens/variational-sets-q4-var-launch-with-32-airdrop",
+      "token": "$VAR"
     },
     {
-      "headline": "Galaxy Buys $SKY, Adds $100M sUSDS to Treasury",
-      "summary": "Galaxy added $100M of Sky's sUSDS to its treasury, bought $SKY tokens, and approved the savings token as institutional loan collateral with a 3.6% yield.",
-      "url": "https://thedefiant.io/news/defi/galaxy-adds-100-million-of-susds-to-treasury-approves-it-as-loan-collateral",
-      "token": "$SKY"
+      "headline": "$ATOM Chaos: Neutron Exploit Halts Cosmos Hub 25hrs",
+      "summary": "Cosmos Hub stopped producing blocks for nearly 25 hours after an attacker bought voting power for 20,199 USDC and staked it minutes before a Neutron proposal closed. 1.23M $ATOM moved from the attacker wallet.",
+      "url": "https://thedefiant.io/news/hacks/cosmos-hub-restarts-1-23-million-atom-moved-from-neutron-attacker-wallet",
+      "token": "$ATOM"
     },
     {
-      "headline": "Circle's BTC-Backed Lending on $MORPHO Jumps 10x",
-      "summary": "The cirBTC market on Arc hit $14.3M of USDC borrowed via $MORPHO, up from $1.37M in days, with Galaxy and Keyrock supplying nearly all the liquidity.",
-      "url": "https://thedefiant.io/news/defi/circle-opens-bitcoin-backed-usdc-borrowing-to-mint-clients-on-morpho",
-      "token": "$MORPHO"
+      "headline": "$ZEC Clears $1,600 on New 21Shares European ETP",
+      "summary": "$ZEC broke above $1,600 as 21Shares launched a physically backed ETP in Paris and Amsterdam. Shielded supply now sits at 29% of all ZEC.",
+      "url": "https://thedefiant.io/news/markets/zcash-clears-1-600-after-21shares-launches-european-etp",
+      "token": "$ZEC"
     },
     {
-      "headline": "$ONDO Opens In-Kind Minting for Tokenized Stocks",
-      "summary": "$ONDO now lets approved institutions swap existing share inventory for tokenized US stocks through Alpaca, removing the cash funding step from issuance.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-in-kind-minting-for-tokenized-us-stocks",
-      "token": "$ONDO"
+      "headline": "$USDV Debuts: Solomon Labs Launches on Solana",
+      "summary": "Solomon Labs just launched its $USDV stablecoin on Solana, expanding the ecosystem with a fresh DeFi dollar play. Early-stage launch worth watching.",
+      "url": "https://coinfomania.com/solomon-labs-usdv-solana-launch/",
+      "token": "$USDV"
     },
     {
-      "headline": "Kalshi Denies Faking Its Crypto Volume",
-      "summary": "Kalshi says the repeating trade size behind wash-trading accusations came from a single paid market maker losing money to faster traders — not fake volume.",
-      "url": "https://thedefiant.io/news/cefi/kalshi-denies-faking-its-crypto-volume",
-      "token": "Kalshi"
+      "headline": "$PENDLE Ships PT Looping for One-Click Yield Plays",
+      "summary": "Pendle launched PT Looping, streamlining leveraged yield transactions into a single flow. A slick new DeFi use case for $PENDLE's yield-trading machine.",
+      "url": "https://coinfomania.com/pendle-pt-looping-launch/",
+      "token": "$PENDLE"
     }
   ]
 }
