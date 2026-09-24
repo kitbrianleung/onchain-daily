@@ -1,35 +1,35 @@
 {
-  "date": "24 SEP 2026",
+  "date": "25 SEP 2026",
   "items": [
     {
-      "headline": "$VAR Token Confirmed: 32% Airdrop in Q4 Launch",
-      "summary": "Variational sets its Q4 $VAR token launch with a hefty 32% airdrop allocation. Points keep flowing at 150K per week while team and investor tokens sit under a 12-month lock.",
-      "url": "https://thedefiant.io/news/tokens/variational-sets-q4-var-launch-with-32-airdrop",
-      "token": "$VAR"
+      "headline": "$ONDO Jumps 20% on BlackRock Portfolio Tokens",
+      "summary": "Ondo launched three onchain portfolio tokens built on BlackRock-designed strategies, live on Ethereum and BNB Chain. $ONDO rallied over 20% overnight, leading the altcoin bid.",
+      "url": "https://thedefiant.io/news/markets/ondo-blackrock-portfolios-altcoin-bid-bitcoin-84000-sep-24-2026",
+      "token": "$ONDO"
     },
     {
-      "headline": "$ATOM Chaos: Neutron Exploit Halts Cosmos Hub 25hrs",
-      "summary": "Cosmos Hub stopped producing blocks for nearly 25 hours after an attacker bought voting power for 20,199 USDC and staked it minutes before a Neutron proposal closed. 1.23M $ATOM moved from the attacker wallet.",
-      "url": "https://thedefiant.io/news/hacks/cosmos-hub-restarts-1-23-million-atom-moved-from-neutron-attacker-wallet",
-      "token": "$ATOM"
+      "headline": "$FRAX Brings sfrxETH to Robinhood Chain",
+      "summary": "Frax Finance confirmed its staked ETH token sfrxETH is now live on the newly launched Robinhood Chain, expanding $FRAX's reach into the retail-focused L2 ecosystem.",
+      "url": "https://coinfomania.com/frax-finance-sfrxeth-robinhood-chain/",
+      "token": "$FRAX"
     },
     {
-      "headline": "$ZEC Clears $1,600 on New 21Shares European ETP",
-      "summary": "$ZEC broke above $1,600 as 21Shares launched a physically backed ETP in Paris and Amsterdam. Shielded supply now sits at 29% of all ZEC.",
-      "url": "https://thedefiant.io/news/markets/zcash-clears-1-600-after-21shares-launches-european-etp",
-      "token": "$ZEC"
+      "headline": "$GEAR Teams With Frax for RWA Leverage Market",
+      "summary": "Gearbox and Frax are launching a real-world-asset leverage market, a fresh DeFi use case letting users loop RWA yield. A notable new primitive for $GEAR holders to watch.",
+      "url": "https://coinfomania.com/frax-gearbox-rwa-leverage-market/",
+      "token": "$GEAR"
     },
     {
-      "headline": "$USDV Debuts: Solomon Labs Launches on Solana",
-      "summary": "Solomon Labs just launched its $USDV stablecoin on Solana, expanding the ecosystem with a fresh DeFi dollar play. Early-stage launch worth watching.",
-      "url": "https://coinfomania.com/solomon-labs-usdv-solana-launch/",
-      "token": "$USDV"
+      "headline": "$ARB Overhauls MEV With Per-Tx Priority Auctions",
+      "summary": "Arbitrum replaced Timeboost with per-transaction priority auctions, routing 97% of priority fees to the DAO treasury. A major tokenomics-adjacent upgrade for $ARB.",
+      "url": "https://thedefiant.io/news/blockchains/arbitrum-replaces-timeboost-with-per-transaction-priority-auctions",
+      "token": "$ARB"
     },
     {
-      "headline": "$PENDLE Ships PT Looping for One-Click Yield Plays",
-      "summary": "Pendle launched PT Looping, streamlining leveraged yield transactions into a single flow. A slick new DeFi use case for $PENDLE's yield-trading machine.",
-      "url": "https://coinfomania.com/pendle-pt-looping-launch/",
-      "token": "$PENDLE"
+      "headline": "$HIFI Raises $37M for Tokenized Capital Markets",
+      "summary": "HIFI closed a $37M Series A led by Left Lane Capital to scale its tokenized settlement infrastructure, one of the bigger recent raises in the RWA altcoin space.",
+      "url": "https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242",
+      "token": "$HIFI"
     }
   ]
 }
