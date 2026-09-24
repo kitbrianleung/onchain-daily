@@ -1,41 +1,113 @@
 {
-  "date": "September 23, 2026",
+  "date": "September 24, 2026",
   "rows": [
+    {
+      "token": "BLUF",
+      "name": "Bluf",
+      "chain": "solana",
+      "price": 0.0001884,
+      "mcap": 181725.0,
+      "smart_wallets": 92,
+      "vol24": 5342207.21,
+      "h1": -2.36,
+      "h6": -2.2,
+      "h24": 301.0
+    },
+    {
+      "token": "NPC",
+      "name": "NPCs",
+      "chain": "solana",
+      "price": 0.0003865,
+      "mcap": 368164.0,
+      "smart_wallets": 52,
+      "vol24": 3197601.07,
+      "h1": -5.4,
+      "h6": 225.0,
+      "h24": 735.0
+    },
+    {
+      "token": "SI",
+      "name": "Super Intelligence",
+      "chain": "solana",
+      "price": 0.000649,
+      "mcap": 633614.0,
+      "smart_wallets": 36,
+      "vol24": 2188299.1,
+      "h1": -14.7,
+      "h6": 1276.0,
+      "h24": 1276.0
+    },
+    {
+      "token": "BABYJEAN",
+      "name": "Baby Jean",
+      "chain": "solana",
+      "price": 2.275e-06,
+      "mcap": 2256.0,
+      "smart_wallets": 1,
+      "vol24": 1533866.42,
+      "h1": -7.74,
+      "h6": -2.37,
+      "h24": -97.73
+    },
     {
       "token": "UPTOBER",
       "name": "Uptober",
       "chain": "solana",
-      "price": 0.0002118,
-      "mcap": 206049.0,
-      "smart_wallets": 4,
-      "vol24": 583881.87,
-      "h1": 23.08,
-      "h6": 28.81,
-      "h24": 296.0
-    },
-    {
-      "token": "INU",
-      "name": "INU",
-      "chain": "solana",
-      "price": 0.0004114,
-      "mcap": 411410.0,
-      "smart_wallets": 60,
-      "vol24": 358672.16,
-      "h1": -8.18,
-      "h6": -31.32,
-      "h24": -55.23
+      "price": 0.0002068,
+      "mcap": 201119.0,
+      "smart_wallets": 7,
+      "vol24": 479696.29,
+      "h1": 8.78,
+      "h6": 15.13,
+      "h24": 24.43
     },
     {
       "token": "GATO",
       "name": "GTA6CAT",
       "chain": "solana",
-      "price": 0.00173,
-      "mcap": 1708343.0,
+      "price": 0.001795,
+      "mcap": 1772302.0,
       "smart_wallets": 15,
-      "vol24": 129932.0,
-      "h1": -8.35,
-      "h6": 8.13,
-      "h24": 22.0
+      "vol24": 456906.01,
+      "h1": -8.57,
+      "h6": -9.0,
+      "h24": 11.29
+    },
+    {
+      "token": "POLAR",
+      "name": "POLAR",
+      "chain": "solana",
+      "price": 3.767e-05,
+      "mcap": 36031.0,
+      "smart_wallets": 19,
+      "vol24": 266569.98,
+      "h1": 77.78,
+      "h6": -21.23,
+      "h24": -21.23
+    },
+    {
+      "token": "IT",
+      "name": "INU TOWN",
+      "chain": "solana",
+      "price": 5.709e-06,
+      "mcap": 5709.14,
+      "smart_wallets": 8,
+      "vol24": 166536.8,
+      "h1": 0.24,
+      "h6": -0.86,
+      "h24": 45.53
+    },
+    {
+      "token": "Holdoween",
+      "name": "Holdoween",
+      "chain": "solana",
+      "price": 0.0003666,
+      "mcap": 356690.0,
+      "smart_wallets": 9,
+      "vol24": 122401.97,
+      "h1": 18.17,
+      "h6": 30.05,
+      "h24": 121.0
     }
   ]
 }
