@@ -481,6 +481,11 @@ def cmd_generate():
 
 def cmd_publish():
     state = json.loads(STATE_FILE.read_text())
+    if state.get("date") != DAY or "story_image" not in state:
+        notify(f"⏭️ Trending x Smart Money: no fresh table for {DAY} "
+               f"(state file is from '{state.get('date', '?')}'). Skipping publish.")
+        log("stale or old-format state — nothing to publish")
+        return
     story_url = f"{RAW}/{state['story_image']}"
     post_url = f"{RAW}/{state['post_image']}"
     wait_for_raw(state["story_image"])
