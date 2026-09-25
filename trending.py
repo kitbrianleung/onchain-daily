@@ -487,10 +487,10 @@ def cmd_publish():
         return
     story_rel = state["story_image"].removeprefix("trending/")
     post_rel = state["post_image"].removeprefix("trending/")
-    story_url = f"{RAW}/{state['story_image']}"
-    post_url = f"{RAW}/{state['post_image']}"
-    wait_for_raw(state["story_image"])
-    wait_for_raw(state["post_image"])
+    story_url = f"{RAW}/{story_rel}"
+    post_url = f"{RAW}/{post_rel}"
+    wait_for_raw(story_rel)
+    wait_for_raw(post_rel)
 
     story_cid = ig_create(story_url, is_story=True)
     story_id = ig_publish(story_cid)
