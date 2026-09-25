@@ -5,7 +5,7 @@ Trending x Smart Money — daily Instagram story + post.
 Pipeline:
   Dexscreener latest boosted tokens (top 100)
     -> top 10 by 24h volume, MCAP < $2M
-    -> GMGN smart-money count per token (rate-limited, cached)
+    -> GMGN smart-money count per token (Playwright headless browser)
     -> Pillow-rendered table (1080x1920 story + 1080x1350 post)
     -> pushed to repo, published to Instagram
 
@@ -40,13 +40,11 @@ GMGN_SMART = ("https://gmgn.ai/api/v1/smart_money/{chain}/token/{address}/now"
               "&fpid=93eb713fb01d3af9dd1608470b6aa9d5&os=web&sec-ch-ua-platform=Windows"
               "&sec-ch-ua-mobile=?0&sec-ch-ua=%22Not:A-Brand%22%3Bv%22%24%22%2C%20%22Chromium%22%3Bv%22147%22"
               "&sec-ch-ua-full-version-list=Not:A-Brand%3Bv24%2C%20Chromium%3Bv147")
-GMGN_REFERER = "https://gmgn.ai/sol/token/{address}?page=Smart+Money"
 GMGN_CHAIN = {"solana": "sol", "ethereum": "eth", "base": "base", "bsc": "bsc"}
 
 MAX_MCAP = 2_000_000
 TOP_N = 10
-GMGN_DELAY = 2.0          # seconds between GMGN calls (429 observed at ~1s)
-GMGN_RETRIES = 3
+GMGN_DELAY = 2.0          # seconds between GMGN calls
 
 NAVY_TOP = (16, 20, 52)
 NAVY_BOT = (8, 10, 32)
@@ -185,34 +183,46 @@ def fetch_trending():
 
 
 def gmgn_smart_count(chain_id, address):
-    """Smart-money holder count from GMGN; None on failure."""
+    """Smart-money holder count from GMGN via headless Chromium (fresh session each call).
+    Returns the count, or None on failure."""
     gmgn_chain = GMGN_CHAIN[chain_id]
     url = GMGN_SMART.format(chain=gmgn_chain, address=address)
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                      "(KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "Accept": "application/json, text/plain, */*",
-        "Referer": GMGN_REFERER.format(address=address),
-        "Origin": "https://gmgn.ai",
-    }
-    for attempt in range(GMGN_RETRIES):
-        try:
-            r = requests.get(url, headers=headers, timeout=20)
-            if r.status_code == 200:
-                d = r.json().get("data")
-                if d is None:
-                    return None
-                return d.get("smart_money_count")
-            if r.status_code == 429:
-                wait = 5 * (attempt + 1)
-                log(f"GMGN 429 for {address[:8]}… waiting {wait}s")
-                time.sleep(wait)
-                continue
-            log(f"GMGN {r.status_code} for {address[:8]}…")
-            return None
-        except Exception as e:
-            log(f"GMGN error for {address[:8]}…: {e}")
-    return None
+    try:
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as p:
+            browser = p.chromium.launch(
+                headless=True,
+                args=["--no-sandbox", "--disable-setuid-sandbox",
+                      "--disable-dev-shm-usage", "--disable-gpu"])
+            ctx = browser.new_context(
+                user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                            "AppleWebKit/537.36 (KHTML, like Gecko) "
+                            "Chrome/126.0.0.0 Safari/537.36"),
+                viewport={"width": 1920, "height": 1080},
+                locale="en-US")
+            page = ctx.new_page()
+            resp = page.goto(url, timeout=30000)
+            status = resp.status if resp else 0
+            data = None
+            if status == 200:
+                try:
+                    data = resp.json()
+                except Exception:
+                    data = None
+            browser.close()
+            if data is None:
+                log(f"GMGN {status} for {address[:8]}… (no JSON)")
+                return None
+            d = data.get("data")
+            if d is None:
+                log(f"GMGN 200 but no data for {address[:8]}…")
+                return None
+            count = d.get("smart_money_count")
+            log(f"GMGN {status} for {address[:8]}… → smart_money_count={count}")
+            return count
+    except Exception as e:
+        log(f"GMGN error for {address[:8]}…: {e}")
+        return None
 
 
 def build_rows():
