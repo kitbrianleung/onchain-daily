@@ -215,6 +215,7 @@ def build_rows(pairs):
         rows.append({
             "token":  bt.get("symbol", "?"),
             "name":   bt.get("name", ""),
+            "address": addr,
             "chain":  chain_id,
             "price":  num(p.get("priceUsd")),
             "mcap":   num(p.get("marketCap") or p.get("fdv")),
@@ -353,6 +354,32 @@ def render_table(rows, path, W, H):
 def build_caption(rows):
     data = json.dumps(rows, ensure_ascii=False)
     prompt = f"""Write a short Instagram caption (max 6 lines + hashtags) analyzing this table of the top 10
+Dexscreener 24H trending tokens that are held by smart-money wallets (per GMGN data).
+Table (JSON): {data}
+Call out the biggest movers (24H %) and which tokens have the most smart-money wallets.
+Do NOT include token contract addresses — they are appended automatically.
+End with a blank line then hashtags: #dexscreener #smartmoney #onchain #crypto plus one #TICKER hashtag per token (use the token symbols, without $)."""
+    # ---- token address footer (post caption only) ----
+    addr_lines = []
+    for r in rows:
+        a = r.get("address")
+        if a:
+            addr_lines.append(f"${r['token']}\n{a}")
+    addr_block = "\n\n".join(addr_lines)
+    budget = 2000 - len(addr_block)          # keep total under IG's 2200-char caption limit
+    try:
+        cap = llm([{"role": "user", "content": prompt}], max_tokens=700).strip()[:budget]
+        idx = cap.find("#")
+        if idx == -1:
+            cap = cap + "\n\nData from DEX Screener"
+        else:
+            cap = cap[:idx].rstrip() + "\n\nData from DEX Screener\n\n" + cap[idx:]
+    except Exception:
+        cap = "📊 Top 24H trending tokens held by smart money.\n\nData from DEX Screener\n\n#dexscreener #smartmoney #onchain #crypto"
+    if addr_block:
+        cap += "\n\n" + addr_block
+    return cap
+  
 Dexscreener 24H trending tokens that are held by smart-money wallets (per GMGN data).
 Table (JSON): {data}
 Call out the biggest movers (24H %) and which tokens have the most smart-money wallets.
