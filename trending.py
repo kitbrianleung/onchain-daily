@@ -5,7 +5,7 @@ Trending x Smart Money — daily Instagram story + post.
 Pipeline:
   Dexscreener latest boosted tokens (top 100)
     -> top 10 by 24h volume, MCAP < $2M
-    -> GMGN smart-money count per token (rate-limited)
+    -> GMGN smart-money count per token (official API via gmgn-cli)
     -> Pillow-rendered table (1080x1920 story + 1080x1350 post)
     -> pushed to repo, published to Instagram
 
@@ -33,20 +33,11 @@ IMAGES_DIR = REPO_ROOT / "images" / "trending"
 GRAPH = "https://graph.facebook.com/v24.0"
 DEXSCREENER_BOOSTS = "https://api.dexscreener.com/token-boosts/latest/v1"
 DEXSCREENER_PAIRS = "https://api.dexscreener.com/latest/dex/tokens/{address}"
-GMGN_SMART = ("https://gmgn.ai/api/v1/smart_money/{chain}/token/{address}/now"
-              "?app_lang=en&device_id=1f1fd0c4-9f77-45ee-88b0-4b9d2454cf0e"
-              "&client_id=gmgn_web_20260222-5641-b9d9f88&from_app=gmgn&app_ver=20260222-5641-b9d9f88"
-              "&tz_name=America%2FWinnipeg&tz_offset=-18000&current_tz_offset=21600"
-              "&fpid=93eb713fb01d3af9dd1608470b6aa9d5&os=web&sec-ch-ua-platform=Windows"
-              "&sec-ch-ua-mobile=?0&sec-ch-ua=%22Not:A-Brand%22%3Bv%22%24%22%2C%20%22Chromium%22%3Bv%22147%22"
-              "&sec-ch-ua-full-version-list=Not:A-Brand%3Bv24%2C%20Chromium%3Bv147")
-GMGN_REFERER = "https://gmgn.ai/sol/token/{address}?page=Smart+Money"
 GMGN_CHAIN = {"solana": "sol", "ethereum": "eth", "base": "base", "bsc": "bsc"}
 
 MAX_MCAP = 2_000_000
 TOP_N = 10
-GMGN_DELAY = 2.0          # seconds between GMGN calls (429 observed at ~1s)
-GMGN_RETRIES = 3
+GMGN_DELAY = 1.0          # seconds between GMGN calls (official limiter: ~10-20/s, well under it)
 
 NAVY_TOP = (16, 20, 52)
 NAVY_BOT = (8, 10, 32)
@@ -60,6 +51,7 @@ IG_USER_ID = os.environ["IG_USER_ID"]
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN", "")
 OPENROUTER_API_KEY = os.environ["OPENROUTER_API_KEY"]
+GMGN_API_KEY = os.environ.get("GMGN_API_KEY", "")
 
 REPO_NAME = os.environ.get("GITHUB_REPOSITORY", "kitbrianleung/onchain-daily")
 BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
@@ -67,6 +59,8 @@ RAW = f"https://raw.githubusercontent.com/{REPO_NAME}/{BRANCH}/images/trending"
 
 NOW = datetime.now(timezone.utc)
 DAY = NOW.strftime("%Y-%m-%d")
+
+_GMGN_DEAD = False        # set after an auth/install failure so we fail fast on remaining calls
 
 
 def log(msg):
@@ -185,34 +179,53 @@ def fetch_trending():
 
 
 def gmgn_smart_count(chain_id, address):
-    """Smart-money holder count from GMGN; None on failure."""
-    gmgn_chain = GMGN_CHAIN[chain_id]
-    url = GMGN_SMART.format(chain=gmgn_chain, address=address)
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                      "(KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-        "Accept": "application/json, text/plain, */*",
-        "Referer": GMGN_REFERER.format(address=address),
-        "Origin": "https://gmgn.ai",
-    }
-    for attempt in range(GMGN_RETRIES):
-        try:
-            r = requests.get(url, headers=headers, timeout=20)
-            if r.status_code == 200:
-                d = r.json().get("data")
-                if d is None:
-                    return None
-                return d.get("smart_money_count")
-            if r.status_code == 429:
-                wait = 5 * (attempt + 1)
-                log(f"GMGN 429 for {address[:8]}… waiting {wait}s")
-                time.sleep(wait)
-                continue
-            log(f"GMGN {r.status_code} for {address[:8]}…")
-            return None
-        except Exception as e:
-            log(f"GMGN error for {address[:8]}…: {e}")
-    return None
+    """Smart-money holder count from GMGN's official API (gmgn-cli token info).
+    Read-only: API-key-only auth, no signing. Returns the count, or None on failure."""
+    global _GMGN_DEAD
+    if _GMGN_DEAD:
+        return None
+    chain = GMGN_CHAIN[chain_id]
+    try:
+        r = subprocess.run(
+            ["gmgn-cli", "token", "info", "--chain", chain,
+             "--address", address, "--raw"],
+            capture_output=True, text=True, timeout=60,
+            env={**os.environ, "GMGN_API_KEY": GMGN_API_KEY})
+    except FileNotFoundError:
+        log("gmgn-cli not installed — workflow must run: npm install -g gmgn-cli")
+        _GMGN_DEAD = True
+        return None
+    except Exception as e:
+        log(f"GMGN error for {address[:8]}…: {e}")
+        return None
+    if r.returncode != 0:
+        err = (r.stderr or r.stdout or "").strip()
+        if "AUTH_IP_BLOCKED" in err:
+            log("GMGN 403 AUTH_IP_BLOCKED — your API key has an IP whitelist. Remove it at "
+                "https://gmgn.ai/ai (GitHub Actions IPs rotate, whitelisting can't work there)")
+            _GMGN_DEAD = True
+        elif "AUTH_KEY_INVALID" in err or "AUTH_INVALID" in err:
+            log("GMGN 401 — the GMGN_API_KEY secret is missing or invalid")
+            _GMGN_DEAD = True
+        else:
+            log(f"GMGN failed for {address[:8]}…: {err[:150]}")
+        return None
+    try:
+        data = json.loads(r.stdout)
+    except json.JSONDecodeError:
+        log(f"GMGN bad JSON for {address[:8]}…: {r.stdout[:120]}")
+        return None
+    if isinstance(data.get("data"), dict):
+        data = data["data"]
+    wts = data.get("wallet_tags_stat") or {}
+    count = wts.get("smart_wallets")
+    if count is None:
+        count = data.get("smart_degen_count")
+    if count is None:
+        log(f"GMGN ok but no smart-wallet field for {address[:8]}…")
+        return None
+    log(f"GMGN {address[:8]}… → smart_wallets={count}")
+    return int(count)
 
 
 def build_rows():
@@ -355,4 +368,147 @@ def render_table(rows, path, W, H):
             txt, color = cell_text(row, ci)
             lines = txt.split("\n")[:2]
             for li, ln in enumerate(lines):
-                tw = d.textlength(ln, font=cf
+                tw = d.textlength(ln, font=cf)
+                d.text((xpos + w / 2 - tw / 2, ry + row_h / 2 - (len(lines) - li - 0.5) * 22 + 1),
+                       ln, font=cf, fill=color)
+
+    # ---- full grid: borders around every cell ----
+    GRID = (70, 82, 130)
+    d.rectangle([x0, y0, x1, y1], outline=GRID, width=3)                       # outer border
+    for xpos in xs[1:]:                                                        # vertical lines
+        d.line([(xpos, y0), (xpos, y1)], fill=GRID, width=2)
+    d.line([(x0, y0 + header_h), (x1, y0 + header_h)], fill=GRID, width=2)     # under header
+    for ri in range(1, len(rows)):                                             # row separators
+        yy = y0 + header_h + ri * row_h
+        d.line([(x0, yy), (x1, yy)], fill=GRID, width=2)
+
+    img.save(path, "JPEG", quality=92)
+    log(f"rendered {path}")
+
+
+# ---------------- 3. Caption ----------------
+
+def llm(messages, max_tokens=400):
+    """Single OpenRouter chat call (google/gemini-2.5-flash, cheap+fast)."""
+    r = requests.post(
+        "https://openrouter.ai/api/v1/chat/completions",
+        headers={"Authorization": f"Bearer {OPENROUTER_API_KEY}",
+                 "Content-Type": "application/json",
+                 "HTTP-Referer": "https://github.com/kitbrianleung/onchain-daily",
+                 "X-Title": "Trending x Smart Money"},
+        json={"model": "google/gemini-2.5-flash", "messages": messages,
+              "max_tokens": max_tokens, "temperature": 0.5},
+        timeout=120)
+    if r.status_code != 200:
+        raise RuntimeError(f"LLM {r.status_code}: {r.text[:300]}")
+    return r.json()["choices"][0]["message"]["content"]
+
+
+def build_caption(rows):
+    data = json.dumps(rows, ensure_ascii=False)
+    prompt = f"""Write a short Instagram caption (max 6 lines + hashtags) analyzing this table of the top 10
+Dexscreener 24H trending tokens that are held by smart-money wallets (per GMGN data).
+Table (JSON): {data}
+Call out the biggest movers (24H %) and which tokens have the most smart-money wallets.
+End with a blank line then hashtags: #dexscreener #smartmoney #onchain #crypto plus one #TICKER hashtag per token (use the token symbols, without $)."""
+    try:
+        cap = llm([{"role": "user", "content": prompt}], max_tokens=700).strip()[:2100]
+        idx = cap.find("#")
+        if idx == -1:
+            return cap + "\n\nData from DEX Screener"
+        return cap[:idx].rstrip() + "\n\nData from DEX Screener\n\n" + cap[idx:]
+    except Exception:
+        return "📊 Top 24H trending tokens held by smart money.\n\nData from DEX Screener\n\n#dexscreener #smartmoney #onchain #crypto"
+
+
+# ---------------- 4. Instagram ----------------
+
+def ig_create(image_url, caption=None, is_story=False):
+    payload = {"image_url": image_url, "access_token": IG_ACCESS_TOKEN}
+    if is_story:
+        payload["media_type"] = "STORIES"
+    elif caption is not None:
+        payload["caption"] = caption
+    r = requests.post(f"{GRAPH}/{IG_USER_ID}/media", data=payload, timeout=60)
+    if r.status_code == 200:
+        return r.json()["id"]
+    raise RuntimeError(f"IG container failed: {r.status_code}: {r.text[:300]}")
+
+
+def ig_publish(cid):
+    """Publish with retry: IG processes the container asynchronously; 9007 = not ready yet."""
+    last = ""
+    for attempt in range(8):
+        r = requests.post(f"{GRAPH}/{IG_USER_ID}/media_publish",
+                          data={"creation_id": cid, "access_token": IG_ACCESS_TOKEN}, timeout=60)
+        if r.status_code == 200:
+            return r.json()["id"]
+        last = f"{r.status_code}: {r.text[:300]}"
+        wait = min(5 * (attempt + 1), 30)          # 5s, 10s, 15s ... max 30s
+        log(f"publish attempt {attempt + 1} failed ({last[:100]}), retrying in {wait}s")
+        time.sleep(wait)
+    raise RuntimeError(f"IG publish failed after retries: {last}")
+
+
+# ---------------- 5. Orchestration ----------------
+
+def cmd_generate():
+    rows = build_rows()
+    if len(rows) < 3:
+        notify(f"⚠️ Trending x Smart Money: only {len(rows)} tokens with smart money — skipping today.")
+        sys.exit(0)
+
+    IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+    story_path = IMAGES_DIR / f"{DAY}-story.jpg"
+    post_path = IMAGES_DIR / f"{DAY}-post.jpg"
+    render_table(rows, story_path, 1080, 1920)
+    render_table(rows, post_path, 1080, 1350)
+
+    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    STATE_FILE.write_text(json.dumps({
+        "date": DAY,
+        "rows": rows,
+        "story_image": f"trending/{DAY}-story.jpg",
+        "post_image": f"trending/{DAY}-post.jpg",
+    }, ensure_ascii=False, indent=2))
+
+    push_state_and_images()
+    notify(f"🛠 Trending x Smart Money: {len(rows)} tokens, images pushed for {DAY}. "
+           "Next step: publish job.")
+    log("generate done")
+
+
+def cmd_publish():
+    state = json.loads(STATE_FILE.read_text())
+    if state.get("date") != DAY or "story_image" not in state:
+        notify(f"⏭️ Trending x Smart Money: no fresh table for {DAY} "
+               f"(state file is from '{state.get('date', '?')}'). Skipping publish.")
+        log("stale or old-format state — nothing to publish")
+        return
+    story_url = f"{RAW}/{state['story_image']}"
+    post_url = f"{RAW}/{state['post_image']}"
+    wait_for_raw(state["story_image"])
+    wait_for_raw(state["post_image"])
+
+    story_cid = ig_create(story_url, is_story=True)
+    story_id = ig_publish(story_cid)
+    log(f"story published: {story_id}")
+
+    caption = build_caption(state["rows"])
+    post_cid = ig_create(post_url, caption=caption)
+    post_id = ig_publish(post_cid)
+    log(f"post published: {post_id}")
+
+    notify(f"✅ Trending x Smart Money published! (story {story_id}, post {post_id})")
+
+
+if __name__ == "__main__":
+    if len(sys.argv) < 2 or sys.argv[1] not in ("generate", "publish"):
+        print("usage: python trending.py [generate|publish]")
+        sys.exit(1)
+    try:
+        {"generate": cmd_generate, "publish": cmd_publish}[sys.argv[1]]()
+    except Exception:
+        import traceback
+        notify("❌ Trending x Smart Money FAILED:\n" + traceback.format_exc()[-3500:])
+        raise
