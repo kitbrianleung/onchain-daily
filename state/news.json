@@ -1,35 +1,35 @@
 {
-  "date": "25 SEP 2026",
+  "date": "26 SEP 2026",
   "items": [
     {
-      "headline": "Bitget Hot Wallet Breach Hits $351M, $BGB in Focus",
-      "summary": "Bitget suspended withdrawals after a $351.6M hot wallet breach across four chains. Cold wallets are safe and a $464M protection fund covers losses, but $BGB traders are on edge.",
-      "url": "https://thedefiant.io/news/cefi/bitget-disables-withdrawals-165-million-one-address-four-chains",
-      "token": "$BGB"
+      "headline": "$NEAR Soars as Bitwise ETF Wins NYSE Arca Listing",
+      "summary": "Bitwise's $NEAR ETF got approved to list and trade on NYSE Arca, sending the token sharply higher as institutional access widens.",
+      "url": "https://coingape.com/",
+      "token": "$NEAR"
     },
     {
-      "headline": "Paxos Labs Launches $PAXGy: Yield-Bearing Tokenized Gold",
-      "summary": "Paxos Labs unveiled $PAXGy, adding lending yield to tokenized gold $PAXG. Holders take borrower-default risk, with redemptions via an approval-gated queue.",
-      "url": "https://thedefiant.io/news/tokens/paxos-labs-launches-paxgy-adding-lending-yield-to-tokenized-gold",
-      "token": "$PAXG"
+      "headline": "$ENA: Ethena Adds Equity Perps to USDe Backing",
+      "summary": "Ethena is expanding $USDe's backing strategy into Binance bStocks and short equity perpetuals, a new twist on its basis trade.",
+      "url": "https://thedefiant.io/news/defi/ethena-starts-equity-basis-rollout-for-usde-with-binance",
+      "token": "$ENA"
     },
     {
-      "headline": "KelpDAO Sues LayerZero, $ZRO CEO Calls Claim 'Meritless'",
-      "summary": "KelpDAO filed a BC civil claim against LayerZero, with CEO Bryan Pellegrino also named. He vows to fight the 'meritless' suit as $ZRO watches the fallout.",
-      "url": "https://thedefiant.io/news/regulation/evercrest-files-bc-civil-claim-against-layerzero-and-pellegrino-ceo-says",
+      "headline": "$ZRO Sued by KelpDAO Over $292M rsETH Exploit",
+      "summary": "KelpDAO sued LayerZero and CEO Bryan Pellegrino, alleging they endorsed in writing the bridge setup behind the $292M rsETH exploit.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
       "token": "$ZRO"
     },
     {
-      "headline": "$FLOKI Now Collateral on Morpho, API3 Confirms",
-      "summary": "API3 says $FLOKI collateralization is live on Morpho, letting holders borrow against the memecoin. A fresh DeFi use case for the dog-themed token.",
-      "url": "https://coinfomania.com/",
-      "token": "$FLOKI"
+      "headline": "$ONDO Launches BlackRock-Built Portfolio Tokens",
+      "summary": "Ondo rolled out three onchain portfolio tokens based on BlackRock model strategies, live on Ethereum and BNB Chain for non-US investors.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-launches-tokenized-portfolios-built-on-blackrock-strategies",
+      "token": "$ONDO"
     },
     {
-      "headline": "Kamino Opens GPU-Backed $sUSDai Market on Solana",
-      "summary": "Kamino launched an Allez Labs-curated market letting $sUSDai holders borrow USDC at up to 80% LTV. GPU-loan-linked collateral brings AI yield to Solana DeFi.",
-      "url": "https://thedefiant.io/news/defi/kamino-opens-gpu-loan-linked-susdai-collateral-market-on-solana",
-      "token": "$SUSDAI"
+      "headline": "$ME Exploit Scare: $5.7M in NFTs Rescued",
+      "summary": "Legacy Magic Eden approvals exposed $5.7M in NFTs to an exploit before whitehats secured 23,155 tokens. Holders must revoke old approvals.",
+      "url": "https://thedefiant.io/news/hacks/legacy-magic-eden-approvals-exploited-as-white-hats-rescue-nfts",
+      "token": "$ME"
     }
   ]
 }
