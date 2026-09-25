@@ -111,7 +111,7 @@ def push_state_and_images():
     git("push", "origin", f"HEAD:{BRANCH}")
 
 
-def wait_for_raw(path, retries=20, delay=3):
+def wait_for_raw(path, retries=40, delay=5):
     """Poll raw.githubusercontent until the pushed file is served."""
     url = f"{RAW}/{path}"
     for i in range(retries):
@@ -485,6 +485,8 @@ def cmd_publish():
                f"(state file is from '{state.get('date', '?')}'). Skipping publish.")
         log("stale or old-format state — nothing to publish")
         return
+    story_rel = state["story_image"].removeprefix("trending/")
+    post_rel = state["post_image"].removeprefix("trending/")
     story_url = f"{RAW}/{state['story_image']}"
     post_url = f"{RAW}/{state['post_image']}"
     wait_for_raw(state["story_image"])
