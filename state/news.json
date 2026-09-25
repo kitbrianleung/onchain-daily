@@ -2,34 +2,34 @@
   "date": "25 SEP 2026",
   "items": [
     {
-      "headline": "$ONDO Jumps 20% on BlackRock Portfolio Tokens",
-      "summary": "Ondo launched three onchain portfolio tokens built on BlackRock-designed strategies, live on Ethereum and BNB Chain. $ONDO rallied over 20% overnight, leading the altcoin bid.",
-      "url": "https://thedefiant.io/news/markets/ondo-blackrock-portfolios-altcoin-bid-bitcoin-84000-sep-24-2026",
-      "token": "$ONDO"
+      "headline": "Bitget Hot Wallet Breach Hits $351M, $BGB in Focus",
+      "summary": "Bitget suspended withdrawals after a $351.6M hot wallet breach across four chains. Cold wallets are safe and a $464M protection fund covers losses, but $BGB traders are on edge.",
+      "url": "https://thedefiant.io/news/cefi/bitget-disables-withdrawals-165-million-one-address-four-chains",
+      "token": "$BGB"
     },
     {
-      "headline": "$FRAX Brings sfrxETH to Robinhood Chain",
-      "summary": "Frax Finance confirmed its staked ETH token sfrxETH is now live on the newly launched Robinhood Chain, expanding $FRAX's reach into the retail-focused L2 ecosystem.",
-      "url": "https://coinfomania.com/frax-finance-sfrxeth-robinhood-chain/",
-      "token": "$FRAX"
+      "headline": "Paxos Labs Launches $PAXGy: Yield-Bearing Tokenized Gold",
+      "summary": "Paxos Labs unveiled $PAXGy, adding lending yield to tokenized gold $PAXG. Holders take borrower-default risk, with redemptions via an approval-gated queue.",
+      "url": "https://thedefiant.io/news/tokens/paxos-labs-launches-paxgy-adding-lending-yield-to-tokenized-gold",
+      "token": "$PAXG"
     },
     {
-      "headline": "$GEAR Teams With Frax for RWA Leverage Market",
-      "summary": "Gearbox and Frax are launching a real-world-asset leverage market, a fresh DeFi use case letting users loop RWA yield. A notable new primitive for $GEAR holders to watch.",
-      "url": "https://coinfomania.com/frax-gearbox-rwa-leverage-market/",
-      "token": "$GEAR"
+      "headline": "KelpDAO Sues LayerZero, $ZRO CEO Calls Claim 'Meritless'",
+      "summary": "KelpDAO filed a BC civil claim against LayerZero, with CEO Bryan Pellegrino also named. He vows to fight the 'meritless' suit as $ZRO watches the fallout.",
+      "url": "https://thedefiant.io/news/regulation/evercrest-files-bc-civil-claim-against-layerzero-and-pellegrino-ceo-says",
+      "token": "$ZRO"
     },
     {
-      "headline": "$ARB Overhauls MEV With Per-Tx Priority Auctions",
-      "summary": "Arbitrum replaced Timeboost with per-transaction priority auctions, routing 97% of priority fees to the DAO treasury. A major tokenomics-adjacent upgrade for $ARB.",
-      "url": "https://thedefiant.io/news/blockchains/arbitrum-replaces-timeboost-with-per-transaction-priority-auctions",
-      "token": "$ARB"
+      "headline": "$FLOKI Now Collateral on Morpho, API3 Confirms",
+      "summary": "API3 says $FLOKI collateralization is live on Morpho, letting holders borrow against the memecoin. A fresh DeFi use case for the dog-themed token.",
+      "url": "https://coinfomania.com/",
+      "token": "$FLOKI"
     },
     {
-      "headline": "$HIFI Raises $37M for Tokenized Capital Markets",
-      "summary": "HIFI closed a $37M Series A led by Left Lane Capital to scale its tokenized settlement infrastructure, one of the bigger recent raises in the RWA altcoin space.",
-      "url": "https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242",
-      "token": "$HIFI"
+      "headline": "Kamino Opens GPU-Backed $sUSDai Market on Solana",
+      "summary": "Kamino launched an Allez Labs-curated market letting $sUSDai holders borrow USDC at up to 80% LTV. GPU-loan-linked collateral brings AI yield to Solana DeFi.",
+      "url": "https://thedefiant.io/news/defi/kamino-opens-gpu-loan-linked-susdai-collateral-market-on-solana",
+      "token": "$SUSDAI"
     }
   ]
 }
