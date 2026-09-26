@@ -5,37 +5,37 @@
       "token": "MEMECARDS",
       "name": "Meme Cards",
       "chain": "solana",
-      "price": 9.678e-06,
-      "mcap": 9333,
+      "price": 9.667e-06,
+      "mcap": 9323,
       "smart_wallets": 6,
-      "vol24": 507305.73,
-      "h1": -45.75,
-      "h6": -83.54,
-      "h24": -83.54
+      "vol24": 507631.74,
+      "h1": -41.32,
+      "h6": -83.55,
+      "h24": -83.55
     },
     {
       "token": "COLONY",
       "name": "The Colony",
       "chain": "solana",
-      "price": 2.311e-05,
-      "mcap": 21553,
+      "price": 2.518e-05,
+      "mcap": 23485,
       "smart_wallets": 23,
-      "vol24": 332177.13,
-      "h1": 49.48,
-      "h6": 157,
-      "h24": -54.01
+      "vol24": 336424.68,
+      "h1": 64.25,
+      "h6": 185,
+      "h24": -49.89
     },
     {
       "token": "CateBrain",
       "name": "CateBrain",
       "chain": "solana",
-      "price": 0.0001334,
-      "mcap": 127617,
+      "price": 7.515e-05,
+      "mcap": 71886,
       "smart_wallets": 18,
-      "vol24": 303192.74,
-      "h1": 133,
-      "h6": 170,
-      "h24": 170
+      "vol24": 318481.38,
+      "h1": 24.29,
+      "h6": 52.34,
+      "h24": 52.34
     },
     {
       "token": "BINK",
@@ -46,44 +46,44 @@
       "smart_wallets": 3,
       "vol24": 275108.24,
       "h1": 0.34,
-      "h6": -96.46,
+      "h6": -96.85,
       "h24": -96.01
     },
     {
       "token": "T",
       "name": "t",
       "chain": "solana",
-      "price": 2.551e-05,
-      "mcap": 24604,
+      "price": 2.423e-05,
+      "mcap": 23365,
       "smart_wallets": 8,
-      "vol24": 153691.38,
-      "h1": -18.8,
-      "h6": -47.14,
-      "h24": -47.14
+      "vol24": 156547.07,
+      "h1": -24.33,
+      "h6": -49.8,
+      "h24": -49.8
     },
     {
       "token": "JIANCO",
       "name": "JIAN COIN",
       "chain": "solana",
-      "price": 0.0001005,
-      "mcap": 94376,
+      "price": 9.826e-05,
+      "mcap": 92212,
       "smart_wallets": 16,
-      "vol24": 87204.25,
-      "h1": 45.6,
-      "h6": 164,
-      "h24": 73.64
+      "vol24": 88688.89,
+      "h1": 32.75,
+      "h6": 145,
+      "h24": 69.66
     },
     {
       "token": "JBMB",
       "name": "JustBeMoreBullish",
       "chain": "solana",
-      "price": 0.0006691,
-      "mcap": 669182,
+      "price": 0.0006721,
+      "mcap": 672097,
       "smart_wallets": 2,
-      "vol24": 42275.68,
-      "h1": 2.87,
-      "h6": -3.33,
-      "h24": 19.73
+      "vol24": 42277.93,
+      "h1": 2.82,
+      "h6": -3.07,
+      "h24": 20.12
     },
     {
       "token": "BELLS",
@@ -118,7 +118,7 @@
       "smart_wallets": 1,
       "vol24": 21656.27,
       "h1": 0,
-      "h6": 39.72,
+      "h6": 40.17,
       "h24": 39.72
     }
   ],
