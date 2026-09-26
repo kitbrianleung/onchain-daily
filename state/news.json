@@ -2,34 +2,34 @@
   "date": "26 SEP 2026",
   "items": [
     {
-      "headline": "$NEAR Soars as Bitwise ETF Wins NYSE Arca Listing",
-      "summary": "Bitwise's $NEAR ETF got approved to list and trade on NYSE Arca, sending the token sharply higher as institutional access widens.",
-      "url": "https://coingape.com/",
-      "token": "$NEAR"
+      "headline": "$ALPHA DeFi Protocol AlphaFi Winds Down After Oracle Error",
+      "summary": "Sui-based AlphaFi is shutting down after an oracle error, disabling new deposits and loans. Slush users are urged to exit four strategies with immediate withdrawals.",
+      "url": "https://thedefiant.io/news/defi/alphafi-winds-down-after-oracle-error-with-sui-foundation-support",
+      "token": "$ALPHA"
     },
     {
-      "headline": "$ENA: Ethena Adds Equity Perps to USDe Backing",
-      "summary": "Ethena is expanding $USDe's backing strategy into Binance bStocks and short equity perpetuals, a new twist on its basis trade.",
-      "url": "https://thedefiant.io/news/defi/ethena-starts-equity-basis-rollout-for-usde-with-binance",
+      "headline": "$ADA DEX Volume Explodes 148% in Just One Week",
+      "summary": "Cardano's decentralized exchange volume surged 148% over the past week, signaling fresh onchain momentum for the $ADA ecosystem.",
+      "url": "https://thecryptobasic.com",
+      "token": "$ADA"
+    },
+    {
+      "headline": "$CRO Jumps 6% on Crypto.com CFTC Equity Perps Filing",
+      "summary": "$CRO climbed 6% after Crypto.com filed with the CFTC to offer US equity perpetuals, expanding its derivatives ambitions.",
+      "url": "https://cryptopotato.com",
+      "token": "$CRO"
+    },
+    {
+      "headline": "$ENA Expands USDe Backing Into bStocks & Equity Perps",
+      "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade backing $USDe, pushing its delta-neutral strategy into equities.",
+      "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
       "token": "$ENA"
     },
     {
-      "headline": "$ZRO Sued by KelpDAO Over $292M rsETH Exploit",
-      "summary": "KelpDAO sued LayerZero and CEO Bryan Pellegrino, alleging they endorsed in writing the bridge setup behind the $292M rsETH exploit.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
-      "token": "$ZRO"
-    },
-    {
-      "headline": "$ONDO Launches BlackRock-Built Portfolio Tokens",
-      "summary": "Ondo rolled out three onchain portfolio tokens based on BlackRock model strategies, live on Ethereum and BNB Chain for non-US investors.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-launches-tokenized-portfolios-built-on-blackrock-strategies",
-      "token": "$ONDO"
-    },
-    {
-      "headline": "$ME Exploit Scare: $5.7M in NFTs Rescued",
-      "summary": "Legacy Magic Eden approvals exposed $5.7M in NFTs to an exploit before whitehats secured 23,155 tokens. Holders must revoke old approvals.",
-      "url": "https://thedefiant.io/news/hacks/legacy-magic-eden-approvals-exploited-as-white-hats-rescue-nfts",
-      "token": "$ME"
+      "headline": "$BGB Shock: Bitget Confirms $387.5M Hot Wallet Breach",
+      "summary": "Bitget raised its hack estimate to $387.5M as token accounting widened, with withdrawals still paused. The exchange says its User Protection Fund will cover losses.",
+      "url": "https://thedefiant.io/news/hacks/bitget-raises-hack-estimate-to-387-5-million-as-token-accounting-widens",
+      "token": "$BGB"
     }
   ]
 }
