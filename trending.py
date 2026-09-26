@@ -48,6 +48,7 @@ TEXT = (235, 238, 255)
 
 OPENROUTER_API_KEY = os.environ["OPENROUTER_API_KEY"]
 IG_ACCESS_TOKEN    = os.environ.get("IG_ACCESS_TOKEN", "")
+print(IG_ACCESS_TOKEN)
 IG_USER_ID         = os.environ.get("IG_USER_ID", "")
 IG_API_VERSION     = os.environ.get("IG_API_VERSION", "v23.0")
 GRAPH              = f"https://graph.instagram.com/{IG_API_VERSION}"
