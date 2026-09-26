@@ -2,34 +2,34 @@
   "date": "26 SEP 2026",
   "items": [
     {
-      "headline": "$ALPHA DeFi Protocol AlphaFi Winds Down After Oracle Error",
-      "summary": "Sui-based AlphaFi is shutting down after an oracle error, disabling new deposits and loans. Slush users are urged to exit four strategies with immediate withdrawals.",
-      "url": "https://thedefiant.io/news/defi/alphafi-winds-down-after-oracle-error-with-sui-foundation-support",
-      "token": "$ALPHA"
+      "headline": "$MORPHO Drama: AI Tool Posts 'Broken Model' Rant",
+      "summary": "Morpho blamed an AI marketing tool for a deleted X post calling its curator business model unsustainable. $AAVE founder Stani Kulechov dubbed it the most bearish take for $MORPHO holders.",
+      "url": "https://thedefiant.io/news/defi/morpho-blames-ai-marketing-tool-for-deleted-post-saying-its-own-curator-business-model-is-broken",
+      "token": "$MORPHO"
     },
     {
-      "headline": "$ADA DEX Volume Explodes 148% in Just One Week",
-      "summary": "Cardano's decentralized exchange volume surged 148% over the past week, signaling fresh onchain momentum for the $ADA ecosystem.",
-      "url": "https://thecryptobasic.com",
-      "token": "$ADA"
+      "headline": "$ME Legacy Approvals Exploited, $5.7M in NFTs Rescued",
+      "summary": "Legacy Magic Eden approvals left $5.7M in NFTs exposed to an exploit before white hats stepped in to rescue the assets. Users with old $ME marketplace approvals should revoke them now.",
+      "url": "https://www.theblock.co/news/web3",
+      "token": "$ME"
     },
     {
-      "headline": "$CRO Jumps 6% on Crypto.com CFTC Equity Perps Filing",
-      "summary": "$CRO climbed 6% after Crypto.com filed with the CFTC to offer US equity perpetuals, expanding its derivatives ambitions.",
-      "url": "https://cryptopotato.com",
-      "token": "$CRO"
+      "headline": "$AAVE V4 on Base Adds Tokenized Stocks as Collateral",
+      "summary": "Aave V4 on Base now accepts Coinbase tokenized stocks as collateral for USDC loans, a fresh DeFi use case bridging equities and onchain borrowing. Big unlock for $AAVE's RWA push.",
+      "url": "https://www.theblock.co/post/aave-v4-base-coinbase-tokenized-stocks-usdc-loans",
+      "token": "$AAVE"
     },
     {
-      "headline": "$ENA Expands USDe Backing Into bStocks & Equity Perps",
-      "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade backing $USDe, pushing its delta-neutral strategy into equities.",
-      "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
-      "token": "$ENA"
+      "headline": "$SOL Alpenglow Upgrade Hits Devnet, Mainnet Next",
+      "summary": "Solana's Alpenglow consensus upgrade is live on devnet, moving validator voting off-chain for ~150ms settlement. Anza is urging devs to test ahead of the $SOL mainnet migration.",
+      "url": "https://thedefiant.io/news/blockchains/solana-s-alpenglow-goes-live-on-devnet-ahead-of-mainnet-migration",
+      "token": "$SOL"
     },
     {
-      "headline": "$BGB Shock: Bitget Confirms $387.5M Hot Wallet Breach",
-      "summary": "Bitget raised its hack estimate to $387.5M as token accounting widened, with withdrawals still paused. The exchange says its User Protection Fund will cover losses.",
-      "url": "https://thedefiant.io/news/hacks/bitget-raises-hack-estimate-to-387-5-million-as-token-accounting-widens",
-      "token": "$BGB"
+      "headline": "Kalshi Loses Appeal in Ohio, Tennessee Betting Fight",
+      "summary": "A federal appeals court ruled Kalshi hasn't shown its sports event contracts are swaps under the Commodity Exchange Act, widening a circuit split with big implications for prediction markets.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937",
+      "token": "Kalshi"
     }
   ]
 }
