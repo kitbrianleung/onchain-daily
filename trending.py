@@ -46,11 +46,13 @@ GREEN = (72, 219, 120)
 RED = (255, 104, 116)
 TEXT = (235, 238, 255)
 
-IG_ACCESS_TOKEN = os.environ["IG_ACCESS_TOKEN"]
-IG_USER_ID = os.environ["IG_USER_ID"]
+OPENROUTER_API_KEY = os.environ["OPENROUTER_API_KEY"]
+IG_ACCESS_TOKEN    = os.environ.get("IG_ACCESS_TOKEN", "")
+IG_USER_ID         = os.environ.get("IG_USER_ID", "")
+IG_API_VERSION     = os.environ.get("IG_API_VERSION", "v23.0")
+GRAPH              = f"https://graph.instagram.com/{IG_API_VERSION}"
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN", "")
-OPENROUTER_API_KEY = os.environ["OPENROUTER_API_KEY"]
 GMGN_API_KEY = os.environ.get("GMGN_API_KEY", "")
 
 REPO_NAME = os.environ.get("GITHUB_REPOSITORY", "kitbrianleung/onchain-daily")
