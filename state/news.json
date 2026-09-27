@@ -1,35 +1,35 @@
 {
-  "date": "27 SEP 2026",
+  "date": "28 SEP 2026",
   "items": [
     {
-      "headline": "$MNT Tokenized Assets Explode From 71 to 1,473 in 2026",
-      "summary": "Mantle reports its tokenized asset count has jumped over 20x this year, signaling rapid RWA growth on the $MNT network.",
-      "url": "https://newsbtc.com",
-      "token": "$MNT"
+      "headline": "$RUNE: THORChain Refuses Bitget's Hacker-Address Block",
+      "summary": "THORChain pushed back on Bitget's demand to block flagged hacker addresses, even as one completed an XRP-to-BTC swap. OKX's Star Xu challenged $RUNE's Bitcoin comparison.",
+      "url": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses",
+      "token": "$RUNE"
     },
     {
-      "headline": "$FLR Mints 145M FXRP as DeFi Push Accelerates",
-      "summary": "Flare has minted 145M FXRP, massively expanding its DeFi footprint and drawing fresh attention to the $FLR ecosystem.",
-      "url": "https://coinpaper.com",
-      "token": "$FLR"
+      "headline": "$DOGE ETFs Notch Record Week Despite Bitwise Exit",
+      "summary": "Dogecoin ETFs posted record weekly inflows even as Bitwise signaled exit plans. Traders are watching whether $DOGE price finally reacts to the demand spike.",
+      "url": "https://beincrypto.com/",
+      "token": "$DOGE"
     },
     {
-      "headline": "$APE Ecosystem Under the Microscope Before ApeFest",
-      "summary": "A fresh deep-dive assesses what's left of the $APE and ApeChain ecosystem just three weeks before ApeFest kicks off.",
-      "url": "https://cryptoticker.io",
-      "token": "$APE"
+      "headline": "$ETH to 2030: Buterin's 'Cryptographic World Computer'",
+      "summary": "Vitalik Buterin said Ethereum is \"really not just a blockchain anymore,\" mapping a post-Hegota path built on proof aggregation, censorship resistance and wallet flexibility for $ETH.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
+      "token": "$ETH"
     },
     {
-      "headline": "$HBAR Donates CLPR Project to Linux Foundation",
-      "summary": "Hedera has contributed its CLPR project to the Linux Foundation, a notable open-source credibility boost for $HBAR.",
-      "url": "https://cryptonews.net",
-      "token": "$HBAR"
+      "headline": "$MORPHO Blames AI Tool for Deleted Curator Post",
+      "summary": "Morpho says an AI marketing tool authored a deleted post that called its own curator business model broken, stirring fresh debate around $MORPHO's DeFi lending design.",
+      "url": "https://thedefiant.io/",
+      "token": "$MORPHO"
     },
     {
-      "headline": "$ME Legacy Approvals Exploited, $5.7M in NFTs Rescued",
-      "summary": "Magic Eden legacy approvals left $5.7M in NFTs exposed before whitehats rescued 23,155 tokens. $ME users should revoke old approvals.",
-      "url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
-      "token": "$ME"
+      "headline": "$AAVE V4 on Base Adds Coinbase Tokenized Stocks",
+      "summary": "Coinbase tokenized stocks went live on Aave V4 via Base, expanding blue-chip DeFi collateral options and putting $AAVE at the center of the RWA lending push.",
+      "url": "https://cryptobriefing.com/",
+      "token": "$AAVE"
     }
   ]
 }
