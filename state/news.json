@@ -1,35 +1,35 @@
 {
-  "date": "26 SEP 2026",
+  "date": "27 SEP 2026",
   "items": [
     {
-      "headline": "$MORPHO Drama: AI Tool Posts 'Broken Model' Rant",
-      "summary": "Morpho blamed an AI marketing tool for a deleted X post calling its curator business model unsustainable. $AAVE founder Stani Kulechov dubbed it the most bearish take for $MORPHO holders.",
-      "url": "https://thedefiant.io/news/defi/morpho-blames-ai-marketing-tool-for-deleted-post-saying-its-own-curator-business-model-is-broken",
-      "token": "$MORPHO"
+      "headline": "$MNT Tokenized Assets Explode From 71 to 1,473 in 2026",
+      "summary": "Mantle reports its tokenized asset count has jumped over 20x this year, signaling rapid RWA growth on the $MNT network.",
+      "url": "https://newsbtc.com",
+      "token": "$MNT"
+    },
+    {
+      "headline": "$FLR Mints 145M FXRP as DeFi Push Accelerates",
+      "summary": "Flare has minted 145M FXRP, massively expanding its DeFi footprint and drawing fresh attention to the $FLR ecosystem.",
+      "url": "https://coinpaper.com",
+      "token": "$FLR"
+    },
+    {
+      "headline": "$APE Ecosystem Under the Microscope Before ApeFest",
+      "summary": "A fresh deep-dive assesses what's left of the $APE and ApeChain ecosystem just three weeks before ApeFest kicks off.",
+      "url": "https://cryptoticker.io",
+      "token": "$APE"
+    },
+    {
+      "headline": "$HBAR Donates CLPR Project to Linux Foundation",
+      "summary": "Hedera has contributed its CLPR project to the Linux Foundation, a notable open-source credibility boost for $HBAR.",
+      "url": "https://cryptonews.net",
+      "token": "$HBAR"
     },
     {
       "headline": "$ME Legacy Approvals Exploited, $5.7M in NFTs Rescued",
-      "summary": "Legacy Magic Eden approvals left $5.7M in NFTs exposed to an exploit before white hats stepped in to rescue the assets. Users with old $ME marketplace approvals should revoke them now.",
-      "url": "https://www.theblock.co/news/web3",
+      "summary": "Magic Eden legacy approvals left $5.7M in NFTs exposed before whitehats rescued 23,155 tokens. $ME users should revoke old approvals.",
+      "url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
       "token": "$ME"
-    },
-    {
-      "headline": "$AAVE V4 on Base Adds Tokenized Stocks as Collateral",
-      "summary": "Aave V4 on Base now accepts Coinbase tokenized stocks as collateral for USDC loans, a fresh DeFi use case bridging equities and onchain borrowing. Big unlock for $AAVE's RWA push.",
-      "url": "https://www.theblock.co/post/aave-v4-base-coinbase-tokenized-stocks-usdc-loans",
-      "token": "$AAVE"
-    },
-    {
-      "headline": "$SOL Alpenglow Upgrade Hits Devnet, Mainnet Next",
-      "summary": "Solana's Alpenglow consensus upgrade is live on devnet, moving validator voting off-chain for ~150ms settlement. Anza is urging devs to test ahead of the $SOL mainnet migration.",
-      "url": "https://thedefiant.io/news/blockchains/solana-s-alpenglow-goes-live-on-devnet-ahead-of-mainnet-migration",
-      "token": "$SOL"
-    },
-    {
-      "headline": "Kalshi Loses Appeal in Ohio, Tennessee Betting Fight",
-      "summary": "A federal appeals court ruled Kalshi hasn't shown its sports event contracts are swaps under the Commodity Exchange Act, widening a circuit split with big implications for prediction markets.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937",
-      "token": "Kalshi"
     }
   ]
 }
