@@ -2,34 +2,34 @@
   "date": "28 SEP 2026",
   "items": [
     {
-      "headline": "$RUNE: THORChain Refuses Bitget's Hacker-Address Block",
-      "summary": "THORChain pushed back on Bitget's demand to block flagged hacker addresses, even as one completed an XRP-to-BTC swap. OKX's Star Xu challenged $RUNE's Bitcoin comparison.",
-      "url": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses",
-      "token": "$RUNE"
+      "headline": "$PONS Rug Pull: $18.4M Extracted on Robinhood Chain",
+      "summary": "An onchain analyst tied $18.4M in memecoin extractions to one coordinated rug-pull. 10 $PONS V2 launches exempted insider wallets from the anti-sniping tax, letting them scoop most of each supply.",
+      "url": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
+      "token": "$PONS"
     },
     {
-      "headline": "$DOGE ETFs Notch Record Week Despite Bitwise Exit",
-      "summary": "Dogecoin ETFs posted record weekly inflows even as Bitwise signaled exit plans. Traders are watching whether $DOGE price finally reacts to the demand spike.",
-      "url": "https://beincrypto.com/",
-      "token": "$DOGE"
-    },
-    {
-      "headline": "$ETH to 2030: Buterin's 'Cryptographic World Computer'",
-      "summary": "Vitalik Buterin said Ethereum is \"really not just a blockchain anymore,\" mapping a post-Hegota path built on proof aggregation, censorship resistance and wallet flexibility for $ETH.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
-      "token": "$ETH"
-    },
-    {
-      "headline": "$MORPHO Blames AI Tool for Deleted Curator Post",
-      "summary": "Morpho says an AI marketing tool authored a deleted post that called its own curator business model broken, stirring fresh debate around $MORPHO's DeFi lending design.",
-      "url": "https://thedefiant.io/",
-      "token": "$MORPHO"
-    },
-    {
-      "headline": "$AAVE V4 on Base Adds Coinbase Tokenized Stocks",
-      "summary": "Coinbase tokenized stocks went live on Aave V4 via Base, expanding blue-chip DeFi collateral options and putting $AAVE at the center of the RWA lending push.",
-      "url": "https://cryptobriefing.com/",
+      "headline": "$AAVE Stock-Token Loans Carry Weekend Price-Gap Risk",
+      "summary": "$AAVE's live tokenized stock lending markets expose USDC lenders to weekend price gaps while equity markets are closed — a new DeFi use case with fresh risk.",
+      "url": "https://cryptoslate.com/aaves-live-stock-token-loans-expose-usdc-lenders-to-a-weekend-price-gap/",
       "token": "$AAVE"
+    },
+    {
+      "headline": "$JUP's Kash Dhanda on DeFi's Mainstream Path",
+      "summary": "Jupiter Exchange's Kash Dhanda lays out how DeFi can attract mainstream users, spotlighting Solana's top DEX aggregator $JUP and its growth push.",
+      "url": "https://coinfomania.com/jupiter-exchange-kash-dhanda-defi-interview/",
+      "token": "$JUP"
+    },
+    {
+      "headline": "$STRK Challenge Slashes Quantum-Safe Compute by 79%",
+      "summary": "StarkWare's AI-assisted contest cut the compute estimate for quantum-safe Bitcoin proofs by 79%, targeting offchain GPU work — a big technical win for the $STRK ecosystem.",
+      "url": "https://thedefiant.io/news/blockchains/starkware-challenge-cuts-quantum-safe-bitcoin-compute-estimate-by-79",
+      "token": "$STRK"
+    },
+    {
+      "headline": "Buterin Maps $ETH's Post-Hegota 'World Computer'",
+      "summary": "Vitalik Buterin outlined Ethereum's path beyond the Hegota upgrade — censorship resistance, wallet flexibility and proof aggregation — a major roadmap moment for $ETH.",
+      "url": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
+      "token": "$ETH"
     }
   ]
 }
