@@ -1,35 +1,35 @@
 {
-  "date": "28 SEP 2026",
+  "date": "29 SEP 2026",
   "items": [
     {
-      "headline": "$PONS Rug Pull: $18.4M Extracted on Robinhood Chain",
-      "summary": "An onchain analyst tied $18.4M in memecoin extractions to one coordinated rug-pull. 10 $PONS V2 launches exempted insider wallets from the anti-sniping tax, letting them scoop most of each supply.",
-      "url": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
-      "token": "$PONS"
+      "headline": "$GIWA Fake L2 Bridge Drained of 766 ETH in Scam",
+      "summary": "A fake $GIWA Layer 2 bridge was drained of 766 ETH after DYORSWAP mistook it for the Upbit-backed project. The platform promises 40% reimbursement for wallets that bridged under 5 ETH.",
+      "url": "https://thedefiant.io/news/security/fake-giwa-layer-2-bridge-drained-of-766-eth",
+      "token": "$GIWA"
     },
     {
-      "headline": "$AAVE Stock-Token Loans Carry Weekend Price-Gap Risk",
-      "summary": "$AAVE's live tokenized stock lending markets expose USDC lenders to weekend price gaps while equity markets are closed — a new DeFi use case with fresh risk.",
-      "url": "https://cryptoslate.com/aaves-live-stock-token-loans-expose-usdc-lenders-to-a-weekend-price-gap/",
-      "token": "$AAVE"
+      "headline": "$LINK Launches CCIP 2.0 With Faster Transfers",
+      "summary": "$LINK's Chainlink rolled out CCIP 2.0 with custom verifiers and faster cross-chain transfers. Existing integrations keep working, while new token-pool controls require an opt-in upgrade.",
+      "url": "https://thedefiant.io/news/infrastructure/chainlink-launches-ccip-2-0-with-custom-verifiers-and-faster-transfers",
+      "token": "$LINK"
     },
     {
-      "headline": "$JUP's Kash Dhanda on DeFi's Mainstream Path",
-      "summary": "Jupiter Exchange's Kash Dhanda lays out how DeFi can attract mainstream users, spotlighting Solana's top DEX aggregator $JUP and its growth push.",
-      "url": "https://coinfomania.com/jupiter-exchange-kash-dhanda-defi-interview/",
-      "token": "$JUP"
+      "headline": "$POL Staking Rate Boosted to 7.7% for Two Months",
+      "summary": "Polygon plans a two-month boost lifting gross $POL staking rewards to 7.7%, up from a ~3% baseline. The fee-funded increase rewards stake held during the window.",
+      "url": "https://thedefiant.io/news/blockchains/polygon-plans-two-month-boost-to-7-7-gross-pol-staking-rate",
+      "token": "$POL"
     },
     {
-      "headline": "$STRK Challenge Slashes Quantum-Safe Compute by 79%",
-      "summary": "StarkWare's AI-assisted contest cut the compute estimate for quantum-safe Bitcoin proofs by 79%, targeting offchain GPU work — a big technical win for the $STRK ecosystem.",
-      "url": "https://thedefiant.io/news/blockchains/starkware-challenge-cuts-quantum-safe-bitcoin-compute-estimate-by-79",
-      "token": "$STRK"
+      "headline": "$NEAR ETF by Bitwise Clears Listing Hurdles",
+      "summary": "Bitwise's $NEAR ETF cleared listing and registration hurdles, with plans to stake its holdings. The fund carries a 0.75% management fee plus a charge on staking rewards.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-near-etf-clears-listing-and-registration-hurdles",
+      "token": "$NEAR"
     },
     {
-      "headline": "Buterin Maps $ETH's Post-Hegota 'World Computer'",
-      "summary": "Vitalik Buterin outlined Ethereum's path beyond the Hegota upgrade — censorship resistance, wallet flexibility and proof aggregation — a major roadmap moment for $ETH.",
-      "url": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
-      "token": "$ETH"
+      "headline": "$ONDO Perps Adds Spot Trading for 12 Tokenized Stocks",
+      "summary": "$ONDO Perps added spot trading for 12 tokenized stocks and ETFs, letting traders use purchased tokens as collateral for short perp positions. Spot fees are waived for the first 30 days.",
+      "url": "https://thedefiant.io/news/defi/ondo-perps-adds-spot-trading-for-12-tokenized-stocks-and-etfs",
+      "token": "$ONDO"
     }
   ]
 }
