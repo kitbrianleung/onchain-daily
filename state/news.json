@@ -1,35 +1,35 @@
 {
-  "date": "29 SEP 2026",
+  "date": "30 SEP 2026",
   "items": [
     {
-      "headline": "$PENDLE Drops 34.8% APY on Tokenized Yield Product",
-      "summary": "$PENDLE is turning heads with a new tokenized product advertising a hefty 34.8% APY, as yield-hungry DeFi users pile back into Pendle's markets.",
-      "url": "https://coinfomania.com/pendle-finance-34-8-apy-tokenized/",
-      "token": "$PENDLE"
+      "headline": "Dormant $QNT Whales Move $10M as Quant Price Surges",
+      "summary": "Whales dormant for three years moved nearly $10M in $QNT as Quant's price surged. Onchain watchers are eyeing whether more old wallets wake up.",
+      "url": "https://thecryptobasic.com/2026/09/29/dormant-qnt-whales-move-nearly-10m-after-3-years-as-quant-price-surges/",
+      "token": "$QNT"
     },
     {
-      "headline": "$SPK Expands $USDS Activity With New $1B Pool",
-      "summary": "Spark Finance is scaling its $USDS stablecoin ecosystem with a fresh $1B pool, marking one of the biggest DeFi liquidity expansions this week. $SPK holders are watching closely.",
-      "url": "https://coinfomania.com/spark-finance-usds-1b-pool/",
-      "token": "$SPK"
+      "headline": "$AZTEC Relaunches zk.money Privacy Wallet on Ethereum L2",
+      "summary": "Aztec Labs relaunched zk.money, a self-custodial privacy wallet, on its Ethereum Layer 2, three years after shutting the original. Privacy DeFi is back for $AZTEC.",
+      "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
+      "token": "$AZTEC"
     },
     {
-      "headline": "$AAVE Adds Stablecoin Deposits to Its Mobile App",
-      "summary": "$AAVE now lets users deposit stablecoins directly in its mobile app, pushing DeFi lending further into mainstream retail territory.",
-      "url": "https://coinfomania.com/aave-launches-usdc-usdt-deposits-mobile-app/",
-      "token": "$AAVE"
+      "headline": "Coinbase Adds $HYPE as Collateral for $100K Loans",
+      "summary": "Coinbase now lets eligible US users borrow up to $100,000 against $HYPE and $ZEC via Morpho on Base, a fresh DeFi use case for the Hyperliquid token.",
+      "url": "https://thedefiant.io/news/defi/coinbase-adds-hype-and-zec-as-collateral-for-loans-of-up-to-100-000",
+      "token": "$HYPE"
     },
     {
-      "headline": "$JUP Exec Lays Out DeFi's Path to Mainstream Users",
-      "summary": "Jupiter Exchange's Kash Dhanda breaks down how Solana DeFi can onboard the next wave of users, with $JUP at the center of the ecosystem's push.",
-      "url": "https://coinfomania.com/jupiter-kash-dhanda-defi-path/",
-      "token": "$JUP"
+      "headline": "First US Spot $NEAR ETF Launches With Staking Rewards",
+      "summary": "Bitwise launched NRR, the first US spot $NEAR ETP with a 0.75% fee, staking its holdings in-house so rewards flow to shareholders via NAV.",
+      "url": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
+      "token": "$NEAR"
     },
     {
-      "headline": "$EIGEN Restaking Hype Fades as Profits Dry Up",
-      "summary": "The restaking gold rush is cooling fast — top protocols like $EIGEN are barely turning a profit as yields compress and the hype cycle ends.",
-      "url": "https://www.coindesk.com/",
-      "token": "$EIGEN"
+      "headline": "$SHIB Account Follows Tiny Token, Memecoin Buzz Erupts",
+      "summary": "Shiba Inu's official X account followed an obscure token with just 700 followers, sending $SHIB fans into a frenzy of speculation over what comes next.",
+      "url": "https://beincrypto.com/shiba-inu-x-account-followed-token/",
+      "token": "$SHIB"
     }
   ]
 }
