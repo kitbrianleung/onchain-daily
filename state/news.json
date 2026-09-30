@@ -1,35 +1,35 @@
 {
-  "date": "30 SEP 2026",
+  "date": "01 OCT 2026",
   "items": [
     {
-      "headline": "$MIM to Wind Down at 4 Cents on the Dollar",
-      "summary": "Abracadabra proposes liquidating the protocol and paying $MIM holders pro rata, with just $900K recoverable against $21M of bad debt.",
-      "url": "https://thedefiant.io/news/defi/abracadabra-proposes-winding-down-mim-at-four-cents-on-the-dollar",
-      "token": "$MIM"
+      "headline": "Standard Chartered Sees 600% Upside for $ENA",
+      "summary": "Standard Chartered initiated coverage of $ENA with a $2 target, forecasting a 7x gain by end-2028 as $USDe scales toward $40B and Ethena's buyback program kicks in at $7.5B supply.",
+      "url": "https://thedefiant.io/news/defi/standard-chartered-initiates-ena-coverage-2-target",
+      "token": "$ENA"
     },
     {
-      "headline": "$BAL Holders Vote to Wind Down Balancer",
-      "summary": "Balancer token holders approved winding down the protocol and rejected an official fork, marking the end of a DeFi OG.",
-      "url": "https://thedefiant.io/news/defi/balancer-holders-approve-wind-down-reject-official-fork",
-      "token": "$BAL"
+      "headline": "$LIT Tumbles 22% as Robinhood Enters Perps Arena",
+      "summary": "Lighter's $LIT dropped 22% over seven days after Robinhood unveiled in-app perpetual futures with up to 10x leverage, heating up competition in the onchain perps space.",
+      "url": "https://thedefiant.io/news/defi/lighter-token-drops-after-robinhood-perps-plan",
+      "token": "$LIT"
     },
     {
-      "headline": "First US Spot $NEAR ETF Launches After 3x Rally",
-      "summary": "Bitwise debuted the first US spot $NEAR ETF after the token nearly tripled since August, riding the Intents volume boom.",
-      "url": "https://decrypt.co",
+      "headline": "Same-Name Error Triggers 92% Liquidations in $BEN Perp",
+      "summary": "Gate's $BEN perp market saw 92% liquidations after a same-name asset error tied to a scheduled dividend adjustment hit 200 accounts. Balance displays are being restored.",
+      "url": "https://thedefiant.io/news/cefi/gate-ben-market-logs-92-liquidations-after-scheduled-dividend-adjustment",
+      "token": "$BEN"
+    },
+    {
+      "headline": "$NEAR Intents Freezes $503K in Bitget Hack Funds",
+      "summary": "$NEAR Intents says it froze $503,000 linked to the Bitget hack, with about $166,000 passing through its swap system. Bitget says NEAR Intents waived its recovery-bounty share.",
+      "url": "https://thedefiant.io/news/hacks/near-intents-says-it-froze-503-000-in-bitget-hack-funds",
       "token": "$NEAR"
     },
     {
-      "headline": "$AZTEC Relaunches zk.money Privacy Wallet on L2",
-      "summary": "Aztec brought back its zk.money privacy wallet on its Ethereum Layer 2, reviving private onchain payments.",
-      "url": "https://www.theblock.co/post/aztec-relaunches-zk-money-privacy-wallet-ethereum-layer-2",
-      "token": "$AZTEC"
-    },
-    {
-      "headline": "$GOMINTLY Debuts Self-Custodial RWA Aggregator",
-      "summary": "GoMintly launched a self-custodial aggregator for tokenized assets, a fresh new DeFi use case in the RWA boom.",
-      "url": "https://coinfomania.com/gomintly-launches-self-custodial-aggregator-for-tokenized/",
-      "token": "$GOMINTLY"
+      "headline": "$BAL Sets Shutdown Dates After Holders Approve Wind-Down",
+      "summary": "Balancer set shutdown dates after $BAL holders approved the protocol wind-down. About $52.4M remains in V2 and V3 pools, with treasury redemptions starting May 2027.",
+      "url": "https://thedefiant.io/news/defi/balancer-sets-shutdown-dates-after-bal-holders-approve-wind-down",
+      "token": "$BAL"
     }
   ]
 }
