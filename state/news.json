@@ -2,34 +2,34 @@
   "date": "30 SEP 2026",
   "items": [
     {
-      "headline": "Dormant $QNT Whales Move $10M as Quant Price Surges",
-      "summary": "Whales dormant for three years moved nearly $10M in $QNT as Quant's price surged. Onchain watchers are eyeing whether more old wallets wake up.",
-      "url": "https://thecryptobasic.com/2026/09/29/dormant-qnt-whales-move-nearly-10m-after-3-years-as-quant-price-surges/",
-      "token": "$QNT"
+      "headline": "$MIM to Wind Down at 4 Cents on the Dollar",
+      "summary": "Abracadabra proposes liquidating the protocol and paying $MIM holders pro rata, with just $900K recoverable against $21M of bad debt.",
+      "url": "https://thedefiant.io/news/defi/abracadabra-proposes-winding-down-mim-at-four-cents-on-the-dollar",
+      "token": "$MIM"
     },
     {
-      "headline": "$AZTEC Relaunches zk.money Privacy Wallet on Ethereum L2",
-      "summary": "Aztec Labs relaunched zk.money, a self-custodial privacy wallet, on its Ethereum Layer 2, three years after shutting the original. Privacy DeFi is back for $AZTEC.",
-      "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
-      "token": "$AZTEC"
+      "headline": "$BAL Holders Vote to Wind Down Balancer",
+      "summary": "Balancer token holders approved winding down the protocol and rejected an official fork, marking the end of a DeFi OG.",
+      "url": "https://thedefiant.io/news/defi/balancer-holders-approve-wind-down-reject-official-fork",
+      "token": "$BAL"
     },
     {
-      "headline": "Coinbase Adds $HYPE as Collateral for $100K Loans",
-      "summary": "Coinbase now lets eligible US users borrow up to $100,000 against $HYPE and $ZEC via Morpho on Base, a fresh DeFi use case for the Hyperliquid token.",
-      "url": "https://thedefiant.io/news/defi/coinbase-adds-hype-and-zec-as-collateral-for-loans-of-up-to-100-000",
-      "token": "$HYPE"
-    },
-    {
-      "headline": "First US Spot $NEAR ETF Launches With Staking Rewards",
-      "summary": "Bitwise launched NRR, the first US spot $NEAR ETP with a 0.75% fee, staking its holdings in-house so rewards flow to shareholders via NAV.",
-      "url": "https://www.theblock.co/news/markets/2026-09-29-bitwise-near-etf-nrr-launch-staking-417150",
+      "headline": "First US Spot $NEAR ETF Launches After 3x Rally",
+      "summary": "Bitwise debuted the first US spot $NEAR ETF after the token nearly tripled since August, riding the Intents volume boom.",
+      "url": "https://decrypt.co",
       "token": "$NEAR"
     },
     {
-      "headline": "$SHIB Account Follows Tiny Token, Memecoin Buzz Erupts",
-      "summary": "Shiba Inu's official X account followed an obscure token with just 700 followers, sending $SHIB fans into a frenzy of speculation over what comes next.",
-      "url": "https://beincrypto.com/shiba-inu-x-account-followed-token/",
-      "token": "$SHIB"
+      "headline": "$AZTEC Relaunches zk.money Privacy Wallet on L2",
+      "summary": "Aztec brought back its zk.money privacy wallet on its Ethereum Layer 2, reviving private onchain payments.",
+      "url": "https://www.theblock.co/post/aztec-relaunches-zk-money-privacy-wallet-ethereum-layer-2",
+      "token": "$AZTEC"
+    },
+    {
+      "headline": "$GOMINTLY Debuts Self-Custodial RWA Aggregator",
+      "summary": "GoMintly launched a self-custodial aggregator for tokenized assets, a fresh new DeFi use case in the RWA boom.",
+      "url": "https://coinfomania.com/gomintly-launches-self-custodial-aggregator-for-tokenized/",
+      "token": "$GOMINTLY"
     }
   ]
 }
