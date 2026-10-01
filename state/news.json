@@ -1,40 +1,35 @@
 {
-  "date": "01 OCT 2026",
+  "date": "02 OCT 2026",
   "items": [
     {
-      "headline": "$JUMPER Token Sale Goes Live at $75M FDV",
-      "summary": "Jumper's long-awaited token sale has opened at a $75M fully diluted valuation, with Route 2 FI sharing early insights. One of the freshest altcoin launches to watch this week.",
-      "url": "https://coinfomania.com/jumper-sale-launches-75m-fdv/",
-      "token": "$JUMPER",
-      "hashtags": "#altcoins #defi #onchain #crypto #alpha #JUMPER #LDO #DRIFT #AAVE #OUSD"
+      "headline": "$NEAR Intents Halts After $3.8M Exploit, Promises Refunds",
+      "summary": "The $NEAR Intents protocol paused services after a $3.8M exploit and pledged full compensation. Deposits and withdrawals on 11 networks face an extended suspension while repairs continue.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
+      "token": "$NEAR"
     },
     {
-      "headline": "MetaMask Staking Exits $LDO Validators After Breach",
-      "summary": "MetaMask is pulling its staking operations off Lido validators after an infrastructure compromise. $LDO estimates the exit and re-entry cycle could take up to 45 days.",
-      "url": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
-      "token": "$LDO",
-      "hashtags": "#altcoins #defi #onchain #crypto #alpha #JUMPER #LDO #DRIFT #AAVE #OUSD"
+      "headline": "DogeOS Testnet Brings EVM Smart Contracts to $DOGE",
+      "summary": "DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with $DOGE used for gas fees. A big DeFi unlock for the original memecoin.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
+      "token": "$DOGE"
     },
     {
-      "headline": "$DRIFT Bounces Back as Solana DeFi TVL Tops $6.5B",
-      "summary": "Solana's DeFi TVL surged past $6.5B as the ecosystem recovers from the $DRIFT hack. A strong rebound signal for one of the chain's key perp DEX tokens.",
-      "url": "https://coinfomania.com/solana-defi-tvl-surges-6-5b-drift-hack-recovery/",
-      "token": "$DRIFT",
-      "hashtags": "#altcoins #defi #onchain #crypto #alpha #JUMPER #LDO #DRIFT #AAVE #OUSD"
+      "headline": "$WLFI Staking Goes Live With 180-Day Locks, $1.25M Pool",
+      "summary": "World Liberty launched $WLFI staking with a planned $1.25M USD1 rewards pool. Holders must open a 180-day lock and cast governance votes to claim rewards, with no fixed payout rate.",
+      "url": "https://thedefiant.io/news/defi/world-liberty-launches-wlfi-staking-plans-1-25m-usd1-pool",
+      "token": "$WLFI"
     },
     {
-      "headline": "Whales Swap $4.26M in WBTC for $AAVE",
-      "summary": "Two whales exchanged $4.26M worth of WBTC for $AAVE in what looks like an emerging accumulation trend. Smart money appears to be rotating into the lending giant's token.",
-      "url": "https://coinfomania.com/two-whales-exchange-4-26m-wbtc-aave/",
-      "token": "$AAVE",
-      "hashtags": "#altcoins #defi #onchain #crypto #alpha #JUMPER #LDO #DRIFT #AAVE #OUSD"
+      "headline": "$DRIFT Opens DFX Claims but Recovery Pool Covers Just 1%",
+      "summary": "The $DRIFT protocol opened DFX claims for exploit victims, but its recovery pool covers only about 1% of losses. Holders can burn DFX to redeem, wait for revenue-funded recovery, or sell.",
+      "url": "https://thedefiant.io/news/defi/drift-opens-dfx-claims-with-recovery-pool-covering-about-1-of-losses",
+      "token": "$DRIFT"
     },
     {
-      "headline": "Uniswap Labs Plans $OUSD Rewards Hook for LPs",
-      "summary": "Uniswap Labs is preparing an $OUSD rewards hook to incentivize liquidity providers. A fresh DeFi use case bringing yield-bearing stablecoin rewards directly into Uniswap pools.",
-      "url": "https://thedefiant.io/news/defi/uniswap-labs-ousd-rewards-hook-liquidity-providers",
-      "token": "$OUSD",
-      "hashtags": "#altcoins #defi #onchain #crypto #alpha #JUMPER #LDO #DRIFT #AAVE #OUSD"
+      "headline": "$MNDE: Marinade Council Blocks Attempted DAO Takeover",
+      "summary": "Marinade says its council vetoed two proposals within six hours to block an attempted takeover of the $MNDE DAO. No funds moved, and its staking services were unaffected.",
+      "url": "https://thedefiant.io/news/defi/marinade-says-council-blocked-dao-takeover-attempt",
+      "token": "$MNDE"
     }
   ]
 }
