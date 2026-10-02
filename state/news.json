@@ -1,35 +1,35 @@
 {
-  "date": "02 OCT 2026",
+  "date": "03 OCT 2026",
   "items": [
     {
-      "headline": "$STX Surges as Muneeb Ali Retakes CEO Role",
-      "summary": "$STX rallied after founder Muneeb Ali returned as CEO of Stacks Labs, reigniting interest in the Bitcoin L2 ecosystem. #altcoins #defi #onchain #crypto #alpha #STX",
-      "url": "https://thecoinrise.com/stacks-price-surges-as-muneeb-ali-retakes-ceo-role-at-stacks-labs/",
-      "token": "$STX"
+      "headline": "Paradigm-Backed $BLAST L2 Shuts Down, Users Told to Exit",
+      "summary": "Ethereum L2 Blast is winding down as costs outpace revenue, with $63.5M still in its bridge. Users have until Oct. 26 to withdraw $BLAST and other assets via the app.",
+      "url": "https://thedefiant.io/news/blockchains/blast-to-shut-down-layer-2-citing-unsustainable-costs",
+      "token": "$BLAST"
     },
     {
-      "headline": "$DOGE Gets EVM Apps as DogeOS Testnet Opens",
-      "summary": "DogeOS opened its public testnet, bringing Ethereum-style zk-rollup apps to $DOGE. A big step toward real DeFi utility for the memecoin giant. #DOGE",
-      "url": "https://blockchainreporter.net/dogeos-opens-public-testnet-for-ethereum-style-apps-on-dogecoin/",
-      "token": "$DOGE"
+      "headline": "Kinetiq Ends kPoints, $KNTQ Dumps 23% on Paid Claim",
+      "summary": "Kinetiq is closing its points program with a paid claim: holders have 10 days to buy $KNTQ at $0.26 from a 50M allocation. The token slid 23% on the news.",
+      "url": "https://thedefiant.io/news/defi/kinetiq-ends-kpoints-with-paid-claim-as-kntq-drops-23",
+      "token": "$KNTQ"
     },
     {
-      "headline": "$NEAR Intents Exploiter Given 48-Hour Ultimatum",
-      "summary": "NEAR Intents' GM says the $3.8M attacker has been identified and posted three addresses for the funds' return. $NEAR users were promised full compensation. #NEAR",
-      "url": "https://thedefiant.io/news/hacks/shevchenko-gives-near-intents-attacker-48-hours",
+      "headline": "Drift Opens $DRIFT Exploit Claims — Only 1% Paid Out",
+      "summary": "Drift has opened DFX recovery claims after its exploit, but initial payouts cover just over 1% of losses. $DRIFT users can cash out now or wait for more funding.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
+      "token": "$DRIFT"
+    },
+    {
+      "headline": "$CFG Confirms Three Tokenized Funds Live on Arc",
+      "summary": "Centrifuge confirmed three tokenized funds — JAAA, JTRSY and HYB — are live on Circle's Arc, spanning Treasuries and credit. A fresh RWA win for $CFG.",
+      "url": "https://thedefiant.io/news/defi/centrifuge-confirms-three-tokenized-funds-are-live-on-arc",
+      "token": "$CFG"
+    },
+    {
+      "headline": "$NEAR Intents Says $3.8M Hack Funds Fully Returned",
+      "summary": "NEAR Intents' GM says the full $3.8M from this week's exploit has been returned, with ~34.59 BTC hitting the recovery wallet. $NEAR's protocol had pledged full compensation.",
+      "url": "https://thedefiant.io/news/hacks/near-intents-gm-says-3-8-million-in-hack-funds-returned-in-full",
       "token": "$NEAR"
-    },
-    {
-      "headline": "$MORPHO Hits $2.3B Valuation on SteakhouseFi",
-      "summary": "$MORPHO reached a $2.3B valuation as SteakhouseFi adoption accelerates, cementing its role as a core DeFi lending primitive. #MORPHO",
-      "url": "https://coinfomania.com/morpho-2-3b-valuation-steakhousefi/",
-      "token": "$MORPHO"
-    },
-    {
-      "headline": "$PENDLE RWA Stack Crosses $1B TVL Milestone",
-      "summary": "$PENDLE's RWA yield stack surpassed $1B in TVL, sparking social buzz as tokenized yield trading keeps growing. #PENDLE",
-      "url": "https://coinfomania.com/pendle-rwa-stack-1b-tvl/",
-      "token": "$PENDLE"
     }
   ]
 }
