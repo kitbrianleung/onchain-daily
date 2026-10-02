@@ -2,34 +2,34 @@
   "date": "02 OCT 2026",
   "items": [
     {
-      "headline": "$NEAR Intents Halts After $3.8M Exploit, Promises Refunds",
-      "summary": "The $NEAR Intents protocol paused services after a $3.8M exploit and pledged full compensation. Deposits and withdrawals on 11 networks face an extended suspension while repairs continue.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
-      "token": "$NEAR"
+      "headline": "$STX Surges as Muneeb Ali Retakes CEO Role",
+      "summary": "$STX rallied after founder Muneeb Ali returned as CEO of Stacks Labs, reigniting interest in the Bitcoin L2 ecosystem. #altcoins #defi #onchain #crypto #alpha #STX",
+      "url": "https://thecoinrise.com/stacks-price-surges-as-muneeb-ali-retakes-ceo-role-at-stacks-labs/",
+      "token": "$STX"
     },
     {
-      "headline": "DogeOS Testnet Brings EVM Smart Contracts to $DOGE",
-      "summary": "DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with $DOGE used for gas fees. A big DeFi unlock for the original memecoin.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
+      "headline": "$DOGE Gets EVM Apps as DogeOS Testnet Opens",
+      "summary": "DogeOS opened its public testnet, bringing Ethereum-style zk-rollup apps to $DOGE. A big step toward real DeFi utility for the memecoin giant. #DOGE",
+      "url": "https://blockchainreporter.net/dogeos-opens-public-testnet-for-ethereum-style-apps-on-dogecoin/",
       "token": "$DOGE"
     },
     {
-      "headline": "$WLFI Staking Goes Live With 180-Day Locks, $1.25M Pool",
-      "summary": "World Liberty launched $WLFI staking with a planned $1.25M USD1 rewards pool. Holders must open a 180-day lock and cast governance votes to claim rewards, with no fixed payout rate.",
-      "url": "https://thedefiant.io/news/defi/world-liberty-launches-wlfi-staking-plans-1-25m-usd1-pool",
-      "token": "$WLFI"
+      "headline": "$NEAR Intents Exploiter Given 48-Hour Ultimatum",
+      "summary": "NEAR Intents' GM says the $3.8M attacker has been identified and posted three addresses for the funds' return. $NEAR users were promised full compensation. #NEAR",
+      "url": "https://thedefiant.io/news/hacks/shevchenko-gives-near-intents-attacker-48-hours",
+      "token": "$NEAR"
     },
     {
-      "headline": "$DRIFT Opens DFX Claims but Recovery Pool Covers Just 1%",
-      "summary": "The $DRIFT protocol opened DFX claims for exploit victims, but its recovery pool covers only about 1% of losses. Holders can burn DFX to redeem, wait for revenue-funded recovery, or sell.",
-      "url": "https://thedefiant.io/news/defi/drift-opens-dfx-claims-with-recovery-pool-covering-about-1-of-losses",
-      "token": "$DRIFT"
+      "headline": "$MORPHO Hits $2.3B Valuation on SteakhouseFi",
+      "summary": "$MORPHO reached a $2.3B valuation as SteakhouseFi adoption accelerates, cementing its role as a core DeFi lending primitive. #MORPHO",
+      "url": "https://coinfomania.com/morpho-2-3b-valuation-steakhousefi/",
+      "token": "$MORPHO"
     },
     {
-      "headline": "$MNDE: Marinade Council Blocks Attempted DAO Takeover",
-      "summary": "Marinade says its council vetoed two proposals within six hours to block an attempted takeover of the $MNDE DAO. No funds moved, and its staking services were unaffected.",
-      "url": "https://thedefiant.io/news/defi/marinade-says-council-blocked-dao-takeover-attempt",
-      "token": "$MNDE"
+      "headline": "$PENDLE RWA Stack Crosses $1B TVL Milestone",
+      "summary": "$PENDLE's RWA yield stack surpassed $1B in TVL, sparking social buzz as tokenized yield trading keeps growing. #PENDLE",
+      "url": "https://coinfomania.com/pendle-rwa-stack-1b-tvl/",
+      "token": "$PENDLE"
     }
   ]
 }
