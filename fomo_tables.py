@@ -1,14 +1,23 @@
 #!/usr/bin/env python3
-"""fomo_tables.py — FOMO 'Most Held' + 'Trending' tokens, one IG story (1080x1920).
+"""fomo_tables.py — FOMO 'Most Held' + 'Trending' tokens → one IG story (1080x1920).
 
-Secrets needed: FOMO_API_KEY, IG_ACCESS_TOKEN, IG_USER_ID,
-                SUPABASE_URL, SUPABASE_SERVICE_KEY, DISCORD_WEBHOOK_URL
+Mirrors trending.py's architecture:
+  generate → render PNG, save to images/fomo/story.png, git commit + push
+  publish  → fetch image (Actions cache → raw URL → local), publish IG story
+
+Secrets needed: FOMO_API_KEY, IG_ACCESS_TOKEN, IG_USER_ID
+(GITHUB_TOKEN is provided automatically by Actions)
 """
 
-import io
+import base64
+import json
 import os
+import subprocess
+import sys
 import textwrap
+import time
 from datetime import datetime, timezone
+from pathlib import Path
 
 import requests
 from PIL import Image, ImageDraw, ImageFont
@@ -18,10 +27,14 @@ from PIL import Image, ImageDraw, ImageFont
 FOMO_API_KEY = os.environ.get("FOMO_API_KEY", "")
 IG_ACCESS_TOKEN = os.environ.get("IG_ACCESS_TOKEN", "")
 IG_USER_ID = os.environ.get("IG_USER_ID", "")
-SUPABASE_URL = os.environ.get("SUPABASE_URL", "").rstrip("/")
-SUPABASE_SERVICE_KEY = os.environ.get("SUPABASE_SERVICE_KEY", "")
+GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
-SUPABASE_BUCKET = "onchain-daily"
+
+IMAGE_BASE_URL = os.environ.get(
+    "IMAGE_BASE_URL",
+    f"https://raw.githubusercontent.com/{GITHUB_REPOSITORY}/main/images",
+).rstrip("/")
 
 IG_API = "https://graph.instagram.com/v26.0"
 
@@ -82,7 +95,6 @@ def fmt_pct(v):
 # ─────────────────────── FOMO API FETCH ─────────────────────────
 
 def fomo_get(path: str) -> list[dict]:
-    """GET one FOMO token board; return normalised rows for rendering."""
     url = f"{FOMO_BASE}{path}"
     r = requests.get(
         url,
@@ -212,31 +224,32 @@ def render_story(held: list[dict], trending: list[dict]) -> Image.Image:
            font=_font(24), fill=(100, 106, 128))
     return img
 
-# ─────────────────── SUPABASE + INSTAGRAM ───────────────────────
+# ─────────────────────── GIT PUBLISH ────────────────────────────
+# Same pattern as trending.py: commit image to repo, serve via raw.githubusercontent.
 
-def upload_png(img: Image.Image, key: str) -> str:
-    buf = io.BytesIO()
-    img.save(buf, format="PNG")
-    data = buf.getvalue()
-    path = f"{SUPABASE_URL}/storage/v1/object/{SUPABASE_BUCKET}/{key}"
-    hdrs = {
-        "apikey": SUPABASE_SERVICE_KEY,
-        "Authorization": f"Bearer {SUPABASE_SERVICE_KEY}",
-        "Content-Type": "image/png",
-    }
-    r = requests.post(path, headers={**hdrs, "x-upsert": "false"}, data=data, timeout=60)
-    if r.status_code == 400 and "Duplicate" in r.text:
-        r = requests.put(path, headers=hdrs, data=data, timeout=60)
-    r.raise_for_status()
-    return f"{SUPABASE_URL}/storage/v1/object/public/{SUPABASE_BUCKET}/{key}"
+def _git(*args) -> None:
+    subprocess.run(["git", *args], check=True)
 
 
-def ig_create(image_url: str, is_story: bool) -> str:
+def git_push_images() -> None:
+    _git("config", "user.name", "github-actions[bot]")
+    _git("config", "user.email",
+         "41898282+github-actions[bot]@users.noreply.github.com")
+    _git("add", "images/fomo/")
+    if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
+        log("no image changes to commit")
+        return
+    _git("commit", "-m", "fomo: update leaderboard images [skip ci]")
+    _git("push")
+
+# ─────────────────── INSTAGRAM (same as trending.py) ────────────
+
+def ig_create(image_url: str) -> str:
     r = requests.post(
         f"{IG_API}/{IG_USER_ID}/media",
         data={
             "image_url": image_url,
-            "media_type": "STORIES" if is_story else "IMAGE",
+            "media_type": "STORIES",
             "access_token": IG_ACCESS_TOKEN,
         },
         timeout=60,
@@ -246,21 +259,23 @@ def ig_create(image_url: str, is_story: bool) -> str:
     return r.json()["id"]
 
 
-def ig_wait_ready(cid: str) -> None:
-    import time
-    for _ in range(30):
+def ig_wait_ready(cid: str, timeout_s: int = 300) -> None:
+    deadline = time.time() + timeout_s
+    while time.time() < deadline:
         r = requests.get(
             f"{IG_API}/{cid}",
             params={"fields": "status_code", "access_token": IG_ACCESS_TOKEN},
             timeout=30,
         )
-        status = r.json().get("status_code", "")
+        if r.status_code != 200:
+            raise RuntimeError(f"IG status failed: {r.status_code}: {r.text[:200]}")
+        status = r.json().get("status_code")
         if status == "FINISHED":
             return
         if status == "ERROR":
             raise RuntimeError(f"IG container error: {r.text[:200]}")
-        time.sleep(5)
-    raise RuntimeError("IG container timed out")
+        time.sleep(4)
+    raise RuntimeError("IG container timeout")
 
 
 def ig_publish(cid: str) -> str:
@@ -273,12 +288,11 @@ def ig_publish(cid: str) -> str:
         raise RuntimeError(f"IG publish failed: {r.status_code}: {r.text[:300]}")
     return r.json()["id"]
 
-# ──────────────────────────── MAIN ──────────────────────────────
+# ──────────────────────────── COMMANDS ──────────────────────────
 
-def main() -> None:
-    if not all([FOMO_API_KEY, IG_ACCESS_TOKEN, IG_USER_ID, SUPABASE_URL, SUPABASE_SERVICE_KEY]):
-        raise SystemExit("Missing env vars: need FOMO_API_KEY, IG_ACCESS_TOKEN, "
-                         "IG_USER_ID, SUPABASE_URL, SUPABASE_SERVICE_KEY")
+def cmd_generate() -> None:
+    if not FOMO_API_KEY:
+        raise SystemExit("Missing env var: FOMO_API_KEY")
 
     log("Fetching FOMO leaderboards…")
     held = fomo_get(FOMO_MOST_HELD_PATH)
@@ -287,21 +301,42 @@ def main() -> None:
 
     img = render_story(held, trending)
 
-    key = f"fomo/{datetime.now(timezone.utc):%Y-%m-%d}.png"
-    story_url = upload_png(img, key)
-    log(f"uploaded: {story_url}")
+    out_dir = Path("images/fomo")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    img.save(out_dir / "story.png")
+    (out_dir / "meta.json").write_text(json.dumps({
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "most_held": held,
+        "trending": trending,
+    }, indent=2))
+    log("rendered images/fomo/story.png")
 
-    cid = ig_create(story_url, is_story=True)
+    git_push_images()
+
+
+def cmd_publish() -> None:
+    if not IG_ACCESS_TOKEN or not IG_USER_ID:
+        raise SystemExit("Missing env vars: IG_ACCESS_TOKEN, IG_USER_ID")
+
+    # Cache-bust GitHub's raw-file CDN, same as trending.py
+    story_url = f"{IMAGE_BASE_URL}/fomo/story.png?ts={int(time.time())}"
+    log(f"story url: {story_url}")
+
+    cid = ig_create(story_url)
+    log(f"story container: {cid}")
     ig_wait_ready(cid)
-    media_id = ig_publish(cid)
-    log(f"published story: {media_id}")
+    story_mid = ig_publish(cid)
+    log(f"published story: {story_mid}")
 
-    notify(f"✅ FOMO leaderboards story posted (media id {media_id})\n{story_url}")
+    notify(f"✅ FOMO leaderboards story posted (media id {story_mid})\n{story_url}")
 
 
 if __name__ == "__main__":
+    cmd = {"generate": cmd_generate, "publish": cmd_publish}.get(sys.argv[1] if len(sys.argv) > 1 else "")
+    if not cmd:
+        raise SystemExit("Usage: python fomo_tables.py [generate|publish]")
     try:
-        main()
+        cmd()
     except Exception as e:
         notify(f"❌ FOMO leaderboards FAILED:\n```{e}```")
         raise
