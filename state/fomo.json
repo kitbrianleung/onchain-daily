@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-03",
+  "most_held": [
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 187575859.316255,
+      "pct": -9.4474
+    },
+    {
+      "name": "Artificial Inu",
+      "symbol": "AI",
+      "label": "AI",
+      "full": "Artificial Inu (AI)",
+      "mcap": 129432650.4414345,
+      "pct": -23.7263
+    },
+    {
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 64497373.07239742,
+      "pct": -6.1528
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "label": "PONS",
+      "full": "Pons",
+      "mcap": 289168976.6544423,
+      "pct": -20.1616
+    },
+    {
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 43185738.934567615,
+      "pct": 38.8555
+    },
+    {
+      "name": "Boner Coin",
+      "symbol": "BONER",
+      "label": "BONER",
+      "full": "Boner Coin (BONER)",
+      "mcap": 48616701.20713239,
+      "pct": 1.9223
+    },
+    {
+      "name": "MarsCoin",
+      "symbol": "MARSCOIN",
+      "label": "MARSCOIN",
+      "full": "MarsCoin",
+      "mcap": 108874145.20738162,
+      "pct": -13.9166
+    }
+  ],
+  "trending": [
+    {
+      "name": "PrintR",
+      "symbol": "PRINTR",
+      "label": "PRINTR",
+      "full": "PrintR",
+      "mcap": 583223.9408184125,
+      "pct": 17872.9228
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "label": "?",
+      "full": "?",
+      "mcap": 430510.0712112041,
+      "pct": 673.6669
+    },
+    {
+      "name": "HoldFast",
+      "symbol": "HOLD",
+      "label": "HOLD",
+      "full": "HoldFast (HOLD)",
+      "mcap": 554862.4184132772,
+      "pct": 9095.1015
+    },
+    {
+      "name": "Zero",
+      "symbol": "",
+      "label": "Zero",
+      "full": "Zero",
+      "mcap": 3667034.5454968153,
+      "pct": 85285.7224
+    },
+    {
+      "name": "Agency",
+      "symbol": "Agency",
+      "label": "Agency",
+      "full": "Agency",
+      "mcap": 1409512.1535990713,
+      "pct": 0.8765
+    },
+    {
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 46169000.580204874,
+      "pct": 47.8227
+    },
+    {
+      "name": "Hooked",
+      "symbol": "HOOKED",
+      "label": "HOOKED",
+      "full": "Hooked",
+      "mcap": 11197910.597151926,
+      "pct": 129.5833
+    }
+  ],
+  "story_image": "fomo/2026-10-03-story.jpg",
+  "post_image": "fomo/2026-10-03-post.jpg"
+}
