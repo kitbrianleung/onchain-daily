@@ -2,34 +2,34 @@
   "date": "03 OCT 2026",
   "items": [
     {
-      "headline": "$ARB: Arbitrum Halts New Stylus Activations in Emergency",
-      "summary": "Arbitrum paused new Stylus contract activations in an emergency security action. Active contracts still run and renew, while a new BoLD guard could delay unconfirmed withdrawals.",
-      "url": "https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action",
-      "token": "$ARB"
-    },
-    {
-      "headline": "$BLAST L2 Shuts Down as Costs Exceed Revenue",
-      "summary": "Paradigm-backed Ethereum L2 Blast is winding down after costs outpaced revenue. Users have until Oct. 26 to withdraw funds via the app, a blow for $BLAST holders.",
-      "url": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583",
-      "token": "$BLAST"
-    },
-    {
-      "headline": "$UNI: SMBC Nikko, Nethermind Plan Compliance Hooks",
-      "summary": "SMBC Nikko and Nethermind plan compliance hooks for $UNI pools, with an MOU alongside Uniswap Labs and Base targeting a Japan-focused DeFi gateway by mid-2027.",
-      "url": "https://thedefiant.io/news/defi/smbc-nikko-and-nethermind-plan-compliance-hooks-for-uniswap-pools",
-      "token": "$UNI"
-    },
-    {
-      "headline": "$HYPE Perps Now Rival Binance Liquidity, Study Finds",
-      "summary": "Castle Labs found Hyperliquid matched the resting liquidity of Binance, Bybit and OKX on four of five assets, with lower trading costs. $HYPE keeps closing the CEX gap.",
-      "url": "https://thedefiant.io/news/defi/onchain-perps-close-execution-gap-with-centralized-exchanges",
+      "headline": "$HYPE Buybacks Get $14.6M Boost From Yield Program",
+      "summary": "Hyperliquid's USDC yield program sends its first $14.6M reserve-yield payment to the Assistance Fund, funding $HYPE buybacks tied to USDC balances rather than trading volume.",
+      "url": "https://thedefiant.io/news/tokens/hyperliquid-s-usdc-yield-program-gets-14-6-million-for-hype-buybacks",
       "token": "$HYPE"
     },
     {
-      "headline": "$ETH: Ethereum Foundation Unveils zkAPI for Private AI",
-      "summary": "The Ethereum Foundation's zkAPI lets users pay for AI models with zero-knowledge proofs, hiding payer identity. Funds sit in an $ETH vault with ZK-authorized spending.",
-      "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-      "token": "$ETH"
+      "headline": "$FRAX Brings Brazilian Interest Rates Onchain",
+      "summary": "Frax Finance launches new onchain markets tied to Brazilian interest rates, opening a fresh DeFi use case for emerging-market yield.",
+      "url": "https://coinfomania.com/frax-finance-brings-brazilian-rates-onchain/",
+      "token": "$FRAX"
+    },
+    {
+      "headline": "$STRK Waives Bridge Fees for First 100 BTC",
+      "summary": "Starknet removes bridge fees for the first 100 BTC bridged, a push to bootstrap Bitcoin liquidity and expand its DeFi ecosystem.",
+      "url": "https://coinfomania.com/starknet-waives-bridge-fees-100-btc/",
+      "token": "$STRK"
+    },
+    {
+      "headline": "$UNI Tapped for Japan DeFi Gateway by SMBC Nikko",
+      "summary": "Japanese brokerage giant SMBC Nikko partners with Uniswap to build a compliant DeFi gateway for Japan, a major institutional nod for $UNI.",
+      "url": "https://crypto.news/smbc-nikko-plans-japan-defi-gateway-with-uniswap/",
+      "token": "$UNI"
+    },
+    {
+      "headline": "$KNTQ Drops 23% as Kinetiq Ends kPoints Program",
+      "summary": "Kinetiq shuts down its kPoints rewards with a paid claim, sending $KNTQ down 23% as the Hyperliquid-focused protocol reshapes its incentives.",
+      "url": "https://thedefiant.io/news/defi/kinetiq-ends-kpoints-kntq-drops",
+      "token": "$KNTQ"
     }
   ]
 }
