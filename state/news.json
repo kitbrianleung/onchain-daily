@@ -2,34 +2,34 @@
   "date": "03 OCT 2026",
   "items": [
     {
-      "headline": "Paradigm-Backed $BLAST L2 Shuts Down, Users Told to Exit",
-      "summary": "Ethereum L2 Blast is winding down as costs outpace revenue, with $63.5M still in its bridge. Users have until Oct. 26 to withdraw $BLAST and other assets via the app.",
-      "url": "https://thedefiant.io/news/blockchains/blast-to-shut-down-layer-2-citing-unsustainable-costs",
+      "headline": "$ARB: Arbitrum Halts New Stylus Activations in Emergency",
+      "summary": "Arbitrum paused new Stylus contract activations in an emergency security action. Active contracts still run and renew, while a new BoLD guard could delay unconfirmed withdrawals.",
+      "url": "https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action",
+      "token": "$ARB"
+    },
+    {
+      "headline": "$BLAST L2 Shuts Down as Costs Exceed Revenue",
+      "summary": "Paradigm-backed Ethereum L2 Blast is winding down after costs outpaced revenue. Users have until Oct. 26 to withdraw funds via the app, a blow for $BLAST holders.",
+      "url": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583",
       "token": "$BLAST"
     },
     {
-      "headline": "Kinetiq Ends kPoints, $KNTQ Dumps 23% on Paid Claim",
-      "summary": "Kinetiq is closing its points program with a paid claim: holders have 10 days to buy $KNTQ at $0.26 from a 50M allocation. The token slid 23% on the news.",
-      "url": "https://thedefiant.io/news/defi/kinetiq-ends-kpoints-with-paid-claim-as-kntq-drops-23",
-      "token": "$KNTQ"
+      "headline": "$UNI: SMBC Nikko, Nethermind Plan Compliance Hooks",
+      "summary": "SMBC Nikko and Nethermind plan compliance hooks for $UNI pools, with an MOU alongside Uniswap Labs and Base targeting a Japan-focused DeFi gateway by mid-2027.",
+      "url": "https://thedefiant.io/news/defi/smbc-nikko-and-nethermind-plan-compliance-hooks-for-uniswap-pools",
+      "token": "$UNI"
     },
     {
-      "headline": "Drift Opens $DRIFT Exploit Claims — Only 1% Paid Out",
-      "summary": "Drift has opened DFX recovery claims after its exploit, but initial payouts cover just over 1% of losses. $DRIFT users can cash out now or wait for more funding.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
-      "token": "$DRIFT"
+      "headline": "$HYPE Perps Now Rival Binance Liquidity, Study Finds",
+      "summary": "Castle Labs found Hyperliquid matched the resting liquidity of Binance, Bybit and OKX on four of five assets, with lower trading costs. $HYPE keeps closing the CEX gap.",
+      "url": "https://thedefiant.io/news/defi/onchain-perps-close-execution-gap-with-centralized-exchanges",
+      "token": "$HYPE"
     },
     {
-      "headline": "$CFG Confirms Three Tokenized Funds Live on Arc",
-      "summary": "Centrifuge confirmed three tokenized funds — JAAA, JTRSY and HYB — are live on Circle's Arc, spanning Treasuries and credit. A fresh RWA win for $CFG.",
-      "url": "https://thedefiant.io/news/defi/centrifuge-confirms-three-tokenized-funds-are-live-on-arc",
-      "token": "$CFG"
-    },
-    {
-      "headline": "$NEAR Intents Says $3.8M Hack Funds Fully Returned",
-      "summary": "NEAR Intents' GM says the full $3.8M from this week's exploit has been returned, with ~34.59 BTC hitting the recovery wallet. $NEAR's protocol had pledged full compensation.",
-      "url": "https://thedefiant.io/news/hacks/near-intents-gm-says-3-8-million-in-hack-funds-returned-in-full",
-      "token": "$NEAR"
+      "headline": "$ETH: Ethereum Foundation Unveils zkAPI for Private AI",
+      "summary": "The Ethereum Foundation's zkAPI lets users pay for AI models with zero-knowledge proofs, hiding payer identity. Funds sit in an $ETH vault with ZK-authorized spending.",
+      "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+      "token": "$ETH"
     }
   ]
 }
