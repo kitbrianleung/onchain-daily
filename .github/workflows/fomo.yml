@@ -15,6 +15,7 @@ jobs:
       FOMO_API_KEY: ${{ secrets.FOMO_API_KEY }}
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/images
     steps:
       - uses: actions/checkout@v4
