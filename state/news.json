@@ -1,35 +1,35 @@
 {
-  "date": "04 OCT 2026",
+  "date": "05 OCT 2026",
   "items": [
     {
-      "headline": "$DRIFT Opens Exploit Recovery Claims, Pays Just 1%",
-      "summary": "$DRIFT begins processing exploit recovery claims, but initial payouts cover only about 1% of user losses. Frustration mounts among affected Solana DeFi users.",
-      "url": "https://www.theblock.co/post/drift-opens-exploit-recovery-claims-initial-payouts",
-      "token": "$DRIFT"
+      "headline": "Ethereum Foundation Unveils zkAPI for Private Payments",
+      "summary": "The Ethereum Foundation introduced zkAPI, a prepaid tool for private API payments that separates billing from requests. A new privacy use case for the $ETH ecosystem.",
+      "url": "https://thedefiant.io/news/infrastructure/ethereum-foundation-introduces-zkapi-for-private-api-payments",
+      "token": "$ETH"
     },
     {
-      "headline": "$NIGHT Privacy Model Draws Zcash Comparisons, ADA Eyes",
-      "summary": "Midnight's $NIGHT privacy model is being compared with Zcash and is attracting attention from Cardano holders as privacy coins heat up.",
-      "url": "https://coinedition.com/",
-      "token": "$NIGHT"
+      "headline": "Solana Ships Native Payments Rail for Subscriptions",
+      "summary": "Solana launched a built-in payments rail supporting recurring subscriptions and allowances, expanding real-world payment utility for $SOL.",
+      "url": "https://thedefiant.io/news/blockchains/solana-native-payments-rail-subscriptions-allowances",
+      "token": "$SOL"
     },
     {
-      "headline": "$SOPH Kills zkSync Chain, Rebuilds on Base",
-      "summary": "After raising $60M via node sales but drawing under 200 daily users, Sophon is shutting its zkSync chain and pivoting to consumer apps on Base. $SOPH holders face a major reset.",
-      "url": "https://thedefiant.io/news/sophon-shuts-down-zksync-chain-rebuilds-consumer-app-studio-base",
-      "token": "$SOPH"
+      "headline": "Tokenized Stocks Hit 4.3M Holders, $BNB Chain Leads",
+      "summary": "Tokenized-stock adoption reached 4.3 million holders, with BNB Chain leading the sector. A big RWA milestone for the $BNB ecosystem.",
+      "url": "https://thedefiant.io/news/blockchains/tokenized-stock-holder-count-4-3-million-bnb-chain",
+      "token": "$BNB"
     },
     {
-      "headline": "$CC Tops Fee Rankings With $60M in 30 Days",
-      "summary": "Canton Network generated $60.2M in 30-day fees, far ahead of Tron and Ethereum per DefiLlama, putting $CC on the institutional-chain map.",
-      "url": "https://thedefiant.io/news/canton-network-tops-blockchain-fee-rankings-60m-30-days",
-      "token": "$CC"
+      "headline": "Kalshi Wins Partial Illinois Ruling on Sports Contracts",
+      "summary": "A judge found Illinois licensing rules likely conflict with federal derivatives law in Kalshi and Coinbase's favor, though transaction fees remain unresolved.",
+      "url": "https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts",
+      "token": "Kalshi"
     },
     {
-      "headline": "Circle Adds Native USDC & CCTP to Plasma ($XPL)",
-      "summary": "Plasma developers get Circle-issued dollar and euro tokens plus a burn-and-mint route for cross-chain USDC transfers, a boost for the $XPL ecosystem.",
-      "url": "https://thedefiant.io/news/circle-adds-native-usdc-eurc-cctp-support-plasma",
-      "token": "$XPL"
+      "headline": "Korean Super-App Toss Picks $OP Stack for Won Pilot",
+      "summary": "Toss will run a won stablecoin pilot on the OP Stack, becoming the fourth regulated financial institution in a year to adopt $OP technology.",
+      "url": "https://thedefiant.io/news/blockchains/toss-won-stablecoin-pilot-op-stack",
+      "token": "$OP"
     }
   ]
 }
