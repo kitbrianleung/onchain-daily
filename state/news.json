@@ -1,35 +1,35 @@
 {
-  "date": "03 OCT 2026",
+  "date": "04 OCT 2026",
   "items": [
     {
-      "headline": "$HYPE Buybacks Get $14.6M Boost From Yield Program",
-      "summary": "Hyperliquid's USDC yield program sends its first $14.6M reserve-yield payment to the Assistance Fund, funding $HYPE buybacks tied to USDC balances rather than trading volume.",
-      "url": "https://thedefiant.io/news/tokens/hyperliquid-s-usdc-yield-program-gets-14-6-million-for-hype-buybacks",
-      "token": "$HYPE"
+      "headline": "$DRIFT Opens Exploit Recovery Claims, Pays Just 1%",
+      "summary": "$DRIFT begins processing exploit recovery claims, but initial payouts cover only about 1% of user losses. Frustration mounts among affected Solana DeFi users.",
+      "url": "https://www.theblock.co/post/drift-opens-exploit-recovery-claims-initial-payouts",
+      "token": "$DRIFT"
     },
     {
-      "headline": "$FRAX Brings Brazilian Interest Rates Onchain",
-      "summary": "Frax Finance launches new onchain markets tied to Brazilian interest rates, opening a fresh DeFi use case for emerging-market yield.",
-      "url": "https://coinfomania.com/frax-finance-brings-brazilian-rates-onchain/",
-      "token": "$FRAX"
+      "headline": "$NIGHT Privacy Model Draws Zcash Comparisons, ADA Eyes",
+      "summary": "Midnight's $NIGHT privacy model is being compared with Zcash and is attracting attention from Cardano holders as privacy coins heat up.",
+      "url": "https://coinedition.com/",
+      "token": "$NIGHT"
     },
     {
-      "headline": "$STRK Waives Bridge Fees for First 100 BTC",
-      "summary": "Starknet removes bridge fees for the first 100 BTC bridged, a push to bootstrap Bitcoin liquidity and expand its DeFi ecosystem.",
-      "url": "https://coinfomania.com/starknet-waives-bridge-fees-100-btc/",
-      "token": "$STRK"
+      "headline": "$SOPH Kills zkSync Chain, Rebuilds on Base",
+      "summary": "After raising $60M via node sales but drawing under 200 daily users, Sophon is shutting its zkSync chain and pivoting to consumer apps on Base. $SOPH holders face a major reset.",
+      "url": "https://thedefiant.io/news/sophon-shuts-down-zksync-chain-rebuilds-consumer-app-studio-base",
+      "token": "$SOPH"
     },
     {
-      "headline": "$UNI Tapped for Japan DeFi Gateway by SMBC Nikko",
-      "summary": "Japanese brokerage giant SMBC Nikko partners with Uniswap to build a compliant DeFi gateway for Japan, a major institutional nod for $UNI.",
-      "url": "https://crypto.news/smbc-nikko-plans-japan-defi-gateway-with-uniswap/",
-      "token": "$UNI"
+      "headline": "$CC Tops Fee Rankings With $60M in 30 Days",
+      "summary": "Canton Network generated $60.2M in 30-day fees, far ahead of Tron and Ethereum per DefiLlama, putting $CC on the institutional-chain map.",
+      "url": "https://thedefiant.io/news/canton-network-tops-blockchain-fee-rankings-60m-30-days",
+      "token": "$CC"
     },
     {
-      "headline": "$KNTQ Drops 23% as Kinetiq Ends kPoints Program",
-      "summary": "Kinetiq shuts down its kPoints rewards with a paid claim, sending $KNTQ down 23% as the Hyperliquid-focused protocol reshapes its incentives.",
-      "url": "https://thedefiant.io/news/defi/kinetiq-ends-kpoints-kntq-drops",
-      "token": "$KNTQ"
+      "headline": "Circle Adds Native USDC & CCTP to Plasma ($XPL)",
+      "summary": "Plasma developers get Circle-issued dollar and euro tokens plus a burn-and-mint route for cross-chain USDC transfers, a boost for the $XPL ecosystem.",
+      "url": "https://thedefiant.io/news/circle-adds-native-usdc-eurc-cctp-support-plasma",
+      "token": "$XPL"
     }
   ]
 }
