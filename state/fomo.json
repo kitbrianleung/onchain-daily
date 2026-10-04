@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "most_held": [
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 187575859.316255,
-      "pct": -9.4474
-    },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 129432650.4414345,
-      "pct": -23.7263
+      "mcap": 118390675.04228298,
+      "pct": -12.7525
+    },
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 159035201.89526954,
+      "pct": -16.4407
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 64497373.07239742,
-      "pct": -6.1528
+      "mcap": 59875282.614583015,
+      "pct": -4.8276
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 289168976.6544423,
-      "pct": -20.1616
+      "mcap": 283151118.0703996,
+      "pct": -2.6888
     },
     {
       "name": "Super Inu",
       "symbol": "SI",
       "label": "SI",
       "full": "Super Inu (SI)",
-      "mcap": 43185738.934567615,
-      "pct": 38.8555
+      "mcap": 47058176.53722916,
+      "pct": -3.4396
     },
     {
       "name": "Boner Coin",
       "symbol": "BONER",
       "label": "BONER",
       "full": "Boner Coin (BONER)",
-      "mcap": 48616701.20713239,
-      "pct": 1.9223
+      "mcap": 56498897.732079946,
+      "pct": 19.5677
     },
     {
-      "name": "MarsCoin",
-      "symbol": "MARSCOIN",
-      "label": "MARSCOIN",
-      "full": "MarsCoin",
-      "mcap": 108874145.20738162,
-      "pct": -13.9166
+      "name": "Orbio.so",
+      "symbol": "ORBIO",
+      "label": "ORBIO",
+      "full": "Orbio.so (ORBIO)",
+      "mcap": 103187875.49490812,
+      "pct": 35.3207
     }
   ],
   "trending": [
     {
-      "name": "PrintR",
-      "symbol": "PRINTR",
-      "label": "PRINTR",
-      "full": "PrintR",
-      "mcap": 583223.9408184125,
-      "pct": 17872.9228
-    },
-    {
-      "name": "",
-      "symbol": "",
-      "label": "?",
-      "full": "?",
-      "mcap": 430510.0712112041,
-      "pct": 673.6669
-    },
-    {
-      "name": "HoldFast",
-      "symbol": "HOLD",
-      "label": "HOLD",
-      "full": "HoldFast (HOLD)",
-      "mcap": 554862.4184132772,
-      "pct": 9095.1015
-    },
-    {
-      "name": "Zero",
-      "symbol": "",
-      "label": "Zero",
-      "full": "Zero",
-      "mcap": 3667034.5454968153,
-      "pct": 85285.7224
-    },
-    {
-      "name": "Agency",
-      "symbol": "Agency",
-      "label": "Agency",
-      "full": "Agency",
-      "mcap": 1409512.1535990713,
-      "pct": 0.8765
+      "name": "SpaceX Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "SpaceX Inu (SI)",
+      "mcap": 1707500.0662813568,
+      "pct": 37303.5836
     },
     {
       "name": "Super Inu",
       "symbol": "SI",
       "label": "SI",
       "full": "Super Inu (SI)",
-      "mcap": 46169000.580204874,
-      "pct": 47.8227
+      "mcap": 47460212.19242296,
+      "pct": -2.7604
     },
     {
-      "name": "Hooked",
-      "symbol": "HOOKED",
-      "label": "HOOKED",
-      "full": "Hooked",
-      "mcap": 11197910.597151926,
-      "pct": 129.5833
+      "name": "Agency",
+      "symbol": "AGENCY",
+      "label": "AGENCY",
+      "full": "Agency",
+      "mcap": 21586058.989482198,
+      "pct": 1115.7951
+    },
+    {
+      "name": "Binance Inu",
+      "symbol": "BI",
+      "label": "BI",
+      "full": "Binance Inu (BI)",
+      "mcap": 1025418.1640797374,
+      "pct": -25.5802
+    },
+    {
+      "name": "Agency Terminal",
+      "symbol": "TERMINAL",
+      "label": "TERMINAL",
+      "full": "Agency Terminal (TERMINAL)",
+      "mcap": 618741.2126739821,
+      "pct": 18702.6164
+    },
+    {
+      "name": "SpaceXSI",
+      "symbol": "SpaceXSI",
+      "label": "SpaceXSI",
+      "full": "SpaceXSI",
+      "mcap": 842158.70205502,
+      "pct": 878.1286
+    },
+    {
+      "name": "SLOPCORE",
+      "symbol": "SLOPCORE",
+      "label": "SLOPCORE",
+      "full": "SLOPCORE",
+      "mcap": 1332582.273809425,
+      "pct": 776.8135
     }
   ],
-  "story_image": "fomo/2026-10-03-story.jpg",
-  "post_image": "fomo/2026-10-03-post.jpg"
+  "story_image": "fomo/2026-10-04-story.jpg",
+  "post_image": "fomo/2026-10-04-post.jpg"
 }
