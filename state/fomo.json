@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "most_held": [
-    {
-      "name": "Artificial Inu",
-      "symbol": "AI",
-      "label": "AI",
-      "full": "Artificial Inu (AI)",
-      "mcap": 118390675.04228298,
-      "pct": -12.7525
-    },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 159035201.89526954,
-      "pct": -16.4407
+      "mcap": 169427037.94981673,
+      "pct": 8.3776
+    },
+    {
+      "name": "Artificial Inu",
+      "symbol": "AI",
+      "label": "AI",
+      "full": "Artificial Inu (AI)",
+      "mcap": 110955457.00354698,
+      "pct": -4.2926
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 59875282.614583015,
-      "pct": -4.8276
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "label": "PONS",
-      "full": "Pons",
-      "mcap": 283151118.0703996,
-      "pct": -2.6888
-    },
-    {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 47058176.53722916,
-      "pct": -3.4396
+      "mcap": 58775026.84459343,
+      "pct": -4.1336
     },
     {
       "name": "Boner Coin",
       "symbol": "BONER",
       "label": "BONER",
       "full": "Boner Coin (BONER)",
-      "mcap": 56498897.732079946,
-      "pct": 19.5677
+      "mcap": 78422538.09628378,
+      "pct": 28.8893
     },
     {
-      "name": "Orbio.so",
-      "symbol": "ORBIO",
-      "label": "ORBIO",
-      "full": "Orbio.so (ORBIO)",
-      "mcap": 103187875.49490812,
-      "pct": 35.3207
-    }
-  ],
-  "trending": [
-    {
-      "name": "SpaceX Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "SpaceX Inu (SI)",
-      "mcap": 1707500.0662813568,
-      "pct": 37303.5836
+      "name": "Pons",
+      "symbol": "PONS",
+      "label": "PONS",
+      "full": "Pons",
+      "mcap": 271179819.01463354,
+      "pct": -4.9012
     },
     {
       "name": "Super Inu",
       "symbol": "SI",
       "label": "SI",
       "full": "Super Inu (SI)",
-      "mcap": 47460212.19242296,
-      "pct": -2.7604
+      "mcap": 34413424.9750472,
+      "pct": -21.1095
+    },
+    {
+      "name": "MarsCoin",
+      "symbol": "MARSCOIN",
+      "label": "MARSCOIN",
+      "full": "MarsCoin",
+      "mcap": 110846189.17401093,
+      "pct": -0.8848
+    }
+  ],
+  "trending": [
+    {
+      "name": "Stompy",
+      "symbol": "Stompy",
+      "label": "Stompy",
+      "full": "Stompy",
+      "mcap": 269473.2469580714,
+      "pct": 4366.8136
+    },
+    {
+      "name": "Backers",
+      "symbol": "BACKERS",
+      "label": "BACKERS",
+      "full": "Backers",
+      "mcap": 1740380.241081979,
+      "pct": 47435.8622
+    },
+    {
+      "name": "CRAWLNET",
+      "symbol": "CRAWL",
+      "label": "CRAWL",
+      "full": "CRAWLNET (CRAWL)",
+      "mcap": 2978578.1114956997,
+      "pct": -18.9795
+    },
+    {
+      "name": "Hallow Inu",
+      "symbol": "HI",
+      "label": "HI",
+      "full": "Hallow Inu (HI)",
+      "mcap": 495199.3677169873,
+      "pct": 4.716
+    },
+    {
+      "name": "Orbio.so",
+      "symbol": "ORBIO",
+      "label": "ORBIO",
+      "full": "Orbio.so (ORBIO)",
+      "mcap": 72410928.67572986,
+      "pct": -29.6884
+    },
+    {
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 33402614.037769757,
+      "pct": -24.8729
     },
     {
       "name": "Agency",
       "symbol": "AGENCY",
       "label": "AGENCY",
       "full": "Agency",
-      "mcap": 21586058.989482198,
-      "pct": 1115.7951
-    },
-    {
-      "name": "Binance Inu",
-      "symbol": "BI",
-      "label": "BI",
-      "full": "Binance Inu (BI)",
-      "mcap": 1025418.1640797374,
-      "pct": -25.5802
-    },
-    {
-      "name": "Agency Terminal",
-      "symbol": "TERMINAL",
-      "label": "TERMINAL",
-      "full": "Agency Terminal (TERMINAL)",
-      "mcap": 618741.2126739821,
-      "pct": 18702.6164
-    },
-    {
-      "name": "SpaceXSI",
-      "symbol": "SpaceXSI",
-      "label": "SpaceXSI",
-      "full": "SpaceXSI",
-      "mcap": 842158.70205502,
-      "pct": 878.1286
-    },
-    {
-      "name": "SLOPCORE",
-      "symbol": "SLOPCORE",
-      "label": "SLOPCORE",
-      "full": "SLOPCORE",
-      "mcap": 1332582.273809425,
-      "pct": 776.8135
+      "mcap": 16654126.634764675,
+      "pct": -13.1669
     }
   ],
-  "story_image": "fomo/2026-10-04-story.jpg",
-  "post_image": "fomo/2026-10-04-post.jpg"
+  "story_image": "fomo/2026-10-05-story.jpg",
+  "post_image": "fomo/2026-10-05-post.jpg"
 }
