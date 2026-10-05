@@ -2,34 +2,34 @@
   "date": "05 OCT 2026",
   "items": [
     {
-      "headline": "Ethereum Foundation Unveils zkAPI for Private Payments",
-      "summary": "The Ethereum Foundation introduced zkAPI, a prepaid tool for private API payments that separates billing from requests. A new privacy use case for the $ETH ecosystem.",
-      "url": "https://thedefiant.io/news/infrastructure/ethereum-foundation-introduces-zkapi-for-private-api-payments",
-      "token": "$ETH"
+      "headline": "$ENA Unlock Chaos: 1.4B or 171M Tomorrow?",
+      "summary": "Conflicting reports swirl around $ENA’s unlock size, putting Ethena’s token supply and near-term volatility in focus.",
+      "url": "https://en.bitcoinsistemi.com/",
+      "token": "$ENA"
     },
     {
-      "headline": "Solana Ships Native Payments Rail for Subscriptions",
-      "summary": "Solana launched a built-in payments rail supporting recurring subscriptions and allowances, expanding real-world payment utility for $SOL.",
-      "url": "https://thedefiant.io/news/blockchains/solana-native-payments-rail-subscriptions-allowances",
+      "headline": "$SOL ETF Crosses $1B in Bitwise First",
+      "summary": "Bitwise’s Solana ETF becomes the first $SOL fund to pass $1B in assets, signaling strong institutional demand.",
+      "url": "https://thedefiant.io/news/blockchains/bitwise-solana-etf-first-cross-1-billion",
       "token": "$SOL"
     },
     {
-      "headline": "Tokenized Stocks Hit 4.3M Holders, $BNB Chain Leads",
-      "summary": "Tokenized-stock adoption reached 4.3 million holders, with BNB Chain leading the sector. A big RWA milestone for the $BNB ecosystem.",
-      "url": "https://thedefiant.io/news/blockchains/tokenized-stock-holder-count-4-3-million-bnb-chain",
-      "token": "$BNB"
+      "headline": "$ETH Draft Eyes Compliance for Private RWAs",
+      "summary": "A new Ethereum draft standard proposes compliance controls for confidential RWA tokens, a notable DeFi-TradFi bridge for $ETH.",
+      "url": "https://thedefiant.io/news/blockchains/ethereum-draft-compliance-controls-confidential-rwa-tokens",
+      "token": "$ETH"
     },
     {
-      "headline": "Kalshi Wins Partial Illinois Ruling on Sports Contracts",
-      "summary": "A judge found Illinois licensing rules likely conflict with federal derivatives law in Kalshi and Coinbase's favor, though transaction fees remain unresolved.",
-      "url": "https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts",
-      "token": "Kalshi"
+      "headline": "$LDO EarnUSD Fees Drop to 0.2%",
+      "summary": "Lido tweaks EarnUSD fees as $LDO governance leans into a lower cut and higher performance share.",
+      "url": "https://en.cryptonomist.ch",
+      "token": "$LDO"
     },
     {
-      "headline": "Korean Super-App Toss Picks $OP Stack for Won Pilot",
-      "summary": "Toss will run a won stablecoin pilot on the OP Stack, becoming the fourth regulated financial institution in a year to adopt $OP technology.",
-      "url": "https://thedefiant.io/news/blockchains/toss-won-stablecoin-pilot-op-stack",
-      "token": "$OP"
+      "headline": "$CC Tops Fee Rankings With $60M Month",
+      "summary": "Canton Network’s $CC ecosystem leads 30-day blockchain fees with about $60M, ahead of major chains.",
+      "url": "https://thedefiant.io/news/blockchains/canton-network-tops-fee-rankings-60m-30-days",
+      "token": "$CC"
     }
   ]
 }
