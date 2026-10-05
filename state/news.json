@@ -1,35 +1,35 @@
 {
-  "date": "05 OCT 2026",
+  "date": "06 OCT 2026",
   "items": [
     {
-      "headline": "$ENA Unlock Chaos: 1.4B or 171M Tomorrow?",
-      "summary": "Conflicting reports swirl around $ENA’s unlock size, putting Ethena’s token supply and near-term volatility in focus.",
-      "url": "https://en.bitcoinsistemi.com/",
-      "token": "$ENA"
+      "headline": "New Launch: $UMIA Raises $6.1M in 7-Day Auction",
+      "summary": "Umia raised $6.11M at an $18M FDV via a seven-day $UMIA token auction, drawing ten funds and nearly 700 individual bidders. The platform helps crypto projects launch tokens.",
+      "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
+      "token": "$UMIA"
     },
     {
-      "headline": "$SOL ETF Crosses $1B in Bitwise First",
-      "summary": "Bitwise’s Solana ETF becomes the first $SOL fund to pass $1B in assets, signaling strong institutional demand.",
-      "url": "https://thedefiant.io/news/blockchains/bitwise-solana-etf-first-cross-1-billion",
-      "token": "$SOL"
+      "headline": "Cronje's Flying Tulip $FT Options Market Tops $5M",
+      "summary": "Flying Tulip's NFT options market passed $5M in volume, per Andre Cronje. Buying an ftPUT NFT transfers remaining $FT tokens and redemption rights, unlike unprotected spot buys.",
+      "url": "https://thedefiant.io/news/defi/flying-tulip-s-nft-options-market-tops-5-million-in-volume-cronje-says",
+      "token": "$FT"
     },
     {
-      "headline": "$ETH Draft Eyes Compliance for Private RWAs",
-      "summary": "A new Ethereum draft standard proposes compliance controls for confidential RWA tokens, a notable DeFi-TradFi bridge for $ETH.",
-      "url": "https://thedefiant.io/news/blockchains/ethereum-draft-compliance-controls-confidential-rwa-tokens",
-      "token": "$ETH"
+      "headline": "Base Vault Drained of $6M in $AAVE Deposit Tokens",
+      "summary": "A Base vault lost about $6M in $AAVE deposit tokens after a borrower-whitelist change. Proceeds were redeemed for wstETH and partly bridged toward Ethereum.",
+      "url": "https://thedefiant.io/news/hacks/base-vault-drained-of-about-6-million-in-aave-deposit-tokens",
+      "token": "$AAVE"
     },
     {
-      "headline": "$LDO EarnUSD Fees Drop to 0.2%",
-      "summary": "Lido tweaks EarnUSD fees as $LDO governance leans into a lower cut and higher performance share.",
-      "url": "https://en.cryptonomist.ch",
-      "token": "$LDO"
+      "headline": "Injective CEO: US $INJ ETFs Could Launch Before 2027",
+      "summary": "Injective CEO Eric Chen expects US-listed $INJ ETFs sooner than 2027. Two applications are pending: the 21Shares Injective ETF and the Canary Staked INJ ETF.",
+      "url": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
+      "token": "$INJ"
     },
     {
-      "headline": "$CC Tops Fee Rankings With $60M Month",
-      "summary": "Canton Network’s $CC ecosystem leads 30-day blockchain fees with about $60M, ahead of major chains.",
-      "url": "https://thedefiant.io/news/blockchains/canton-network-tops-fee-rankings-60m-30-days",
-      "token": "$CC"
+      "headline": "$PLUME Opens Tokenized Vault Backed by Fidelity ETF",
+      "summary": "Plume's nBND vault holds shares of Fidelity's actively managed Total Bond ETF, pushing onchain fixed income beyond T-bills into credit and duration on $PLUME.",
+      "url": "https://thedefiant.io/news/tradfi-and-fintech/plume-nbnd-vault-fidelity-total-bond-etf-fbnd-tokenized-fixed-income",
+      "token": "$PLUME"
     }
   ]
 }
