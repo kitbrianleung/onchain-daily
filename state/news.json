@@ -2,34 +2,34 @@
   "date": "06 OCT 2026",
   "items": [
     {
-      "headline": "New Launch: $UMIA Raises $6.1M in 7-Day Auction",
-      "summary": "Umia raised $6.11M at an $18M FDV via a seven-day $UMIA token auction, drawing ten funds and nearly 700 individual bidders. The platform helps crypto projects launch tokens.",
-      "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
-      "token": "$UMIA"
-    },
-    {
-      "headline": "Cronje's Flying Tulip $FT Options Market Tops $5M",
-      "summary": "Flying Tulip's NFT options market passed $5M in volume, per Andre Cronje. Buying an ftPUT NFT transfers remaining $FT tokens and redemption rights, unlike unprotected spot buys.",
-      "url": "https://thedefiant.io/news/defi/flying-tulip-s-nft-options-market-tops-5-million-in-volume-cronje-says",
-      "token": "$FT"
-    },
-    {
-      "headline": "Base Vault Drained of $6M in $AAVE Deposit Tokens",
-      "summary": "A Base vault lost about $6M in $AAVE deposit tokens after a borrower-whitelist change. Proceeds were redeemed for wstETH and partly bridged toward Ethereum.",
-      "url": "https://thedefiant.io/news/hacks/base-vault-drained-of-about-6-million-in-aave-deposit-tokens",
-      "token": "$AAVE"
-    },
-    {
-      "headline": "Injective CEO: US $INJ ETFs Could Launch Before 2027",
-      "summary": "Injective CEO Eric Chen expects US-listed $INJ ETFs sooner than 2027. Two applications are pending: the 21Shares Injective ETF and the Canary Staked INJ ETF.",
-      "url": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
+      "headline": "Injective CEO: US $INJ ETFs May Land Before 2027",
+      "summary": "Injective CEO Eric Chen says US-listed $INJ ETFs could arrive sooner than 2027, a potential early catalyst for the mid-cap altcoin.",
+      "url": "https://www.theblock.co/post/373421/injective-ceo-eric-chen-us-inj-etfs",
       "token": "$INJ"
     },
     {
-      "headline": "$PLUME Opens Tokenized Vault Backed by Fidelity ETF",
-      "summary": "Plume's nBND vault holds shares of Fidelity's actively managed Total Bond ETF, pushing onchain fixed income beyond T-bills into credit and duration on $PLUME.",
-      "url": "https://thedefiant.io/news/tradfi-and-fintech/plume-nbnd-vault-fidelity-total-bond-etf-fbnd-tokenized-fixed-income",
-      "token": "$PLUME"
+      "headline": "$PENDLE Collateral Gets LlamaRisk Agents on Plasma",
+      "summary": "Aave activated LlamaRisk agents to manage $PENDLE collateral on Plasma, a fresh DeFi risk-management use case for the growing yield token.",
+      "url": "https://thedefiant.io/news/defi/aave-activates-llamarisk-agents-pendle-collateral-plasma",
+      "token": "$PENDLE"
+    },
+    {
+      "headline": "$COMP Governance Strains: Treasury Delay & Veto Vote",
+      "summary": "Compound is voting on treasury delays and veto powers as DeFi governance tensions rise, putting $COMP holders on alert.",
+      "url": "https://cryptopolitan.com/compound-votes-on-treasury-delays-and-veto-powers/",
+      "token": "$COMP"
+    },
+    {
+      "headline": "$SOL Tops DeFi Venues for Tokenized Stocks",
+      "summary": "Solana has emerged as the leading DeFi venue for tokenized stock trading, a notable ecosystem milestone for $SOL.",
+      "url": "https://coinfomania.com/solana-leading-defi-venue-tokenized-stocks/",
+      "token": "$SOL"
+    },
+    {
+      "headline": "$AAVE Hikes GHO Borrow Rates to Rescue Pools",
+      "summary": "Aave raised GHO borrowing rates to replenish drained stablecoin liquidity, a sign of stress and active risk response around $AAVE.",
+      "url": "https://cryptoslate.com/aave-hikes-gho-borrow-rates-to-rescue-depleted-stablecoin-pools/",
+      "token": "$AAVE"
     }
   ]
 }
