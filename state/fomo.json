@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "most_held": [
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 169427037.94981673,
-      "pct": 8.3776
+      "mcap": 155800645.01010102,
+      "pct": -8.4084
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 110955457.00354698,
-      "pct": -4.2926
+      "mcap": 110337267.36070134,
+      "pct": 0.9005
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 58775026.84459343,
-      "pct": -4.1336
-    },
-    {
-      "name": "Boner Coin",
-      "symbol": "BONER",
-      "label": "BONER",
-      "full": "Boner Coin (BONER)",
-      "mcap": 78422538.09628378,
-      "pct": 28.8893
+      "mcap": 60724528.19106433,
+      "pct": 4.7136
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 271179819.01463354,
-      "pct": -4.9012
+      "mcap": 267373864.46176004,
+      "pct": -0.4421
+    },
+    {
+      "name": "Boner Coin",
+      "symbol": "BONER",
+      "label": "BONER",
+      "full": "Boner Coin (BONER)",
+      "mcap": 60861995.29555382,
+      "pct": -22.3224
     },
     {
       "name": "Super Inu",
       "symbol": "SI",
       "label": "SI",
       "full": "Super Inu (SI)",
-      "mcap": 34413424.9750472,
-      "pct": -21.1095
+      "mcap": 28976076.378373414,
+      "pct": -15.6669
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 110846189.17401093,
-      "pct": -0.8848
+      "mcap": 107918452.35962683,
+      "pct": -1.5014
     }
   ],
   "trending": [
     {
-      "name": "Stompy",
-      "symbol": "Stompy",
-      "label": "Stompy",
-      "full": "Stompy",
-      "mcap": 269473.2469580714,
-      "pct": 4366.8136
+      "name": "THE LAST TRADE",
+      "symbol": "TLT",
+      "label": "TLT",
+      "full": "THE LAST TRADE (TLT)",
+      "mcap": 581994.7724040432,
+      "pct": 1276.4695
     },
     {
-      "name": "Backers",
-      "symbol": "BACKERS",
-      "label": "BACKERS",
-      "full": "Backers",
-      "mcap": 1740380.241081979,
-      "pct": 47435.8622
+      "name": "cat wif robinhood",
+      "symbol": "swordhood",
+      "label": "swordhood",
+      "full": "cat wif robinhood (swordhood)",
+      "mcap": 512023.1617505649,
+      "pct": 1035.5263
     },
     {
-      "name": "CRAWLNET",
-      "symbol": "CRAWL",
-      "label": "CRAWL",
-      "full": "CRAWLNET (CRAWL)",
-      "mcap": 2978578.1114956997,
-      "pct": -18.9795
+      "name": "Cartridge",
+      "symbol": "Cartridge",
+      "label": "Cartridge",
+      "full": "Cartridge",
+      "mcap": 426252.2819213695,
+      "pct": 615.775
     },
     {
-      "name": "Hallow Inu",
-      "symbol": "HI",
-      "label": "HI",
-      "full": "Hallow Inu (HI)",
-      "mcap": 495199.3677169873,
-      "pct": 4.716
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 155907373.5384798,
+      "pct": -8.1143
     },
     {
-      "name": "Orbio.so",
-      "symbol": "ORBIO",
-      "label": "ORBIO",
-      "full": "Orbio.so (ORBIO)",
-      "mcap": 72410928.67572986,
-      "pct": -29.6884
+      "name": "Yersinia pestis",
+      "symbol": "PLAGUE",
+      "label": "PLAGUE",
+      "full": "Yersinia pestis (PLAGUE)",
+      "mcap": 2427907.842698696,
+      "pct": 216.9033
     },
     {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 33402614.037769757,
-      "pct": -24.8729
+      "name": "Personality.md",
+      "symbol": "PMD",
+      "label": "PMD",
+      "full": "Personality.md (PMD)",
+      "mcap": 392730.4759612399,
+      "pct": 11243.1702
     },
     {
       "name": "Agency",
       "symbol": "AGENCY",
       "label": "AGENCY",
       "full": "Agency",
-      "mcap": 16654126.634764675,
-      "pct": -13.1669
+      "mcap": 9042501.176181352,
+      "pct": -37.5294
     }
   ],
-  "story_image": "fomo/2026-10-05-story.jpg",
-  "post_image": "fomo/2026-10-05-post.jpg"
+  "story_image": "fomo/2026-10-06-story.jpg",
+  "post_image": "fomo/2026-10-06-post.jpg"
 }
