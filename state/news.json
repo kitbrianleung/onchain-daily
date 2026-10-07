@@ -1,35 +1,35 @@
 {
-  "date": "07 OCT 2026",
+  "date": "08 OCT 2026",
   "items": [
     {
-      "headline": "Thiel's Founders Fund Buys $5M of $ANVIL Tokens",
-      "summary": "Peter Thiel-backed Founders Fund led a $5M token purchase in crypto collateral protocol Anvil, a rare direct VC token buy signaling conviction in the DeFi collateral niche.",
-      "url": "https://coindesk.com/business/2026/10/07/founders-fund-anvil-token-buy",
-      "token": "$ANVIL"
+      "headline": "Hunter Biden Slams $LAPTOP Market Maker: 'Buy It All Back'",
+      "summary": "Hunter Biden says the $LAPTOP memecoin's market maker should buy back and burn the supply, after a report detailed thin liquidity and MM-linked gains at launch.",
+      "url": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
+      "token": "$LAPTOP"
     },
     {
-      "headline": "$STX: Muneeb Ali Pledges IP Transfer to Stacks Endowment",
-      "summary": "New Stacks Labs CEO Muneeb Ali pledged to transfer IP to the Stacks Endowment and unveiled a two-year roadmap covering Bitcoin privacy and post-quantum tech, with a holder call in 30 days.",
-      "url": "https://thedefiant.io/news/blockchains/muneeb-ali-pledges-ip-transfer-to-stacks-endowment-in-ceo-plan",
-      "token": "$STX"
+      "headline": "$JTO's JTX Plots Mobile App, Perps Next on Solana",
+      "summary": "Jito's JTX is launching a mobile app this fall with equities and perps on the roadmap, expanding beyond spot trading on Solana.",
+      "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
+      "token": "$JTO"
     },
     {
-      "headline": "Pudgy-Backed L2 Abstract Shuts Down, $PENGU Ecosystem Hit",
-      "summary": "Abstract, the Ethereum L2 backed by Pudgy Penguins, is winding down after losing tens of millions of dollars — a blow to the $PENGU ecosystem's chain ambitions.",
-      "url": "https://www.theblock.co/news/defi/pudgy-penguins-ethereum-l2-abstract-shut-down",
-      "token": "$PENGU"
+      "headline": "$LDO Unveils Morpho-Based Lending for Staking Loops",
+      "summary": "Lido revealed Lido Lend, a Morpho-based lending protocol targeting Q4 launch, built for leveraged staking loops with collateral screening.",
+      "url": "https://thedefiant.io/news/defi/lido-unveils-morpho-based-lending-protocol-for-staking-loops",
+      "token": "$LDO"
     },
     {
-      "headline": "$MET: Meteora Launches DLMM Pro AMM on Solana",
-      "summary": "MeteoraAG unveiled DLMM Pro, a new AMM design aimed at boosting liquidity efficiency on Solana — a fresh DeFi primitive from one of the chain's busiest DEX teams.",
-      "url": "https://coinfomania.com/meteoraag-dlmm-pro-amm/",
-      "token": "$MET"
+      "headline": "$INJ Meridian Upgrade Goes Live With RWA Controls",
+      "summary": "Injective's Meridian mainnet upgrade expands issuer controls for tokenized assets and begins private trading tests, with the CypherOS privacy layer coming later.",
+      "url": "https://thedefiant.io/news/blockchains/injective-s-meridian-upgrade-expands-controls-for-tokenized-assets",
+      "token": "$INJ"
     },
     {
-      "headline": "$ZRX: 0x Swap Volume Hits $10B Milestone",
-      "summary": "0xProject's swap volume crossed $10B with confirmation of Arbitrum support, marking a major growth milestone for the veteran DEX infrastructure protocol.",
-      "url": "https://coinfomania.com/0xproject-swap-volume-10b-arbitrum/",
-      "token": "$ZRX"
+      "headline": "$ADA Launches Programmable Tokens With Issuer Controls",
+      "summary": "Cardano's new programmable token standard is live, letting issuers set rules like freezes and forced transfers. Wallets and DEXs must integrate to support the assets.",
+      "url": "https://thedefiant.io/news/blockchains/cardano-s-programmable-token-standard-goes-live-with-issuer-controls",
+      "token": "$ADA"
     }
   ]
 }
