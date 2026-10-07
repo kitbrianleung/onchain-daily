@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "most_held": [
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 155800645.01010102,
-      "pct": -8.4084
-    },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 110337267.36070134,
-      "pct": 0.9005
+      "mcap": 120704002.82348141,
+      "pct": 10.6912
+    },
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 153694265.01805067,
+      "pct": -1.0542
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 60724528.19106433,
-      "pct": 4.7136
+      "mcap": 57559401.13595287,
+      "pct": -5.7997
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 267373864.46176004,
-      "pct": -0.4421
+      "mcap": 274384638.2207308,
+      "pct": 2.9973
     },
     {
       "name": "Boner Coin",
       "symbol": "BONER",
       "label": "BONER",
       "full": "Boner Coin (BONER)",
-      "mcap": 60861995.29555382,
-      "pct": -22.3224
-    },
-    {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 28976076.378373414,
-      "pct": -15.6669
+      "mcap": 54951122.15938045,
+      "pct": -10.1452
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 107918452.35962683,
-      "pct": -1.5014
+      "mcap": 101575001.17543642,
+      "pct": -6.5659
+    },
+    {
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 26787943.566959668,
+      "pct": -8.1708
     }
   ],
   "trending": [
     {
-      "name": "THE LAST TRADE",
-      "symbol": "TLT",
-      "label": "TLT",
-      "full": "THE LAST TRADE (TLT)",
-      "mcap": 581994.7724040432,
-      "pct": 1276.4695
+      "name": "hashers.network",
+      "symbol": "HASHERS",
+      "label": "HASHERS",
+      "full": "hashers.network (HASHERS)",
+      "mcap": 486684.24251993117,
+      "pct": 7330.962
     },
     {
-      "name": "cat wif robinhood",
-      "symbol": "swordhood",
-      "label": "swordhood",
-      "full": "cat wif robinhood (swordhood)",
-      "mcap": 512023.1617505649,
-      "pct": 1035.5263
+      "name": "auton",
+      "symbol": "AUTON",
+      "label": "AUTON",
+      "full": "auton",
+      "mcap": 3930384.011744716,
+      "pct": 102242.9726
     },
     {
-      "name": "Cartridge",
-      "symbol": "Cartridge",
-      "label": "Cartridge",
-      "full": "Cartridge",
-      "mcap": 426252.2819213695,
-      "pct": 615.775
+      "name": "Ducat",
+      "symbol": "DUCAT",
+      "label": "DUCAT",
+      "full": "Ducat",
+      "mcap": 1293575.4676530468,
+      "pct": -32.4993
     },
     {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 155907373.5384798,
-      "pct": -8.1143
+      "name": "Team Human",
+      "symbol": "Human",
+      "label": "Human",
+      "full": "Team Human (Human)",
+      "mcap": 567152.0785909158,
+      "pct": -27.8276
     },
     {
-      "name": "Yersinia pestis",
-      "symbol": "PLAGUE",
-      "label": "PLAGUE",
-      "full": "Yersinia pestis (PLAGUE)",
-      "mcap": 2427907.842698696,
-      "pct": 216.9033
+      "name": "Truman World",
+      "symbol": "TRUMAN",
+      "label": "TRUMAN",
+      "full": "Truman World (TRUMAN)",
+      "mcap": 1215017.242292455,
+      "pct": 24.6725
     },
     {
-      "name": "Personality.md",
-      "symbol": "PMD",
-      "label": "PMD",
-      "full": "Personality.md (PMD)",
-      "mcap": 392730.4759612399,
-      "pct": 11243.1702
+      "name": "Tweetcraft",
+      "symbol": "TWEETCRAFT",
+      "label": "TWEETCRAFT",
+      "full": "Tweetcraft",
+      "mcap": 1676361.0200074464,
+      "pct": 18740.4881
     },
     {
-      "name": "Agency",
-      "symbol": "AGENCY",
-      "label": "AGENCY",
-      "full": "Agency",
-      "mcap": 9042501.176181352,
-      "pct": -37.5294
+      "name": "claus",
+      "symbol": "CLAUS",
+      "label": "CLAUS",
+      "full": "claus",
+      "mcap": 14097185.845110647,
+      "pct": 35.066
     }
   ],
-  "story_image": "fomo/2026-10-06-story.jpg",
-  "post_image": "fomo/2026-10-06-post.jpg"
+  "story_image": "fomo/2026-10-07-story.jpg",
+  "post_image": "fomo/2026-10-07-post.jpg"
 }
