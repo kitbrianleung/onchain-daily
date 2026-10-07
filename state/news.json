@@ -2,34 +2,34 @@
   "date": "07 OCT 2026",
   "items": [
     {
-      "headline": "Winklevoss Files Spot $ZEC ETF With 0.25% Fee",
-      "summary": "Winklevoss Asset Services filed for a spot $ZEC ETF under ticker WINK, with Gemini as custodian, rivaling Grayscale's ZCSH as privacy coins stay hot.",
-      "url": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
-      "token": "$ZEC"
+      "headline": "Thiel's Founders Fund Buys $5M of $ANVIL Tokens",
+      "summary": "Peter Thiel-backed Founders Fund led a $5M token purchase in crypto collateral protocol Anvil, a rare direct VC token buy signaling conviction in the DeFi collateral niche.",
+      "url": "https://coindesk.com/business/2026/10/07/founders-fund-anvil-token-buy",
+      "token": "$ANVIL"
     },
     {
-      "headline": "Ether.fi Taps $ENA for New Dollar Stablecoin",
-      "summary": "Ether.fi is launching a dollar stablecoin powered by Ethena, which will manage reserves, minting and compliance for a platform with $300M+ in stablecoin balances.",
-      "url": "https://thedefiant.io/news/defi/ether-fi-announces-dollar-stablecoin-powered-by-ethena",
-      "token": "$ENA"
+      "headline": "$STX: Muneeb Ali Pledges IP Transfer to Stacks Endowment",
+      "summary": "New Stacks Labs CEO Muneeb Ali pledged to transfer IP to the Stacks Endowment and unveiled a two-year roadmap covering Bitcoin privacy and post-quantum tech, with a holder call in 30 days.",
+      "url": "https://thedefiant.io/news/blockchains/muneeb-ali-pledges-ip-transfer-to-stacks-endowment-in-ceo-plan",
+      "token": "$STX"
     },
     {
-      "headline": "Polymarket V2 Goes Live With pUSD Collateral",
-      "summary": "Polymarket rolled out Protocol V2, replacing its legacy Gnosis setup with a single ERC-1155 positions contract and pUSD collateral.",
-      "url": "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
-      "token": "Polymarket"
+      "headline": "Pudgy-Backed L2 Abstract Shuts Down, $PENGU Ecosystem Hit",
+      "summary": "Abstract, the Ethereum L2 backed by Pudgy Penguins, is winding down after losing tens of millions of dollars — a blow to the $PENGU ecosystem's chain ambitions.",
+      "url": "https://www.theblock.co/news/defi/pudgy-penguins-ethereum-l2-abstract-shut-down",
+      "token": "$PENGU"
     },
     {
-      "headline": "$ARB DAO Eyes 100M Token Boost for USDG Push",
-      "summary": "Arbitrum adopted Paxos' USDG as its ecosystem dollar, live with Fluid, Morpho and GMX, while a proposal asks the DAO to add 100M $ARB in incentives.",
-      "url": "https://thedefiant.io/news/defi/arbitrum-adopts-paxos-usdg-as-its-ecosystem-dollar",
-      "token": "$ARB"
+      "headline": "$MET: Meteora Launches DLMM Pro AMM on Solana",
+      "summary": "MeteoraAG unveiled DLMM Pro, a new AMM design aimed at boosting liquidity efficiency on Solana — a fresh DeFi primitive from one of the chain's busiest DEX teams.",
+      "url": "https://coinfomania.com/meteoraag-dlmm-pro-amm/",
+      "token": "$MET"
     },
     {
-      "headline": "$APT Unveils MonoMove, 55x Faster Market Engine",
-      "summary": "Aptos launched MonoMove, a new engine claiming 55x faster performance for onchain markets, aiming to supercharge its DeFi ecosystem.",
-      "url": "https://www.thestreet.com/",
-      "token": "$APT"
+      "headline": "$ZRX: 0x Swap Volume Hits $10B Milestone",
+      "summary": "0xProject's swap volume crossed $10B with confirmation of Arbitrum support, marking a major growth milestone for the veteran DEX infrastructure protocol.",
+      "url": "https://coinfomania.com/0xproject-swap-volume-10b-arbitrum/",
+      "token": "$ZRX"
     }
   ]
 }
