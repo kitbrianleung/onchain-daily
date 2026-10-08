@@ -1,35 +1,35 @@
 {
-  "date": "08 OCT 2026",
+  "date": "09 OCT 2026",
   "items": [
     {
-      "headline": "$330M in $HYPE Moves From Labs-Labeled Wallet",
-      "summary": "A Hyperliquid Labs-labeled wallet distributed $330M in $HYPE via five intermediary addresses, with 1.25M $HYPE returned to staking.",
-      "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
-      "token": "$HYPE"
-    },
-    {
-      "headline": "$ORCA Merges With Loopscale for AI Financing",
-      "summary": "Solana DEX Orca is merging with Loopscale to push into AI, robotics and defense financing, a fresh DeFi use case for $ORCA.",
-      "url": "https://www.theblock.co/post/373900/orca-loopscale-merge",
+      "headline": "Orca Merges With Loopscale to Fund AI & Robotics",
+      "summary": "Solana DEX $ORCA is merging with Loopscale to form 'Formation', a new DeFi venture targeting financing for AI, energy, robotics and defense.",
+      "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
       "token": "$ORCA"
     },
     {
-      "headline": "$JTO's JTX Plans Mobile App, Perps Next",
-      "summary": "Jito's JTX will launch a mobile app this fall and eyes perps integration this winter, expanding the $JTO ecosystem's trading reach.",
-      "url": "https://www.theblock.co/post/373600/jito-jtx-mobile-app",
-      "token": "$JTO"
+      "headline": "$ASTRO Kills Tokenholder Governance, Emissions Hit Zero",
+      "summary": "Astroport is ending tokenholder governance on Neutron and Terra. $ASTRO emissions drop to zero as contributors take over via DAO DAO orgs.",
+      "url": "https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra",
+      "token": "$ASTRO"
     },
     {
-      "headline": "Samsung Wallet Adds USDC on $SUI",
-      "summary": "Samsung Wallet will support USDC transfers on Sui in late October, with Bastion and Coinbase custody and bank off-ramps in 60+ countries. Big for $SUI adoption.",
-      "url": "https://thedefiant.io/news/tradfi-and-fintech/samsung-wallet-to-add-usdc-on-sui-in-late-october",
-      "token": "$SUI"
+      "headline": "$APT Reaffirms 210M Token Lock as Unlocks Wind Down",
+      "summary": "Aptos doubled down on its 210 million $APT lock as the insider unlock cycle nears its end, with a 2.6% staking rate and higher gas fees already live.",
+      "url": "https://thedefiant.io/news/tokens/aptos-reaffirms-210-million-apt-lock-as-insider-unlock-cycle-nears-end",
+      "token": "$APT"
     },
     {
-      "headline": "$NEAR Founder: CEXs Face Shrinking Role",
-      "summary": "NEAR co-founder Polosukhin says expanding onchain tools will shrink the need for centralized exchanges, spotlighting $NEAR's intents stack.",
-      "url": "https://www.theblock.co/post/near-polosukhin-centralized-exchanges-onchain-tools",
-      "token": "$NEAR"
+      "headline": "$ZK Opens Prividium Code, Bundesbank Testing It",
+      "summary": "ZKsync open-sourced its Prividium enterprise privacy stack under Apache 2.0 — and Matter Labs says the Bundesbank is already testing a self-hosted deployment.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/zksync-opens-prividium-core-code-under-apache-2-0",
+      "token": "$ZK"
+    },
+    {
+      "headline": "Moody's Rates $SKY B3 in First Stablecoin Protocol Grade",
+      "summary": "Moody's gave Sky Protocol a B3 rating — its first ever for a stablecoin protocol — flagging a thin ~$90M capital buffer against $10B in assets as $USDS institutional demand grows.",
+      "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+      "token": "$SKY"
     }
   ]
 }
