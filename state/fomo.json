@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "most_held": [
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 120704002.82348141,
-      "pct": 10.6912
+      "mcap": 103004776.54971163,
+      "pct": -12.5532
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 153694265.01805067,
-      "pct": -1.0542
+      "mcap": 127973306.43374054,
+      "pct": -18.9243
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 57559401.13595287,
-      "pct": -5.7997
+      "mcap": 53952419.3804989,
+      "pct": -7.1484
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 274384638.2207308,
-      "pct": 2.9973
+      "mcap": 259514547.800519,
+      "pct": -5.1298
     },
     {
       "name": "Boner Coin",
       "symbol": "BONER",
       "label": "BONER",
       "full": "Boner Coin (BONER)",
-      "mcap": 54951122.15938045,
-      "pct": -10.1452
+      "mcap": 47840321.049613684,
+      "pct": -12.9501
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 101575001.17543642,
-      "pct": -6.5659
+      "mcap": 91153373.37638013,
+      "pct": -8.8777
     },
     {
       "name": "Super Inu",
       "symbol": "SI",
       "label": "SI",
       "full": "Super Inu (SI)",
-      "mcap": 26787943.566959668,
-      "pct": -8.1708
+      "mcap": 22933336.266845472,
+      "pct": -13.4504
     }
   ],
   "trending": [
     {
-      "name": "hashers.network",
-      "symbol": "HASHERS",
-      "label": "HASHERS",
-      "full": "hashers.network (HASHERS)",
-      "mcap": 486684.24251993117,
-      "pct": 7330.962
+      "name": "CyberLeek",
+      "symbol": "CYBERLEEK",
+      "label": "CYBERLEEK",
+      "full": "CyberLeek",
+      "mcap": 1899126.3660244814,
+      "pct": 94.5724
     },
     {
-      "name": "auton",
-      "symbol": "AUTON",
-      "label": "AUTON",
-      "full": "auton",
-      "mcap": 3930384.011744716,
-      "pct": 102242.9726
+      "name": "",
+      "symbol": "",
+      "label": "?",
+      "full": "?",
+      "mcap": 277367.4819957723,
+      "pct": 71.891
     },
     {
-      "name": "Ducat",
-      "symbol": "DUCAT",
-      "label": "DUCAT",
-      "full": "Ducat",
-      "mcap": 1293575.4676530468,
-      "pct": -32.4993
+      "name": "Hooked",
+      "symbol": "HOOKED",
+      "label": "HOOKED",
+      "full": "Hooked",
+      "mcap": 7867558.832425946,
+      "pct": 59.4209
     },
     {
-      "name": "Team Human",
-      "symbol": "Human",
-      "label": "Human",
-      "full": "Team Human (Human)",
-      "mcap": 567152.0785909158,
-      "pct": -27.8276
+      "name": "Stupid Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Stupid Inu (SI)",
+      "mcap": 1895055.5684844777,
+      "pct": 123.9791
     },
     {
-      "name": "Truman World",
-      "symbol": "TRUMAN",
-      "label": "TRUMAN",
-      "full": "Truman World (TRUMAN)",
-      "mcap": 1215017.242292455,
-      "pct": 24.6725
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 53968019.26518353,
+      "pct": -2.8237
     },
     {
-      "name": "Tweetcraft",
-      "symbol": "TWEETCRAFT",
-      "label": "TWEETCRAFT",
-      "full": "Tweetcraft",
-      "mcap": 1676361.0200074464,
-      "pct": 18740.4881
+      "name": "Capybara With A Gun",
+      "symbol": "CAPYBARA",
+      "label": "CAPYBARA",
+      "full": "Capybara With A Gun (CAPYBARA)",
+      "mcap": 795783.3303918369,
+      "pct": 21664.156
     },
     {
-      "name": "claus",
-      "symbol": "CLAUS",
-      "label": "CLAUS",
-      "full": "claus",
-      "mcap": 14097185.845110647,
-      "pct": 35.066
+      "name": "Hot Bot",
+      "symbol": "HOTBOT",
+      "label": "HOTBOT",
+      "full": "Hot Bot (HOTBOT)",
+      "mcap": 1522954.3877325524,
+      "pct": -12.3799
     }
   ],
-  "story_image": "fomo/2026-10-07-story.jpg",
-  "post_image": "fomo/2026-10-07-post.jpg"
+  "story_image": "fomo/2026-10-08-story.jpg",
+  "post_image": "fomo/2026-10-08-post.jpg"
 }
