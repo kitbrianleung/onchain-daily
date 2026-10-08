@@ -2,34 +2,34 @@
   "date": "08 OCT 2026",
   "items": [
     {
-      "headline": "Hunter Biden Slams $LAPTOP Market Maker: 'Buy It All Back'",
-      "summary": "Hunter Biden says the $LAPTOP memecoin's market maker should buy back and burn the supply, after a report detailed thin liquidity and MM-linked gains at launch.",
-      "url": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
-      "token": "$LAPTOP"
+      "headline": "$330M in $HYPE Moves From Labs-Labeled Wallet",
+      "summary": "A Hyperliquid Labs-labeled wallet distributed $330M in $HYPE via five intermediary addresses, with 1.25M $HYPE returned to staking.",
+      "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
+      "token": "$HYPE"
     },
     {
-      "headline": "$JTO's JTX Plots Mobile App, Perps Next on Solana",
-      "summary": "Jito's JTX is launching a mobile app this fall with equities and perps on the roadmap, expanding beyond spot trading on Solana.",
-      "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
+      "headline": "$ORCA Merges With Loopscale for AI Financing",
+      "summary": "Solana DEX Orca is merging with Loopscale to push into AI, robotics and defense financing, a fresh DeFi use case for $ORCA.",
+      "url": "https://www.theblock.co/post/373900/orca-loopscale-merge",
+      "token": "$ORCA"
+    },
+    {
+      "headline": "$JTO's JTX Plans Mobile App, Perps Next",
+      "summary": "Jito's JTX will launch a mobile app this fall and eyes perps integration this winter, expanding the $JTO ecosystem's trading reach.",
+      "url": "https://www.theblock.co/post/373600/jito-jtx-mobile-app",
       "token": "$JTO"
     },
     {
-      "headline": "$LDO Unveils Morpho-Based Lending for Staking Loops",
-      "summary": "Lido revealed Lido Lend, a Morpho-based lending protocol targeting Q4 launch, built for leveraged staking loops with collateral screening.",
-      "url": "https://thedefiant.io/news/defi/lido-unveils-morpho-based-lending-protocol-for-staking-loops",
-      "token": "$LDO"
+      "headline": "Samsung Wallet Adds USDC on $SUI",
+      "summary": "Samsung Wallet will support USDC transfers on Sui in late October, with Bastion and Coinbase custody and bank off-ramps in 60+ countries. Big for $SUI adoption.",
+      "url": "https://thedefiant.io/news/tradfi-and-fintech/samsung-wallet-to-add-usdc-on-sui-in-late-october",
+      "token": "$SUI"
     },
     {
-      "headline": "$INJ Meridian Upgrade Goes Live With RWA Controls",
-      "summary": "Injective's Meridian mainnet upgrade expands issuer controls for tokenized assets and begins private trading tests, with the CypherOS privacy layer coming later.",
-      "url": "https://thedefiant.io/news/blockchains/injective-s-meridian-upgrade-expands-controls-for-tokenized-assets",
-      "token": "$INJ"
-    },
-    {
-      "headline": "$ADA Launches Programmable Tokens With Issuer Controls",
-      "summary": "Cardano's new programmable token standard is live, letting issuers set rules like freezes and forced transfers. Wallets and DEXs must integrate to support the assets.",
-      "url": "https://thedefiant.io/news/blockchains/cardano-s-programmable-token-standard-goes-live-with-issuer-controls",
-      "token": "$ADA"
+      "headline": "$NEAR Founder: CEXs Face Shrinking Role",
+      "summary": "NEAR co-founder Polosukhin says expanding onchain tools will shrink the need for centralized exchanges, spotlighting $NEAR's intents stack.",
+      "url": "https://www.theblock.co/post/near-polosukhin-centralized-exchanges-onchain-tools",
+      "token": "$NEAR"
     }
   ]
 }
