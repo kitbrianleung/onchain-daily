@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "most_held": [
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 103004776.54971163,
-      "pct": -12.5532
+      "mcap": 95440198.19853136,
+      "pct": -3.635
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 127973306.43374054,
-      "pct": -18.9243
+      "mcap": 117061142.79381219,
+      "pct": -7.5694
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 53952419.3804989,
-      "pct": -7.1484
+      "mcap": 52395954.607372984,
+      "pct": -2.6322
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 259514547.800519,
-      "pct": -5.1298
+      "mcap": 236133892.50327742,
+      "pct": -9.0064
     },
     {
       "name": "Boner Coin",
       "symbol": "BONER",
       "label": "BONER",
       "full": "Boner Coin (BONER)",
-      "mcap": 47840321.049613684,
-      "pct": -12.9501
-    },
-    {
-      "name": "MarsCoin",
-      "symbol": "MARSCOIN",
-      "label": "MARSCOIN",
-      "full": "MarsCoin",
-      "mcap": 91153373.37638013,
-      "pct": -8.8777
+      "mcap": 38755375.24989238,
+      "pct": -19.4608
     },
     {
       "name": "Super Inu",
       "symbol": "SI",
       "label": "SI",
       "full": "Super Inu (SI)",
-      "mcap": 22933336.266845472,
-      "pct": -13.4504
+      "mcap": 24775147.742735833,
+      "pct": 4.5934
+    },
+    {
+      "name": "MarsCoin",
+      "symbol": "MARSCOIN",
+      "label": "MARSCOIN",
+      "full": "MarsCoin",
+      "mcap": 94652388.42059031,
+      "pct": 2.8243
     }
   ],
   "trending": [
     {
-      "name": "CyberLeek",
-      "symbol": "CYBERLEEK",
-      "label": "CYBERLEEK",
-      "full": "CyberLeek",
-      "mcap": 1899126.3660244814,
-      "pct": 94.5724
+      "name": "pqc.market",
+      "symbol": "PQC",
+      "label": "PQC",
+      "full": "pqc.market (PQC)",
+      "mcap": 1919502.2826754714,
+      "pct": 1825.3711
+    },
+    {
+      "name": "claus",
+      "symbol": "CLAUS",
+      "label": "CLAUS",
+      "full": "claus",
+      "mcap": 7961927.160479469,
+      "pct": -51.2659
+    },
+    {
+      "name": "Quantum Inu",
+      "symbol": "QI",
+      "label": "QI",
+      "full": "Quantum Inu (QI)",
+      "mcap": 1427176.1008018828,
+      "pct": 40209.6067
     },
     {
       "name": "",
       "symbol": "",
       "label": "?",
       "full": "?",
-      "mcap": 277367.4819957723,
-      "pct": 71.891
+      "mcap": 2255732.276098624,
+      "pct": 77.4018
     },
     {
-      "name": "Hooked",
-      "symbol": "HOOKED",
-      "label": "HOOKED",
-      "full": "Hooked",
-      "mcap": 7867558.832425946,
-      "pct": 59.4209
+      "name": "Justice for HeeHaw",
+      "symbol": "HEEHAW",
+      "label": "HEEHAW",
+      "full": "Justice for HeeHaw (HEEHAW)",
+      "mcap": 2210954.6386588244,
+      "pct": 1781.4696
     },
     {
-      "name": "Stupid Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Stupid Inu (SI)",
-      "mcap": 1895055.5684844777,
-      "pct": 123.9791
+      "name": "Hamster",
+      "symbol": "HAMSTER",
+      "label": "HAMSTER",
+      "full": "Hamster",
+      "mcap": 1677188.7142589688,
+      "pct": 22.2614
     },
     {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 53968019.26518353,
-      "pct": -2.8237
-    },
-    {
-      "name": "Capybara With A Gun",
-      "symbol": "CAPYBARA",
-      "label": "CAPYBARA",
-      "full": "Capybara With A Gun (CAPYBARA)",
-      "mcap": 795783.3303918369,
-      "pct": 21664.156
-    },
-    {
-      "name": "Hot Bot",
-      "symbol": "HOTBOT",
-      "label": "HOTBOT",
-      "full": "Hot Bot (HOTBOT)",
-      "mcap": 1522954.3877325524,
-      "pct": -12.3799
+      "name": "Abu Shalab",
+      "symbol": "ABU",
+      "label": "ABU",
+      "full": "Abu Shalab (ABU)",
+      "mcap": 538689.9754178054,
+      "pct": 431.4174
     }
   ],
-  "story_image": "fomo/2026-10-08-story.jpg",
-  "post_image": "fomo/2026-10-08-post.jpg"
+  "story_image": "fomo/2026-10-09-story.jpg",
+  "post_image": "fomo/2026-10-09-post.jpg"
 }
