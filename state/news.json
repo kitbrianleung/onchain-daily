@@ -1,35 +1,35 @@
 {
-  "date": "09 OCT 2026",
+  "date": "10 OCT 2026",
   "items": [
     {
-      "headline": "Solana's Orca Merges With Loopscale for AI Push",
-      "summary": "Solana DEX Orca is merging with Loopscale to expand into onchain financing for AI, robotics and defense — a fresh DeFi use case beyond swaps.",
-      "url": "https://www.theblock.co/post/solana-orca-merges-loopscale-ai-robotics-defense",
-      "token": "$ORCA"
+      "headline": "Telegram Rolls Out Money Wallet for $GRAM Transfers",
+      "summary": "Telegram's new Money wallet section enables $GRAM transfers and collectibles, appearing after incoming transfers via the Walt service. A big distribution push for the TON-ecosystem token.",
+      "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
+      "token": "$GRAM"
     },
     {
-      "headline": "Base Ships Cobalt Upgrade With Seize Function",
-      "summary": "Base's third upgrade of the year adds conditional transactions and changes to the B20 token standard, including a controversial seize function.",
-      "url": "https://thedefiant.io/converge/blockchains",
-      "token": "$BASE"
+      "headline": "$DOT DeFi Push: Polkadot Launches dotUSD Stablecoin",
+      "summary": "Polkadot launched USDT-backed dotUSD under OpenGov with ~2.77M tokens in supply, and $DOT-backed borrowing is planned for a later phase. A fresh DeFi use case for the ecosystem.",
+      "url": "https://thedefiant.io/news/defi/polkadot-launches-usdt-backed-dotusd-under-opengov",
+      "token": "$DOT"
     },
     {
-      "headline": "Samsung Brings USDC Transfers to Solana Galaxy Users",
-      "summary": "Samsung will enable USDC transfers on Solana for US Galaxy smartphone users, a big mainstream adoption win for the $SOL ecosystem.",
-      "url": "https://www.theblock.co/post/samsung-usdc-transfers-solana-us-galaxy-users",
-      "token": "$SOL"
+      "headline": "$STRK Eyes Own L1 for Quantum Security by 2027",
+      "summary": "Starknet is weighing a shift to its own Layer 1 to pursue quantum security by 2027, per StarkWare CEO Eli Ben-Sasson. An independent chain would let $STRK control security upgrades without waiting on Ethereum.",
+      "url": "https://thedefiant.io/news/blockchains/starknet-weighs-layer-1-shift-to-pursue-quantum-security-by-2027",
+      "token": "$STRK"
     },
     {
-      "headline": "Vitalik Warns on Hasty Wallet Migrations Amid AI Risk",
-      "summary": "Vitalik Buterin cautions $ETH users not to rush wallet migrations despite growing fears of AI-driven attack risks.",
-      "url": "https://www.theblock.co/post/vitalik-buterin-warns-against-hasty-wallet-migrations-ai-threats",
-      "token": "$ETH"
+      "headline": "Aave Lists $MONAD AUSD PT With 93% Borrow Limit",
+      "summary": "Aave listed December AUSD PT on Monad with a 93% borrowing limit, and the 30M-token supply cap filled fast with ~$29.67M supplied. Early sign of DeFi demand on the new $MONAD chain.",
+      "url": "https://thedefiant.io/news/defi/aave-lists-december-ausd-pt-on-monad-with-93-borrowing-limit",
+      "token": "$MONAD"
     },
     {
-      "headline": "Justin Drake Urges 'Bunker Mode' for Key Recovery",
-      "summary": "Ethereum researcher Justin Drake calls for 'bunker mode' contingency planning against AI-posed private key recovery risks, splitting the industry.",
-      "url": "https://www.theblock.co/post/justin-drake-bunker-mode-private-key-recovery-risk",
-      "token": "$ETH"
+      "headline": "$USDKG Winds Down After UK Sanctions Hit",
+      "summary": "Kyrgyzstan is retiring its gold-backed $USDKG token after UK sanctions, letting holders redeem fiat or USDT. The fate of the gold reserves remains unspecified.",
+      "url": "https://thedefiant.io/converge/regulation/kyrgyzstan-winds-down-gold-backed-usdkg-after-uk-sanctions",
+      "token": "$USDKG"
     }
   ]
 }
