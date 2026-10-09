@@ -2,34 +2,34 @@
   "date": "09 OCT 2026",
   "items": [
     {
-      "headline": "Orca Merges With Loopscale to Fund AI & Robotics",
-      "summary": "Solana DEX $ORCA is merging with Loopscale to form 'Formation', a new DeFi venture targeting financing for AI, energy, robotics and defense.",
-      "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+      "headline": "Solana's Orca Merges With Loopscale for AI Push",
+      "summary": "Solana DEX Orca is merging with Loopscale to expand into onchain financing for AI, robotics and defense — a fresh DeFi use case beyond swaps.",
+      "url": "https://www.theblock.co/post/solana-orca-merges-loopscale-ai-robotics-defense",
       "token": "$ORCA"
     },
     {
-      "headline": "$ASTRO Kills Tokenholder Governance, Emissions Hit Zero",
-      "summary": "Astroport is ending tokenholder governance on Neutron and Terra. $ASTRO emissions drop to zero as contributors take over via DAO DAO orgs.",
-      "url": "https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra",
-      "token": "$ASTRO"
+      "headline": "Base Ships Cobalt Upgrade With Seize Function",
+      "summary": "Base's third upgrade of the year adds conditional transactions and changes to the B20 token standard, including a controversial seize function.",
+      "url": "https://thedefiant.io/converge/blockchains",
+      "token": "$BASE"
     },
     {
-      "headline": "$APT Reaffirms 210M Token Lock as Unlocks Wind Down",
-      "summary": "Aptos doubled down on its 210 million $APT lock as the insider unlock cycle nears its end, with a 2.6% staking rate and higher gas fees already live.",
-      "url": "https://thedefiant.io/news/tokens/aptos-reaffirms-210-million-apt-lock-as-insider-unlock-cycle-nears-end",
-      "token": "$APT"
+      "headline": "Samsung Brings USDC Transfers to Solana Galaxy Users",
+      "summary": "Samsung will enable USDC transfers on Solana for US Galaxy smartphone users, a big mainstream adoption win for the $SOL ecosystem.",
+      "url": "https://www.theblock.co/post/samsung-usdc-transfers-solana-us-galaxy-users",
+      "token": "$SOL"
     },
     {
-      "headline": "$ZK Opens Prividium Code, Bundesbank Testing It",
-      "summary": "ZKsync open-sourced its Prividium enterprise privacy stack under Apache 2.0 — and Matter Labs says the Bundesbank is already testing a self-hosted deployment.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/zksync-opens-prividium-core-code-under-apache-2-0",
-      "token": "$ZK"
+      "headline": "Vitalik Warns on Hasty Wallet Migrations Amid AI Risk",
+      "summary": "Vitalik Buterin cautions $ETH users not to rush wallet migrations despite growing fears of AI-driven attack risks.",
+      "url": "https://www.theblock.co/post/vitalik-buterin-warns-against-hasty-wallet-migrations-ai-threats",
+      "token": "$ETH"
     },
     {
-      "headline": "Moody's Rates $SKY B3 in First Stablecoin Protocol Grade",
-      "summary": "Moody's gave Sky Protocol a B3 rating — its first ever for a stablecoin protocol — flagging a thin ~$90M capital buffer against $10B in assets as $USDS institutional demand grows.",
-      "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
-      "token": "$SKY"
+      "headline": "Justin Drake Urges 'Bunker Mode' for Key Recovery",
+      "summary": "Ethereum researcher Justin Drake calls for 'bunker mode' contingency planning against AI-posed private key recovery risks, splitting the industry.",
+      "url": "https://www.theblock.co/post/justin-drake-bunker-mode-private-key-recovery-risk",
+      "token": "$ETH"
     }
   ]
 }
