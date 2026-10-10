@@ -1,35 +1,40 @@
 {
-  "date": "10 OCT 2026",
+  "date": "11 OCT 2026",
   "items": [
     {
-      "headline": "$STRK Jumps 30% as Starknet Weighs Layer 1 Shift",
-      "summary": "$STRK rallied 30%, outpacing $BTC and $ETH, as Starknet debates a shift to Layer 1. Daily DEX volume on the network climbed to about $33.7M.",
-      "url": "https://thedefiant.io/news/markets/strk-jumps-30-as-starknet-weighs-layer-1-shift",
-      "token": "$STRK"
+      "headline": "1000x Perps Venue $PAPER Pays $10.3M in Hours",
+      "summary": "Brand-new leverage venue Papertrade showed $10.3M in $PAPER staker rewards just hours after launch, with a $5M house pool and no queued payout debt. One of the hottest fresh token launches onchain right now.",
+      "url": "https://thedefiant.io/news/defi/papertrade-shows-10-3-million-in-staker-rewards-hours-after-launch",
+      "token": "$PAPER",
+      "caption": "#altcoins #defi #onchain #crypto #alpha #PAPER #AERO #STRK #NEAR #ONED"
     },
     {
-      "headline": "$GRAM Pops 9% as Telegram Money Wallet Goes Live",
-      "summary": "Telegram rolled out its Money Wallet for $GRAM transfers and collectibles, sending the token up 9% as fresh utility lands in the ecosystem.",
-      "url": "https://coingape.com/telegrams-gram-token-jumps-9-as-money-wallet-launches-for-gram-transfers/",
-      "token": "$GRAM"
+      "headline": "$AERO Rallies 48% in a Month Ahead of Merger",
+      "summary": "$AERO is up 48% in four weeks, outpacing Bitcoin and Ether, as Aerodrome holds ~$393M TVL on Base. Its merger with Velodrome launches Oct. 21 with set token conversion terms.",
+      "url": "https://thedefiant.io/news/markets/aero-rallies-48-in-four-weeks-outpacing-bitcoin-and-ether",
+      "token": "$AERO",
+      "caption": "#altcoins #defi #onchain #crypto #alpha #PAPER #AERO #STRK #NEAR #ONED"
     },
     {
-      "headline": "$STG Merger With LayerZero Is Complete, KuCoin Says",
-      "summary": "Stargate Finance finalized its merger with LayerZero, per KuCoin, consolidating one of DeFi's biggest cross-chain bridging plays under $STG.",
-      "url": "https://coinfomania.com/stargate-finance-completes-merge-with-layerzero-says-kucoin/",
-      "token": "$STG"
+      "headline": "$STRK Eyed as StarkWare Backs Starknet L1 Shift",
+      "summary": "StarkWare called a move to Layer 1 its 'clearest path forward' for Starknet, a major ecosystem pivot. $STRK traders are watching closely as the network still settles on Ethereum for now.",
+      "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
+      "token": "$STRK",
+      "caption": "#altcoins #defi #onchain #crypto #alpha #PAPER #AERO #STRK #NEAR #ONED"
     },
     {
-      "headline": "$SYRUP Buyback Completed by Maple Finance",
-      "summary": "Maple Finance finished its $SYRUP buyback program, tightening token supply as the DeFi credit protocol keeps building momentum.",
-      "url": "https://coinfomania.com/maple-announces-successful-completion-of-syrup-buyback/",
-      "token": "$SYRUP"
+      "headline": "$NEAR Jumps 83% in Four Weeks on Issuance Cut",
+      "summary": "$NEAR gained 83% in four weeks, beating Bitcoin and Ether, as a draft plan would slash max annual issuance from 2.5% to 1.6%. Lower dilution is fueling the momentum.",
+      "url": "https://thedefiant.io/news/markets/near-gains-83-in-four-weeks-outpacing-bitcoin-and-ether",
+      "token": "$NEAR",
+      "caption": "#altcoins #defi #onchain #crypto #alpha #PAPER #AERO #STRK #NEAR #ONED"
     },
     {
-      "headline": "Travala's $AVA Gets an AI Travel Booking Agent",
-      "summary": "Travala debuted an AI-powered travel booking agent, adding a fresh real-world use case for the $AVA ecosystem.",
-      "url": "https://cryptonews.net/news/altcoins/travala-launches-ai-travel-booking-agent/",
-      "token": "$AVA"
+      "headline": "Coinbase Backs $ONED Stablecoin in Latin America",
+      "summary": "Coinbase and Gennius plan to bring the $ONED stablecoin to Latin American banks, starting in Argentina. Users could convert deposits to $ONED, transfer 24/7 and spend via Visa.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
+      "token": "$ONED",
+      "caption": "#altcoins #defi #onchain #crypto #alpha #PAPER #AERO #STRK #NEAR #ONED"
     }
   ]
 }
