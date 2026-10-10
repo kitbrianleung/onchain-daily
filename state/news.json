@@ -2,34 +2,34 @@
   "date": "10 OCT 2026",
   "items": [
     {
-      "headline": "Telegram Rolls Out Money Wallet for $GRAM Transfers",
-      "summary": "Telegram's new Money wallet section enables $GRAM transfers and collectibles, appearing after incoming transfers via the Walt service. A big distribution push for the TON-ecosystem token.",
-      "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
-      "token": "$GRAM"
-    },
-    {
-      "headline": "$DOT DeFi Push: Polkadot Launches dotUSD Stablecoin",
-      "summary": "Polkadot launched USDT-backed dotUSD under OpenGov with ~2.77M tokens in supply, and $DOT-backed borrowing is planned for a later phase. A fresh DeFi use case for the ecosystem.",
-      "url": "https://thedefiant.io/news/defi/polkadot-launches-usdt-backed-dotusd-under-opengov",
-      "token": "$DOT"
-    },
-    {
-      "headline": "$STRK Eyes Own L1 for Quantum Security by 2027",
-      "summary": "Starknet is weighing a shift to its own Layer 1 to pursue quantum security by 2027, per StarkWare CEO Eli Ben-Sasson. An independent chain would let $STRK control security upgrades without waiting on Ethereum.",
-      "url": "https://thedefiant.io/news/blockchains/starknet-weighs-layer-1-shift-to-pursue-quantum-security-by-2027",
+      "headline": "$STRK Jumps 30% as Starknet Weighs Layer 1 Shift",
+      "summary": "$STRK rallied 30%, outpacing $BTC and $ETH, as Starknet debates a shift to Layer 1. Daily DEX volume on the network climbed to about $33.7M.",
+      "url": "https://thedefiant.io/news/markets/strk-jumps-30-as-starknet-weighs-layer-1-shift",
       "token": "$STRK"
     },
     {
-      "headline": "Aave Lists $MONAD AUSD PT With 93% Borrow Limit",
-      "summary": "Aave listed December AUSD PT on Monad with a 93% borrowing limit, and the 30M-token supply cap filled fast with ~$29.67M supplied. Early sign of DeFi demand on the new $MONAD chain.",
-      "url": "https://thedefiant.io/news/defi/aave-lists-december-ausd-pt-on-monad-with-93-borrowing-limit",
-      "token": "$MONAD"
+      "headline": "$GRAM Pops 9% as Telegram Money Wallet Goes Live",
+      "summary": "Telegram rolled out its Money Wallet for $GRAM transfers and collectibles, sending the token up 9% as fresh utility lands in the ecosystem.",
+      "url": "https://coingape.com/telegrams-gram-token-jumps-9-as-money-wallet-launches-for-gram-transfers/",
+      "token": "$GRAM"
     },
     {
-      "headline": "$USDKG Winds Down After UK Sanctions Hit",
-      "summary": "Kyrgyzstan is retiring its gold-backed $USDKG token after UK sanctions, letting holders redeem fiat or USDT. The fate of the gold reserves remains unspecified.",
-      "url": "https://thedefiant.io/converge/regulation/kyrgyzstan-winds-down-gold-backed-usdkg-after-uk-sanctions",
-      "token": "$USDKG"
+      "headline": "$STG Merger With LayerZero Is Complete, KuCoin Says",
+      "summary": "Stargate Finance finalized its merger with LayerZero, per KuCoin, consolidating one of DeFi's biggest cross-chain bridging plays under $STG.",
+      "url": "https://coinfomania.com/stargate-finance-completes-merge-with-layerzero-says-kucoin/",
+      "token": "$STG"
+    },
+    {
+      "headline": "$SYRUP Buyback Completed by Maple Finance",
+      "summary": "Maple Finance finished its $SYRUP buyback program, tightening token supply as the DeFi credit protocol keeps building momentum.",
+      "url": "https://coinfomania.com/maple-announces-successful-completion-of-syrup-buyback/",
+      "token": "$SYRUP"
+    },
+    {
+      "headline": "Travala's $AVA Gets an AI Travel Booking Agent",
+      "summary": "Travala debuted an AI-powered travel booking agent, adding a fresh real-world use case for the $AVA ecosystem.",
+      "url": "https://cryptonews.net/news/altcoins/travala-launches-ai-travel-booking-agent/",
+      "token": "$AVA"
     }
   ]
 }
