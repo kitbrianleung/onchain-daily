@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "most_held": [
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 95440198.19853136,
-      "pct": -3.635
-    },
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 117061142.79381219,
-      "pct": -7.5694
+      "mcap": 93620239.83301081,
+      "pct": -3.4109
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 52395954.607372984,
-      "pct": -2.6322
+      "mcap": 51474586.27342546,
+      "pct": -2.714
+    },
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 107136873.36100014,
+      "pct": -12.2312
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 236133892.50327742,
-      "pct": -9.0064
+      "mcap": 239182858.43436924,
+      "pct": 1.3851
     },
     {
       "name": "Boner Coin",
       "symbol": "BONER",
       "label": "BONER",
       "full": "Boner Coin (BONER)",
-      "mcap": 38755375.24989238,
-      "pct": -19.4608
-    },
-    {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 24775147.742735833,
-      "pct": 4.5934
+      "mcap": 41477444.12294695,
+      "pct": 7.524
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 94652388.42059031,
-      "pct": 2.8243
+      "mcap": 92236598.58371837,
+      "pct": -1.4604
+    },
+    {
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 22405894.76159316,
+      "pct": -10.9556
     }
   ],
   "trending": [
     {
-      "name": "pqc.market",
-      "symbol": "PQC",
-      "label": "PQC",
-      "full": "pqc.market (PQC)",
-      "mcap": 1919502.2826754714,
-      "pct": 1825.3711
+      "name": "API",
+      "symbol": "API",
+      "label": "API",
+      "full": "API",
+      "mcap": 373081.111864366,
+      "pct": 12200.1303
     },
     {
-      "name": "claus",
-      "symbol": "CLAUS",
-      "label": "CLAUS",
-      "full": "claus",
-      "mcap": 7961927.160479469,
-      "pct": -51.2659
+      "name": "TeleMoney",
+      "symbol": "TM",
+      "label": "TM",
+      "full": "TeleMoney (TM)",
+      "mcap": 710752.6591743721,
+      "pct": 19014.2174
     },
     {
-      "name": "Quantum Inu",
-      "symbol": "QI",
-      "label": "QI",
-      "full": "Quantum Inu (QI)",
-      "mcap": 1427176.1008018828,
-      "pct": 40209.6067
+      "name": "Orbio.so",
+      "symbol": "ORBIO",
+      "label": "ORBIO",
+      "full": "Orbio.so (ORBIO)",
+      "mcap": 56773369.61889357,
+      "pct": 28.8321
     },
     {
       "name": "",
       "symbol": "",
       "label": "?",
       "full": "?",
-      "mcap": 2255732.276098624,
-      "pct": 77.4018
+      "mcap": 710814.6878266582,
+      "pct": 550.6681
+    },
+    {
+      "name": "QUBIT",
+      "symbol": "QUBIT",
+      "label": "QUBIT",
+      "full": "QUBIT",
+      "mcap": 397020.8308524738,
+      "pct": 10742.1319
+    },
+    {
+      "name": "Zip coin",
+      "symbol": "ZC",
+      "label": "ZC",
+      "full": "Zip coin (ZC)",
+      "mcap": 8084141.0658634575,
+      "pct": -44.3488
     },
     {
       "name": "Justice for HeeHaw",
       "symbol": "HEEHAW",
       "label": "HEEHAW",
       "full": "Justice for HeeHaw (HEEHAW)",
-      "mcap": 2210954.6386588244,
-      "pct": 1781.4696
-    },
-    {
-      "name": "Hamster",
-      "symbol": "HAMSTER",
-      "label": "HAMSTER",
-      "full": "Hamster",
-      "mcap": 1677188.7142589688,
-      "pct": 22.2614
-    },
-    {
-      "name": "Abu Shalab",
-      "symbol": "ABU",
-      "label": "ABU",
-      "full": "Abu Shalab (ABU)",
-      "mcap": 538689.9754178054,
-      "pct": 431.4174
+      "mcap": 1312748.4530798916,
+      "pct": -37.2907
     }
   ],
-  "story_image": "fomo/2026-10-09-story.jpg",
-  "post_image": "fomo/2026-10-09-post.jpg"
+  "story_image": "fomo/2026-10-10-story.jpg",
+  "post_image": "fomo/2026-10-10-post.jpg"
 }
