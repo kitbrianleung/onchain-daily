@@ -2,39 +2,34 @@
   "date": "11 OCT 2026",
   "items": [
     {
-      "headline": "1000x Perps Venue $PAPER Pays $10.3M in Hours",
-      "summary": "Brand-new leverage venue Papertrade showed $10.3M in $PAPER staker rewards just hours after launch, with a $5M house pool and no queued payout debt. One of the hottest fresh token launches onchain right now.",
-      "url": "https://thedefiant.io/news/defi/papertrade-shows-10-3-million-in-staker-rewards-hours-after-launch",
-      "token": "$PAPER",
-      "caption": "#altcoins #defi #onchain #crypto #alpha #PAPER #AERO #STRK #NEAR #ONED"
+      "headline": "$PAPER: Papertrade Hit by Oracle-Manipulation Allegation",
+      "summary": "A wallet allegedly booked $1.73M in realized gains on PaperDash while $PAPER's loss-funded house pool shows $3.14M. Unpaid winnings queue if cash runs short.",
+      "url": "https://thedefiant.io/news/defi/papertrade-faces-oracle-manipulation-allegation-as-house-pool-shows-3-14-million",
+      "token": "$PAPER"
     },
     {
-      "headline": "$AERO Rallies 48% in a Month Ahead of Merger",
-      "summary": "$AERO is up 48% in four weeks, outpacing Bitcoin and Ether, as Aerodrome holds ~$393M TVL on Base. Its merger with Velodrome launches Oct. 21 with set token conversion terms.",
-      "url": "https://thedefiant.io/news/markets/aero-rallies-48-in-four-weeks-outpacing-bitcoin-and-ether",
-      "token": "$AERO",
-      "caption": "#altcoins #defi #onchain #crypto #alpha #PAPER #AERO #STRK #NEAR #ONED"
+      "headline": "$FIL Vesting Ends: Annual Supply Unlocks to Drop 76%",
+      "summary": "Filecoin's six-year vesting is nearly over, cutting annualized $FIL additions from ~89M to ~21M. A major supply-overhang lift for the storage token.",
+      "url": "https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases",
+      "token": "$FIL"
     },
     {
-      "headline": "$STRK Eyed as StarkWare Backs Starknet L1 Shift",
-      "summary": "StarkWare called a move to Layer 1 its 'clearest path forward' for Starknet, a major ecosystem pivot. $STRK traders are watching closely as the network still settles on Ethereum for now.",
-      "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
-      "token": "$STRK",
-      "caption": "#altcoins #defi #onchain #crypto #alpha #PAPER #AERO #STRK #NEAR #ONED"
+      "headline": "Tokenized Apple, Nvidia & Tesla Stocks Launch on $SOL",
+      "summary": "Securitize brings share-backed Apple, Nvidia and Tesla tokens to Solana for eligible US and EU investors via its broker-dealer platform. Big RWA win for $SOL.",
+      "url": "https://thedefiant.io/news/blockchains/solana-securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
+      "token": "$SOL"
     },
     {
-      "headline": "$NEAR Jumps 83% in Four Weeks on Issuance Cut",
-      "summary": "$NEAR gained 83% in four weeks, beating Bitcoin and Ether, as a draft plan would slash max annual issuance from 2.5% to 1.6%. Lower dilution is fueling the momentum.",
-      "url": "https://thedefiant.io/news/markets/near-gains-83-in-four-weeks-outpacing-bitcoin-and-ether",
-      "token": "$NEAR",
-      "caption": "#altcoins #defi #onchain #crypto #alpha #PAPER #AERO #STRK #NEAR #ONED"
+      "headline": "$CC: Canton Tops All Chains With $60M in 30-Day Fees",
+      "summary": "Canton Network generated $60.2M in 30-day fees, far outpacing Tron and Ethereum per DefiLlama. Institutional RWA flows keep driving $CC usage.",
+      "url": "https://thedefiant.io/news/blockchains/canton-network-tops-blockchain-fee-rankings-with-60m-in-30-days",
+      "token": "$CC"
     },
     {
-      "headline": "Coinbase Backs $ONED Stablecoin in Latin America",
-      "summary": "Coinbase and Gennius plan to bring the $ONED stablecoin to Latin American banks, starting in Argentina. Users could convert deposits to $ONED, transfer 24/7 and spend via Visa.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
-      "token": "$ONED",
-      "caption": "#altcoins #defi #onchain #crypto #alpha #PAPER #AERO #STRK #NEAR #ONED"
+      "headline": "$ETH L2 Base Ships Cobalt With Conditional Transactions",
+      "summary": "Base's third upgrade of 2026 adds dormant conditional transactions, a seize function and B20 token standard changes on the leading $ETH Layer 2.",
+      "url": "https://thedefiant.io/news/blockchains/base-ships-cobalt-with-conditional-transactions-and-a-seize-function",
+      "token": "$ETH"
     }
   ]
 }
