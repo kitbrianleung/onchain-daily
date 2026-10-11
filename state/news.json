@@ -1,35 +1,35 @@
 {
-  "date": "11 OCT 2026",
+  "date": "12 OCT 2026",
   "items": [
     {
-      "headline": "$PAPER: Papertrade Hit by Oracle-Manipulation Allegation",
-      "summary": "A wallet allegedly booked $1.73M in realized gains on PaperDash while $PAPER's loss-funded house pool shows $3.14M. Unpaid winnings queue if cash runs short.",
-      "url": "https://thedefiant.io/news/defi/papertrade-faces-oracle-manipulation-allegation-as-house-pool-shows-3-14-million",
+      "headline": "$PAPER Perps Launch Pulls $3B in Positions in First Hour",
+      "summary": "New onchain perps venue Papertrade drew a reported $3B in positions within an hour of launch, with DefiLlama tracking $137M in trader balances and house liquidity. $PAPER stakers earn rewards funded by trader losses.",
+      "url": "https://thedefiant.io/news/defi/papertrade-draws-reported-3-billion-in-positions-in-first-hour",
       "token": "$PAPER"
     },
     {
-      "headline": "$FIL Vesting Ends: Annual Supply Unlocks to Drop 76%",
-      "summary": "Filecoin's six-year vesting is nearly over, cutting annualized $FIL additions from ~89M to ~21M. A major supply-overhang lift for the storage token.",
-      "url": "https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases",
-      "token": "$FIL"
+      "headline": "$SUI Gains 54% in Four Weeks, Outpacing BTC and ETH",
+      "summary": "$SUI rallied 54% over four weeks, beating Bitcoin and Ether, while its DeFi liquidity expanded more slowly. A recent pullback briefly interrupted the surge.",
+      "url": "https://thedefiant.io/news/markets/sui-gains-54-in-four-weeks-outpacing-bitcoin-and-ether",
+      "token": "$SUI"
     },
     {
-      "headline": "Tokenized Apple, Nvidia & Tesla Stocks Launch on $SOL",
-      "summary": "Securitize brings share-backed Apple, Nvidia and Tesla tokens to Solana for eligible US and EU investors via its broker-dealer platform. Big RWA win for $SOL.",
-      "url": "https://thedefiant.io/news/blockchains/solana-securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
-      "token": "$SOL"
+      "headline": "$AERO Sets Oct. 21 Merger Launch and Token Conversion Terms",
+      "summary": "Aerodrome's $AERO merger launches Oct. 21: $AERO converts one-for-one while $VELO converts at roughly 0.044 new $AERO per token, with existing locks keeping their duration.",
+      "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
+      "token": "$AERO"
     },
     {
-      "headline": "$CC: Canton Tops All Chains With $60M in 30-Day Fees",
-      "summary": "Canton Network generated $60.2M in 30-day fees, far outpacing Tron and Ethereum per DefiLlama. Institutional RWA flows keep driving $CC usage.",
-      "url": "https://thedefiant.io/news/blockchains/canton-network-tops-blockchain-fee-rankings-with-60m-in-30-days",
-      "token": "$CC"
+      "headline": "$PUMP.fun to Tie Callout Rewards to Followers' Profits",
+      "summary": "Pump.fun will reward memecoin callouts based on followers' actual profits, with low-cap token shills earning less starting with the Oct. 10 payout, co-founder Alon said.",
+      "url": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
+      "token": "$PUMP"
     },
     {
-      "headline": "$ETH L2 Base Ships Cobalt With Conditional Transactions",
-      "summary": "Base's third upgrade of 2026 adds dormant conditional transactions, a seize function and B20 token standard changes on the leading $ETH Layer 2.",
-      "url": "https://thedefiant.io/news/blockchains/base-ships-cobalt-with-conditional-transactions-and-a-seize-function",
-      "token": "$ETH"
+      "headline": "Kalshi Probes Insider Bets on Trump Press Secretary Pick",
+      "summary": "Kalshi is investigating three bets totaling about $173 placed before news of Trump's press secretary pick broke, set to pay out roughly $9,600 combined, per WSJ.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+      "token": "Kalshi"
     }
   ]
 }
