@@ -2,34 +2,34 @@
   "date": "12 OCT 2026",
   "items": [
     {
-      "headline": "$PAPER Perps Launch Pulls $3B in Positions in First Hour",
-      "summary": "New onchain perps venue Papertrade drew a reported $3B in positions within an hour of launch, with DefiLlama tracking $137M in trader balances and house liquidity. $PAPER stakers earn rewards funded by trader losses.",
-      "url": "https://thedefiant.io/news/defi/papertrade-draws-reported-3-billion-in-positions-in-first-hour",
-      "token": "$PAPER"
+      "headline": "$STRK Explodes 322% in Four Weeks, Crushing BTC & ETH",
+      "summary": "$STRK has ripped 322% in a month as Starknet's DeFi TVL climbs and a radical Layer 1 shift proposal keeps traders buzzing.",
+      "url": "https://thedefiant.io/news/markets/strk-gains-322-in-four-weeks-outpacing-bitcoin-and-ether",
+      "token": "$STRK"
     },
     {
-      "headline": "$SUI Gains 54% in Four Weeks, Outpacing BTC and ETH",
-      "summary": "$SUI rallied 54% over four weeks, beating Bitcoin and Ether, while its DeFi liquidity expanded more slowly. A recent pullback briefly interrupted the surge.",
-      "url": "https://thedefiant.io/news/markets/sui-gains-54-in-four-weeks-outpacing-bitcoin-and-ether",
-      "token": "$SUI"
+      "headline": "$DATA Scores $30M Sui Bet as AI Protocol Migrates",
+      "summary": "Sui Foundation is investing $30M into $DATA Network, which will retire its own chain and relaunch natively on Sui as an AI data protocol.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+      "token": "$DATA"
     },
     {
-      "headline": "$AERO Sets Oct. 21 Merger Launch and Token Conversion Terms",
-      "summary": "Aerodrome's $AERO merger launches Oct. 21: $AERO converts one-for-one while $VELO converts at roughly 0.044 new $AERO per token, with existing locks keeping their duration.",
-      "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
-      "token": "$AERO"
+      "headline": "Trader Nets $1.28M Moving $HYPE ETH Prices on Papertrade",
+      "summary": "A trader pocketed $1.28M on new 1,000x-leverage exchange Papertrade by manipulating Hyperliquid's ETH price feeds — a wild oracle exploit on $HYPE's home turf.",
+      "url": "https://www.theblock.co/post/373850/trader-nets-1-28-million-papertrade-hyperliquid-eth",
+      "token": "$HYPE"
     },
     {
-      "headline": "$PUMP.fun to Tie Callout Rewards to Followers' Profits",
-      "summary": "Pump.fun will reward memecoin callouts based on followers' actual profits, with low-cap token shills earning less starting with the Oct. 10 payout, co-founder Alon said.",
-      "url": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
-      "token": "$PUMP"
+      "headline": "$SOPH Ditches zkSync, Rebuilds as Consumer Studio on Base",
+      "summary": "$SOPH is shutting down its $60M node-sale zkSync chain after drawing under 200 daily users, pivoting to build consumer apps on Base.",
+      "url": "https://thedefiant.io/news/blockchains/sophon-shuts-zksync-chain-rebuilds-base",
+      "token": "$SOPH"
     },
     {
-      "headline": "Kalshi Probes Insider Bets on Trump Press Secretary Pick",
-      "summary": "Kalshi is investigating three bets totaling about $173 placed before news of Trump's press secretary pick broke, set to pay out roughly $9,600 combined, per WSJ.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
-      "token": "Kalshi"
+      "headline": "$CC Chain Tops All Blockchains With $60M Monthly Fees",
+      "summary": "Canton Network, home of $CC, raked in $60.2M in fees over 30 days — outpacing Tron and Ethereum, per DefiLlama data.",
+      "url": "https://thedefiant.io/news/blockchains/canton-network-tops-fee-rankings-60m",
+      "token": "$CC"
     }
   ]
 }
