@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "most_held": [
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 98427989.63578163,
-      "pct": 5.5749
+      "mcap": 93461476.03521942,
+      "pct": -5.7188
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 51410549.16976388,
-      "pct": -0.4742
+      "mcap": 56985897.379619874,
+      "pct": 10.5802
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 108331292.03613459,
-      "pct": 1.801
+      "mcap": 122408850.02804278,
+      "pct": 13.6589
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 241067571.18526843,
-      "pct": 1.014
-    },
-    {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 30158757.534328707,
-      "pct": 34.0117
+      "mcap": 214344581.81687257,
+      "pct": -11.3355
     },
     {
       "name": "Boner Coin",
       "symbol": "BONER",
       "label": "BONER",
       "full": "Boner Coin (BONER)",
-      "mcap": 39652424.04869902,
-      "pct": -4.2928
+      "mcap": 37244451.927402675,
+      "pct": -6.6909
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 93233745.5265506,
-      "pct": 1.5869
+      "mcap": 89705745.74630406,
+      "pct": -4.5569
+    },
+    {
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 22719939.523362614,
+      "pct": -23.7624
     }
   ],
   "trending": [
     {
-      "name": "CyberLeek",
-      "symbol": "CYBERLEEK",
-      "label": "CYBERLEEK",
-      "full": "CyberLeek",
-      "mcap": 8447370.266352352,
-      "pct": 498.2855
+      "name": "Overdrive",
+      "symbol": "OVERDRIVE",
+      "label": "OVERDRIVE",
+      "full": "Overdrive",
+      "mcap": 268201.2846949196,
+      "pct": 8026.7628
     },
     {
-      "name": "API",
-      "symbol": "API",
-      "label": "API",
-      "full": "API",
-      "mcap": 317376.24145663227,
-      "pct": -15.9533
-    },
-    {
-      "name": "slopcannon",
-      "symbol": "slopcannon",
-      "label": "slopcannon",
-      "full": "slopcannon",
-      "mcap": 528716.9182772888,
-      "pct": 127.1647
-    },
-    {
-      "name": "Jean Phil",
-      "symbol": "JEANPHIL",
-      "label": "JEANPHIL",
-      "full": "Jean Phil (JEANPHIL)",
-      "mcap": 11703008.259741394,
-      "pct": 10.219
-    },
-    {
-      "name": "Incognito69420",
-      "symbol": "Incognito",
-      "label": "Incognito",
-      "full": "Incognito69420 (Incognito)",
-      "mcap": 759565.7973363819,
-      "pct": 22596.8593
-    },
-    {
-      "name": "Truman World",
-      "symbol": "TRUMAN",
-      "label": "TRUMAN",
-      "full": "Truman World (TRUMAN)",
-      "mcap": 1586637.205102187,
-      "pct": 25.9541
+      "name": "",
+      "symbol": "",
+      "label": "?",
+      "full": "?",
+      "mcap": 897892.5994865422,
+      "pct": 21560.0978
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
       "label": "CLAUDIA",
       "full": "Claudia",
-      "mcap": 7853700.784977079,
-      "pct": 144.6866
+      "mcap": 6675491.439216345,
+      "pct": -19.041
+    },
+    {
+      "name": "(Niu Lai)",
+      "symbol": "",
+      "label": "(Niu Lai)",
+      "full": "(Niu Lai)",
+      "mcap": 72483961.09932262,
+      "pct": -5.6041
+    },
+    {
+      "name": "Solamians",
+      "symbol": "Solamians",
+      "label": "Solamians",
+      "full": "Solamians",
+      "mcap": 350325.07830690756,
+      "pct": 10185.1918
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "label": "?",
+      "full": "?",
+      "mcap": 2663420.971983051,
+      "pct": 1.6372
+    },
+    {
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "label": "DOPE",
+      "full": "Doge Pepe (DOPE)",
+      "mcap": 932129.3170904358,
+      "pct": 28066.5629
     }
   ],
-  "story_image": "fomo/2026-10-11-story.jpg",
-  "post_image": "fomo/2026-10-11-post.jpg"
+  "story_image": "fomo/2026-10-12-story.jpg",
+  "post_image": "fomo/2026-10-12-post.jpg"
 }
