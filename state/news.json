@@ -1,35 +1,40 @@
 {
-  "date": "12 OCT 2026",
+  "date": "13 OCT 2026",
   "items": [
     {
-      "headline": "$STRK Explodes 322% in Four Weeks, Crushing BTC & ETH",
-      "summary": "$STRK has ripped 322% in a month as Starknet's DeFi TVL climbs and a radical Layer 1 shift proposal keeps traders buzzing.",
-      "url": "https://thedefiant.io/news/markets/strk-gains-322-in-four-weeks-outpacing-bitcoin-and-ether",
-      "token": "$STRK"
+      "headline": "$ONT Mainnet Back Online After 43-Hour Security Halt",
+      "summary": "Ontology restarted its mainnet after a nearly 43-hour security halt tied to an unnamed ecosystem project. $ONT holders were told no network funds were lost, but project-level losses remain unresolved.",
+      "url": "https://thedefiant.io/news/blockchains/ontology-restarts-mainnet-after-nearly-43-hour-security-halt",
+      "token": "$ONT",
+      "caption": "#altcoins #defi #onchain #crypto #alpha #ONT #DATA #HYPE #ENS #DRV"
     },
     {
-      "headline": "$DATA Scores $30M Sui Bet as AI Protocol Migrates",
-      "summary": "Sui Foundation is investing $30M into $DATA Network, which will retire its own chain and relaunch natively on Sui as an AI data protocol.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
-      "token": "$DATA"
+      "headline": "$DATA Scores $30M Sui Backing as Its Chain Retires",
+      "summary": "Sui Foundation is backing $DATA with $30 million as the network retires its own chain. Balances move 1:1 onto Sui while validator staking and smart contracts wind down.",
+      "url": "https://thedefiant.io/news/blockchains/sui-backs-data-with-30-million-as-network-plans-to-retire-its-chain",
+      "token": "$DATA",
+      "caption": "#altcoins #defi #onchain #crypto #alpha #ONT #DATA #HYPE #ENS #DRV"
     },
     {
-      "headline": "Trader Nets $1.28M Moving $HYPE ETH Prices on Papertrade",
-      "summary": "A trader pocketed $1.28M on new 1,000x-leverage exchange Papertrade by manipulating Hyperliquid's ETH price feeds — a wild oracle exploit on $HYPE's home turf.",
-      "url": "https://www.theblock.co/post/373850/trader-nets-1-28-million-papertrade-hyperliquid-eth",
-      "token": "$HYPE"
+      "headline": "New 1000x DEX Papertrade Exploited for $1.28M via $HYPE",
+      "summary": "A trader pocketed $1.28 million on new 1000x exchange Papertrade by moving ETH prices on Hyperliquid ($HYPE). The same wallet later lost $450K when 30 short positions were liquidated.",
+      "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+      "token": "$HYPE",
+      "caption": "#altcoins #defi #onchain #crypto #alpha #ONT #DATA #HYPE #ENS #DRV"
     },
     {
-      "headline": "$SOPH Ditches zkSync, Rebuilds as Consumer Studio on Base",
-      "summary": "$SOPH is shutting down its $60M node-sale zkSync chain after drawing under 200 daily users, pivoting to build consumer apps on Base.",
-      "url": "https://thedefiant.io/news/blockchains/sophon-shuts-zksync-chain-rebuilds-base",
-      "token": "$SOPH"
+      "headline": "$ENS v2 Plan Would Halt New .eth V1 Registrations",
+      "summary": "An ENSv2 activation proposal would stop new ENSv1 registrations, with no migration deadline for existing .eth holders. ENS Labs would hand its remaining admin roles to the $ENS DAO.",
+      "url": "https://thedefiant.io/news/nfts-and-web3/ensv2-activation-proposal-would-halt-new-ensv1-registrations",
+      "token": "$ENS",
+      "caption": "#altcoins #defi #onchain #crypto #alpha #ONT #DATA #HYPE #ENS #DRV"
     },
     {
-      "headline": "$CC Chain Tops All Blockchains With $60M Monthly Fees",
-      "summary": "Canton Network, home of $CC, raked in $60.2M in fees over 30 days — outpacing Tron and Ethereum, per DefiLlama data.",
-      "url": "https://thedefiant.io/news/blockchains/canton-network-tops-fee-rankings-60m",
-      "token": "$CC"
+      "headline": "$DRV Eyes US-Regulated Derivatives in Treasury Plan",
+      "summary": "Derive proposed treasury funding to pursue US-regulated derivatives approvals, letting the foundation establish or acquire entities. No spending amount or launch date was set for $DRV.",
+      "url": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
+      "token": "$DRV",
+      "caption": "#altcoins #defi #onchain #crypto #alpha #ONT #DATA #HYPE #ENS #DRV"
     }
   ]
 }
