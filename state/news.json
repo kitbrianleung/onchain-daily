@@ -2,39 +2,34 @@
   "date": "13 OCT 2026",
   "items": [
     {
-      "headline": "$ONT Mainnet Back Online After 43-Hour Security Halt",
-      "summary": "Ontology restarted its mainnet after a nearly 43-hour security halt tied to an unnamed ecosystem project. $ONT holders were told no network funds were lost, but project-level losses remain unresolved.",
-      "url": "https://thedefiant.io/news/blockchains/ontology-restarts-mainnet-after-nearly-43-hour-security-halt",
-      "token": "$ONT",
-      "caption": "#altcoins #defi #onchain #crypto #alpha #ONT #DATA #HYPE #ENS #DRV"
+      "headline": "SkyAI Dumps Half Its $SOL Bag for $201M Buyback",
+      "summary": "SkyAI sold half of its $SOL treasury to fund a massive $201 million cash buyback of $SKYAI, a bold treasury pivot turning heads onchain.",
+      "url": "https://thedefiant.io/news/skyai-sells-half-sol-treasury-plans-201-million-cash-buyback",
+      "token": "$SKYAI"
     },
     {
-      "headline": "$DATA Scores $30M Sui Backing as Its Chain Retires",
-      "summary": "Sui Foundation is backing $DATA with $30 million as the network retires its own chain. Balances move 1:1 onto Sui while validator staking and smart contracts wind down.",
-      "url": "https://thedefiant.io/news/blockchains/sui-backs-data-with-30-million-as-network-plans-to-retire-its-chain",
-      "token": "$DATA",
-      "caption": "#altcoins #defi #onchain #crypto #alpha #ONT #DATA #HYPE #ENS #DRV"
+      "headline": "$APT Fights MEV With New Encrypted Mempool",
+      "summary": "Aptos launched an encrypted mempool designed to curb MEV exploitation and shield user transactions, a fresh DeFi edge for the $APT ecosystem.",
+      "url": "https://coinedition.com/aptos-launches-encrypted-mempool-to-curb-mev-and-protect-transactions/",
+      "token": "$APT"
     },
     {
-      "headline": "New 1000x DEX Papertrade Exploited for $1.28M via $HYPE",
-      "summary": "A trader pocketed $1.28 million on new 1000x exchange Papertrade by moving ETH prices on Hyperliquid ($HYPE). The same wallet later lost $450K when 30 short positions were liquidated.",
-      "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
-      "token": "$HYPE",
-      "caption": "#altcoins #defi #onchain #crypto #alpha #ONT #DATA #HYPE #ENS #DRV"
+      "headline": "$ONDO Teams With Tradexyz for New RWA Push",
+      "summary": "$ONDO is joining forces with Tradexyz to expand its real-world asset offerings, doubling down on the red-hot tokenization narrative.",
+      "url": "https://coinfomania.com/ondo-joins-forces-with-tradexyz-to-offer-real-world-asset/",
+      "token": "$ONDO"
     },
     {
-      "headline": "$ENS v2 Plan Would Halt New .eth V1 Registrations",
-      "summary": "An ENSv2 activation proposal would stop new ENSv1 registrations, with no migration deadline for existing .eth holders. ENS Labs would hand its remaining admin roles to the $ENS DAO.",
-      "url": "https://thedefiant.io/news/nfts-and-web3/ensv2-activation-proposal-would-halt-new-ensv1-registrations",
-      "token": "$ENS",
-      "caption": "#altcoins #defi #onchain #crypto #alpha #ONT #DATA #HYPE #ENS #DRV"
+      "headline": "Canton Coin Burns as Network Books $155M Q3 Fees",
+      "summary": "Canton recorded over $155 million in Q3 fees per CertiK, with $CC burned for network services — one of the top fee-generating chains right now.",
+      "url": "https://thedefiant.io/news/canton-records-over-155-million-q3-fees-certik",
+      "token": "$CC"
     },
     {
-      "headline": "$DRV Eyes US-Regulated Derivatives in Treasury Plan",
-      "summary": "Derive proposed treasury funding to pursue US-regulated derivatives approvals, letting the foundation establish or acquire entities. No spending amount or launch date was set for $DRV.",
-      "url": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
-      "token": "$DRV",
-      "caption": "#altcoins #defi #onchain #crypto #alpha #ONT #DATA #HYPE #ENS #DRV"
+      "headline": "$ENS v2 Proposal Would Freeze v1 Registrations",
+      "summary": "A new proposal to activate ENSv2 would halt all new ENSv1 name registrations, marking a major migration moment for the $ENS ecosystem.",
+      "url": "https://thedefiant.io/ensv2-activation-proposal-would-halt-new-ensv1-registrations/",
+      "token": "$ENS"
     }
   ]
 }
