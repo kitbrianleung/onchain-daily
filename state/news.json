@@ -1,35 +1,35 @@
 {
-  "date": "13 OCT 2026",
+  "date": "14 OCT 2026",
   "items": [
     {
-      "headline": "SkyAI Dumps Half Its $SOL Bag for $201M Buyback",
-      "summary": "SkyAI sold half of its $SOL treasury to fund a massive $201 million cash buyback of $SKYAI, a bold treasury pivot turning heads onchain.",
-      "url": "https://thedefiant.io/news/skyai-sells-half-sol-treasury-plans-201-million-cash-buyback",
-      "token": "$SKYAI"
+      "headline": "$THEO Crashes 92% After Suspected Base Bridge Exploit",
+      "summary": "Autheo's $THEO plunged 92% after a suspected bridge exploit minted 19M tokens that were dumped on Base. The team urged users not to buy, sell or bridge the token.",
+      "url": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
+      "token": "$THEO"
     },
     {
-      "headline": "$APT Fights MEV With New Encrypted Mempool",
-      "summary": "Aptos launched an encrypted mempool designed to curb MEV exploitation and shield user transactions, a fresh DeFi edge for the $APT ecosystem.",
-      "url": "https://coinedition.com/aptos-launches-encrypted-mempool-to-curb-mev-and-protect-transactions/",
-      "token": "$APT"
+      "headline": "$MNX Launches Futures on AI Lab IPOs and Revenue",
+      "summary": "$MNX rolled out leveraged futures tied to AI lab IPO filings, private valuations and revenue estimates — a fresh DeFi use case for synthetic exposure.",
+      "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
+      "token": "$MNX"
     },
     {
-      "headline": "$ONDO Teams With Tradexyz for New RWA Push",
-      "summary": "$ONDO is joining forces with Tradexyz to expand its real-world asset offerings, doubling down on the red-hot tokenization narrative.",
-      "url": "https://coinfomania.com/ondo-joins-forces-with-tradexyz-to-offer-real-world-asset/",
-      "token": "$ONDO"
+      "headline": "StarkWare Launches Shadow Accounts on Starknet, $STRK",
+      "summary": "StarkWare launched Shadow Accounts on Starknet, letting apps hold DeFi positions under separate persistent identities. A new privacy-flavored primitive for the $STRK ecosystem.",
+      "url": "https://thedefiant.io/news/blockchains/starkware-launches-shadow-accounts-on-starknet",
+      "token": "$STRK"
     },
     {
-      "headline": "Canton Coin Burns as Network Books $155M Q3 Fees",
-      "summary": "Canton recorded over $155 million in Q3 fees per CertiK, with $CC burned for network services — one of the top fee-generating chains right now.",
-      "url": "https://thedefiant.io/news/canton-records-over-155-million-q3-fees-certik",
-      "token": "$CC"
+      "headline": "$SUI Logs First Native Quantum-Safe Devnet Transaction",
+      "summary": "Mysten reported Sui's first native quantum-safe devnet transaction using ML-DSA-65 signatures, with mainnet support targeted for Q1 2027. Big long-term security milestone for $SUI.",
+      "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
+      "token": "$SUI"
     },
     {
-      "headline": "$ENS v2 Proposal Would Freeze v1 Registrations",
-      "summary": "A new proposal to activate ENSv2 would halt all new ENSv1 name registrations, marking a major migration moment for the $ENS ecosystem.",
-      "url": "https://thedefiant.io/ensv2-activation-proposal-would-halt-new-ensv1-registrations/",
-      "token": "$ENS"
+      "headline": "$BLUR Sinks 20% as NFT Marketplace Shuts Frontend",
+      "summary": "Blur will shut down its frontend next month as NFT volumes dwindle, though the protocol stays onchain. $BLUR fell more than 20% on the news.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+      "token": "$BLUR"
     }
   ]
 }
