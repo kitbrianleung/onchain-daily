@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "most_held": [
-    {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 53102513.03521542,
-      "pct": -5.6177
-    },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 83084201.59349577,
-      "pct": -11.5469
+      "mcap": 106090729.11862639,
+      "pct": 20.8608
+    },
+    {
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 61852058.862311535,
+      "pct": 18.7907
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 94285830.16994673,
-      "pct": -22.6021
+      "mcap": 97298114.36867583,
+      "pct": -4.6783
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 189871032.46258724,
-      "pct": -9.6753
+      "mcap": 222826044.91219512,
+      "pct": 14.8369
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 78919440.31155966,
-      "pct": -11.019
+      "mcap": 82368149.09085535,
+      "pct": 0.7313
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 42094117.23958641,
-      "pct": -15.2555
+      "mcap": 51900556.10991506,
+      "pct": 21.6281
+    },
+    {
+      "name": "Boner Coin",
+      "symbol": "BONER",
+      "label": "BONER",
+      "full": "Boner Coin (BONER)",
+      "mcap": 26225656.853919063,
+      "pct": 13.1289
+    }
+  ],
+  "trending": [
+    {
+      "name": "Binance AI",
+      "symbol": "BIBI",
+      "label": "BIBI",
+      "full": "Binance AI (BIBI)",
+      "mcap": 1566784.972198445,
+      "pct": 2559.9225
+    },
+    {
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "label": "CLAUDIA",
+      "full": "Claudia",
+      "mcap": 6047629.133000256,
+      "pct": 49.6933
+    },
+    {
+      "name": "Veil",
+      "symbol": "VEIL",
+      "label": "VEIL",
+      "full": "Veil",
+      "mcap": 12792024.517241271,
+      "pct": 373.574
     },
     {
       "name": "Super Inu",
       "symbol": "SI",
       "label": "SI",
       "full": "Super Inu (SI)",
-      "mcap": 16291632.815518688,
-      "pct": -28.3829
+      "mcap": 15377622.643632237,
+      "pct": -10.5007
+    },
+    {
+      "name": "Altai the Tiger",
+      "symbol": "Altai",
+      "label": "Altai",
+      "full": "Altai the Tiger (Altai)",
+      "mcap": 1925710.454188174,
+      "pct": 1206.5141
+    },
+    {
+      "name": "Black Shiba",
+      "symbol": "BS",
+      "label": "BS",
+      "full": "Black Shiba (BS)",
+      "mcap": 422020.3424665655,
+      "pct": 16687.2715
+    },
+    {
+      "name": "musebook",
+      "symbol": "MUSEBOOK",
+      "label": "MUSEBOOK",
+      "full": "musebook",
+      "mcap": 2767034.3796604755,
+      "pct": 21.0362
     }
   ],
-  "trending": [
-    {
-      "name": "Hire Agents",
-      "symbol": "HIRE",
-      "label": "HIRE",
-      "full": "Hire Agents (HIRE)",
-      "mcap": 908181.663135512,
-      "pct": 23275.1314
-    },
-    {
-      "name": "binancians",
-      "symbol": "binancians",
-      "label": "binancians",
-      "full": "binancians",
-      "mcap": 418614.15557052766,
-      "pct": 9706.0859
-    },
-    {
-      "name": "Commander Vrax",
-      "symbol": "VRAX",
-      "label": "VRAX",
-      "full": "Commander Vrax (VRAX)",
-      "mcap": 3889271.553183812,
-      "pct": 1468.3031
-    },
-    {
-      "name": "units",
-      "symbol": "UNITS",
-      "label": "UNITS",
-      "full": "units",
-      "mcap": 285502.086145811,
-      "pct": 10132.8924
-    },
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 94831479.91878645,
-      "pct": -22.1295
-    },
-    {
-      "name": "Cets On Gold",
-      "symbol": "CETS",
-      "label": "CETS",
-      "full": "Cets On Gold (CETS)",
-      "mcap": 3310814.538454236,
-      "pct": -33.1402
-    },
-    {
-      "name": "claus",
-      "symbol": "CLAUS",
-      "label": "CLAUS",
-      "full": "claus",
-      "mcap": 8516839.242211126,
-      "pct": -40.0856
-    }
-  ],
-  "story_image": "fomo/2026-10-13-story.jpg",
-  "post_image": "fomo/2026-10-13-post.jpg"
+  "story_image": "fomo/2026-10-14-story.jpg",
+  "post_image": "fomo/2026-10-14-post.jpg"
 }
