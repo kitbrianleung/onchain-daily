@@ -2,34 +2,34 @@
   "date": "14 OCT 2026",
   "items": [
     {
-      "headline": "$THEO Crashes 92% After Suspected Base Bridge Exploit",
-      "summary": "Autheo's $THEO plunged 92% after a suspected bridge exploit minted 19M tokens that were dumped on Base. The team urged users not to buy, sell or bridge the token.",
-      "url": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
-      "token": "$THEO"
+      "headline": "$OP Jumps 18%, Four-Week Rally Hits 66%",
+      "summary": "$OP outpaced bitcoin and ether again, extending its four-week gain to 66% as Optimism momentum builds. Only $STRK posted a bigger multiweek rally.",
+      "url": "https://thedefiant.io/news/markets/optimism-s-op-jumps-18-extending-four-week-gain-to-66",
+      "token": "$OP"
     },
     {
-      "headline": "$MNX Launches Futures on AI Lab IPOs and Revenue",
-      "summary": "$MNX rolled out leveraged futures tied to AI lab IPO filings, private valuations and revenue estimates — a fresh DeFi use case for synthetic exposure.",
-      "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
-      "token": "$MNX"
+      "headline": "$JUP Rises 51% in Four Weeks Despite Fee Dip",
+      "summary": "$JUP outpaced $BTC and $ETH over the past month even as Jupiter's product fees fell to $16.8M in the latest 28-day period.",
+      "url": "https://thedefiant.io/news/markets/jup-rises-51-in-four-weeks-as-jupiter-fees-decline",
+      "token": "$JUP"
     },
     {
-      "headline": "StarkWare Launches Shadow Accounts on Starknet, $STRK",
-      "summary": "StarkWare launched Shadow Accounts on Starknet, letting apps hold DeFi positions under separate persistent identities. A new privacy-flavored primitive for the $STRK ecosystem.",
-      "url": "https://thedefiant.io/news/blockchains/starkware-launches-shadow-accounts-on-starknet",
-      "token": "$STRK"
+      "headline": "$APT Gains 51% in Four Weeks, Beats BTC and ETH",
+      "summary": "$APT kept climbing with a 51% four-week gain, though stablecoin market cap on Aptos fell 17.5% over the same window.",
+      "url": "https://thedefiant.io/news/markets/apt-gains-51-in-four-weeks-outpacing-bitcoin-and-ether",
+      "token": "$APT"
     },
     {
-      "headline": "$SUI Logs First Native Quantum-Safe Devnet Transaction",
-      "summary": "Mysten reported Sui's first native quantum-safe devnet transaction using ML-DSA-65 signatures, with mainnet support targeted for Q1 2027. Big long-term security milestone for $SUI.",
-      "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
-      "token": "$SUI"
+      "headline": "$CARDS Packs Hit $151M in Monthly Sales",
+      "summary": "Collector Crypt logged $151M in monthly pack sales on Solana, with buyers doubling in Q3 — but just 548 wallets drove 83% of spending.",
+      "url": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-logs-151-million-in-monthly-pack-sales",
+      "token": "$CARDS"
     },
     {
-      "headline": "$BLUR Sinks 20% as NFT Marketplace Shuts Frontend",
-      "summary": "Blur will shut down its frontend next month as NFT volumes dwindle, though the protocol stays onchain. $BLUR fell more than 20% on the news.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
-      "token": "$BLUR"
+      "headline": "Base Launches Earn & Borrow With $MORPHO",
+      "summary": "Base introduced Earn & Borrow, letting apps embed variable-rate stablecoin lending and crypto-backed loans powered by $MORPHO and Aave.",
+      "url": "https://thedefiant.io/news/defi/base-introduces-earn-borrow-with-aave-and-morpho",
+      "token": "$MORPHO"
     }
   ]
 }
