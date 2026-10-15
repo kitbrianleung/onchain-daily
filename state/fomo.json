@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "most_held": [
-    {
-      "name": "Artificial Inu",
-      "symbol": "AI",
-      "label": "AI",
-      "full": "Artificial Inu (AI)",
-      "mcap": 106090729.11862639,
-      "pct": 20.8608
-    },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 61852058.862311535,
-      "pct": 18.7907
+      "mcap": 58409381.663521364,
+      "pct": 10.6487
     },
     {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 97298114.36867583,
-      "pct": -4.6783
+      "name": "Artificial Inu",
+      "symbol": "AI",
+      "label": "AI",
+      "full": "Artificial Inu (AI)",
+      "mcap": 88139090.97537759,
+      "pct": -29.2376
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 222826044.91219512,
-      "pct": 14.8369
+      "mcap": 201216131.6617359,
+      "pct": -10.3056
+    },
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 82853127.66054685,
+      "pct": -19.0421
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 82368149.09085535,
-      "pct": 0.7313
+      "mcap": 75296323.45533565,
+      "pct": -11.8269
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 51900556.10991506,
-      "pct": 21.6281
+      "mcap": 41172109.13270113,
+      "pct": -28.3106
     },
     {
       "name": "Boner Coin",
       "symbol": "BONER",
       "label": "BONER",
       "full": "Boner Coin (BONER)",
-      "mcap": 26225656.853919063,
-      "pct": 13.1289
+      "mcap": 18313775.5079476,
+      "pct": -35.2069
     }
   ],
   "trending": [
     {
-      "name": "Binance AI",
-      "symbol": "BIBI",
-      "label": "BIBI",
-      "full": "Binance AI (BIBI)",
-      "mcap": 1566784.972198445,
-      "pct": 2559.9225
+      "name": "flying tesla roadster",
+      "symbol": "FTR",
+      "label": "FTR",
+      "full": "flying tesla roadster (FTR)",
+      "mcap": 633915.8162110151,
+      "pct": 268.6301
+    },
+    {
+      "name": "Not in Employment, Education, or Training",
+      "symbol": "NEET",
+      "label": "NEET",
+      "full": "Not in Employment, Education, or Trainin",
+      "mcap": 30047924.559837304,
+      "pct": -4.2468
+    },
+    {
+      "name": "Commander Vrax",
+      "symbol": "VRAX",
+      "label": "VRAX",
+      "full": "Commander Vrax (VRAX)",
+      "mcap": 5635166.003600344,
+      "pct": 27.9768
+    },
+    {
+      "name": "Agency",
+      "symbol": "Agency",
+      "label": "Agency",
+      "full": "Agency",
+      "mcap": 1730192.0008259248,
+      "pct": 10.6573
+    },
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 82444586.00180918,
+      "pct": -17.3436
     },
     {
       "name": "Claudia",
       "symbol": "CLAUDIA",
       "label": "CLAUDIA",
       "full": "Claudia",
-      "mcap": 6047629.133000256,
-      "pct": 49.6933
+      "mcap": 3226983.388237045,
+      "pct": -21.2844
     },
     {
-      "name": "Veil",
-      "symbol": "VEIL",
-      "label": "VEIL",
-      "full": "Veil",
-      "mcap": 12792024.517241271,
-      "pct": 373.574
-    },
-    {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 15377622.643632237,
-      "pct": -10.5007
-    },
-    {
-      "name": "Altai the Tiger",
-      "symbol": "Altai",
-      "label": "Altai",
-      "full": "Altai the Tiger (Altai)",
-      "mcap": 1925710.454188174,
-      "pct": 1206.5141
-    },
-    {
-      "name": "Black Shiba",
-      "symbol": "BS",
-      "label": "BS",
-      "full": "Black Shiba (BS)",
-      "mcap": 422020.3424665655,
-      "pct": 16687.2715
-    },
-    {
-      "name": "musebook",
-      "symbol": "MUSEBOOK",
-      "label": "MUSEBOOK",
-      "full": "musebook",
-      "mcap": 2767034.3796604755,
-      "pct": 21.0362
+      "name": "Pepper The Raccoon",
+      "symbol": "Pepper",
+      "label": "Pepper",
+      "full": "Pepper The Raccoon (Pepper)",
+      "mcap": 1510074.4344368149,
+      "pct": 126.8652
     }
   ],
-  "story_image": "fomo/2026-10-14-story.jpg",
-  "post_image": "fomo/2026-10-14-post.jpg"
+  "story_image": "fomo/2026-10-15-story.jpg",
+  "post_image": "fomo/2026-10-15-post.jpg"
 }
