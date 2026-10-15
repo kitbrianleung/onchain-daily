@@ -1,35 +1,35 @@
 {
-  "date": "15 OCT 2026",
+  "date": "16 OCT 2026",
   "items": [
     {
-      "headline": "StarkWare's OffMarket Brings Private Trading to Polymarket",
-      "summary": "StarkWare opened OffMarket to the public, letting Polymarket users trade without linking positions to their accounts. A big privacy push for the $STRK ecosystem.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
+      "headline": "$JUP Launches Wild 1,000x Leverage YOLO Beta",
+      "summary": "Jupiter rolled out an unaudited YOLO beta with up to 1,000x leverage, where users trade against a house pool. Payouts can be queued if house funds run low — degen season is on.",
+      "url": "https://thedefiant.io/news/defi/jupiter-launches-unaudited-yolo-beta-with-up-to-1-000x-leverage",
+      "token": "$JUP"
+    },
+    {
+      "headline": "$STRK Vote: Starknet Eyes Its Own Quantum-Safe L1",
+      "summary": "Starknet opened a seven-day vote asking $STRK holders whether to research an independent post-quantum Layer 1, potentially moving away from Ethereum settlement.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
       "token": "$STRK"
     },
     {
-      "headline": "$HEX Founder Richard Heart Detained in Istanbul",
-      "summary": "Turkish reports say $HEX and PulseChain founder Richard Heart was detained, with $4M and 64 watches seized. Police have yet to officially confirm.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
+      "headline": "$HEX Craters 31% After Richard Heart Detention",
+      "summary": "$HEX sank 31% on reports of founder Richard Heart's detention in Istanbul. Thin liquidity — just $354K in the main Uniswap pool — is adding execution risk for sellers.",
+      "url": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
       "token": "$HEX"
     },
     {
-      "headline": "$PUMP Callout Scandal: Wallets Traded Ahead of Calls",
-      "summary": "Bubblemaps alleges Anglio-linked wallets front-ran Pump.fun callouts, pocketing ~$50K in trading profits plus $80K in rewards as $PUMP shifts payouts to follower returns.",
-      "url": "https://thedefiant.io/news/tokens/bubblemaps-alleges-anglio-linked-wallets-traded-ahead-of-pump-fun-calls",
-      "token": "$PUMP"
+      "headline": "$SAFE Launches Safenet Aegis Security Network",
+      "summary": "Safe launched Safenet Aegis, a security network live on three chains. Checks cost 0.40 USDC paid to security providers, with onchain enforcement via a Guard on the account.",
+      "url": "https://thedefiant.io/news/security/safe-launches-safenet-aegis-security-network-on-three-chains",
+      "token": "$SAFE"
     },
     {
-      "headline": "$RPL Voters Back rETH Withdrawals in Saturn 2",
-      "summary": "Rocket Pool voters approved random megapool exits for $RPL's rETH withdrawals while keeping 4 ETH bonds. Full Saturn 2 ratification is still pending.",
-      "url": "https://thedefiant.io/news/defi/rocket-pool-voters-back-reth-withdrawals-keep-4-eth-bonds",
-      "token": "$RPL"
-    },
-    {
-      "headline": "$EKUBO Adds Shadow Accounts for Private LP Positions",
-      "summary": "Ekubo's new Shadow Accounts let liquidity providers obscure positions using existing pools rather than a separate private market. A fresh DeFi privacy primitive on Starknet.",
-      "url": "https://thedefiant.io/news/defi/ekubo-adds-shadow-accounts-for-liquidity-providers",
-      "token": "$EKUBO"
+      "headline": "$AZTEC Targets Full Post-Quantum Migration by 2030",
+      "summary": "Privacy L2 Aztec plans a full post-quantum migration by end of 2030, with hardened developer libraries coming in early 2027. The move also depends on Ethereum upgrades.",
+      "url": "https://thedefiant.io/news/blockchains/aztec-targets-full-post-quantum-migration-by-end-of-2030",
+      "token": "$AZTEC"
     }
   ]
 }
