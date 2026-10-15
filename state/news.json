@@ -2,34 +2,34 @@
   "date": "15 OCT 2026",
   "items": [
     {
-      "headline": "$CAKE Eyes 69% Emissions Cut in Bold PancakeSwap Revamp",
-      "summary": "PancakeSwap proposes sending 88% of LP fees to the treasury and slashing $CAKE emissions by 69%, while keeping v2's burn mechanism intact.",
-      "url": "https://thedefiant.io/news/defi/pancakeswap-proposes-88-lp-fee-share-and-69-cake-emissions-cut",
-      "token": "$CAKE"
+      "headline": "StarkWare's OffMarket Brings Private Trading to Polymarket",
+      "summary": "StarkWare opened OffMarket to the public, letting Polymarket users trade without linking positions to their accounts. A big privacy push for the $STRK ecosystem.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
+      "token": "$STRK"
     },
     {
       "headline": "$HEX Founder Richard Heart Detained in Istanbul",
-      "summary": "Turkish media report $HEX and PulseChain founder Richard Heart was detained on an Interpol notice from Finland over aggravated tax fraud. $4M and 64 watches were reportedly seized.",
-      "url": "https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report",
+      "summary": "Turkish reports say $HEX and PulseChain founder Richard Heart was detained, with $4M and 64 watches seized. Police have yet to officially confirm.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
       "token": "$HEX"
     },
     {
-      "headline": "$UNCX Vesting Pool Exploited for $86K, Blockaid Says",
-      "summary": "An attacker drained five tokens from a $UNCX vesting pool on Ethereum. The affected contract still held about $3.25M in assets.",
-      "url": "https://thedefiant.io/news/hacks/uncx-vesting-pool-exploited-for-about-86-000-blockaid-says",
-      "token": "$UNCX"
+      "headline": "$PUMP Callout Scandal: Wallets Traded Ahead of Calls",
+      "summary": "Bubblemaps alleges Anglio-linked wallets front-ran Pump.fun callouts, pocketing ~$50K in trading profits plus $80K in rewards as $PUMP shifts payouts to follower returns.",
+      "url": "https://thedefiant.io/news/tokens/bubblemaps-alleges-anglio-linked-wallets-traded-ahead-of-pump-fun-calls",
+      "token": "$PUMP"
     },
     {
-      "headline": "$BABY Pushes Native Bitcoin Collateral for Aave V4",
-      "summary": "Babylon's proposal would keep BTC collateral on Bitcoin while using WBTC for permissionless liquidations on Aave V4. Governance votes are still pending.",
-      "url": "https://thedefiant.io/news/defi/babylon-advances-native-bitcoin-collateral-plan-for-aave-v4",
-      "token": "$BABY"
+      "headline": "$RPL Voters Back rETH Withdrawals in Saturn 2",
+      "summary": "Rocket Pool voters approved random megapool exits for $RPL's rETH withdrawals while keeping 4 ETH bonds. Full Saturn 2 ratification is still pending.",
+      "url": "https://thedefiant.io/news/defi/rocket-pool-voters-back-reth-withdrawals-keep-4-eth-bonds",
+      "token": "$RPL"
     },
     {
-      "headline": "$EQX Plans 11 Tokenized Stock Markets on Hyperliquid",
-      "summary": "$EQX aims to launch 11 share-backed stock and ETF tokens trading against USDC on HyperCore, with US persons excluded under eligibility rules.",
-      "url": "https://thedefiant.io/news/defi/eqx-plans-11-tokenized-stock-and-etf-markets-on-hyperliquid",
-      "token": "$EQX"
+      "headline": "$EKUBO Adds Shadow Accounts for Private LP Positions",
+      "summary": "Ekubo's new Shadow Accounts let liquidity providers obscure positions using existing pools rather than a separate private market. A fresh DeFi privacy primitive on Starknet.",
+      "url": "https://thedefiant.io/news/defi/ekubo-adds-shadow-accounts-for-liquidity-providers",
+      "token": "$EKUBO"
     }
   ]
 }
