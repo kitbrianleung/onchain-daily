@@ -2,34 +2,34 @@
   "date": "16 OCT 2026",
   "items": [
     {
-      "headline": "$JUP Launches Wild 1,000x Leverage YOLO Beta",
-      "summary": "Jupiter rolled out an unaudited YOLO beta with up to 1,000x leverage, where users trade against a house pool. Payouts can be queued if house funds run low — degen season is on.",
-      "url": "https://thedefiant.io/news/defi/jupiter-launches-unaudited-yolo-beta-with-up-to-1-000x-leverage",
-      "token": "$JUP"
+      "headline": "$ARRR Exploit Mints 39.8M Coins Out of Thin Air",
+      "summary": "Pirate Chain confirmed an exploit that created 39.8 million $ARRR. The network is live, but users are told not to move funds while devs work on recovery.",
+      "url": "https://thedefiant.io/news/hacks/pirate-chain-says-exploit-created-39-8-million-arrr",
+      "token": "$ARRR"
     },
     {
-      "headline": "$STRK Vote: Starknet Eyes Its Own Quantum-Safe L1",
-      "summary": "Starknet opened a seven-day vote asking $STRK holders whether to research an independent post-quantum Layer 1, potentially moving away from Ethereum settlement.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
+      "headline": "$bOSMO Bug Breaks Backing, Compensation Plan Coming",
+      "summary": "A contract bug left $bOSMO with little backing and still allows cheap minting, putting LPs at risk. Only holders before the snapshot will be compensated.",
+      "url": "https://thedefiant.io/news/security/bosmo-bug-leaves-little-backing-prompts-holder-compensation-plan",
+      "token": "$bOSMO"
+    },
+    {
+      "headline": "$STRK Vote: Starknet Eyes Break From Ethereum",
+      "summary": "Starknet opened a seven-day community vote on researching an independent Layer 1 over quantum risks. $STRK stakers and delegators get a direct say.",
+      "url": "https://thedefiant.io/news/blockchains/starknet-puts-independent-l1-research-to-a-community-vote",
       "token": "$STRK"
     },
     {
-      "headline": "$HEX Craters 31% After Richard Heart Detention",
-      "summary": "$HEX sank 31% on reports of founder Richard Heart's detention in Istanbul. Thin liquidity — just $354K in the main Uniswap pool — is adding execution risk for sellers.",
-      "url": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
-      "token": "$HEX"
+      "headline": "$LDO: Lido Enables Direct ETH Staking From 4 L2s",
+      "summary": "Lido now lets users stake ETH directly from four Layer 2s and receive $wstETH from local pools, while ETH is bridged and staked in the background.",
+      "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
+      "token": "$LDO"
     },
     {
-      "headline": "$SAFE Launches Safenet Aegis Security Network",
-      "summary": "Safe launched Safenet Aegis, a security network live on three chains. Checks cost 0.40 USDC paid to security providers, with onchain enforcement via a Guard on the account.",
-      "url": "https://thedefiant.io/news/security/safe-launches-safenet-aegis-security-network-on-three-chains",
-      "token": "$SAFE"
-    },
-    {
-      "headline": "$AZTEC Targets Full Post-Quantum Migration by 2030",
-      "summary": "Privacy L2 Aztec plans a full post-quantum migration by end of 2030, with hardened developer libraries coming in early 2027. The move also depends on Ethereum upgrades.",
-      "url": "https://thedefiant.io/news/blockchains/aztec-targets-full-post-quantum-migration-by-end-of-2030",
-      "token": "$AZTEC"
+      "headline": "$AAVE V4 Arc Links Dollar-Euro Loans in One Pool",
+      "summary": "Aave V4's Arc markets connect dollar and euro loans to shared liquidity, with a Forex market letting borrowers pledge EURC as collateral. $AAVE keeps expanding cross-currency DeFi.",
+      "url": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
+      "token": "$AAVE"
     }
   ]
 }
