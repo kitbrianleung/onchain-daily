@@ -1,35 +1,35 @@
 {
-  "date": "16 OCT 2026",
+  "date": "17 OCT 2026",
   "items": [
     {
-      "headline": "$ARRR Exploit Mints 39.8M Coins Out of Thin Air",
-      "summary": "Pirate Chain confirmed an exploit that created 39.8 million $ARRR. The network is live, but users are told not to move funds while devs work on recovery.",
-      "url": "https://thedefiant.io/news/hacks/pirate-chain-says-exploit-created-39-8-million-arrr",
-      "token": "$ARRR"
+      "headline": "$INJ Surges 27%, Outpacing NEAR and Sei",
+      "summary": "$INJ jumped 27% in 24 hours, beating $NEAR, $SEI and Cosmos Hub, as a proposed 21Shares fund would hold the token directly with discretionary staking.",
+      "url": "https://thedefiant.io/news/markets/inj-surges-27-outpacing-near-and-sei",
+      "token": "$INJ"
     },
     {
-      "headline": "$bOSMO Bug Breaks Backing, Compensation Plan Coming",
-      "summary": "A contract bug left $bOSMO with little backing and still allows cheap minting, putting LPs at risk. Only holders before the snapshot will be compensated.",
-      "url": "https://thedefiant.io/news/security/bosmo-bug-leaves-little-backing-prompts-holder-compensation-plan",
-      "token": "$bOSMO"
+      "headline": "Jupiter's YOLO Hits $1B Volume in Under 24 Hours",
+      "summary": "Jupiter's unaudited YOLO beta, offering up to 1,000x leverage, logged $1B in volume in its first day. Winners are paid from a house pool funded by trader losses.",
+      "url": "https://thedefiant.io/news/defi/jupiter-says-yolo-hit-1-billion-in-volume-in-under-24-hours",
+      "token": "$JUP"
     },
     {
-      "headline": "$STRK Vote: Starknet Eyes Break From Ethereum",
-      "summary": "Starknet opened a seven-day community vote on researching an independent Layer 1 over quantum risks. $STRK stakers and delegators get a direct say.",
-      "url": "https://thedefiant.io/news/blockchains/starknet-puts-independent-l1-research-to-a-community-vote",
-      "token": "$STRK"
+      "headline": "$TIA Climbs 59% in Four Weeks Despite Slipping Blob Demand",
+      "summary": "Celestia's $TIA is up 59% in a month even as daily blob data fell during the rally, with its new Fibre throughput benchmark still separate from mainnet usage.",
+      "url": "https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips",
+      "token": "$TIA"
     },
     {
-      "headline": "$LDO: Lido Enables Direct ETH Staking From 4 L2s",
-      "summary": "Lido now lets users stake ETH directly from four Layer 2s and receive $wstETH from local pools, while ETH is bridged and staked in the background.",
-      "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
-      "token": "$LDO"
+      "headline": "$FIL to Shift Block Rewards Toward Paid Storage",
+      "summary": "Under FIP-0118, Filecoin will cut the consensus share of each $FIL block reward from 95% toward a 50% floor over nine quarters, burning any unearned service share.",
+      "url": "https://thedefiant.io/news/tokens/filecoin-plans-to-shift-block-rewards-toward-paid-storage",
+      "token": "$FIL"
     },
     {
-      "headline": "$AAVE V4 Arc Links Dollar-Euro Loans in One Pool",
-      "summary": "Aave V4's Arc markets connect dollar and euro loans to shared liquidity, with a Forex market letting borrowers pledge EURC as collateral. $AAVE keeps expanding cross-currency DeFi.",
-      "url": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
-      "token": "$AAVE"
+      "headline": "Unagi Liquidation Puts $UNA Token Contracts Up for Sale",
+      "summary": "Unagi is selling Persona's IP, a 957-NFT treasury and the $UNA token contracts in liquidation, with offers due November 2.",
+      "url": "https://thedefiant.io/news/nfts-and-web3/unagi-puts-persona-and-ultimate-champions-up-for-sale-in-liquidation",
+      "token": "$UNA"
     }
   ]
 }
