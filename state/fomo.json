@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "most_held": [
-    {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 58409381.663521364,
-      "pct": 10.6487
-    },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 88139090.97537759,
-      "pct": -29.2376
+      "mcap": 108534099.97289978,
+      "pct": 21.843
+    },
+    {
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 63389207.2274966,
+      "pct": 8.7511
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 201216131.6617359,
-      "pct": -10.3056
+      "mcap": 229392801.9066377,
+      "pct": 7.8633
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 82853127.66054685,
-      "pct": -19.0421
-    },
-    {
-      "name": "MarsCoin",
-      "symbol": "MARSCOIN",
-      "label": "MARSCOIN",
-      "full": "MarsCoin",
-      "mcap": 75296323.45533565,
-      "pct": -11.8269
+      "mcap": 96161001.72201426,
+      "pct": 12.4233
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 41172109.13270113,
-      "pct": -28.3106
+      "mcap": 56142351.6205272,
+      "pct": 25.9256
     },
     {
-      "name": "Boner Coin",
-      "symbol": "BONER",
-      "label": "BONER",
-      "full": "Boner Coin (BONER)",
-      "mcap": 18313775.5079476,
-      "pct": -35.2069
+      "name": "MarsCoin",
+      "symbol": "MARSCOIN",
+      "label": "MARSCOIN",
+      "full": "MarsCoin",
+      "mcap": 83126189.64218985,
+      "pct": 11.7056
+    },
+    {
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 17491134.80681584,
+      "pct": 25.6656
     }
   ],
   "trending": [
     {
-      "name": "flying tesla roadster",
-      "symbol": "FTR",
-      "label": "FTR",
-      "full": "flying tesla roadster (FTR)",
-      "mcap": 633915.8162110151,
-      "pct": 268.6301
+      "name": "Merge",
+      "symbol": "MERGE",
+      "label": "MERGE",
+      "full": "Merge",
+      "mcap": 265126.2584651521,
+      "pct": 11185.9971
     },
     {
-      "name": "Not in Employment, Education, or Training",
-      "symbol": "NEET",
-      "label": "NEET",
-      "full": "Not in Employment, Education, or Trainin",
-      "mcap": 30047924.559837304,
-      "pct": -4.2468
+      "name": "Flying Tesla Roadster",
+      "symbol": "FTR",
+      "label": "FTR",
+      "full": "Flying Tesla Roadster (FTR)",
+      "mcap": 5408348.650931119,
+      "pct": 1452.1492
+    },
+    {
+      "name": "flying tesla roadster",
+      "symbol": "",
+      "label": "flying tesla roads",
+      "full": "flying tesla roadster",
+      "mcap": 1025886.247844404,
+      "pct": 19175.2202
+    },
+    {
+      "name": "Bankers in Control",
+      "symbol": "BANKERS",
+      "label": "BANKERS",
+      "full": "Bankers in Control (BANKERS)",
+      "mcap": 632334.1673335675,
+      "pct": 10180.115
+    },
+    {
+      "name": "Trump $1 Coin",
+      "symbol": "1",
+      "label": "1",
+      "full": "Trump $1 Coin (1)",
+      "mcap": 1313153.2712403634,
+      "pct": 35487.4042
     },
     {
       "name": "Commander Vrax",
       "symbol": "VRAX",
       "label": "VRAX",
       "full": "Commander Vrax (VRAX)",
-      "mcap": 5635166.003600344,
-      "pct": 27.9768
+      "mcap": 6966652.378589465,
+      "pct": 9.4794
     },
     {
-      "name": "Agency",
-      "symbol": "Agency",
-      "label": "Agency",
-      "full": "Agency",
-      "mcap": 1730192.0008259248,
-      "pct": 10.6573
-    },
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 82444586.00180918,
-      "pct": -17.3436
-    },
-    {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "label": "CLAUDIA",
-      "full": "Claudia",
-      "mcap": 3226983.388237045,
-      "pct": -21.2844
-    },
-    {
-      "name": "Pepper The Raccoon",
-      "symbol": "Pepper",
-      "label": "Pepper",
-      "full": "Pepper The Raccoon (Pepper)",
-      "mcap": 1510074.4344368149,
-      "pct": 126.8652
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "label": "DOPE",
+      "full": "Doge Pepe (DOPE)",
+      "mcap": 5103371.463532351,
+      "pct": 14.1392
     }
   ],
-  "story_image": "fomo/2026-10-15-story.jpg",
-  "post_image": "fomo/2026-10-15-post.jpg"
+  "story_image": "fomo/2026-10-16-story.jpg",
+  "post_image": "fomo/2026-10-16-post.jpg"
 }
