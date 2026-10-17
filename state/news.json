@@ -2,34 +2,34 @@
   "date": "17 OCT 2026",
   "items": [
     {
-      "headline": "$SEI Perps Go Live on CFTC-Regulated OG.com",
-      "summary": "$SEI perpetual futures now trade on CFTC-regulated OG.com Markets, with dollar-settled contracts, no expiry and 8-hour funding. A rare regulated derivatives listing for a smaller altcoin.",
-      "url": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
-      "token": "$SEI"
+      "headline": "$TIA Jumps 23% in a Day, Extending Four-Week Rally",
+      "summary": "Celestia's $TIA surged 23% in 24 hours, stretching its month-long rally. Daily fees ticked up to $158 even as data posted to the network slipped slightly.",
+      "url": "https://thedefiant.io/news/tokens/celestia-s-tia-jumps-23-in-a-day-extending-four-week-rally",
+      "token": "$TIA"
     },
     {
-      "headline": "$NEAR Intents Postmortem: $3.8M Exploit Traced to Bug",
-      "summary": "$NEAR Intents published its postmortem on the $3.8 million exploit, linking it to a deposit bug. The protocol says all affected users were made whole.",
-      "url": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
-      "token": "$NEAR"
+      "headline": "$MORPHO Launches Onchain Credit Network for DeFi",
+      "summary": "$MORPHO unveiled a new onchain credit network aimed at transforming DeFi lending, expanding its push beyond isolated markets into broader credit infrastructure.",
+      "url": "https://coinfomania.com/morpho-launches-onchain-credit-network/",
+      "token": "$MORPHO"
     },
     {
-      "headline": "$SUI Shakeup: Mysten Labs Names New CEO",
-      "summary": "Kevin Boon succeeds Evan Cheng as Mysten Labs CEO, with Cheng staying as CTO to lead a new AI agent infrastructure unit tied to $SUI and Walrus.",
-      "url": "https://thedefiant.io/news/people/kevin-boon-succeeds-evan-cheng-as-mysten-labs-ceo",
-      "token": "$SUI"
+      "headline": "$CRV Debuts New Borrowing Feature for LPs",
+      "summary": "Curve launched an innovative borrowing feature built for liquidity providers, giving $CRV users a fresh DeFi use case and new ways to leverage LP positions.",
+      "url": "https://coinfomania.com/curve-borrowing-feature-for-lps/",
+      "token": "$CRV"
     },
     {
-      "headline": "$HYPE Powers Ripple Prime's New RWA Perp Swaps",
-      "summary": "Ripple Prime added RWA perpetual swaps referencing equities, ETFs, metals and energy, tied to perps listed on Hyperliquid. Another institutional nod for $HYPE's ecosystem.",
-      "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
-      "token": "$HYPE"
+      "headline": "$CAKE: PancakeSwap Reveals Dual Investments, Fee Cuts",
+      "summary": "PancakeSwap announced dual investments alongside fee structure adjustments, a major ecosystem shake-up for $CAKE holders as the DEX retools its tokenomics.",
+      "url": "https://coinfomania.com/pancakeswap-dual-investments-fee-adjustments/",
+      "token": "$CAKE"
     },
     {
-      "headline": "$STRK's Bold Bet: Starknet Eyes L1 Exit by 2027",
-      "summary": "StarkWare CEO Eli Ben-Sasson explains why $STRK may leave Ethereum to become the first fully quantum-resistant L1, targeting 2027. A high-stakes pivot for the Starknet ecosystem.",
-      "url": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
-      "token": "$STRK"
+      "headline": "$PENDLE Rolls Out Live Risk Input for Aave Markets",
+      "summary": "$PENDLE introduced live input tooling for Aave's risk management, deepening its integration with blue-chip DeFi and expanding its yield-trading footprint.",
+      "url": "https://coinfomania.com/pendle-live-input-aave-risk-management/",
+      "token": "$PENDLE"
     }
   ]
 }
