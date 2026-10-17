@@ -2,34 +2,34 @@
   "date": "17 OCT 2026",
   "items": [
     {
-      "headline": "$INJ Surges 27%, Outpacing NEAR and Sei",
-      "summary": "$INJ jumped 27% in 24 hours, beating $NEAR, $SEI and Cosmos Hub, as a proposed 21Shares fund would hold the token directly with discretionary staking.",
-      "url": "https://thedefiant.io/news/markets/inj-surges-27-outpacing-near-and-sei",
-      "token": "$INJ"
+      "headline": "$SEI Perps Go Live on CFTC-Regulated OG.com",
+      "summary": "$SEI perpetual futures now trade on CFTC-regulated OG.com Markets, with dollar-settled contracts, no expiry and 8-hour funding. A rare regulated derivatives listing for a smaller altcoin.",
+      "url": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
+      "token": "$SEI"
     },
     {
-      "headline": "Jupiter's YOLO Hits $1B Volume in Under 24 Hours",
-      "summary": "Jupiter's unaudited YOLO beta, offering up to 1,000x leverage, logged $1B in volume in its first day. Winners are paid from a house pool funded by trader losses.",
-      "url": "https://thedefiant.io/news/defi/jupiter-says-yolo-hit-1-billion-in-volume-in-under-24-hours",
-      "token": "$JUP"
+      "headline": "$NEAR Intents Postmortem: $3.8M Exploit Traced to Bug",
+      "summary": "$NEAR Intents published its postmortem on the $3.8 million exploit, linking it to a deposit bug. The protocol says all affected users were made whole.",
+      "url": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
+      "token": "$NEAR"
     },
     {
-      "headline": "$TIA Climbs 59% in Four Weeks Despite Slipping Blob Demand",
-      "summary": "Celestia's $TIA is up 59% in a month even as daily blob data fell during the rally, with its new Fibre throughput benchmark still separate from mainnet usage.",
-      "url": "https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips",
-      "token": "$TIA"
+      "headline": "$SUI Shakeup: Mysten Labs Names New CEO",
+      "summary": "Kevin Boon succeeds Evan Cheng as Mysten Labs CEO, with Cheng staying as CTO to lead a new AI agent infrastructure unit tied to $SUI and Walrus.",
+      "url": "https://thedefiant.io/news/people/kevin-boon-succeeds-evan-cheng-as-mysten-labs-ceo",
+      "token": "$SUI"
     },
     {
-      "headline": "$FIL to Shift Block Rewards Toward Paid Storage",
-      "summary": "Under FIP-0118, Filecoin will cut the consensus share of each $FIL block reward from 95% toward a 50% floor over nine quarters, burning any unearned service share.",
-      "url": "https://thedefiant.io/news/tokens/filecoin-plans-to-shift-block-rewards-toward-paid-storage",
-      "token": "$FIL"
+      "headline": "$HYPE Powers Ripple Prime's New RWA Perp Swaps",
+      "summary": "Ripple Prime added RWA perpetual swaps referencing equities, ETFs, metals and energy, tied to perps listed on Hyperliquid. Another institutional nod for $HYPE's ecosystem.",
+      "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
+      "token": "$HYPE"
     },
     {
-      "headline": "Unagi Liquidation Puts $UNA Token Contracts Up for Sale",
-      "summary": "Unagi is selling Persona's IP, a 957-NFT treasury and the $UNA token contracts in liquidation, with offers due November 2.",
-      "url": "https://thedefiant.io/news/nfts-and-web3/unagi-puts-persona-and-ultimate-champions-up-for-sale-in-liquidation",
-      "token": "$UNA"
+      "headline": "$STRK's Bold Bet: Starknet Eyes L1 Exit by 2027",
+      "summary": "StarkWare CEO Eli Ben-Sasson explains why $STRK may leave Ethereum to become the first fully quantum-resistant L1, targeting 2027. A high-stakes pivot for the Starknet ecosystem.",
+      "url": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
+      "token": "$STRK"
     }
   ]
 }
