@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 72126479.94376574,
-      "pct": 19.1714
+      "mcap": 73227283.0420431,
+      "pct": 1.8335
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 89957951.65484208,
-      "pct": -17.451
+      "mcap": 79902361.45897965,
+      "pct": -12.5571
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 212718769.37435064,
-      "pct": -8.7439
+      "mcap": 187676243.886344,
+      "pct": -12.3068
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 83258344.12421778,
-      "pct": -12.1085
+      "mcap": 78958659.46776496,
+      "pct": -4.6032
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 79705543.61703525,
-      "pct": -5.2976
+      "mcap": 75215943.15452918,
+      "pct": -5.7333
+    },
+    {
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "label": "MASK",
+      "full": "Nullmask (MASK)",
+      "mcap": 46059676.873425454,
+      "pct": 9.2599
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 47006261.86311694,
-      "pct": -16.0286
-    },
-    {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 19557831.74904909,
-      "pct": 13.1906
+      "mcap": 40476288.66178295,
+      "pct": -11.3393
     }
   ],
   "trending": [
     {
-      "name": "Optimus Prime",
-      "symbol": "PRIME",
-      "label": "PRIME",
-      "full": "Optimus Prime (PRIME)",
-      "mcap": 520321.60614447255,
-      "pct": 15498.4347
+      "name": "hi",
+      "symbol": "hi",
+      "label": "hi",
+      "full": "hi",
+      "mcap": 512546.58518990094,
+      "pct": 255.3722
     },
     {
-      "name": "Flying Tesla Roadster",
-      "symbol": "FTR",
-      "label": "FTR",
-      "full": "Flying Tesla Roadster (FTR)",
-      "mcap": 3567279.7920542257,
-      "pct": -42.8509
+      "name": "Doge Pepe",
+      "symbol": "DOPE",
+      "label": "DOPE",
+      "full": "Doge Pepe (DOPE)",
+      "mcap": 5479337.936887247,
+      "pct": 61.2659
     },
     {
-      "name": "simulator",
-      "symbol": "simulator",
-      "label": "simulator",
-      "full": "simulator",
-      "mcap": 1688381.2209595218,
-      "pct": 1262.6337
+      "name": "SUPERCORE",
+      "symbol": "SUPERCORE",
+      "label": "SUPERCORE",
+      "full": "SUPERCORE",
+      "mcap": 507749.1704006383,
+      "pct": 17056.3203
+    },
+    {
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "label": "CLAUDIA",
+      "full": "Claudia",
+      "mcap": 8775613.687507618,
+      "pct": 84.5319
+    },
+    {
+      "name": "AgenC",
+      "symbol": "AGENC",
+      "label": "AGENC",
+      "full": "AgenC",
+      "mcap": 1891070.5189486651,
+      "pct": 225.7526
+    },
+    {
+      "name": "Tetsuo Super Intelligence",
+      "symbol": "TSI",
+      "label": "TSI",
+      "full": "Tetsuo Super Intelligence (TSI)",
+      "mcap": 570092.470285864,
+      "pct": 13953.7683
     },
     {
       "name": "Elon Coin",
       "symbol": "ELON",
       "label": "ELON",
       "full": "Elon Coin (ELON)",
-      "mcap": 816514.4325641146,
-      "pct": 23304.2274
-    },
-    {
-      "name": "ROBINCAT",
-      "symbol": "ROBINCAT",
-      "label": "ROBINCAT",
-      "full": "ROBINCAT",
-      "mcap": 2341325.7274937676,
-      "pct": 61.068
-    },
-    {
-      "name": "Wheel Smith",
-      "symbol": "Wheel Smith",
-      "label": "Wheel Smith",
-      "full": "Wheel Smith",
-      "mcap": 758612.6784130682,
-      "pct": 22972.3343
-    },
-    {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 19499532.14850893,
-      "pct": 20.7157
+      "mcap": 3254160.326687202,
+      "pct": 293.1895
     }
   ],
-  "story_image": "fomo/2026-10-17-story.jpg",
-  "post_image": "fomo/2026-10-17-post.jpg"
+  "story_image": "fomo/2026-10-18-story.jpg",
+  "post_image": "fomo/2026-10-18-post.jpg"
 }
