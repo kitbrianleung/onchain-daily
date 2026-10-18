@@ -1,35 +1,35 @@
 {
-  "date": "17 OCT 2026",
+  "date": "18 OCT 2026",
   "items": [
     {
-      "headline": "$TIA Jumps 23% in a Day, Extending Four-Week Rally",
-      "summary": "Celestia's $TIA surged 23% in 24 hours, stretching its month-long rally. Daily fees ticked up to $158 even as data posted to the network slipped slightly.",
-      "url": "https://thedefiant.io/news/tokens/celestia-s-tia-jumps-23-in-a-day-extending-four-week-rally",
-      "token": "$TIA"
+      "headline": "$INJ Activates Fixed Gas Costs for Exchange Trades",
+      "summary": "$INJ now lets traders and devs use published gas budgets for orders, cancels, deposits and withdrawals — no more simulating every transaction.",
+      "url": "https://thedefiant.io/news/blockchains/injective-activates-fixed-gas-costs-for-exchange-transactions",
+      "token": "$INJ"
     },
     {
-      "headline": "$MORPHO Launches Onchain Credit Network for DeFi",
-      "summary": "$MORPHO unveiled a new onchain credit network aimed at transforming DeFi lending, expanding its push beyond isolated markets into broader credit infrastructure.",
-      "url": "https://coinfomania.com/morpho-launches-onchain-credit-network/",
-      "token": "$MORPHO"
+      "headline": "$FET Launches ASI:One App Store for AI Agents",
+      "summary": "Fetch.ai debuts ASI:One, a new app store built for AI agents, expanding the $FET ecosystem's push into onchain AI services.",
+      "url": "https://coinfomania.com/fetch-ai-launches-asi-one-app-store/",
+      "token": "$FET"
     },
     {
-      "headline": "$CRV Debuts New Borrowing Feature for LPs",
-      "summary": "Curve launched an innovative borrowing feature built for liquidity providers, giving $CRV users a fresh DeFi use case and new ways to leverage LP positions.",
-      "url": "https://coinfomania.com/curve-borrowing-feature-for-lps/",
-      "token": "$CRV"
+      "headline": "$ZEC 'Still Early' Says Gemini Co-Founder",
+      "summary": "Gemini's co-founder stays bullish on $ZEC even as reports flag it as a top choice for laundering — privacy coin narrative heats up again.",
+      "url": "https://coingape.com/gemini-co-founder-calls-zcash-still-early-as-zec-becomes-top-choice-for-laundering/",
+      "token": "$ZEC"
     },
     {
-      "headline": "$CAKE: PancakeSwap Reveals Dual Investments, Fee Cuts",
-      "summary": "PancakeSwap announced dual investments alongside fee structure adjustments, a major ecosystem shake-up for $CAKE holders as the DEX retools its tokenomics.",
-      "url": "https://coinfomania.com/pancakeswap-dual-investments-fee-adjustments/",
-      "token": "$CAKE"
+      "headline": "$SHIB Burn: 152M Tokens Sent to Dead Wallets",
+      "summary": "152 million $SHIB were burned via transfers from Coinbase to dead wallets, as the memecoin eyes a key support level near 86 trillion tokens.",
+      "url": "https://u.today/152-million-shib-tokens-sent-to-dead-wallets-from-coinbase-uncovered",
+      "token": "$SHIB"
     },
     {
-      "headline": "$PENDLE Rolls Out Live Risk Input for Aave Markets",
-      "summary": "$PENDLE introduced live input tooling for Aave's risk management, deepening its integration with blue-chip DeFi and expanding its yield-trading footprint.",
-      "url": "https://coinfomania.com/pendle-live-input-aave-risk-management/",
-      "token": "$PENDLE"
+      "headline": "$NEO Turns 10 With HODLers Survival Game",
+      "summary": "Neo MainNet celebrates its 10th anniversary with a new HODLers survival game, aiming to re-engage the $NEO community.",
+      "url": "https://neonewstoday.com/games/neo-news-today-launches-neo-hodlers-survival-game-for-neo-mainnets-10th-anniversary/",
+      "token": "$NEO"
     }
   ]
 }
