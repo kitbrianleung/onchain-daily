@@ -2,33 +2,33 @@
   "date": "18 OCT 2026",
   "items": [
     {
-      "headline": "$INJ Activates Fixed Gas Costs for Exchange Trades",
-      "summary": "$INJ now lets traders and devs use published gas budgets for orders, cancels, deposits and withdrawals — no more simulating every transaction.",
-      "url": "https://thedefiant.io/news/blockchains/injective-activates-fixed-gas-costs-for-exchange-transactions",
-      "token": "$INJ"
+      "headline": "$QU Drained: Qubic Halts Network After $1.3M Hack",
+      "summary": "Qubic froze its network after attackers exploited weak wallet seeds to drain 2.94T $QU (~$1.3M). Most funds remain immobilized onchain, with MEXC freezing the rest.",
+      "url": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
+      "token": "$QU"
     },
     {
-      "headline": "$FET Launches ASI:One App Store for AI Agents",
-      "summary": "Fetch.ai debuts ASI:One, a new app store built for AI agents, expanding the $FET ecosystem's push into onchain AI services.",
-      "url": "https://coinfomania.com/fetch-ai-launches-asi-one-app-store/",
-      "token": "$FET"
+      "headline": "$CYS Hit: Cysic Halts Bridge After 10M Token Mint",
+      "summary": "Cysic stopped its bridge after an unauthorized mint of 10M $CYS. About 2.8M tokens are frozen, though some were sold before the blacklist kicked in.",
+      "url": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys",
+      "token": "$CYS"
     },
     {
-      "headline": "$ZEC 'Still Early' Says Gemini Co-Founder",
-      "summary": "Gemini's co-founder stays bullish on $ZEC even as reports flag it as a top choice for laundering — privacy coin narrative heats up again.",
-      "url": "https://coingape.com/gemini-co-founder-calls-zcash-still-early-as-zec-becomes-top-choice-for-laundering/",
-      "token": "$ZEC"
+      "headline": "$ZRO Unveils Aerie With 0.65s Quantum-Safe Signatures",
+      "summary": "LayerZero launched Aerie, hitting sub-second quantum-safe signature benchmarks. A big infra flex for $ZRO as post-quantum narratives heat up.",
+      "url": "https://crypto.news/",
+      "token": "$ZRO"
     },
     {
-      "headline": "$SHIB Burn: 152M Tokens Sent to Dead Wallets",
-      "summary": "152 million $SHIB were burned via transfers from Coinbase to dead wallets, as the memecoin eyes a key support level near 86 trillion tokens.",
-      "url": "https://u.today/152-million-shib-tokens-sent-to-dead-wallets-from-coinbase-uncovered",
-      "token": "$SHIB"
+      "headline": "$JST Burns $23.5M in Fifth JustLend Buyback",
+      "summary": "JustLend DAO completed its fifth buyback and burn, torching $23.5M worth of $JST. Supply keeps shrinking as the DeFi protocol leans into deflation.",
+      "url": "https://blockchainreporter.net/",
+      "token": "$JST"
     },
     {
-      "headline": "$NEO Turns 10 With HODLers Survival Game",
-      "summary": "Neo MainNet celebrates its 10th anniversary with a new HODLers survival game, aiming to re-engage the $NEO community.",
-      "url": "https://neonewstoday.com/games/neo-news-today-launches-neo-hodlers-survival-game-for-neo-mainnets-10th-anniversary/",
+      "headline": "$NEO Turns 10 With HODLers Survival Game Launch",
+      "summary": "Neo celebrates a decade of mainnet with a new HODLers survival game. A fresh community push as $NEO tries to reignite ecosystem activity.",
+      "url": "https://neonewstoday.com/",
       "token": "$NEO"
     }
   ]
