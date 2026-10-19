@@ -1,35 +1,35 @@
 {
-  "date": "19 OCT 2026",
+  "date": "20 OCT 2026",
   "items": [
     {
-      "headline": "$CYS Bridge Halted After Attacker Mints 10M Tokens",
-      "summary": "Cysic suspended its bridge after an attacker minted 10 million $CYS and funneled about $727,000 to Ethereum via Mayan, deBridge and SWFT Bridgers.",
-      "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
-      "token": "$CYS"
+      "headline": "Pump.fun Adds Pre-IPO Tokens to Launch Pairings",
+      "summary": "Pump.fun now pairs new launches with eight PreStocks pre-IPO assets offering economic exposure, not shareholder rights. US persons are excluded.",
+      "url": "https://thedefiant.io/news/defi/pump-fun-adds-pre-ipo-tokens-to-its-launch-pairings",
+      "token": "$PUMP"
     },
     {
-      "headline": "$WLD Launches World ID for Banks, Zoom Deepfake Checks",
-      "summary": "World rolled out a World ID suite for banks and made its Zoom deepfake detection tool generally available, expanding $WLD's identity ecosystem.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
-      "token": "$WLD"
+      "headline": "Lighter Launches BTC & ETH Binary Options",
+      "summary": "Lighter's new Up/Down contracts pay 1 USDC to winners, are fully funded, and carry no leverage or liquidations — a fresh DeFi use case on Core.",
+      "url": "https://thedefiant.io/news/defi/lighter-launches-btc-and-eth-binary-options-on-core",
+      "token": "$LIT"
     },
     {
-      "headline": "$HEX Founder Richard Heart Arrested in Turkey",
-      "summary": "Turkey confirmed Richard Heart's arrest, seizing $7.15 million in cash and six cold wallets. $HEX already sank 31% on earlier detention reports.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
-      "token": "$HEX"
+      "headline": "$STRK Sinks 38% as Starknet Rally Reverses",
+      "summary": "$STRK gave back 38% in a week, though Starknet DeFi TVL fell only 5.3%. Voting on an independent Layer 1 runs until Oct. 22.",
+      "url": "https://thedefiant.io/news/markets/strk-sinks-38-in-a-week-as-starknet-rally-reverses",
+      "token": "$STRK"
     },
     {
-      "headline": "$CC: DTCC Picks Canton for 25-Security Tokenization",
-      "summary": "DTCC outlined a 25-security tokenization rollout on Canton and Besu, with tokens backed 1:1 by DTC-held securities — a big institutional win for $CC.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-outlines-25-security-tokenization-rollout-on-canton-and-besu",
-      "token": "$CC"
+      "headline": "THORChain Halts $ZEC Swaps After Vault Slash",
+      "summary": "A bug slashed ~140 $RUNE from 18 node accounts, keeping $ZEC swaps paused on THORChain. The fix ships with the v3.21 upgrade around Oct. 23.",
+      "url": "https://thedefiant.io/news/security/thorchain-keeps-zec-swaps-halted-after-bug-triggers-vault-slash",
+      "token": "$RUNE"
     },
     {
-      "headline": "Kalshi, Polymarket Hold Off as Missouri Sued Over Sports Contracts",
-      "summary": "Crypto.com and Novig sued Missouri over sports event contract cease-and-desists, while Kalshi, Polymarket and Robinhood have not filed suits.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
-      "token": "Kalshi"
+      "headline": "Maple's $SYRUP Slides 24% Despite Buybacks",
+      "summary": "$SYRUP underperformed BTC and ETH with a 24% weekly drop, even as Maple holds $2.71B TVL and doubled revenue-funded buybacks in September.",
+      "url": "https://thedefiant.io/news/tokens/maple-s-syrup-slides-24-in-a-week-underperforming-bitcoin-and-ether",
+      "token": "$SYRUP"
     }
   ]
 }
