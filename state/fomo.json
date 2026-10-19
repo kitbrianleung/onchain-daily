@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 73227283.0420431,
-      "pct": 1.8335
+      "mcap": 66930509.93878651,
+      "pct": -9.5433
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 79902361.45897965,
-      "pct": -12.5571
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "label": "PONS",
-      "full": "Pons",
-      "mcap": 187676243.886344,
-      "pct": -12.3068
+      "mcap": 80804535.5805562,
+      "pct": -1.0006
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 78958659.46776496,
-      "pct": -4.6032
+      "mcap": 83868719.7277861,
+      "pct": 6.7861
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "label": "PONS",
+      "full": "Pons",
+      "mcap": 176107244.21455413,
+      "pct": -7.0565
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 75215943.15452918,
-      "pct": -5.7333
-    },
-    {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 46059676.873425454,
-      "pct": 9.2599
+      "mcap": 81246922.65048613,
+      "pct": 8.5507
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 40476288.66178295,
-      "pct": -11.3393
+      "mcap": 48871338.57343715,
+      "pct": 12.1699
+    },
+    {
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "label": "MASK",
+      "full": "Nullmask (MASK)",
+      "mcap": 46954219.78241338,
+      "pct": 2.1571
     }
   ],
   "trending": [
     {
-      "name": "hi",
-      "symbol": "hi",
-      "label": "hi",
-      "full": "hi",
-      "mcap": 512546.58518990094,
-      "pct": 255.3722
+      "name": "Universal High Income",
+      "symbol": "UHI",
+      "label": "UHI",
+      "full": "Universal High Income (UHI)",
+      "mcap": 852137.7962109237,
+      "pct": 26027.8932
     },
     {
-      "name": "Doge Pepe",
-      "symbol": "DOPE",
-      "label": "DOPE",
-      "full": "Doge Pepe (DOPE)",
-      "mcap": 5479337.936887247,
-      "pct": 61.2659
+      "name": "The Stonks Exchange",
+      "symbol": "STONKEX",
+      "label": "STONKEX",
+      "full": "The Stonks Exchange (STONKEX)",
+      "mcap": 5197787.949463621,
+      "pct": 44.5861
     },
     {
-      "name": "SUPERCORE",
-      "symbol": "SUPERCORE",
-      "label": "SUPERCORE",
-      "full": "SUPERCORE",
-      "mcap": 507749.1704006383,
-      "pct": 17056.3203
-    },
-    {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "label": "CLAUDIA",
-      "full": "Claudia",
-      "mcap": 8775613.687507618,
-      "pct": 84.5319
-    },
-    {
-      "name": "AgenC",
-      "symbol": "AGENC",
-      "label": "AGENC",
-      "full": "AgenC",
-      "mcap": 1891070.5189486651,
-      "pct": 225.7526
-    },
-    {
-      "name": "Tetsuo Super Intelligence",
-      "symbol": "TSI",
-      "label": "TSI",
-      "full": "Tetsuo Super Intelligence (TSI)",
-      "mcap": 570092.470285864,
-      "pct": 13953.7683
+      "name": "French Goku Hero",
+      "symbol": "PIERRE",
+      "label": "PIERRE",
+      "full": "French Goku Hero (PIERRE)",
+      "mcap": 1473376.7002788011,
+      "pct": 60459.7117
     },
     {
       "name": "Elon Coin",
       "symbol": "ELON",
       "label": "ELON",
       "full": "Elon Coin (ELON)",
-      "mcap": 3254160.326687202,
-      "pct": 293.1895
+      "mcap": 2505012.083723542,
+      "pct": -1.6751
+    },
+    {
+      "name": "Weft Finance",
+      "symbol": "WEFT",
+      "label": "WEFT",
+      "full": "Weft Finance (WEFT)",
+      "mcap": 2955079.3408027366,
+      "pct": 831.3261
+    },
+    {
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 67102291.69506003,
+      "pct": -9.5485
+    },
+    {
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "label": "CLAUDIA",
+      "full": "Claudia",
+      "mcap": 6385731.106190624,
+      "pct": -22.7903
     }
   ],
-  "story_image": "fomo/2026-10-18-story.jpg",
-  "post_image": "fomo/2026-10-18-post.jpg"
+  "story_image": "fomo/2026-10-19-story.jpg",
+  "post_image": "fomo/2026-10-19-post.jpg"
 }
