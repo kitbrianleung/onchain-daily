@@ -1,35 +1,35 @@
 {
-  "date": "18 OCT 2026",
+  "date": "19 OCT 2026",
   "items": [
     {
-      "headline": "$QU Drained: Qubic Halts Network After $1.3M Hack",
-      "summary": "Qubic froze its network after attackers exploited weak wallet seeds to drain 2.94T $QU (~$1.3M). Most funds remain immobilized onchain, with MEXC freezing the rest.",
-      "url": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
-      "token": "$QU"
-    },
-    {
-      "headline": "$CYS Hit: Cysic Halts Bridge After 10M Token Mint",
-      "summary": "Cysic stopped its bridge after an unauthorized mint of 10M $CYS. About 2.8M tokens are frozen, though some were sold before the blacklist kicked in.",
-      "url": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys",
+      "headline": "$CYS Bridge Halted After Attacker Mints 10M Tokens",
+      "summary": "Cysic suspended its bridge after an attacker minted 10 million $CYS and funneled about $727,000 to Ethereum via Mayan, deBridge and SWFT Bridgers.",
+      "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
       "token": "$CYS"
     },
     {
-      "headline": "$ZRO Unveils Aerie With 0.65s Quantum-Safe Signatures",
-      "summary": "LayerZero launched Aerie, hitting sub-second quantum-safe signature benchmarks. A big infra flex for $ZRO as post-quantum narratives heat up.",
-      "url": "https://crypto.news/",
-      "token": "$ZRO"
+      "headline": "$WLD Launches World ID for Banks, Zoom Deepfake Checks",
+      "summary": "World rolled out a World ID suite for banks and made its Zoom deepfake detection tool generally available, expanding $WLD's identity ecosystem.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+      "token": "$WLD"
     },
     {
-      "headline": "$JST Burns $23.5M in Fifth JustLend Buyback",
-      "summary": "JustLend DAO completed its fifth buyback and burn, torching $23.5M worth of $JST. Supply keeps shrinking as the DeFi protocol leans into deflation.",
-      "url": "https://blockchainreporter.net/",
-      "token": "$JST"
+      "headline": "$HEX Founder Richard Heart Arrested in Turkey",
+      "summary": "Turkey confirmed Richard Heart's arrest, seizing $7.15 million in cash and six cold wallets. $HEX already sank 31% on earlier detention reports.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+      "token": "$HEX"
     },
     {
-      "headline": "$NEO Turns 10 With HODLers Survival Game Launch",
-      "summary": "Neo celebrates a decade of mainnet with a new HODLers survival game. A fresh community push as $NEO tries to reignite ecosystem activity.",
-      "url": "https://neonewstoday.com/",
-      "token": "$NEO"
+      "headline": "$CC: DTCC Picks Canton for 25-Security Tokenization",
+      "summary": "DTCC outlined a 25-security tokenization rollout on Canton and Besu, with tokens backed 1:1 by DTC-held securities — a big institutional win for $CC.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-outlines-25-security-tokenization-rollout-on-canton-and-besu",
+      "token": "$CC"
+    },
+    {
+      "headline": "Kalshi, Polymarket Hold Off as Missouri Sued Over Sports Contracts",
+      "summary": "Crypto.com and Novig sued Missouri over sports event contract cease-and-desists, while Kalshi, Polymarket and Robinhood have not filed suits.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+      "token": "Kalshi"
     }
   ]
 }
