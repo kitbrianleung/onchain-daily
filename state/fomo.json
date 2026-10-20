@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 66930509.93878651,
-      "pct": -9.5433
+      "mcap": 58069438.4797294,
+      "pct": -14.2766
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 80804535.5805562,
-      "pct": -1.0006
+      "mcap": 73231721.56416054,
+      "pct": -8.7547
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 83868719.7277861,
-      "pct": 6.7861
+      "mcap": 80725752.65797056,
+      "pct": -3.8536
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 176107244.21455413,
-      "pct": -7.0565
+      "mcap": 179170635.49321696,
+      "pct": 1.1211
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 81246922.65048613,
-      "pct": 8.5507
+      "mcap": 75767793.57346639,
+      "pct": -7.1799
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 48871338.57343715,
-      "pct": 12.1699
+      "mcap": 45303357.469046935,
+      "pct": -9.8345
     },
     {
       "name": "Nullmask",
       "symbol": "MASK",
       "label": "MASK",
       "full": "Nullmask (MASK)",
-      "mcap": 46954219.78241338,
-      "pct": 2.1571
+      "mcap": 39938683.94023677,
+      "pct": -12.6423
     }
   ],
   "trending": [
     {
-      "name": "Universal High Income",
-      "symbol": "UHI",
-      "label": "UHI",
-      "full": "Universal High Income (UHI)",
-      "mcap": 852137.7962109237,
-      "pct": 26027.8932
-    },
-    {
-      "name": "The Stonks Exchange",
-      "symbol": "STONKEX",
-      "label": "STONKEX",
-      "full": "The Stonks Exchange (STONKEX)",
-      "mcap": 5197787.949463621,
-      "pct": 44.5861
-    },
-    {
-      "name": "French Goku Hero",
-      "symbol": "PIERRE",
-      "label": "PIERRE",
-      "full": "French Goku Hero (PIERRE)",
-      "mcap": 1473376.7002788011,
-      "pct": 60459.7117
-    },
-    {
-      "name": "Elon Coin",
-      "symbol": "ELON",
-      "label": "ELON",
-      "full": "Elon Coin (ELON)",
-      "mcap": 2505012.083723542,
-      "pct": -1.6751
+      "name": "earth",
+      "symbol": "earth",
+      "label": "earth",
+      "full": "earth",
+      "mcap": 195437.67439931884,
+      "pct": 6742.8563
     },
     {
       "name": "Weft Finance",
       "symbol": "WEFT",
       "label": "WEFT",
       "full": "Weft Finance (WEFT)",
-      "mcap": 2955079.3408027366,
-      "pct": 831.3261
+      "mcap": 1080651.8056522803,
+      "pct": -58.8203
     },
     {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 67102291.69506003,
-      "pct": -9.5485
+      "name": "Pokmon",
+      "symbol": "Pokmon",
+      "label": "Pokmon",
+      "full": "Pokmon",
+      "mcap": 1247823.7838816894,
+      "pct": 11474.217
     },
     {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "label": "CLAUDIA",
-      "full": "Claudia",
-      "mcap": 6385731.106190624,
-      "pct": -22.7903
+      "name": "Commander Vrax",
+      "symbol": "VRAX",
+      "label": "VRAX",
+      "full": "Commander Vrax (VRAX)",
+      "mcap": 3601137.1019227426,
+      "pct": -27.1106
+    },
+    {
+      "name": "TartSwap",
+      "symbol": "TART",
+      "label": "TART",
+      "full": "TartSwap (TART)",
+      "mcap": 13634873.967009822,
+      "pct": 20.9817
+    },
+    {
+      "name": "DarkSwap",
+      "symbol": "DARK",
+      "label": "DARK",
+      "full": "DarkSwap (DARK)",
+      "mcap": 1018438.2181543503,
+      "pct": -45.0425
+    },
+    {
+      "name": "The Official 67 Coin",
+      "symbol": "67",
+      "label": "67",
+      "full": "The Official 67 Coin (67)",
+      "mcap": 1810758.9333967448,
+      "pct": -7.3611
     }
   ],
-  "story_image": "fomo/2026-10-19-story.jpg",
-  "post_image": "fomo/2026-10-19-post.jpg"
+  "story_image": "fomo/2026-10-20-story.jpg",
+  "post_image": "fomo/2026-10-20-post.jpg"
 }
