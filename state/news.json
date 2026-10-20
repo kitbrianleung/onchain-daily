@@ -2,34 +2,34 @@
   "date": "20 OCT 2026",
   "items": [
     {
-      "headline": "Pump.fun Adds Pre-IPO Tokens to Launch Pairings",
-      "summary": "Pump.fun now pairs new launches with eight PreStocks pre-IPO assets offering economic exposure, not shareholder rights. US persons are excluded.",
-      "url": "https://thedefiant.io/news/defi/pump-fun-adds-pre-ipo-tokens-to-its-launch-pairings",
-      "token": "$PUMP"
+      "headline": "Papertrade Keeps $PAPER Locked, Citing Perp Attack Risks",
+      "summary": "Papertrade says $PAPER stays non-transferable for now, fearing perp manipulation. Holders can stake for USDC payouts but have no date to sell or move tokens. #PAPER",
+      "url": "https://thedefiant.io/news/tokens/papertrade-keeps-paper-non-transferable-citing-perp-attack-risks",
+      "token": "$PAPER"
     },
     {
-      "headline": "Lighter Launches BTC & ETH Binary Options",
-      "summary": "Lighter's new Up/Down contracts pay 1 USDC to winners, are fully funded, and carry no leverage or liquidations — a fresh DeFi use case on Core.",
-      "url": "https://thedefiant.io/news/defi/lighter-launches-btc-and-eth-binary-options-on-core",
-      "token": "$LIT"
+      "headline": "$FRAX Unveils Six-Currency FX Pools on Aerodrome",
+      "summary": "Frax launched six FX stablecoin pools on Aerodrome on Base. Early traction is modest: ~$241K liquidity and ~$20K in 24h volume — one to watch as onchain FX grows. #FRAX",
+      "url": "https://thedefiant.io/news/defi/frax-announces-six-currency-fx-lineup-on-aerodrome",
+      "token": "$FRAX"
     },
     {
-      "headline": "$STRK Sinks 38% as Starknet Rally Reverses",
-      "summary": "$STRK gave back 38% in a week, though Starknet DeFi TVL fell only 5.3%. Voting on an independent Layer 1 runs until Oct. 22.",
-      "url": "https://thedefiant.io/news/markets/strk-sinks-38-in-a-week-as-starknet-rally-reverses",
-      "token": "$STRK"
-    },
-    {
-      "headline": "THORChain Halts $ZEC Swaps After Vault Slash",
-      "summary": "A bug slashed ~140 $RUNE from 18 node accounts, keeping $ZEC swaps paused on THORChain. The fix ships with the v3.21 upgrade around Oct. 23.",
-      "url": "https://thedefiant.io/news/security/thorchain-keeps-zec-swaps-halted-after-bug-triggers-vault-slash",
+      "headline": "$RUNE: THORChain Targets Rujira Restart With v3.21 Fix",
+      "summary": "THORChain's v3.21 upgrade aims to fix the recent exploit and restart Rujira around Oct. 23. Rujira plans a conditional 24-hour liquidation grace period for borrowers. #RUNE",
+      "url": "https://thedefiant.io/news/security/thorchain-targets-rujira-restart-with-v3-21-exploit-fix",
       "token": "$RUNE"
     },
     {
-      "headline": "Maple's $SYRUP Slides 24% Despite Buybacks",
-      "summary": "$SYRUP underperformed BTC and ETH with a 24% weekly drop, even as Maple holds $2.71B TVL and doubled revenue-funded buybacks in September.",
-      "url": "https://thedefiant.io/news/tokens/maple-s-syrup-slides-24-in-a-week-underperforming-bitcoin-and-ether",
-      "token": "$SYRUP"
+      "headline": "$OUSD Vault Hits $42.5M on New Tempo Chain",
+      "summary": "Sentora's Morpho-based $OUSD lending vault on Tempo already holds $42.5M against cbBTC collateral — though nearly all assets sit idle, signaling fresh-chain yield opportunity. #OUSD",
+      "url": "https://thedefiant.io/news/defi/sentora-s-ousd-lending-vault-holds-42-5-million-on-tempo",
+      "token": "$OUSD"
+    },
+    {
+      "headline": "$ECHO Shock: Echo Protocol Winds Down, Halts Deposits",
+      "summary": "Echo Protocol is shutting down, halting new deposits and borrowing. Withdrawals stay open, but conflicting November deadlines before collateral liquidation are worrying users. #ECHO",
+      "url": "https://thedefiant.io/news/defi/echo-protocol-winds-down-halting-new-deposits-and-borrowing",
+      "token": "$ECHO"
     }
   ]
 }
