@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 58069438.4797294,
-      "pct": -14.2766
+      "mcap": 56092771.648464516,
+      "pct": -3.564
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 73231721.56416054,
-      "pct": -8.7547
+      "mcap": 85742374.59433037,
+      "pct": 15.9841
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 80725752.65797056,
-      "pct": -3.8536
+      "mcap": 101566712.60681283,
+      "pct": 25.8174
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 179170635.49321696,
-      "pct": 1.1211
+      "mcap": 191757976.4260133,
+      "pct": 8.9022
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 75767793.57346639,
-      "pct": -7.1799
+      "mcap": 81462947.39043406,
+      "pct": 6.9902
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 45303357.469046935,
-      "pct": -9.8345
+      "mcap": 50848313.161489844,
+      "pct": 15.9057
     },
     {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 39938683.94023677,
-      "pct": -12.6423
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "label": "CARDS",
+      "full": "Collector Crypt (CARDS)",
+      "mcap": 90564982.58376375,
+      "pct": 9.4058
     }
   ],
   "trending": [
     {
-      "name": "earth",
-      "symbol": "earth",
-      "label": "earth",
-      "full": "earth",
-      "mcap": 195437.67439931884,
-      "pct": 6742.8563
+      "name": "Backers",
+      "symbol": "BACKERS",
+      "label": "BACKERS",
+      "full": "Backers",
+      "mcap": 729041.7964081825,
+      "pct": 1767.1963
+    },
+    {
+      "name": "PHP-UP-2026",
+      "symbol": "PHP",
+      "label": "PHP",
+      "full": "PHP-UP-2026 (PHP)",
+      "mcap": 494034.1290440675,
+      "pct": 9645.9788
+    },
+    {
+      "name": "Aura Final Boss",
+      "symbol": "Kimchi",
+      "label": "Kimchi",
+      "full": "Aura Final Boss (Kimchi)",
+      "mcap": 30439830.68186622,
+      "pct": 271214.3319
     },
     {
       "name": "Weft Finance",
       "symbol": "WEFT",
       "label": "WEFT",
       "full": "Weft Finance (WEFT)",
-      "mcap": 1080651.8056522803,
-      "pct": -58.8203
+      "mcap": 541767.9331182075,
+      "pct": -55.2264
     },
     {
-      "name": "Pokmon",
-      "symbol": "Pokmon",
-      "label": "Pokmon",
-      "full": "Pokmon",
-      "mcap": 1247823.7838816894,
-      "pct": 11474.217
+      "name": "Dacity Coin",
+      "symbol": "Dacity",
+      "label": "Dacity",
+      "full": "Dacity Coin (Dacity)",
+      "mcap": 13122751.265143378,
+      "pct": 117.1068
     },
     {
-      "name": "Commander Vrax",
-      "symbol": "VRAX",
-      "label": "VRAX",
-      "full": "Commander Vrax (VRAX)",
-      "mcap": 3601137.1019227426,
-      "pct": -27.1106
+      "name": "Gloam",
+      "symbol": "GLOAM",
+      "label": "GLOAM",
+      "full": "Gloam",
+      "mcap": 1719812.681204897,
+      "pct": 387.6721
     },
     {
-      "name": "TartSwap",
-      "symbol": "TART",
-      "label": "TART",
-      "full": "TartSwap (TART)",
-      "mcap": 13634873.967009822,
-      "pct": 20.9817
-    },
-    {
-      "name": "DarkSwap",
-      "symbol": "DARK",
-      "label": "DARK",
-      "full": "DarkSwap (DARK)",
-      "mcap": 1018438.2181543503,
-      "pct": -45.0425
-    },
-    {
-      "name": "The Official 67 Coin",
-      "symbol": "67",
-      "label": "67",
-      "full": "The Official 67 Coin (67)",
-      "mcap": 1810758.9333967448,
-      "pct": -7.3611
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN",
+      "label": "FARTCOIN",
+      "full": "Fartcoin",
+      "mcap": 149620370.6838451,
+      "pct": 6.1686
     }
   ],
-  "story_image": "fomo/2026-10-20-story.jpg",
-  "post_image": "fomo/2026-10-20-post.jpg"
+  "story_image": "fomo/2026-10-21-story.jpg",
+  "post_image": "fomo/2026-10-21-post.jpg"
 }
