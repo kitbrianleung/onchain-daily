@@ -1,35 +1,35 @@
 {
-  "date": "21 OCT 2026",
+  "date": "22 OCT 2026",
   "items": [
     {
-      "headline": "$COMP Jumps 27%, Beating Bitcoin and Ether",
-      "summary": "$COMP surged 27%, leading both $BTC and $ETH over 7 and 28 days, even as Compound's TVL stays below late-September levels.",
-      "url": "https://thedefiant.io/news/tokens/comp-jumps-27-outpacing-bitcoin-and-ether",
-      "token": "$COMP"
+      "headline": "$DOOD Explodes 212% as Doodles Token Hits $38M Cap",
+      "summary": "Doodles' $DOOD surged 212% to a $38M market cap with $213M in 24h volume, while the NFT floor climbed 7.4% in ETH terms.",
+      "url": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
+      "token": "$DOOD"
     },
     {
-      "headline": "$PENDLE Daily Volume Hits $159M, Led by Ethereum",
-      "summary": "$PENDLE trading volume spiked to $159 million in a day, with Ethereum driving $121.5 million of it while TVL rose only modestly.",
-      "url": "https://thedefiant.io/news/defi/pendle-daily-volume-hits-159-million-led-by-ethereum",
-      "token": "$PENDLE"
+      "headline": "$DATALINE ICO Coming After $10.6M AI Data Raise",
+      "summary": "Dataline raised $10.6M for its decentralized data network for AI agents and plans a public $DATALINE token sale via Uniswap's auction platform, details due next week.",
+      "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
+      "token": "$DATALINE"
     },
     {
-      "headline": "$NEAR Opens Vote to Slash Token Issuance to 1.6%",
-      "summary": "$NEAR's HSP-029 proposal would cut token issuance to 1.6% over 24 months after a 90-day grace period, pending a validator network upgrade.",
-      "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
-      "token": "$NEAR"
+      "headline": "$DOGE Gets Serious: Dogecoin Labs Launches for DeFi Push",
+      "summary": "Dogecoin Labs, backed by the Dogecoin Foundation, unites MyDoge, DogeOS and Such App to push $DOGE beyond memes into payments and DeFi.",
+      "url": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
+      "token": "$DOGE"
     },
     {
-      "headline": "$STRK Gets Privacy Boost With New Bramble Wallet",
-      "summary": "Starknet Foundation launched Bramble, a Chrome wallet with STRK20 shielding, private balances, Ledger signing and multisig support for $STRK users.",
-      "url": "https://thedefiant.io/news/blockchains/starknet-foundation-launches-bramble-wallet-with-strk20-shielding",
-      "token": "$STRK"
+      "headline": "$CAKE 'Flip' Vote Opens With 69% Emissions Cut",
+      "summary": "PancakeSwap opened 'The Flip' governance vote, keeping $CAKE buybacks from non-stablecoin fees while phasing a ~69% cut in daily emissions.",
+      "url": "https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition",
+      "token": "$CAKE"
     },
     {
-      "headline": "$TIA Activates Fibre for Direct Validator Uploads",
-      "summary": "Celestia turned on Fibre, letting rollups upload 128 MiB blobs directly to validators — a big scaling step for the $TIA ecosystem.",
-      "url": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
-      "token": "$TIA"
+      "headline": "$DOT Alert: Fearless Wallet Private-Key Leak",
+      "summary": "Polkadot warned Fearless Wallet users to move funds after a private-key leak; an affected Chrome extension version with 6,000 users was still listed.",
+      "url": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
+      "token": "$DOT"
     }
   ]
 }
