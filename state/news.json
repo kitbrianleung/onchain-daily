@@ -1,35 +1,35 @@
 {
-  "date": "20 OCT 2026",
+  "date": "21 OCT 2026",
   "items": [
     {
-      "headline": "Papertrade Keeps $PAPER Locked, Citing Perp Attack Risks",
-      "summary": "Papertrade says $PAPER stays non-transferable for now, fearing perp manipulation. Holders can stake for USDC payouts but have no date to sell or move tokens. #PAPER",
-      "url": "https://thedefiant.io/news/tokens/papertrade-keeps-paper-non-transferable-citing-perp-attack-risks",
-      "token": "$PAPER"
+      "headline": "$COMP Jumps 27%, Beating Bitcoin and Ether",
+      "summary": "$COMP surged 27%, leading both $BTC and $ETH over 7 and 28 days, even as Compound's TVL stays below late-September levels.",
+      "url": "https://thedefiant.io/news/tokens/comp-jumps-27-outpacing-bitcoin-and-ether",
+      "token": "$COMP"
     },
     {
-      "headline": "$FRAX Unveils Six-Currency FX Pools on Aerodrome",
-      "summary": "Frax launched six FX stablecoin pools on Aerodrome on Base. Early traction is modest: ~$241K liquidity and ~$20K in 24h volume — one to watch as onchain FX grows. #FRAX",
-      "url": "https://thedefiant.io/news/defi/frax-announces-six-currency-fx-lineup-on-aerodrome",
-      "token": "$FRAX"
+      "headline": "$PENDLE Daily Volume Hits $159M, Led by Ethereum",
+      "summary": "$PENDLE trading volume spiked to $159 million in a day, with Ethereum driving $121.5 million of it while TVL rose only modestly.",
+      "url": "https://thedefiant.io/news/defi/pendle-daily-volume-hits-159-million-led-by-ethereum",
+      "token": "$PENDLE"
     },
     {
-      "headline": "$RUNE: THORChain Targets Rujira Restart With v3.21 Fix",
-      "summary": "THORChain's v3.21 upgrade aims to fix the recent exploit and restart Rujira around Oct. 23. Rujira plans a conditional 24-hour liquidation grace period for borrowers. #RUNE",
-      "url": "https://thedefiant.io/news/security/thorchain-targets-rujira-restart-with-v3-21-exploit-fix",
-      "token": "$RUNE"
+      "headline": "$NEAR Opens Vote to Slash Token Issuance to 1.6%",
+      "summary": "$NEAR's HSP-029 proposal would cut token issuance to 1.6% over 24 months after a 90-day grace period, pending a validator network upgrade.",
+      "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
+      "token": "$NEAR"
     },
     {
-      "headline": "$OUSD Vault Hits $42.5M on New Tempo Chain",
-      "summary": "Sentora's Morpho-based $OUSD lending vault on Tempo already holds $42.5M against cbBTC collateral — though nearly all assets sit idle, signaling fresh-chain yield opportunity. #OUSD",
-      "url": "https://thedefiant.io/news/defi/sentora-s-ousd-lending-vault-holds-42-5-million-on-tempo",
-      "token": "$OUSD"
+      "headline": "$STRK Gets Privacy Boost With New Bramble Wallet",
+      "summary": "Starknet Foundation launched Bramble, a Chrome wallet with STRK20 shielding, private balances, Ledger signing and multisig support for $STRK users.",
+      "url": "https://thedefiant.io/news/blockchains/starknet-foundation-launches-bramble-wallet-with-strk20-shielding",
+      "token": "$STRK"
     },
     {
-      "headline": "$ECHO Shock: Echo Protocol Winds Down, Halts Deposits",
-      "summary": "Echo Protocol is shutting down, halting new deposits and borrowing. Withdrawals stay open, but conflicting November deadlines before collateral liquidation are worrying users. #ECHO",
-      "url": "https://thedefiant.io/news/defi/echo-protocol-winds-down-halting-new-deposits-and-borrowing",
-      "token": "$ECHO"
+      "headline": "$TIA Activates Fibre for Direct Validator Uploads",
+      "summary": "Celestia turned on Fibre, letting rollups upload 128 MiB blobs directly to validators — a big scaling step for the $TIA ecosystem.",
+      "url": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
+      "token": "$TIA"
     }
   ]
 }
