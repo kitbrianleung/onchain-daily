@@ -2,34 +2,34 @@
   "date": "22 OCT 2026",
   "items": [
     {
-      "headline": "$DOOD Explodes 212% as Doodles Token Hits $38M Cap",
-      "summary": "Doodles' $DOOD surged 212% to a $38M market cap with $213M in 24h volume, while the NFT floor climbed 7.4% in ETH terms.",
-      "url": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
-      "token": "$DOOD"
+      "headline": "$AERO Launches as Aerodrome & Velodrome Merge on 7 Chains",
+      "summary": "Aerodrome and Velodrome have merged into one DEX, $AERO, now live across Ethereum, Base, OP Mainnet, Arbitrum and more. $VELO converts at 0.044 AERO, with locked positions becoming sAERO.",
+      "url": "https://thedefiant.io/news/defi/aero-launches-aerodrome-velodrome-merge-seven-chains",
+      "token": "$AERO"
     },
     {
-      "headline": "$DATALINE ICO Coming After $10.6M AI Data Raise",
-      "summary": "Dataline raised $10.6M for its decentralized data network for AI agents and plans a public $DATALINE token sale via Uniswap's auction platform, details due next week.",
-      "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
-      "token": "$DATALINE"
+      "headline": "$KIMCHI Coin Minted by 3-Hour-Old Wallet, Fees Rigged",
+      "summary": "A fresh wallet minted $KIMCHI, sniped 79% of supply for ~$9,300 and hard-coded one address as the permanent creator-fee recipient. Pump.fun's own page labels that address 'Kimchi.'",
+      "url": "https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing",
+      "token": "$KIMCHI"
     },
     {
-      "headline": "$DOGE Gets Serious: Dogecoin Labs Launches for DeFi Push",
-      "summary": "Dogecoin Labs, backed by the Dogecoin Foundation, unites MyDoge, DogeOS and Such App to push $DOGE beyond memes into payments and DeFi.",
-      "url": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
-      "token": "$DOGE"
+      "headline": "$CARDS: Collector Crypt Posts Record $24.3M Day",
+      "summary": "Collector Crypt users ripped 123,425 packs in a single day, with $24.3M in gross receipts — roughly 13% of the trailing 30-day pack-sales total in 24 hours.",
+      "url": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-reports-record-24-3-million-day",
+      "token": "$CARDS"
     },
     {
-      "headline": "$CAKE 'Flip' Vote Opens With 69% Emissions Cut",
-      "summary": "PancakeSwap opened 'The Flip' governance vote, keeping $CAKE buybacks from non-stablecoin fees while phasing a ~69% cut in daily emissions.",
-      "url": "https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition",
-      "token": "$CAKE"
+      "headline": "$OBOL Urges Immediate Charon Upgrade After Key Compromise",
+      "summary": "$OBOL told node operators to patch Charon immediately after a CA key compromise. The distributed-validator network secures over 422,862 ETH in mainnet cluster balances.",
+      "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+      "token": "$OBOL"
     },
     {
-      "headline": "$DOT Alert: Fearless Wallet Private-Key Leak",
-      "summary": "Polkadot warned Fearless Wallet users to move funds after a private-key leak; an affected Chrome extension version with 6,000 users was still listed.",
-      "url": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
-      "token": "$DOT"
+      "headline": "$PENDLE Expands One-Click Looping to Tokenized Stocks",
+      "summary": "$PENDLE now offers one-click looping on yield assets and tokenized stocks, with stock longs on Base powered by Aave loans. Loop fees on non-PT positions are waived through Dec 31.",
+      "url": "https://thedefiant.io/news/defi/pendle-expands-one-click-looping-to-yield-assets-and-tokenized-stocks",
+      "token": "$PENDLE"
     }
   ]
 }
