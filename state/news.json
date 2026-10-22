@@ -1,35 +1,35 @@
 {
-  "date": "22 OCT 2026",
+  "date": "23 OCT 2026",
   "items": [
     {
-      "headline": "$AERO Launches as Aerodrome & Velodrome Merge on 7 Chains",
-      "summary": "Aerodrome and Velodrome have merged into one DEX, $AERO, now live across Ethereum, Base, OP Mainnet, Arbitrum and more. $VELO converts at 0.044 AERO, with locked positions becoming sAERO.",
-      "url": "https://thedefiant.io/news/defi/aero-launches-aerodrome-velodrome-merge-seven-chains",
+      "headline": "$AERO Launches as Aerodrome & Velodrome Merge Across 7 Chains",
+      "summary": "Aerodrome and Velodrome merged into $AERO, now live on Ethereum, Base, Robinhood Chain, Ink, OP Mainnet, Arc and Arbitrum — a mega-DEX play.",
+      "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
       "token": "$AERO"
     },
     {
-      "headline": "$KIMCHI Coin Minted by 3-Hour-Old Wallet, Fees Rigged",
-      "summary": "A fresh wallet minted $KIMCHI, sniped 79% of supply for ~$9,300 and hard-coded one address as the permanent creator-fee recipient. Pump.fun's own page labels that address 'Kimchi.'",
-      "url": "https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing",
-      "token": "$KIMCHI"
+      "headline": "$SWELL Rates Manipulated After Railway Key-Drain Warning",
+      "summary": "Researchers flagged inflated swETH and rswETH rates on $SWELL following a cloud-platform key exposure; 2,513 ETH flagged but loss unconfirmed.",
+      "url": "https://thedefiant.io/news/hacks/researchers-flag-swell-rate-manipulation-after-railway-key-drain-warning",
+      "token": "$SWELL"
     },
     {
-      "headline": "$CARDS: Collector Crypt Posts Record $24.3M Day",
-      "summary": "Collector Crypt users ripped 123,425 packs in a single day, with $24.3M in gross receipts — roughly 13% of the trailing 30-day pack-sales total in 24 hours.",
-      "url": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-reports-record-24-3-million-day",
-      "token": "$CARDS"
+      "headline": "$HYPE Vault Unlocks Early Access to New Domain Names",
+      "summary": "D3's new Upshift-built $HYPE vault earns Frontier Points for priority domain registration, with Hyperion DeFi as launch partner.",
+      "url": "https://thedefiant.io/news/defi/d3-links-hype-vault-to-early-access-for-new-domain-names",
+      "token": "$HYPE"
     },
     {
-      "headline": "$OBOL Urges Immediate Charon Upgrade After Key Compromise",
-      "summary": "$OBOL told node operators to patch Charon immediately after a CA key compromise. The distributed-validator network secures over 422,862 ETH in mainnet cluster balances.",
-      "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
-      "token": "$OBOL"
+      "headline": "$UNI Aggregator Hooks Go Live on Ethereum, Base & Robinhood",
+      "summary": "Uniswap Labs launched aggregator hooks letting $UNI v4 route trades through liquidity on external platforms across three chains.",
+      "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+      "token": "$UNI"
     },
     {
-      "headline": "$PENDLE Expands One-Click Looping to Tokenized Stocks",
-      "summary": "$PENDLE now offers one-click looping on yield assets and tokenized stocks, with stock longs on Base powered by Aave loans. Loop fees on non-PT positions are waived through Dec 31.",
-      "url": "https://thedefiant.io/news/defi/pendle-expands-one-click-looping-to-yield-assets-and-tokenized-stocks",
-      "token": "$PENDLE"
+      "headline": "$STRK Vote Backs Post-Quantum Layer 1 With 93.5% Support",
+      "summary": "Starknet's community overwhelmingly backed research into an independent post-quantum L1; a draft whitepaper is expected in November.",
+      "url": "https://thedefiant.io/news/blockchains/starknet-poll-backs-post-quantum-layer-1-research-with-93-52-support",
+      "token": "$STRK"
     }
   ]
 }
