@@ -2,34 +2,34 @@
   "date": "23 OCT 2026",
   "items": [
     {
-      "headline": "$AERO Launches as Aerodrome & Velodrome Merge Across 7 Chains",
-      "summary": "Aerodrome and Velodrome merged into $AERO, now live on Ethereum, Base, Robinhood Chain, Ink, OP Mainnet, Arc and Arbitrum — a mega-DEX play.",
-      "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
-      "token": "$AERO"
+      "headline": "$ZC Crashes 84% as Zipcoin Shuts Down, Plans Token Sale",
+      "summary": "Zipcoin is winding down and selling its token, with team wallets holding just 2.2% of supply. $ZC has plunged 84% in 24 hours on the news.",
+      "url": "https://thedefiant.io/news/hacks/zipcoin-announces-shutdown-and-plans-token-sale",
+      "token": "$ZC"
     },
     {
-      "headline": "$SWELL Rates Manipulated After Railway Key-Drain Warning",
-      "summary": "Researchers flagged inflated swETH and rswETH rates on $SWELL following a cloud-platform key exposure; 2,513 ETH flagged but loss unconfirmed.",
-      "url": "https://thedefiant.io/news/hacks/researchers-flag-swell-rate-manipulation-after-railway-key-drain-warning",
-      "token": "$SWELL"
+      "headline": "$PUMP Adds Take-Profit & Stop-Loss Orders on EVM Chains",
+      "summary": "Pump.fun is rolling out take-profit and stop-loss tools to Robinhood, BSC, Base, HyperEVM, Arc and Ink. The features have been live on Solana since September.",
+      "url": "https://thedefiant.io/news/defi/pump-fun-adds-take-profit-and-stop-loss-orders-for-evm-trades",
+      "token": "$PUMP"
     },
     {
-      "headline": "$HYPE Vault Unlocks Early Access to New Domain Names",
-      "summary": "D3's new Upshift-built $HYPE vault earns Frontier Points for priority domain registration, with Hyperion DeFi as launch partner.",
-      "url": "https://thedefiant.io/news/defi/d3-links-hype-vault-to-early-access-for-new-domain-names",
-      "token": "$HYPE"
+      "headline": "$AZTEC V6 Upgrade Approved, Speeds Up Ethereum Messaging",
+      "summary": "Aztec announced V6 approval, accelerating Ethereum-to-Aztec messaging and funding 30 days of V5 operations during migration. Execution is listed for October 26.",
+      "url": "https://thedefiant.io/news/blockchains/aztec-announces-v6-approval-while-governance-dashboard-still-shows-voting-open",
+      "token": "$AZTEC"
     },
     {
-      "headline": "$UNI Aggregator Hooks Go Live on Ethereum, Base & Robinhood",
-      "summary": "Uniswap Labs launched aggregator hooks letting $UNI v4 route trades through liquidity on external platforms across three chains.",
-      "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-      "token": "$UNI"
+      "headline": "$MORPHO Opens Robinhood Stock Tokens for Stablecoin Loans",
+      "summary": "Morpho now lets users borrow $USDG against Robinhood stock tokens like NVDA, SPCX and SPY, with LTV thresholds up to 77%. A fresh DeFi use case for tokenized equities.",
+      "url": "https://thedefiant.io/news/defi/morpho-opens-robinhood-stock-tokens-to-stablecoin-borrowing",
+      "token": "$MORPHO"
     },
     {
-      "headline": "$STRK Vote Backs Post-Quantum Layer 1 With 93.5% Support",
-      "summary": "Starknet's community overwhelmingly backed research into an independent post-quantum L1; a draft whitepaper is expected in November.",
-      "url": "https://thedefiant.io/news/blockchains/starknet-poll-backs-post-quantum-layer-1-research-with-93-52-support",
-      "token": "$STRK"
+      "headline": "$DUNE Launches Real-Time Onchain Trading Data Feeds",
+      "summary": "Dune's new market feeds cover trade data from 200+ onchain venues across 12 networks as tokenized markets expand. A big infra play for onchain trading.",
+      "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+      "token": "$DUNE"
     }
   ]
 }
