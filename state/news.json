@@ -2,34 +2,34 @@
   "date": "24 OCT 2026",
   "items": [
     {
-      "headline": "$IRYS Explodes 1,200% Past Its May Listing Peak",
-      "summary": "$IRYS has surged 1,200% past its May listing high, implying a ~$561M circulating valuation with only 20% of supply in circulation. Low float could keep volatility extreme.",
-      "url": "https://thedefiant.io/news/tokens/irys-surges-1-200-past-may-listing-peak",
-      "token": "$IRYS"
+      "headline": "$X100 Exploit Drains $4.85M After Governance Takeover",
+      "summary": "Attackers seized $X100 governance and converted treasury tokens and LP positions into 4.85M USDT, with Blockaid warning the Ethereum exploit was still ongoing.",
+      "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
+      "token": "$X100"
     },
     {
-      "headline": "$INIT Network Halted After Attacker Mints Tokens",
-      "summary": "Initia froze its network after a security incident in which an attacker reportedly minted tokens, with onchain data showing a $2.7M ETH transfer. $INIT holders await the scope of the exploit.",
-      "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
-      "token": "$INIT"
+      "headline": "$X100 Hit Again: 550K X Pulled From Uniswap Pool",
+      "summary": "A third $X100 exploit transaction routed ~549,916 X to a new wallet, draining a Uniswap pool that held under 200 USDT in remaining liquidity.",
+      "url": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
+      "token": "$X"
     },
     {
-      "headline": "Kalshi Prediction Markets Go Live in Phantom Wallet",
-      "summary": "Phantom rolled out Kalshi prediction markets to US users, funded with CASH stablecoins, despite ongoing state lawsuits. A big mainstream onramp for onchain prediction trading.",
-      "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
-      "token": "Kalshi"
+      "headline": "$HYPE vs CME: Clash Over Who Bears US Compliance",
+      "summary": "Hyperliquid's Yan and CME's Duffy split over compliance burdens, with Yan arguing market deployers — not the chain — should face oversight as $HYPE's interface still blocks US users.",
+      "url": "https://thedefiant.io/news/regulation/hyperliquid-s-yan-and-cme-s-duffy-split-over-who-must-bear-us-compliance",
+      "token": "$HYPE"
     },
     {
-      "headline": "Lighter Adds $weETH as Perps Collateral",
-      "summary": "Perp DEX Lighter now accepts $weETH as margin, counting 70% of its index value with a 1,000 weETH platform cap. Another DeFi use case for liquid restaking tokens.",
-      "url": "https://thedefiant.io/news/defi/lighter-adds-weeth-as-perpetual-futures-collateral",
-      "token": "$weETH"
+      "headline": "$REFLECT Launches Create for Yield Stablecoins on Solana",
+      "summary": "Reflect Money unveiled Create, a new tool for launching yield-bearing stablecoins on Solana, opening a fresh DeFi design space for $REFLECT's ecosystem.",
+      "url": "https://crypto-economy.com/",
+      "token": "$REFLECT"
     },
     {
-      "headline": "Kraken Keeps $XMR, Scraps Withdrawal Questionnaires",
-      "summary": "Kraken dropped its Monero withdrawal questionnaires while keeping $XMR listed, with co-CEO Arjun Sethi calling questions about clients' coin usage unacceptable. A rare win for privacy coins.",
-      "url": "https://thedefiant.io/news/cefi/kraken-scraps-monero-withdrawal-questionnaires-keeps-xmr-listed",
-      "token": "$XMR"
+      "headline": "$UNI Slides 29% in a Month Despite $4B Liquidity",
+      "summary": "$UNI has underperformed BTC and ETH over four weeks even as Uniswap's liquidity holds near $4B — a divergence traders are watching for a rebound setup.",
+      "url": "https://thedefiant.io/news/tokens/uni-slides-29-in-four-weeks-as-uniswap-liquidity-holds-steady",
+      "token": "$UNI"
     }
   ]
 }
