@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 49941994.888311006,
-      "pct": -0.4751
-    },
-    {
-      "name": "Artificial Inu",
-      "symbol": "AI",
-      "label": "AI",
-      "full": "Artificial Inu (AI)",
-      "mcap": 79196593.93521726,
-      "pct": 5.6346
+      "mcap": 45866236.606677175,
+      "pct": -8.3554
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 99265140.45523724,
-      "pct": 12.6066
+      "mcap": 85899858.08432274,
+      "pct": -15.2269
+    },
+    {
+      "name": "Artificial Inu",
+      "symbol": "AI",
+      "label": "AI",
+      "full": "Artificial Inu (AI)",
+      "mcap": 55862882.03893615,
+      "pct": -30.7818
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 170957960.74962565,
-      "pct": -0.8509
-    },
-    {
-      "name": "MarsCoin",
-      "symbol": "MARSCOIN",
-      "label": "MARSCOIN",
-      "full": "MarsCoin",
-      "mcap": 75344279.04539646,
-      "pct": 0.8415
+      "mcap": 155766985.07846215,
+      "pct": -11.3793
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 46802839.93157992,
-      "pct": -2.2887
+      "mcap": 42679549.46752638,
+      "pct": -8.0331
+    },
+    {
+      "name": "MarsCoin",
+      "symbol": "MARSCOIN",
+      "label": "MARSCOIN",
+      "full": "MarsCoin",
+      "mcap": 67666592.49574414,
+      "pct": -10.7563
     },
     {
       "name": "Collector Crypt",
       "symbol": "CARDS",
       "label": "CARDS",
       "full": "Collector Crypt (CARDS)",
-      "mcap": 91870921.35431007,
-      "pct": 12.3546
+      "mcap": 88036932.67650677,
+      "pct": -3.8499
     }
   ],
   "trending": [
     {
-      "name": "Gang",
-      "symbol": "GANG",
-      "label": "GANG",
-      "full": "Gang",
-      "mcap": 1315923.672785078,
-      "pct": 1129.7064
+      "name": "Moustache Baby",
+      "symbol": "Moustache",
+      "label": "Moustache",
+      "full": "Moustache Baby (Moustache)",
+      "mcap": 703994.7359608104,
+      "pct": 22300.4025
     },
     {
-      "name": "The McRib Indicator",
-      "symbol": "McRib",
-      "label": "McRib",
-      "full": "The McRib Indicator (McRib)",
-      "mcap": 779293.1048684552,
-      "pct": 22303.9598
+      "name": "mil",
+      "symbol": "mil",
+      "label": "mil",
+      "full": "mil",
+      "mcap": 258130.65099567603,
+      "pct": 7266.8325
     },
     {
-      "name": "Nagi and Pokke",
-      "symbol": "",
-      "label": "Nagi and Pokke",
-      "full": "Nagi and Pokke",
-      "mcap": 1760006.911430091,
-      "pct": 510.0507
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 8410287.266410345,
+      "pct": -16.1788
     },
     {
-      "name": "The Black Bull",
-      "symbol": "ANSEM",
-      "label": "ANSEM",
-      "full": "The Black Bull (ANSEM)",
-      "mcap": 82308061.60223982,
-      "pct": -3.6326
+      "name": "Orderly Network",
+      "symbol": "ORDER",
+      "label": "ORDER",
+      "full": "Orderly Network (ORDER)",
+      "mcap": 22977868.69719533,
+      "pct": 79.1425
     },
     {
-      "name": "Dacity Coin",
-      "symbol": "Dacity",
-      "label": "Dacity",
-      "full": "Dacity Coin (Dacity)",
-      "mcap": 12778046.648836423,
-      "pct": 7.3047
+      "name": "Boner Coin",
+      "symbol": "BONER",
+      "label": "BONER",
+      "full": "Boner Coin (BONER)",
+      "mcap": 12899570.10340777,
+      "pct": -21.9957
     },
     {
-      "name": "Pepper The Raccoon",
-      "symbol": "Pepper",
-      "label": "Pepper",
-      "full": "Pepper The Raccoon (Pepper)",
-      "mcap": 522469.2523486162,
-      "pct": 144.3372
+      "name": "microduck",
+      "symbol": "MICRODUCK",
+      "label": "MICRODUCK",
+      "full": "microduck",
+      "mcap": 6614655.912756602,
+      "pct": 94.3723
     },
     {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 3114706.0875665178,
-      "pct": 14.382
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 85902235.65483665,
+      "pct": -14.5531
     }
   ],
-  "story_image": "fomo/2026-10-23-story.jpg",
-  "post_image": "fomo/2026-10-23-post.jpg"
+  "story_image": "fomo/2026-10-24-story.jpg",
+  "post_image": "fomo/2026-10-24-post.jpg"
 }
