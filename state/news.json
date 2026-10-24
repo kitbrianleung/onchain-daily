@@ -2,34 +2,34 @@
   "date": "24 OCT 2026",
   "items": [
     {
-      "headline": "Extended Sets November $XTEN Launch, 30% to Points Users",
-      "summary": "Perp DEX Extended will launch $XTEN in November, allocating 30% of supply to points users via self-hosted Arc wallets. Full tokenomics drop with a MiCA white paper on Oct. 31.",
-      "url": "https://thedefiant.io/news/tokens/extended-plans-november-xten-launch-with-30-for-points-users",
-      "token": "$XTEN"
+      "headline": "$IRYS Explodes 1,200% Past Its May Listing Peak",
+      "summary": "$IRYS has surged 1,200% past its May listing high, implying a ~$561M circulating valuation with only 20% of supply in circulation. Low float could keep volatility extreme.",
+      "url": "https://thedefiant.io/news/tokens/irys-surges-1-200-past-may-listing-peak",
+      "token": "$IRYS"
     },
     {
-      "headline": "$INIT Halts L1 and Rollups After Mint Exploit",
-      "summary": "Initia froze its L1 and rollups after a reported mint exploit, with an estimated $2.6M cashed out and a later 1,135.5 ETH transfer spotted onchain. $INIT holders are watching for the postmortem.",
-      "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
+      "headline": "$INIT Network Halted After Attacker Mints Tokens",
+      "summary": "Initia froze its network after a security incident in which an attacker reportedly minted tokens, with onchain data showing a $2.7M ETH transfer. $INIT holders await the scope of the exploit.",
+      "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
       "token": "$INIT"
     },
     {
-      "headline": "$SWELL Pauses swETH and rswETH After NAV Issue",
-      "summary": "Swell has paused $swETH and $rswETH deposits and withdrawals, saying NAV must be corrected before reopening. Onchain controls now block withdrawal requests and ETH claims.",
-      "url": "https://thedefiant.io/news/hacks/swell-pauses-sweth-and-rsweth-deposits-and-withdrawals",
-      "token": "$SWELL"
+      "headline": "Kalshi Prediction Markets Go Live in Phantom Wallet",
+      "summary": "Phantom rolled out Kalshi prediction markets to US users, funded with CASH stablecoins, despite ongoing state lawsuits. A big mainstream onramp for onchain prediction trading.",
+      "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
+      "token": "Kalshi"
     },
     {
-      "headline": "Uniswap Taps 7 Rival Liquidity Sources to Burn $UNI",
-      "summary": "Uniswap will route flow from seven rival liquidity sources to fund $UNI token burns, a fresh value-accrual twist for the DEX giant's token.",
-      "url": "https://news.bitcoin.com",
-      "token": "$UNI"
+      "headline": "Lighter Adds $weETH as Perps Collateral",
+      "summary": "Perp DEX Lighter now accepts $weETH as margin, counting 70% of its index value with a 1,000 weETH platform cap. Another DeFi use case for liquid restaking tokens.",
+      "url": "https://thedefiant.io/news/defi/lighter-adds-weeth-as-perpetual-futures-collateral",
+      "token": "$weETH"
     },
     {
-      "headline": "$STRK Community Backs Post-Quantum Layer 1 Pivot",
-      "summary": "Starknet's community overwhelmingly backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November. Big pivot ahead for $STRK.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
-      "token": "$STRK"
+      "headline": "Kraken Keeps $XMR, Scraps Withdrawal Questionnaires",
+      "summary": "Kraken dropped its Monero withdrawal questionnaires while keeping $XMR listed, with co-CEO Arjun Sethi calling questions about clients' coin usage unacceptable. A rare win for privacy coins.",
+      "url": "https://thedefiant.io/news/cefi/kraken-scraps-monero-withdrawal-questionnaires-keeps-xmr-listed",
+      "token": "$XMR"
     }
   ]
 }
