@@ -2,34 +2,34 @@
   "date": "25 OCT 2026",
   "items": [
     {
-      "headline": "$X Exploit: Hacker Splits Loot Into Four 400-ETH Wallets",
-      "summary": "The $X100 exploiter swapped ~4.75M USDT into ETH and split proceeds across four 400-ETH wallets, with 423 ETH still sitting in the distribution wallet. Onchain sleuths are watching every move.",
-      "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
-      "token": "$X"
+      "headline": "$DOGE Drama: Foundation Ends House of Doge Deal",
+      "summary": "The Dogecoin Foundation and House of Doge ended their exclusive brand deal, with a separate swap of Such App assets for $4M in Dogecoin Labs stock. Big shakeup for the $DOGE ecosystem.",
+      "url": "https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal",
+      "token": "$DOGE"
     },
     {
-      "headline": "$LIBRA Case Dismissed: Judge Clears Milei of Fraud",
-      "summary": "An Argentine judge ruled Milei's $LIBRA promo post didn't constitute 'criminally relevant deception,' dismissing the case against him and 10 others. The memecoin saga takes another wild turn.",
-      "url": "https://thedefiant.io/news/regulation/argentine-judge-dismisses-libra-criminal-case-against-milei-and-10-others",
-      "token": "$LIBRA"
+      "headline": "SkyAI Dumps $SOL Treasury, Launches $201M Buyback",
+      "summary": "SkyAI sold its entire Solana treasury and announced a massive $201 million cash tender offer. One of the biggest treasury exits by an onchain AI project this year.",
+      "url": "https://thedefiant.io/converge/skyai-sells-solana-treasury-201-million-tender",
+      "token": "$SKYAI"
     },
     {
-      "headline": "$CIRBTC Grabs 90% of Trading Volume on Arc",
-      "summary": "Uniswap data shows $CIRBTC dominating Arc with 90% of trading activity — a sudden DEX volume surge worth watching as the new chain heats up.",
-      "url": "https://coinfomania.com/uniswap-confirms-cirbtc-dominance-on-arc/",
-      "token": "$CIRBTC"
+      "headline": "Canton Coin Burns as Network Logs $155M Q3 Fees",
+      "summary": "Canton Network recorded over $155 million in Q3 fees per CertiK, with $CC burned to pay for network services. Institutional chain activity keeps climbing.",
+      "url": "https://thedefiant.io/converge/canton-155-million-q3-fees-certik",
+      "token": "$CC"
     },
     {
-      "headline": "$AAVE Opens First Externally Curated V4 Markets",
-      "summary": "$AAVE just launched its first externally curated V4 markets with Sentora, opening a new DeFi use case for third-party risk curators on the protocol.",
-      "url": "https://newsbtc.com/news/aave-opens-first-externally-curated-v4-markets-sentora/",
-      "token": "$AAVE"
+      "headline": "$XPL Gets Native USDC, EURC and CCTP From Circle",
+      "summary": "Circle added native USDC and EURC issuance plus CCTP cross-chain transfers to Plasma. A major liquidity boost for the $XPL ecosystem.",
+      "url": "https://thedefiant.io/converge/circle-native-usdc-eurc-cctp-plasma",
+      "token": "$XPL"
     },
     {
-      "headline": "$ARB Hits Four-Week Low as Losses Outpace Market",
-      "summary": "$ARB touched a four-week low, underperforming BTC and ETH, even as Arbitrum One's active addresses climbed. Capitulation or accumulation zone?",
-      "url": "https://thedefiant.io/news/markets/arb-touches-four-week-low-as-losses-outpace-bitcoin-and-ether",
-      "token": "$ARB"
+      "headline": "Korean Super-App Toss Picks $OP Stack for Won Pilot",
+      "summary": "Toss will run a Korean won stablecoin pilot on the OP Stack, becoming the fourth regulated institution in a year to build on Optimism's stack. Big win for $OP adoption in Asia.",
+      "url": "https://thedefiant.io/converge/toss-won-stablecoin-pilot-op-stack",
+      "token": "$OP"
     }
   ]
 }
