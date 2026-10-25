@@ -1,35 +1,35 @@
 {
-  "date": "24 OCT 2026",
+  "date": "25 OCT 2026",
   "items": [
     {
-      "headline": "$X100 Exploit Drains $4.85M After Governance Takeover",
-      "summary": "Attackers seized $X100 governance and converted treasury tokens and LP positions into 4.85M USDT, with Blockaid warning the Ethereum exploit was still ongoing.",
-      "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
-      "token": "$X100"
-    },
-    {
-      "headline": "$X100 Hit Again: 550K X Pulled From Uniswap Pool",
-      "summary": "A third $X100 exploit transaction routed ~549,916 X to a new wallet, draining a Uniswap pool that held under 200 USDT in remaining liquidity.",
-      "url": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
+      "headline": "$X Exploit: Hacker Splits Loot Into Four 400-ETH Wallets",
+      "summary": "The $X100 exploiter swapped ~4.75M USDT into ETH and split proceeds across four 400-ETH wallets, with 423 ETH still sitting in the distribution wallet. Onchain sleuths are watching every move.",
+      "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
       "token": "$X"
     },
     {
-      "headline": "$HYPE vs CME: Clash Over Who Bears US Compliance",
-      "summary": "Hyperliquid's Yan and CME's Duffy split over compliance burdens, with Yan arguing market deployers — not the chain — should face oversight as $HYPE's interface still blocks US users.",
-      "url": "https://thedefiant.io/news/regulation/hyperliquid-s-yan-and-cme-s-duffy-split-over-who-must-bear-us-compliance",
-      "token": "$HYPE"
+      "headline": "$LIBRA Case Dismissed: Judge Clears Milei of Fraud",
+      "summary": "An Argentine judge ruled Milei's $LIBRA promo post didn't constitute 'criminally relevant deception,' dismissing the case against him and 10 others. The memecoin saga takes another wild turn.",
+      "url": "https://thedefiant.io/news/regulation/argentine-judge-dismisses-libra-criminal-case-against-milei-and-10-others",
+      "token": "$LIBRA"
     },
     {
-      "headline": "$REFLECT Launches Create for Yield Stablecoins on Solana",
-      "summary": "Reflect Money unveiled Create, a new tool for launching yield-bearing stablecoins on Solana, opening a fresh DeFi design space for $REFLECT's ecosystem.",
-      "url": "https://crypto-economy.com/",
-      "token": "$REFLECT"
+      "headline": "$CIRBTC Grabs 90% of Trading Volume on Arc",
+      "summary": "Uniswap data shows $CIRBTC dominating Arc with 90% of trading activity — a sudden DEX volume surge worth watching as the new chain heats up.",
+      "url": "https://coinfomania.com/uniswap-confirms-cirbtc-dominance-on-arc/",
+      "token": "$CIRBTC"
     },
     {
-      "headline": "$UNI Slides 29% in a Month Despite $4B Liquidity",
-      "summary": "$UNI has underperformed BTC and ETH over four weeks even as Uniswap's liquidity holds near $4B — a divergence traders are watching for a rebound setup.",
-      "url": "https://thedefiant.io/news/tokens/uni-slides-29-in-four-weeks-as-uniswap-liquidity-holds-steady",
-      "token": "$UNI"
+      "headline": "$AAVE Opens First Externally Curated V4 Markets",
+      "summary": "$AAVE just launched its first externally curated V4 markets with Sentora, opening a new DeFi use case for third-party risk curators on the protocol.",
+      "url": "https://newsbtc.com/news/aave-opens-first-externally-curated-v4-markets-sentora/",
+      "token": "$AAVE"
+    },
+    {
+      "headline": "$ARB Hits Four-Week Low as Losses Outpace Market",
+      "summary": "$ARB touched a four-week low, underperforming BTC and ETH, even as Arbitrum One's active addresses climbed. Capitulation or accumulation zone?",
+      "url": "https://thedefiant.io/news/markets/arb-touches-four-week-low-as-losses-outpace-bitcoin-and-ether",
+      "token": "$ARB"
     }
   ]
 }
