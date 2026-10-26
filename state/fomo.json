@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 47351743.309266716,
-      "pct": 1.4696
+      "mcap": 46686469.47023126,
+      "pct": -1.9114
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 91379353.03275159,
-      "pct": 7.0856
+      "mcap": 106710982.95544104,
+      "pct": 17.9328
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 54048384.05089732,
-      "pct": -8.379
+      "mcap": 59972457.41808665,
+      "pct": 18.0686
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 149813828.20273852,
-      "pct": -3.4304
+      "mcap": 159930807.42532673,
+      "pct": 6.6061
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 43408325.81015954,
-      "pct": -5.2482
+      "mcap": 45506498.24237659,
+      "pct": 5.097
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 66120200.5687532,
-      "pct": -2.8292
+      "mcap": 64837842.3597501,
+      "pct": 0.2681
     },
     {
       "name": "Useless Coin",
       "symbol": "USELESS",
       "label": "USELESS",
       "full": "Useless Coin (USELESS)",
-      "mcap": 174996701.23845857,
-      "pct": 11.973
+      "mcap": 159793799.0747174,
+      "pct": -9.9245
     }
   ],
   "trending": [
     {
-      "name": "POFD",
-      "symbol": "POFD",
-      "label": "POFD",
-      "full": "POFD",
-      "mcap": 302751.826005139,
-      "pct": 44.4663
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 106886428.99327856,
+      "pct": 17.5212
     },
     {
-      "name": "Hooked",
-      "symbol": "HOOKED",
-      "label": "HOOKED",
-      "full": "Hooked",
-      "mcap": 1888215.5483460643,
-      "pct": 101.0389
+      "name": "RAYDIUM LAUNCHPAD",
+      "symbol": "RAYPAD",
+      "label": "RAYPAD",
+      "full": "RAYDIUM LAUNCHPAD (RAYPAD)",
+      "mcap": 710668.0318368948,
+      "pct": 21778.7038
+    },
+    {
+      "name": "Hookr.fun",
+      "symbol": "HOOKR",
+      "label": "HOOKR",
+      "full": "Hookr.fun (HOOKR)",
+      "mcap": 15203952.85195505,
+      "pct": -7.777
+    },
+    {
+      "name": "AudaCity",
+      "symbol": "DacityCoin",
+      "label": "DacityCoin",
+      "full": "AudaCity (DacityCoin)",
+      "mcap": 748615.448068133,
+      "pct": -66.1563
+    },
+    {
+      "name": "Lab",
+      "symbol": "LAB",
+      "label": "LAB",
+      "full": "Lab",
+      "mcap": 269289.7356663413,
+      "pct": 11440.1524
+    },
+    {
+      "name": "Squad Champion Series",
+      "symbol": "SCS",
+      "label": "SCS",
+      "full": "Squad Champion Series (SCS)",
+      "mcap": 264029.63553756167,
+      "pct": 10059.4882
     },
     {
       "name": "Agentic Inu",
       "symbol": ".ai",
       "label": ".ai",
       "full": "Agentic Inu (.ai)",
-      "mcap": 594571.9483175408,
-      "pct": 6.9825
-    },
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 91742620.67303257,
-      "pct": 6.9395
-    },
-    {
-      "name": "WangChai",
-      "symbol": "",
-      "label": "WangChai",
-      "full": "WangChai",
-      "mcap": 7370806.654270266,
-      "pct": -11.8794
-    },
-    {
-      "name": "Dacity Coin",
-      "symbol": "Dacity",
-      "label": "Dacity",
-      "full": "Dacity Coin (Dacity)",
-      "mcap": 8412349.900689725,
-      "pct": -13.0682
-    },
-    {
-      "name": "bibi.ai",
-      "symbol": "BIBI",
-      "label": "BIBI",
-      "full": "bibi.ai (BIBI)",
-      "mcap": 552106.9441701869,
-      "pct": 26.5984
+      "mcap": 370661.88376804587,
+      "pct": -28.6723
     }
   ],
-  "story_image": "fomo/2026-10-25-story.jpg",
-  "post_image": "fomo/2026-10-25-post.jpg"
+  "story_image": "fomo/2026-10-26-story.jpg",
+  "post_image": "fomo/2026-10-26-post.jpg"
 }
