@@ -1,35 +1,35 @@
 {
-  "date": "25 OCT 2026",
+  "date": "26 OCT 2026",
   "items": [
     {
-      "headline": "$DOGE Drama: Foundation Ends House of Doge Deal",
-      "summary": "The Dogecoin Foundation and House of Doge ended their exclusive brand deal, with a separate swap of Such App assets for $4M in Dogecoin Labs stock. Big shakeup for the $DOGE ecosystem.",
-      "url": "https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal",
+      "headline": "$ZEC Staking Upgrade Halted: Dev Calls It 'Not Good for Zcash'",
+      "summary": "Key developer Josh Swihart paused the $ZEC Crosslink staking upgrade, warning it could harm Zcash. The clash is stirring debate across the privacy coin's community.",
+      "url": "https://u.today/not-good-for-zcash-key-developer-josh-swihart-halts-zec-staking-upgrade",
+      "token": "$ZEC"
+    },
+    {
+      "headline": "$LIBRA Case Collapses: Judge Clears Milei of Fraud",
+      "summary": "An Argentine judge ruled Milei's $LIBRA promo post didn't establish fraud, clearing him and 10 others. The memecoin saga that rocked Solana takes another twist.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+      "token": "$LIBRA"
+    },
+    {
+      "headline": "$HYPE Bulls Sweat as Hyperliquid Keeps Perps Crown",
+      "summary": "Hyperliquid still dominates onchain perps volume, but $HYPE holders face mounting headwinds as momentum cools. Traders are watching key support levels.",
+      "url": "https://news.bitcoin.com/hyperliquid-still-rules-the-perps-market-but-hype-bulls-face-trouble/",
+      "token": "$HYPE"
+    },
+    {
+      "headline": "$XLM Posts Busiest Day of Month With 14.16M Transactions",
+      "summary": "Stellar just logged 14.16 million transactions in a single day, its busiest of the month. Onchain activity for $XLM is quietly heating up.",
+      "url": "https://u.today/stellar-xlm-clocks-busiest-day-of-month-with-1416-million-transactions",
+      "token": "$XLM"
+    },
+    {
+      "headline": "$DOGE Drama: Foundation Ends House of Doge Brand Deal",
+      "summary": "The Dogecoin Foundation and House of Doge have ended their exclusive brand partnership. The split raises fresh questions about $DOGE ecosystem direction.",
+      "url": "https://thedefiant.io/news/altcoins/dogecoin-foundation-house-of-doge-end-exclusive-brand-deal",
       "token": "$DOGE"
-    },
-    {
-      "headline": "SkyAI Dumps $SOL Treasury, Launches $201M Buyback",
-      "summary": "SkyAI sold its entire Solana treasury and announced a massive $201 million cash tender offer. One of the biggest treasury exits by an onchain AI project this year.",
-      "url": "https://thedefiant.io/converge/skyai-sells-solana-treasury-201-million-tender",
-      "token": "$SKYAI"
-    },
-    {
-      "headline": "Canton Coin Burns as Network Logs $155M Q3 Fees",
-      "summary": "Canton Network recorded over $155 million in Q3 fees per CertiK, with $CC burned to pay for network services. Institutional chain activity keeps climbing.",
-      "url": "https://thedefiant.io/converge/canton-155-million-q3-fees-certik",
-      "token": "$CC"
-    },
-    {
-      "headline": "$XPL Gets Native USDC, EURC and CCTP From Circle",
-      "summary": "Circle added native USDC and EURC issuance plus CCTP cross-chain transfers to Plasma. A major liquidity boost for the $XPL ecosystem.",
-      "url": "https://thedefiant.io/converge/circle-native-usdc-eurc-cctp-plasma",
-      "token": "$XPL"
-    },
-    {
-      "headline": "Korean Super-App Toss Picks $OP Stack for Won Pilot",
-      "summary": "Toss will run a Korean won stablecoin pilot on the OP Stack, becoming the fourth regulated institution in a year to build on Optimism's stack. Big win for $OP adoption in Asia.",
-      "url": "https://thedefiant.io/converge/toss-won-stablecoin-pilot-op-stack",
-      "token": "$OP"
     }
   ]
 }
