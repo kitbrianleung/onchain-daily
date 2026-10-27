@@ -1,61 +1,61 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 46686469.47023126,
-      "pct": -1.9114
+      "mcap": 43254771.71200697,
+      "pct": -8.7885
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 106710982.95544104,
-      "pct": 17.9328
+      "mcap": 103733830.74465963,
+      "pct": -1.6184
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 59972457.41808665,
-      "pct": 18.0686
+      "mcap": 53445685.95239041,
+      "pct": -16.367
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 159930807.42532673,
-      "pct": 6.6061
+      "mcap": 162724458.6529624,
+      "pct": 1.6355
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 45506498.24237659,
-      "pct": 5.097
+      "mcap": 47158620.07669496,
+      "pct": 2.3301
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 64837842.3597501,
-      "pct": 0.2681
+      "mcap": 65332947.00796269,
+      "pct": 1.3554
     },
     {
-      "name": "Useless Coin",
-      "symbol": "USELESS",
-      "label": "USELESS",
-      "full": "Useless Coin (USELESS)",
-      "mcap": 159793799.0747174,
-      "pct": -9.9245
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "label": "MASK",
+      "full": "Nullmask (MASK)",
+      "mcap": 35643290.693019666,
+      "pct": 14.2827
     }
   ],
   "trending": [
@@ -64,58 +64,58 @@
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 106886428.99327856,
-      "pct": 17.5212
+      "mcap": 103879822.35037562,
+      "pct": -4.2057
     },
     {
-      "name": "RAYDIUM LAUNCHPAD",
-      "symbol": "RAYPAD",
-      "label": "RAYPAD",
-      "full": "RAYDIUM LAUNCHPAD (RAYPAD)",
-      "mcap": 710668.0318368948,
-      "pct": 21778.7038
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 4648167.518169418,
+      "pct": 51.542
     },
     {
-      "name": "Hookr.fun",
-      "symbol": "HOOKR",
-      "label": "HOOKR",
-      "full": "Hookr.fun (HOOKR)",
-      "mcap": 15203952.85195505,
-      "pct": -7.777
+      "name": "Backed By Belief",
+      "symbol": "Nothing",
+      "label": "Nothing",
+      "full": "Backed By Belief (Nothing)",
+      "mcap": 507716.691738662,
+      "pct": 14640.0829
     },
     {
-      "name": "AudaCity",
-      "symbol": "DacityCoin",
-      "label": "DacityCoin",
-      "full": "AudaCity (DacityCoin)",
-      "mcap": 748615.448068133,
-      "pct": -66.1563
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 43251348.06640545,
+      "pct": -8.7672
     },
     {
-      "name": "Lab",
-      "symbol": "LAB",
-      "label": "LAB",
-      "full": "Lab",
-      "mcap": 269289.7356663413,
-      "pct": 11440.1524
+      "name": "Elon 2028",
+      "symbol": "ELON2028",
+      "label": "ELON2028",
+      "full": "Elon 2028 (ELON2028)",
+      "mcap": 458212.0193947911,
+      "pct": 15250.6797
     },
     {
-      "name": "Squad Champion Series",
-      "symbol": "SCS",
-      "label": "SCS",
-      "full": "Squad Champion Series (SCS)",
-      "mcap": 264029.63553756167,
-      "pct": 10059.4882
+      "name": "USELESS COIN",
+      "symbol": "USELESS",
+      "label": "USELESS",
+      "full": "USELESS COIN (USELESS)",
+      "mcap": 153485817.8789866,
+      "pct": -4.5317
     },
     {
-      "name": "Agentic Inu",
-      "symbol": ".ai",
-      "label": ".ai",
-      "full": "Agentic Inu (.ai)",
-      "mcap": 370661.88376804587,
-      "pct": -28.6723
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "label": "CLAUDIA",
+      "full": "Claudia",
+      "mcap": 2843991.408474465,
+      "pct": -13.8795
     }
   ],
-  "story_image": "fomo/2026-10-26-story.jpg",
-  "post_image": "fomo/2026-10-26-post.jpg"
+  "story_image": "fomo/2026-10-27-story.jpg",
+  "post_image": "fomo/2026-10-27-post.jpg"
 }
