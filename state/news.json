@@ -1,35 +1,35 @@
 {
-  "date": "26 OCT 2026",
+  "date": "27 OCT 2026",
   "items": [
     {
-      "headline": "$ZEC Staking Upgrade Halted: Dev Calls It 'Not Good for Zcash'",
-      "summary": "Key developer Josh Swihart paused the $ZEC Crosslink staking upgrade, warning it could harm Zcash. The clash is stirring debate across the privacy coin's community.",
-      "url": "https://u.today/not-good-for-zcash-key-developer-josh-swihart-halts-zec-staking-upgrade",
-      "token": "$ZEC"
+      "headline": "$AKT Votes to Ditch Cosmos for Solana",
+      "summary": "Akash opened Prop 346 to migrate from Cosmos to Solana with a one-way $AKT token conversion. Staking rewards would end at a later marketplace cutover.",
+      "url": "https://thedefiant.io/news/blockchains/akash-opens-vote-to-move-from-cosmos-to-solana",
+      "token": "$AKT"
     },
     {
-      "headline": "$LIBRA Case Collapses: Judge Clears Milei of Fraud",
-      "summary": "An Argentine judge ruled Milei's $LIBRA promo post didn't establish fraud, clearing him and 10 others. The memecoin saga that rocked Solana takes another twist.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
-      "token": "$LIBRA"
+      "headline": "$OSMO Kills Inflation, Shifts to Revenue Rewards",
+      "summary": "Osmosis ended $OSMO inflation, removing ~2 points of issuance-funded staking APR and freezing 51.9M pre-minted dev tokens. Stakers now earn from protocol revenue.",
+      "url": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
+      "token": "$OSMO"
     },
     {
-      "headline": "$HYPE Bulls Sweat as Hyperliquid Keeps Perps Crown",
-      "summary": "Hyperliquid still dominates onchain perps volume, but $HYPE holders face mounting headwinds as momentum cools. Traders are watching key support levels.",
-      "url": "https://news.bitcoin.com/hyperliquid-still-rules-the-perps-market-but-hype-bulls-face-trouble/",
+      "headline": "Sony-Backed Soneium Plans Native Token Launch",
+      "summary": "Sony's Soneium L2 is planning a native token as it pushes tokenized IP, with royalty-backed vaults and K-pop concert bonds in the pipeline. Early eyes on this one.",
+      "url": "https://thedefiant.io/news/blockchains/sony-backed-soneium-plans-native-token-in-tokenized-ip-push",
+      "token": "$SONEIUM"
+    },
+    {
+      "headline": "$HYPE Taps Kraken Parent for Regulated US Perps",
+      "summary": "Hyperliquid will make Kraken parent Payward the first CFTC-regulated HIP-3 deployer, testing permissioned markets for US perpetual futures on $HYPE's ecosystem.",
+      "url": "https://thedefiant.io/news/defi/hyperliquid-tests-permissioned-markets-for-payward-s-us-perps-plan",
       "token": "$HYPE"
     },
     {
-      "headline": "$XLM Posts Busiest Day of Month With 14.16M Transactions",
-      "summary": "Stellar just logged 14.16 million transactions in a single day, its busiest of the month. Onchain activity for $XLM is quietly heating up.",
-      "url": "https://u.today/stellar-xlm-clocks-busiest-day-of-month-with-1416-million-transactions",
-      "token": "$XLM"
-    },
-    {
-      "headline": "$DOGE Drama: Foundation Ends House of Doge Brand Deal",
-      "summary": "The Dogecoin Foundation and House of Doge have ended their exclusive brand partnership. The split raises fresh questions about $DOGE ecosystem direction.",
-      "url": "https://thedefiant.io/news/altcoins/dogecoin-foundation-house-of-doge-end-exclusive-brand-deal",
-      "token": "$DOGE"
+      "headline": "$X100 Exploiter Launders 420 ETH via Tornado",
+      "summary": "The $X100 exploiter sent 420.8 ETH to Tornado Cash after the $4.85M governance-takeover hack. Four wallets still hold ~1,602 ETH.",
+      "url": "https://thedefiant.io/news/hacks/x100-exploiter-sends-420-8-eth-to-tornado-cash",
+      "token": "$X100"
     }
   ]
 }
