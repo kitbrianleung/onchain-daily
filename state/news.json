@@ -2,34 +2,34 @@
   "date": "28 OCT 2026",
   "items": [
     {
-      "headline": "Cancore Raises $7.2M at $60M Valuation on Canton",
-      "summary": "Canton-based trading platform Cancore raised $7.2M in seed funding backed by Paper Ventures and dao5, bridging $CC network assets with public chain liquidity.",
-      "url": "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906",
+      "headline": "Avalanche Tranche Vault Drained of $1M in Flash Loan Attack",
+      "summary": "A flash loan let an attacker mint inflated tranche shares and drain a vault on $AVAX for 1.01M USDC. Blockaid says the contract balance is now zero.",
+      "url": "https://thedefiant.io/news/hacks/tranche-vault-on-avalanche-drained-of-1-01-million-usdc",
+      "token": "$AVAX"
+    },
+    {
+      "headline": "$SKYAI Dumps Entire SOL Treasury, Launches $201M Buyback",
+      "summary": "$SKYAI sold its full Solana treasury and opened a $201M tender offer to buy back tokens — one of the biggest cash buyback moves this cycle.",
+      "url": "https://thedefiant.io/converge/blockchains/skyai-sells-entire-solana-treasury-launches-201-million-tender",
+      "token": "$SKYAI"
+    },
+    {
+      "headline": "Solflare Validator Halts Rewards After Security Incident",
+      "summary": "A Solflare validator with ~1.56M $SOL staked stopped earning rewards after a provider security incident. User funds are safe; an in-app migration is coming.",
+      "url": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
+      "token": "$SOL"
+    },
+    {
+      "headline": "$CC Network Tops $155M in Q3 Fees, CertiK Reports",
+      "summary": "Canton Network's $CC ecosystem keeps quietly dominating fee rankings, logging over $155M in Q3 fees per CertiK — outpacing most major chains.",
+      "url": "https://thedefiant.io/converge/blockchains/canton-records-over-155-million-q3-fees-certik",
       "token": "$CC"
     },
     {
-      "headline": "$ZEC Co-Founder Wants to End Grants Subsidy",
-      "summary": "Zcash co-founder Sean Bowe proposed ending automatic grants funding, pointing to a treasury now valued above $125M as $ZEC momentum builds.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
-      "token": "$ZEC"
-    },
-    {
-      "headline": "$NEAR Adds Confidential Jio Pre-IPO Trading",
-      "summary": "$NEAR launched confidential pre-IPO trading for Jio with up to 5x leverage, set to convert into an equity perpetual after listing.",
-      "url": "https://thedefiant.io/news/defi/near-adds-confidential-jio-pre-ipo-trading-ahead-of-listing",
-      "token": "$NEAR"
-    },
-    {
-      "headline": "$ONDO Brings 15 Stock Tokens to Robinhood Chain",
-      "summary": "$ONDO deployed 15 tokenized stocks on Robinhood Chain with Uniswap pools, opening a potential weekend arbitrage route via its redemption platform.",
-      "url": "https://thedefiant.io/news/tradfi-and-fintech/ondo-brings-15-stock-tokens-to-robinhood-chain-with-uniswap-pools",
-      "token": "$ONDO"
-    },
-    {
-      "headline": "$HYPE Taps Kraken Parent as First CFTC HIP-3 Deployer",
-      "summary": "Hyperliquid plans to make Kraken parent Payward the first CFTC-regulated HIP-3 deployer, a major step toward regulated US perps for $HYPE.",
-      "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
-      "token": "$HYPE"
+      "headline": "Robinhood Chain Hits $15B in Stock Token Volume on $ARB",
+      "summary": "Robinhood's Arbitrum-based L2 passed 100 days with $15B in stock token trades and 200K holders, with ~$1.1B deposited via Morpho. Big win for the $ARB ecosystem.",
+      "url": "https://thedefiant.io/converge/blockchains/robinhood-reports-15b-stock-token-trading-chain-passes-100-days",
+      "token": "$ARB"
     }
   ]
 }
