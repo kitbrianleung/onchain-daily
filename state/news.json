@@ -1,35 +1,35 @@
 {
-  "date": "28 OCT 2026",
+  "date": "29 OCT 2026",
   "items": [
     {
-      "headline": "Avalanche Tranche Vault Drained of $1M in Flash Loan Attack",
-      "summary": "A flash loan let an attacker mint inflated tranche shares and drain a vault on $AVAX for 1.01M USDC. Blockaid says the contract balance is now zero.",
-      "url": "https://thedefiant.io/news/hacks/tranche-vault-on-avalanche-drained-of-1-01-million-usdc",
-      "token": "$AVAX"
+      "headline": "Ethena Pay Launches Earn+ With 12% Target Yield",
+      "summary": "Ethena Pay's new Earn+ vault targets up to 12% rewards via ~11x leveraged $ENA-ecosystem looping on Aave. Initial capacity is capped at $4.5M, with depositors bearing losses.",
+      "url": "https://thedefiant.io/news/defi/ethena-pay-rolls-out-earn-with-up-to-12-target-rewards",
+      "token": "$ENA"
     },
     {
-      "headline": "$SKYAI Dumps Entire SOL Treasury, Launches $201M Buyback",
-      "summary": "$SKYAI sold its full Solana treasury and opened a $201M tender offer to buy back tokens — one of the biggest cash buyback moves this cycle.",
-      "url": "https://thedefiant.io/converge/blockchains/skyai-sells-entire-solana-treasury-launches-201-million-tender",
-      "token": "$SKYAI"
+      "headline": "$AVAIL Unveils ShieldTX to Block Hyperliquid Copy-Bots",
+      "summary": "$AVAIL launched ShieldTX, a privacy tool for Hyperliquid perps that spins up a fresh wallet per position, making it harder for copy-trading bots to front-run whales.",
+      "url": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
+      "token": "$AVAIL"
     },
     {
-      "headline": "Solflare Validator Halts Rewards After Security Incident",
-      "summary": "A Solflare validator with ~1.56M $SOL staked stopped earning rewards after a provider security incident. User funds are safe; an in-app migration is coming.",
-      "url": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
-      "token": "$SOL"
+      "headline": "$PUMP Sets Nov. 9 Date for Elysium Trading In-App",
+      "summary": "Pump.fun will add Elysium, a HyperEVM-settled rollup, to its app on Nov. 9, hot on the heels of its live Hyperliquid perps integration. $PUMP keeps expanding beyond memecoin launches.",
+      "url": "https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app",
+      "token": "$PUMP"
     },
     {
-      "headline": "$CC Network Tops $155M in Q3 Fees, CertiK Reports",
-      "summary": "Canton Network's $CC ecosystem keeps quietly dominating fee rankings, logging over $155M in Q3 fees per CertiK — outpacing most major chains.",
-      "url": "https://thedefiant.io/converge/blockchains/canton-records-over-155-million-q3-fees-certik",
-      "token": "$CC"
+      "headline": "$ZIL CEO Quits as Bridge Exploit Probe Deepens",
+      "summary": "Zilliqa's CEO stepped down as the board takes over amid a security probe. X-Bridge is shut in both directions and PlunderSwap reports losses across four $ZIL token pools.",
+      "url": "https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe",
+      "token": "$ZIL"
     },
     {
-      "headline": "Robinhood Chain Hits $15B in Stock Token Volume on $ARB",
-      "summary": "Robinhood's Arbitrum-based L2 passed 100 days with $15B in stock token trades and 200K holders, with ~$1.1B deposited via Morpho. Big win for the $ARB ecosystem.",
-      "url": "https://thedefiant.io/converge/blockchains/robinhood-reports-15b-stock-token-trading-chain-passes-100-days",
-      "token": "$ARB"
+      "headline": "$KMNO Opens USDC Loans on Tokenized Stocks",
+      "summary": "Kamino now lets users borrow USDC against Backpack tokenized stocks at up to 40% LTV, a fresh DeFi use case for $KMNO on Solana with prices held outside US trading hours.",
+      "url": "https://thedefiant.io/news/defi/kamino-opens-usdc-loans-against-backpack-tokenized-stocks",
+      "token": "$KMNO"
     }
   ]
 }
