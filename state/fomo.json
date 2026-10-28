@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 43254771.71200697,
-      "pct": -8.7885
+      "mcap": 50662725.499016255,
+      "pct": 16.815
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 103733830.74465963,
-      "pct": -1.6184
+      "mcap": 119589046.30652642,
+      "pct": 16.1367
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 53445685.95239041,
-      "pct": -16.367
+      "mcap": 70069762.57979754,
+      "pct": 30.9773
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 162724458.6529624,
-      "pct": 1.6355
+      "mcap": 195230434.68086746,
+      "pct": 21.6338
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 47158620.07669496,
-      "pct": 2.3301
+      "mcap": 50445452.40770501,
+      "pct": 6.8042
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 65332947.00796269,
-      "pct": 1.3554
+      "mcap": 69062088.2288173,
+      "pct": 6.2036
     },
+    {
+      "name": "Boner Coin",
+      "symbol": "BONER",
+      "label": "BONER",
+      "full": "Boner Coin (BONER)",
+      "mcap": 20102007.31990988,
+      "pct": 42.7871
+    }
+  ],
+  "trending": [
     {
       "name": "Nullmask",
       "symbol": "MASK",
       "label": "MASK",
       "full": "Nullmask (MASK)",
-      "mcap": 35643290.693019666,
-      "pct": 14.2827
-    }
-  ],
-  "trending": [
+      "mcap": 32455381.4450206,
+      "pct": -7.8799
+    },
+    {
+      "name": "DogWifJob",
+      "symbol": "JOB",
+      "label": "JOB",
+      "full": "DogWifJob (JOB)",
+      "mcap": 2597842.164066958,
+      "pct": 81756.6669
+    },
+    {
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 16451241.0279408,
+      "pct": 76.91
+    },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 103879822.35037562,
-      "pct": -4.2057
+      "mcap": 119772341.9617866,
+      "pct": 15.8809
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 4648167.518169418,
-      "pct": 51.542
+      "mcap": 6354151.271684037,
+      "pct": 38.0783
     },
     {
-      "name": "Backed By Belief",
-      "symbol": "Nothing",
-      "label": "Nothing",
-      "full": "Backed By Belief (Nothing)",
-      "mcap": 507716.691738662,
-      "pct": 14640.0829
+      "name": "Super Intelligent Beauty",
+      "symbol": "SIB",
+      "label": "SIB",
+      "full": "Super Intelligent Beauty (SIB)",
+      "mcap": 344926.847294087,
+      "pct": 53.255
     },
     {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 43251348.06640545,
-      "pct": -8.7672
-    },
-    {
-      "name": "Elon 2028",
-      "symbol": "ELON2028",
-      "label": "ELON2028",
-      "full": "Elon 2028 (ELON2028)",
-      "mcap": 458212.0193947911,
-      "pct": 15250.6797
-    },
-    {
-      "name": "USELESS COIN",
-      "symbol": "USELESS",
-      "label": "USELESS",
-      "full": "USELESS COIN (USELESS)",
-      "mcap": 153485817.8789866,
-      "pct": -4.5317
-    },
-    {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "label": "CLAUDIA",
-      "full": "Claudia",
-      "mcap": 2843991.408474465,
-      "pct": -13.8795
+      "name": "Inverse",
+      "symbol": "INVERSE",
+      "label": "INVERSE",
+      "full": "Inverse",
+      "mcap": 514264.0792797853,
+      "pct": 16237.7357
     }
   ],
-  "story_image": "fomo/2026-10-27-story.jpg",
-  "post_image": "fomo/2026-10-27-post.jpg"
+  "story_image": "fomo/2026-10-28-story.jpg",
+  "post_image": "fomo/2026-10-28-post.jpg"
 }
