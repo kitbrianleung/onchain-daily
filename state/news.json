@@ -1,35 +1,35 @@
 {
-  "date": "29 OCT 2026",
+  "date": "30 OCT 2026",
   "items": [
     {
-      "headline": "$ZKL Bridge Exploit Drains $779K in One Transaction",
-      "summary": "zkLink Nova's bridge was hit via a forged batch root, enabling unauthorized withdrawals of about $779,000. Blockaid warned the main Ethereum escrow still showed an unpaused status.",
-      "url": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
-      "token": "$ZKL"
+      "headline": "$HYPE Jumps 15% as ICE Brings Hyperliquid Perps to US",
+      "summary": "NYSE parent ICE is investing in TradeXYZ to launch regulated, Hyperliquid-based perpetual futures in the U.S. $HYPE surged 15% on the news.",
+      "url": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
+      "token": "$HYPE"
     },
     {
-      "headline": "$DIVA Cancels Mainnet, Tells Early Stakers to Withdraw",
-      "summary": "Diva abruptly scrapped its mainnet launch with ~654.5 ETH sitting in two pre-launch vaults. The shutdown statement offers no replacement $DIVA distribution, leaving early backers empty-handed.",
-      "url": "https://thedefiant.io/news/defi/diva-cancels-mainnet-tells-early-stakers-to-withdraw",
-      "token": "$DIVA"
+      "headline": "$CRV Goes Non-EVM: Curve Finance Launches on Stellar",
+      "summary": "Curve Finance deployed natively on Stellar mainnet, its first launch outside the EVM ecosystem — a big expansion move for $CRV.",
+      "url": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121",
+      "token": "$CRV"
     },
     {
-      "headline": "$FLR's FXRP Pool on Morpho Nearly Full on Loan Demand",
-      "summary": "Demand for XRP-backed loans has nearly filled Flare's FXRP pool on Morpho, signaling surging DeFi utility on the $FLR network.",
-      "url": "https://bsc.news/",
-      "token": "$FLR"
+      "headline": "$FLUID Opens DEX v2 Beta With Custom Debt Ranges",
+      "summary": "Fluid's DEX v2 beta is live on Ethereum with custom collateral and debt ranges. Governance set $50K borrowing caps per asset while pool creation stays restricted.",
+      "url": "https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges",
+      "token": "$FLUID"
     },
     {
-      "headline": "Tokenized $GOOGL Drops 12% in After-Hours Selloff",
-      "summary": "A Uniswap pool handled ~$603,000 in five minutes as Alphabet-linked tokenized shares repriced sharply lower after the close. Onchain stock tokens are showing real-time price discovery.",
-      "url": "https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff",
-      "token": "$GOOGL"
+      "headline": "$XMR Privacy Scare: Wagyu Leak Exposes Swap Records",
+      "summary": "Wagyu confirmed a data leak exposing 4,580 orders linking public-chain deposits, $XMR destinations and client IPs — a blow for Monero swap privacy.",
+      "url": "https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records",
+      "token": "$XMR"
     },
     {
-      "headline": "$BTC Core Patches Three Bugs Including Node Crash",
-      "summary": "Bitcoin Core shipped fixes across four release branches, including a non-Linux node crash bug. 32-bit systems and FAT32 storage remain exposed to a separate low-severity flaw.",
-      "url": "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash",
-      "token": "$BTC"
+      "headline": "Polymarket Probes Suspicious Israeli Election Trades",
+      "summary": "Polymarket is investigating suspicious Israeli election trades after some accounts cashed out over $100K. Rules allow wallet bans and law-enforcement referrals.",
+      "url": "https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades",
+      "token": "Polymarket"
     }
   ]
 }
