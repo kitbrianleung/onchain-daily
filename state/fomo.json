@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 50662725.499016255,
-      "pct": 16.815
+      "mcap": 45388284.80016243,
+      "pct": -10.2534
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 119589046.30652642,
-      "pct": 16.1367
+      "mcap": 111921986.35318975,
+      "pct": -9.2352
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 70069762.57979754,
-      "pct": 30.9773
+      "mcap": 73190995.41567615,
+      "pct": 3.9339
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 195230434.68086746,
-      "pct": 21.6338
+      "mcap": 186285513.146113,
+      "pct": -3.8696
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 50445452.40770501,
-      "pct": 6.8042
-    },
-    {
-      "name": "MarsCoin",
-      "symbol": "MARSCOIN",
-      "label": "MARSCOIN",
-      "full": "MarsCoin",
-      "mcap": 69062088.2288173,
-      "pct": 6.2036
-    },
-    {
-      "name": "Boner Coin",
-      "symbol": "BONER",
-      "label": "BONER",
-      "full": "Boner Coin (BONER)",
-      "mcap": 20102007.31990988,
-      "pct": 42.7871
-    }
-  ],
-  "trending": [
-    {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 32455381.4450206,
-      "pct": -7.8799
-    },
-    {
-      "name": "DogWifJob",
-      "symbol": "JOB",
-      "label": "JOB",
-      "full": "DogWifJob (JOB)",
-      "mcap": 2597842.164066958,
-      "pct": 81756.6669
-    },
-    {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 16451241.0279408,
-      "pct": 76.91
-    },
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 119772341.9617866,
-      "pct": 15.8809
+      "mcap": 44018380.69454885,
+      "pct": -10.1765
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 6354151.271684037,
-      "pct": 38.0783
+      "mcap": 14864949.109872911,
+      "pct": 120.9911
     },
     {
-      "name": "Super Intelligent Beauty",
-      "symbol": "SIB",
-      "label": "SIB",
-      "full": "Super Intelligent Beauty (SIB)",
-      "mcap": 344926.847294087,
-      "pct": 53.255
-    },
-    {
-      "name": "Inverse",
-      "symbol": "INVERSE",
-      "label": "INVERSE",
-      "full": "Inverse",
-      "mcap": 514264.0792797853,
-      "pct": 16237.7357
+      "name": "MarsCoin",
+      "symbol": "MARSCOIN",
+      "label": "MARSCOIN",
+      "full": "MarsCoin",
+      "mcap": 63486569.283384554,
+      "pct": -8.2864
     }
   ],
-  "story_image": "fomo/2026-10-28-story.jpg",
-  "post_image": "fomo/2026-10-28-post.jpg"
+  "trending": [
+    {
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 14865291.107125431,
+      "pct": 122.0687
+    },
+    {
+      "name": "Backers",
+      "symbol": "BACKERS",
+      "label": "BACKERS",
+      "full": "Backers",
+      "mcap": 515198.7026071688,
+      "pct": 70.8832
+    },
+    {
+      "name": "FLOAT",
+      "symbol": "FLOAT",
+      "label": "FLOAT",
+      "full": "FLOAT",
+      "mcap": 1710871.3193137872,
+      "pct": 7163.5474
+    },
+    {
+      "name": "Gang",
+      "symbol": "GANG",
+      "label": "GANG",
+      "full": "Gang",
+      "mcap": 4941087.039720709,
+      "pct": -31.7786
+    },
+    {
+      "name": "STONKLANA",
+      "symbol": "STONKLANA",
+      "label": "STONKLANA",
+      "full": "STONKLANA",
+      "mcap": 685077.9886193257,
+      "pct": 28433.2374
+    },
+    {
+      "name": "JAGENT",
+      "symbol": "JAGENT",
+      "label": "JAGENT",
+      "full": "JAGENT",
+      "mcap": 2511023.8326012446,
+      "pct": 7855.2207
+    },
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 111851146.47892109,
+      "pct": -5.0136
+    }
+  ],
+  "story_image": "fomo/2026-10-29-story.jpg",
+  "post_image": "fomo/2026-10-29-post.jpg"
 }
