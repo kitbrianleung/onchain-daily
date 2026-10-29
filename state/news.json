@@ -2,34 +2,34 @@
   "date": "29 OCT 2026",
   "items": [
     {
-      "headline": "Ethena Pay Launches Earn+ With 12% Target Yield",
-      "summary": "Ethena Pay's new Earn+ vault targets up to 12% rewards via ~11x leveraged $ENA-ecosystem looping on Aave. Initial capacity is capped at $4.5M, with depositors bearing losses.",
-      "url": "https://thedefiant.io/news/defi/ethena-pay-rolls-out-earn-with-up-to-12-target-rewards",
-      "token": "$ENA"
+      "headline": "$ZKL Bridge Exploit Drains $779K in One Transaction",
+      "summary": "zkLink Nova's bridge was hit via a forged batch root, enabling unauthorized withdrawals of about $779,000. Blockaid warned the main Ethereum escrow still showed an unpaused status.",
+      "url": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
+      "token": "$ZKL"
     },
     {
-      "headline": "$AVAIL Unveils ShieldTX to Block Hyperliquid Copy-Bots",
-      "summary": "$AVAIL launched ShieldTX, a privacy tool for Hyperliquid perps that spins up a fresh wallet per position, making it harder for copy-trading bots to front-run whales.",
-      "url": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
-      "token": "$AVAIL"
+      "headline": "$DIVA Cancels Mainnet, Tells Early Stakers to Withdraw",
+      "summary": "Diva abruptly scrapped its mainnet launch with ~654.5 ETH sitting in two pre-launch vaults. The shutdown statement offers no replacement $DIVA distribution, leaving early backers empty-handed.",
+      "url": "https://thedefiant.io/news/defi/diva-cancels-mainnet-tells-early-stakers-to-withdraw",
+      "token": "$DIVA"
     },
     {
-      "headline": "$PUMP Sets Nov. 9 Date for Elysium Trading In-App",
-      "summary": "Pump.fun will add Elysium, a HyperEVM-settled rollup, to its app on Nov. 9, hot on the heels of its live Hyperliquid perps integration. $PUMP keeps expanding beyond memecoin launches.",
-      "url": "https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app",
-      "token": "$PUMP"
+      "headline": "$FLR's FXRP Pool on Morpho Nearly Full on Loan Demand",
+      "summary": "Demand for XRP-backed loans has nearly filled Flare's FXRP pool on Morpho, signaling surging DeFi utility on the $FLR network.",
+      "url": "https://bsc.news/",
+      "token": "$FLR"
     },
     {
-      "headline": "$ZIL CEO Quits as Bridge Exploit Probe Deepens",
-      "summary": "Zilliqa's CEO stepped down as the board takes over amid a security probe. X-Bridge is shut in both directions and PlunderSwap reports losses across four $ZIL token pools.",
-      "url": "https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe",
-      "token": "$ZIL"
+      "headline": "Tokenized $GOOGL Drops 12% in After-Hours Selloff",
+      "summary": "A Uniswap pool handled ~$603,000 in five minutes as Alphabet-linked tokenized shares repriced sharply lower after the close. Onchain stock tokens are showing real-time price discovery.",
+      "url": "https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff",
+      "token": "$GOOGL"
     },
     {
-      "headline": "$KMNO Opens USDC Loans on Tokenized Stocks",
-      "summary": "Kamino now lets users borrow USDC against Backpack tokenized stocks at up to 40% LTV, a fresh DeFi use case for $KMNO on Solana with prices held outside US trading hours.",
-      "url": "https://thedefiant.io/news/defi/kamino-opens-usdc-loans-against-backpack-tokenized-stocks",
-      "token": "$KMNO"
+      "headline": "$BTC Core Patches Three Bugs Including Node Crash",
+      "summary": "Bitcoin Core shipped fixes across four release branches, including a non-Linux node crash bug. 32-bit systems and FAT32 storage remain exposed to a separate low-severity flaw.",
+      "url": "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash",
+      "token": "$BTC"
     }
   ]
 }
