@@ -1,35 +1,35 @@
 {
-  "date": "30 OCT 2026",
+  "date": "31 OCT 2026",
   "items": [
     {
-      "headline": "Binance Hack Sends $BNB Down 7% as Lazarus Link Emerges",
-      "summary": "$BNB slid 7.1% after a hack on Binance, with SlowMist tying the attacker's laundering to North Korea's Lazarus Group. Co-CEO Yi He pledged full coverage of user losses.",
-      "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
-      "token": "$BNB"
+      "headline": "$FUN Crashes 95% as Binance Exploiter Dumps on Uniswap",
+      "summary": "$FUN plunged 95% in its Uniswap pool as the Binance exploiter's main address sold, also dumping $RAD and $OGN. About 580.8M unsold $FUN was moved back to a collection wallet.",
+      "url": "https://thedefiant.io/news/markets/fun-plunges-95-in-uniswap-pool-as-binance-exploiter-sells",
+      "token": "$FUN"
     },
     {
-      "headline": "Pendle's $STRCX Smashes $50M Milestone at New ATH",
-      "summary": "Pendle's $STRCX token crossed $50M and printed a fresh all-time high, signaling growing demand for tokenized yield on the protocol.",
-      "url": "https://coinfomania.com/",
-      "token": "$STRCX"
+      "headline": "$SNX Recovered: Synthetix Secures 8.4M Stolen Tokens",
+      "summary": "Synthetix recovered 8.4 million $SNX stolen in the Binance hack. The protocol DAO says the tokens are secured in its Safe and will be returned when Binance requests them.",
+      "url": "https://thedefiant.io/news/hacks/synthetix-recovers-8-4-million-snx-stolen-in-binance-hack",
+      "token": "$SNX"
     },
     {
-      "headline": "Mystery Whale Pulls $290M Nightly, Spiking $AAVE Rates",
-      "summary": "A mystery whale is withdrawing $290M from DeFi every midnight, tripling $AAVE borrowing rates and squeezing leveraged loopers.",
-      "url": "https://cryptoslate.com/",
-      "token": "$AAVE"
+      "headline": "$IPX Unveils KPI-Gated Escrow for Onchain Crowdfunding",
+      "summary": "$IPX detailed a patent-pending KPI-Gated Escrow tying crowdfunding and sponsorship payments to platform milestones, planned for its November 15, 2026 launch.",
+      "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-kpi-gated-escrow-onchain-crowdfunding-sponsorship",
+      "token": "$IPX"
     },
     {
-      "headline": "$FLUID Opens DEX v2 Beta With Custom Collateral Ranges",
-      "summary": "$FLUID launched its DEX v2 beta, letting LPs set custom collateral and debt ranges — a fresh DeFi primitive worth watching early.",
-      "url": "https://thedefiant.io/",
-      "token": "$FLUID"
+      "headline": "$SCR Migration: Scroll Plans Permissioned AI Network",
+      "summary": "Scroll detailed a permissioned AI network plan and an Ethereum token migration for $SCR, with the broader transition targeting Q2 2027. Users will need separate plans for DeFi positions.",
+      "url": "https://thedefiant.io/news/blockchains/scroll-details-permissioned-ai-network-plan-and-ethereum-token-migration",
+      "token": "$SCR"
     },
     {
-      "headline": "Stellar's Thruput Benchmark Hints at $XLM Scaling Push",
-      "summary": "Stellar unveiled Thruput with multi-million-transaction execution benchmarks, teeing up a scalability narrative for $XLM.",
-      "url": "https://newsbtc.com/",
-      "token": "$XLM"
+      "headline": "$JUP Lend Hit by Liquidity Crunch, Withdrawals Delayed",
+      "summary": "Jupiter Lend says a liquidity crunch is delaying withdrawals, with just 3.35 USDC immediately withdrawable against 418.5M USDC in Earn deposit claims. $JUP holders are watching closely.",
+      "url": "https://thedefiant.io/news/defi/jupiter-lend-says-liquidity-crunch-is-delaying-withdrawals",
+      "token": "$JUP"
     }
   ]
 }
