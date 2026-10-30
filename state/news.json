@@ -2,34 +2,34 @@
   "date": "30 OCT 2026",
   "items": [
     {
-      "headline": "$HYPE Jumps 15% as ICE Brings Hyperliquid Perps to US",
-      "summary": "NYSE parent ICE is investing in TradeXYZ to launch regulated, Hyperliquid-based perpetual futures in the U.S. $HYPE surged 15% on the news.",
-      "url": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
-      "token": "$HYPE"
+      "headline": "Binance Hack Sends $BNB Down 7% as Lazarus Link Emerges",
+      "summary": "$BNB slid 7.1% after a hack on Binance, with SlowMist tying the attacker's laundering to North Korea's Lazarus Group. Co-CEO Yi He pledged full coverage of user losses.",
+      "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+      "token": "$BNB"
     },
     {
-      "headline": "$CRV Goes Non-EVM: Curve Finance Launches on Stellar",
-      "summary": "Curve Finance deployed natively on Stellar mainnet, its first launch outside the EVM ecosystem — a big expansion move for $CRV.",
-      "url": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121",
-      "token": "$CRV"
+      "headline": "Pendle's $STRCX Smashes $50M Milestone at New ATH",
+      "summary": "Pendle's $STRCX token crossed $50M and printed a fresh all-time high, signaling growing demand for tokenized yield on the protocol.",
+      "url": "https://coinfomania.com/",
+      "token": "$STRCX"
     },
     {
-      "headline": "$FLUID Opens DEX v2 Beta With Custom Debt Ranges",
-      "summary": "Fluid's DEX v2 beta is live on Ethereum with custom collateral and debt ranges. Governance set $50K borrowing caps per asset while pool creation stays restricted.",
-      "url": "https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges",
+      "headline": "Mystery Whale Pulls $290M Nightly, Spiking $AAVE Rates",
+      "summary": "A mystery whale is withdrawing $290M from DeFi every midnight, tripling $AAVE borrowing rates and squeezing leveraged loopers.",
+      "url": "https://cryptoslate.com/",
+      "token": "$AAVE"
+    },
+    {
+      "headline": "$FLUID Opens DEX v2 Beta With Custom Collateral Ranges",
+      "summary": "$FLUID launched its DEX v2 beta, letting LPs set custom collateral and debt ranges — a fresh DeFi primitive worth watching early.",
+      "url": "https://thedefiant.io/",
       "token": "$FLUID"
     },
     {
-      "headline": "$XMR Privacy Scare: Wagyu Leak Exposes Swap Records",
-      "summary": "Wagyu confirmed a data leak exposing 4,580 orders linking public-chain deposits, $XMR destinations and client IPs — a blow for Monero swap privacy.",
-      "url": "https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records",
-      "token": "$XMR"
-    },
-    {
-      "headline": "Polymarket Probes Suspicious Israeli Election Trades",
-      "summary": "Polymarket is investigating suspicious Israeli election trades after some accounts cashed out over $100K. Rules allow wallet bans and law-enforcement referrals.",
-      "url": "https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades",
-      "token": "Polymarket"
+      "headline": "Stellar's Thruput Benchmark Hints at $XLM Scaling Push",
+      "summary": "Stellar unveiled Thruput with multi-million-transaction execution benchmarks, teeing up a scalability narrative for $XLM.",
+      "url": "https://newsbtc.com/",
+      "token": "$XLM"
     }
   ]
 }
