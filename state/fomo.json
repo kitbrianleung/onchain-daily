@@ -1,61 +1,61 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "most_held": [
-    {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 45388284.80016243,
-      "pct": -10.2534
-    },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 111921986.35318975,
-      "pct": -9.2352
+      "mcap": 105778874.83370796,
+      "pct": -5.8443
+    },
+    {
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 38376991.50770179,
+      "pct": -16.6399
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 73190995.41567615,
-      "pct": 3.9339
+      "mcap": 63006570.26244265,
+      "pct": -13.8942
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 186285513.146113,
-      "pct": -3.8696
-    },
-    {
-      "name": "Anonymous Cat",
-      "symbol": "ZCAT",
-      "label": "ZCAT",
-      "full": "Anonymous Cat (ZCAT)",
-      "mcap": 44018380.69454885,
-      "pct": -10.1765
+      "mcap": 159635196.43861732,
+      "pct": -14.6434
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 14864949.109872911,
-      "pct": 120.9911
+      "mcap": 14133252.496921826,
+      "pct": -6.1616
+    },
+    {
+      "name": "Anonymous Cat",
+      "symbol": "ZCAT",
+      "label": "ZCAT",
+      "full": "Anonymous Cat (ZCAT)",
+      "mcap": 38576381.55522719,
+      "pct": -13.8843
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 63486569.283384554,
-      "pct": -8.2864
+      "mcap": 51557945.26461503,
+      "pct": -18.5182
     }
   ],
   "trending": [
@@ -64,58 +64,58 @@
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 14865291.107125431,
-      "pct": 122.0687
+      "mcap": 14129136.693044564,
+      "pct": -5.7862
     },
     {
-      "name": "Backers",
-      "symbol": "BACKERS",
-      "label": "BACKERS",
-      "full": "Backers",
-      "mcap": 515198.7026071688,
-      "pct": 70.8832
-    },
-    {
-      "name": "FLOAT",
-      "symbol": "FLOAT",
-      "label": "FLOAT",
-      "full": "FLOAT",
-      "mcap": 1710871.3193137872,
-      "pct": 7163.5474
-    },
-    {
-      "name": "Gang",
-      "symbol": "GANG",
-      "label": "GANG",
-      "full": "Gang",
-      "mcap": 4941087.039720709,
-      "pct": -31.7786
-    },
-    {
-      "name": "STONKLANA",
-      "symbol": "STONKLANA",
-      "label": "STONKLANA",
-      "full": "STONKLANA",
-      "mcap": 685077.9886193257,
-      "pct": 28433.2374
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 38398693.7958663,
+      "pct": -16.6399
     },
     {
       "name": "JAGENT",
       "symbol": "JAGENT",
       "label": "JAGENT",
       "full": "JAGENT",
-      "mcap": 2511023.8326012446,
-      "pct": 7855.2207
+      "mcap": 7487722.450598749,
+      "pct": 413.709
     },
     {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 111851146.47892109,
-      "pct": -5.0136
+      "name": "HYPER INU",
+      "symbol": "HI",
+      "label": "HI",
+      "full": "HYPER INU (HI)",
+      "mcap": 943358.417192847,
+      "pct": 22970.4401
+    },
+    {
+      "name": "Funds Are Safu",
+      "symbol": "SAFU",
+      "label": "SAFU",
+      "full": "Funds Are Safu (SAFU)",
+      "mcap": 1818495.803984462,
+      "pct": 221.6738
+    },
+    {
+      "name": "Nigga Its Over",
+      "symbol": "NIO",
+      "label": "NIO",
+      "full": "Nigga Its Over (NIO)",
+      "mcap": 1272208.684116738,
+      "pct": 250.7098
+    },
+    {
+      "name": "Fistbump",
+      "symbol": "FIST",
+      "label": "FIST",
+      "full": "Fistbump (FIST)",
+      "mcap": 43902797.52547667,
+      "pct": 3.3255
     }
   ],
-  "story_image": "fomo/2026-10-29-story.jpg",
-  "post_image": "fomo/2026-10-29-post.jpg"
+  "story_image": "fomo/2026-10-30-story.jpg",
+  "post_image": "fomo/2026-10-30-post.jpg"
 }
