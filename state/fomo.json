@@ -1,121 +1,121 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "most_held": [
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 105778874.83370796,
-      "pct": -5.8443
-    },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 38376991.50770179,
-      "pct": -16.6399
+      "mcap": 40607152.06308593,
+      "pct": 6.8925
+    },
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 101091220.23026094,
+      "pct": -4.0252
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 63006570.26244265,
-      "pct": -13.8942
+      "mcap": 60689207.95954422,
+      "pct": -2.5826
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 159635196.43861732,
-      "pct": -14.6434
-    },
-    {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 14133252.496921826,
-      "pct": -6.1616
+      "mcap": 152865568.2279103,
+      "pct": -5.3767
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 38576381.55522719,
-      "pct": -13.8843
+      "mcap": 41682981.245243825,
+      "pct": 6.6552
+    },
+    {
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 9928081.580781026,
+      "pct": -29.5739
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 51557945.26461503,
-      "pct": -18.5182
+      "mcap": 51172591.80752817,
+      "pct": 4.392
     }
   ],
   "trending": [
     {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 14129136.693044564,
-      "pct": -5.7862
+      "name": "Fistbump",
+      "symbol": "FIST",
+      "label": "FIST",
+      "full": "Fistbump (FIST)",
+      "mcap": 51280493.24786546,
+      "pct": 16.3635
     },
     {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 38398693.7958663,
-      "pct": -16.6399
+      "name": "",
+      "symbol": "",
+      "label": "?",
+      "full": "?",
+      "mcap": 252735.79069497774,
+      "pct": 1112.8737
+    },
+    {
+      "name": "Gang",
+      "symbol": "GANG",
+      "label": "GANG",
+      "full": "Gang",
+      "mcap": 3737091.5284635546,
+      "pct": 68.3491
     },
     {
       "name": "JAGENT",
       "symbol": "JAGENT",
       "label": "JAGENT",
       "full": "JAGENT",
-      "mcap": 7487722.450598749,
-      "pct": 413.709
+      "mcap": 6382915.418657434,
+      "pct": -21.2649
     },
     {
-      "name": "HYPER INU",
-      "symbol": "HI",
-      "label": "HI",
-      "full": "HYPER INU (HI)",
-      "mcap": 943358.417192847,
-      "pct": 22970.4401
+      "name": "LUMI",
+      "symbol": "LUMI",
+      "label": "LUMI",
+      "full": "LUMI",
+      "mcap": 484481.1875798355,
+      "pct": 15734.7883
     },
     {
-      "name": "Funds Are Safu",
-      "symbol": "SAFU",
-      "label": "SAFU",
-      "full": "Funds Are Safu (SAFU)",
-      "mcap": 1818495.803984462,
-      "pct": 221.6738
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 9837337.818941394,
+      "pct": -31.4898
     },
     {
-      "name": "Nigga Its Over",
-      "symbol": "NIO",
-      "label": "NIO",
-      "full": "Nigga Its Over (NIO)",
-      "mcap": 1272208.684116738,
-      "pct": 250.7098
-    },
-    {
-      "name": "Fistbump",
-      "symbol": "FIST",
-      "label": "FIST",
-      "full": "Fistbump (FIST)",
-      "mcap": 43902797.52547667,
-      "pct": 3.3255
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "label": "MASK",
+      "full": "Nullmask (MASK)",
+      "mcap": 23852475.09457994,
+      "pct": -15.9541
     }
   ],
-  "story_image": "fomo/2026-10-30-story.jpg",
-  "post_image": "fomo/2026-10-30-post.jpg"
+  "story_image": "fomo/2026-10-31-story.jpg",
+  "post_image": "fomo/2026-10-31-post.jpg"
 }
