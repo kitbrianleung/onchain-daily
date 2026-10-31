@@ -2,34 +2,34 @@
   "date": "31 OCT 2026",
   "items": [
     {
-      "headline": "$FUN Crashes 95% as Binance Exploiter Dumps on Uniswap",
-      "summary": "$FUN plunged 95% in its Uniswap pool as the Binance exploiter's main address sold, also dumping $RAD and $OGN. About 580.8M unsold $FUN was moved back to a collection wallet.",
-      "url": "https://thedefiant.io/news/markets/fun-plunges-95-in-uniswap-pool-as-binance-exploiter-sells",
-      "token": "$FUN"
+      "headline": "Uniswap Opens $UNI Fee Tool TJAR to Apps, Robinhood First",
+      "summary": "Uniswap Labs opened its TJAR fee-conversion tool to external apps, with Robinhood as the first integration. A fresh DeFi plumbing play for $UNI's ecosystem.",
+      "url": "https://theblock.co/",
+      "token": "$UNI"
     },
     {
-      "headline": "$SNX Recovered: Synthetix Secures 8.4M Stolen Tokens",
-      "summary": "Synthetix recovered 8.4 million $SNX stolen in the Binance hack. The protocol DAO says the tokens are secured in its Safe and will be returned when Binance requests them.",
-      "url": "https://thedefiant.io/news/hacks/synthetix-recovers-8-4-million-snx-stolen-in-binance-hack",
-      "token": "$SNX"
+      "headline": "13 Fake $JPMD Tokens Pop Up After JPMorgan Launch",
+      "summary": "A wave of JPMD imitator tokens appeared alongside JPMorgan's Ethereum rollout. Traders should beware of lookalike $JPMD scams riding the news.",
+      "url": "https://thedefiant.io/converge/13-jpmd-lookalikes-emerge-jpmorgan-ethereum-launch",
+      "token": "$JPMD"
     },
     {
-      "headline": "$IPX Unveils KPI-Gated Escrow for Onchain Crowdfunding",
-      "summary": "$IPX detailed a patent-pending KPI-Gated Escrow tying crowdfunding and sponsorship payments to platform milestones, planned for its November 15, 2026 launch.",
-      "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-kpi-gated-escrow-onchain-crowdfunding-sponsorship",
-      "token": "$IPX"
+      "headline": "JPMorgan Brings $MONY Tokenized Fund to Solana",
+      "summary": "JPMorgan is expanding its $MONY and JLTXX tokenized funds onto Solana, pushing institutional RWA deeper into altcoin territory.",
+      "url": "https://thedefiant.io/converge/jpmorgan-brings-mony-jltxx-tokenized-funds-solana",
+      "token": "$MONY"
     },
     {
-      "headline": "$SCR Migration: Scroll Plans Permissioned AI Network",
-      "summary": "Scroll detailed a permissioned AI network plan and an Ethereum token migration for $SCR, with the broader transition targeting Q2 2027. Users will need separate plans for DeFi positions.",
-      "url": "https://thedefiant.io/news/blockchains/scroll-details-permissioned-ai-network-plan-and-ethereum-token-migration",
-      "token": "$SCR"
+      "headline": "$POL Extends Bank-to-Stablecoin Stack to Solana",
+      "summary": "Polygon linked Solana wallets to bank funding and payouts after its Tron support and Coinme acquisition. A cross-chain payments push for $POL.",
+      "url": "https://thedefiant.io/converge/polygon-extends-bank-to-stablecoin-payment-stack-solana",
+      "token": "$POL"
     },
     {
-      "headline": "$JUP Lend Hit by Liquidity Crunch, Withdrawals Delayed",
-      "summary": "Jupiter Lend says a liquidity crunch is delaying withdrawals, with just 3.35 USDC immediately withdrawable against 418.5M USDC in Earn deposit claims. $JUP holders are watching closely.",
-      "url": "https://thedefiant.io/news/defi/jupiter-lend-says-liquidity-crunch-is-delaying-withdrawals",
-      "token": "$JUP"
+      "headline": "$SOL Lands Tokenized Corporate Payment Drafts",
+      "summary": "PrimeRevenue is bringing tokenized corporate payment drafts to Solana, adding a new real-world DeFi use case for $SOL's ecosystem.",
+      "url": "https://thedefiant.io/converge/primerevenue-announces-solana-tokenization-corporate-payment-drafts",
+      "token": "$SOL"
     }
   ]
 }
