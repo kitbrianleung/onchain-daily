@@ -1,35 +1,35 @@
 {
-  "date": "31 OCT 2026",
+  "date": "01 NOV 2026",
   "items": [
     {
-      "headline": "Uniswap Opens $UNI Fee Tool TJAR to Apps, Robinhood First",
-      "summary": "Uniswap Labs opened its TJAR fee-conversion tool to external apps, with Robinhood as the first integration. A fresh DeFi plumbing play for $UNI's ecosystem.",
-      "url": "https://theblock.co/",
-      "token": "$UNI"
+      "headline": "b14g Hack Drains 97M $CORE, Contracts Paused",
+      "summary": "Bitcoin staking protocol b14g says 97 million $CORE was drained in an exploit. Exchanges froze ~9M $CORE and staked BTC was unaffected.",
+      "url": "https://thedefiant.io/news/hacks/b14g-says-97-million-core-drained-pauses-contracts",
+      "token": "$CORE"
     },
     {
-      "headline": "13 Fake $JPMD Tokens Pop Up After JPMorgan Launch",
-      "summary": "A wave of JPMD imitator tokens appeared alongside JPMorgan's Ethereum rollout. Traders should beware of lookalike $JPMD scams riding the news.",
-      "url": "https://thedefiant.io/converge/13-jpmd-lookalikes-emerge-jpmorgan-ethereum-launch",
-      "token": "$JPMD"
+      "headline": "$IPX Token Launches on Base Nov 17 With Atomic Router",
+      "summary": "IPX unveiled its patent-pending atomic router with protected bonding-curve capital ahead of the $IPX token launch on Base Nov 17, plus Coinbase-funded rewards.",
+      "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-patent-pending-atomic-router-bonding-curve-graduation",
+      "token": "$IPX"
     },
     {
-      "headline": "JPMorgan Brings $MONY Tokenized Fund to Solana",
-      "summary": "JPMorgan is expanding its $MONY and JLTXX tokenized funds onto Solana, pushing institutional RWA deeper into altcoin territory.",
-      "url": "https://thedefiant.io/converge/jpmorgan-brings-mony-jltxx-tokenized-funds-solana",
-      "token": "$MONY"
+      "headline": "$OGN Sold at 79% Discount in Binance Hack Chaos",
+      "summary": "Origin pulled 46.74M $OGN from its Curve pool after the Binance attacker dumped $OGN at an average 79% discount. Liquidity has since been restored.",
+      "url": "https://thedefiant.io/news/defi/origin-restores-ogn-liquidity-after-pulling-funds-during-binance-incident",
+      "token": "$OGN"
     },
     {
-      "headline": "$POL Extends Bank-to-Stablecoin Stack to Solana",
-      "summary": "Polygon linked Solana wallets to bank funding and payouts after its Tron support and Coinme acquisition. A cross-chain payments push for $POL.",
-      "url": "https://thedefiant.io/converge/polygon-extends-bank-to-stablecoin-payment-stack-solana",
-      "token": "$POL"
+      "headline": "Polymarket Resumes After $2.65M Exploit",
+      "summary": "Polymarket lost over $2.5M in minutes via a compromised third-party provider, went cancel-only, and has now resumed trading.",
+      "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
+      "token": "Polymarket"
     },
     {
-      "headline": "$SOL Lands Tokenized Corporate Payment Drafts",
-      "summary": "PrimeRevenue is bringing tokenized corporate payment drafts to Solana, adding a new real-world DeFi use case for $SOL's ecosystem.",
-      "url": "https://thedefiant.io/converge/primerevenue-announces-solana-tokenization-corporate-payment-drafts",
-      "token": "$SOL"
+      "headline": "$1INCH Slides 13% After Binance Hack Exposure",
+      "summary": "$1INCH fell 13%, underperforming BTC and ETH, after 1inch confirmed its token was among assets stolen in the Binance hack.",
+      "url": "https://thedefiant.io/news/markets/1inch-slides-13-extending-losses-beyond-bitcoin-and-ether",
+      "token": "$1INCH"
     }
   ]
 }
