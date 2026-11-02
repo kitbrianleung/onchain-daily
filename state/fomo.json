@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 40904937.48684311,
-      "pct": 1.5621
+      "mcap": 37912194.85219993,
+      "pct": -6.7804
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 101163613.38678142,
-      "pct": -1.2772
+      "mcap": 91418662.5895127,
+      "pct": -7.3565
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 65656136.05261523,
-      "pct": 9.1525
+      "mcap": 61737492.55020138,
+      "pct": -4.9319
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 164509489.3955982,
-      "pct": 8.3787
+      "mcap": 155287917.36868504,
+      "pct": -3.9728
+    },
+    {
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 13028112.247178517,
+      "pct": 15.6641
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 37480507.12856857,
-      "pct": -8.0361
-    },
-    {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 11882926.388086507,
-      "pct": 38.7157
+      "mcap": 32974898.925275687,
+      "pct": -8.2321
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 58486208.83598377,
-      "pct": 13.2268
+      "mcap": 53004748.03449808,
+      "pct": -6.541
     }
   ],
   "trending": [
     {
-      "name": "Anakin Skywalker",
-      "symbol": "Anakin",
-      "label": "Anakin",
-      "full": "Anakin Skywalker (Anakin)",
-      "mcap": 1210177.370364493,
-      "pct": 341.1143
+      "name": "MAMESUKE",
+      "symbol": "MAMESUKE",
+      "label": "MAMESUKE",
+      "full": "MAMESUKE",
+      "mcap": 675894.9485559429,
+      "pct": 1597.6221
     },
     {
-      "name": "Gang",
-      "symbol": "GANG",
-      "label": "GANG",
-      "full": "Gang",
-      "mcap": 2947453.255513642,
-      "pct": -19.4929
-    },
-    {
-      "name": "BLUE COIN",
-      "symbol": "BLUE",
-      "label": "BLUE",
-      "full": "BLUE COIN (BLUE)",
-      "mcap": 335695.8129868621,
-      "pct": 10127.0797
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 91379626.7142601,
+      "pct": -6.6152
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 11878600.646247922,
-      "pct": 39.0902
+      "mcap": 12970652.964184929,
+      "pct": 13.0461
     },
     {
-      "name": "AudaCity",
-      "symbol": "DacityCoin",
-      "label": "DacityCoin",
-      "full": "AudaCity (DacityCoin)",
-      "mcap": 1374437.3892936565,
-      "pct": 110.0375
+      "name": "Peace Coin",
+      "symbol": "PEACE",
+      "label": "PEACE",
+      "full": "Peace Coin (PEACE)",
+      "mcap": 254369.43038437713,
+      "pct": 9211.2286
     },
     {
-      "name": "Fistbump",
-      "symbol": "FIST",
-      "label": "FIST",
-      "full": "Fistbump (FIST)",
-      "mcap": 58751754.978983805,
-      "pct": 13.4371
+      "name": "GTA6CAT",
+      "symbol": "GATO",
+      "label": "GATO",
+      "full": "GTA6CAT (GATO)",
+      "mcap": 10818246.002956282,
+      "pct": 52.9144
     },
     {
-      "name": "JAGENT",
-      "symbol": "JAGENT",
-      "label": "JAGENT",
-      "full": "JAGENT",
-      "mcap": 5910399.841305984,
-      "pct": -14.5606
+      "name": "Choo Choo",
+      "symbol": "CHOO",
+      "label": "CHOO",
+      "full": "Choo Choo (CHOO)",
+      "mcap": 1899399.288907918,
+      "pct": 91.402
+    },
+    {
+      "name": "The Black Bear",
+      "symbol": "ANSEM",
+      "label": "ANSEM",
+      "full": "The Black Bear (ANSEM)",
+      "mcap": 380344.7316068748,
+      "pct": -16.6427
     }
   ],
-  "story_image": "fomo/2026-11-01-story.jpg",
-  "post_image": "fomo/2026-11-01-post.jpg"
+  "story_image": "fomo/2026-11-02-story.jpg",
+  "post_image": "fomo/2026-11-02-post.jpg"
 }
