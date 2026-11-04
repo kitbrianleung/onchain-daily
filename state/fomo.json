@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "most_held": [
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 85279201.66980805,
-      "pct": -6.3697
+      "mcap": 95549352.12661272,
+      "pct": 13.9048
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 33033190.93258848,
-      "pct": -12.921
+      "mcap": 37164188.855432846,
+      "pct": 16.5474
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 54607312.89786301,
-      "pct": -11.7524
+      "mcap": 58541338.718875505,
+      "pct": 12.1925
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 134131981.92469758,
-      "pct": -12.6881
+      "mcap": 146049755.7072073,
+      "pct": 10.6603
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 11966078.129071347,
-      "pct": -14.9793
+      "mcap": 11189396.951637045,
+      "pct": -7.5201
+    },
+    {
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "label": "USELESS",
+      "full": "Useless Coin (USELESS)",
+      "mcap": 140296569.18593863,
+      "pct": 15.3799
     },
     {
       "name": "MarsCoin",
       "symbol": "MARSCOIN",
       "label": "MARSCOIN",
       "full": "MarsCoin",
-      "mcap": 50258050.13194618,
-      "pct": -4.9106
-    },
-    {
-      "name": "Cash Cat",
-      "symbol": "CASHCAT",
-      "label": "CASHCAT",
-      "full": "Cash Cat (CASHCAT)",
-      "mcap": 104312940.84375249,
-      "pct": 6.4269
+      "mcap": 51407611.659693755,
+      "pct": 2.5637
     }
   ],
   "trending": [
     {
-      "name": "baton",
-      "symbol": "BATON",
-      "label": "BATON",
-      "full": "baton",
-      "mcap": 3445767.184323624,
-      "pct": 4.4998
+      "name": "Percolator",
+      "symbol": "PERCOLATOR",
+      "label": "PERCOLATOR",
+      "full": "Percolator",
+      "mcap": 3762620.3041871847,
+      "pct": 29.3725
     },
     {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 85220423.56616005,
-      "pct": -6.1903
+      "name": "Nigga Its Over",
+      "symbol": "NIO",
+      "label": "NIO",
+      "full": "Nigga Its Over (NIO)",
+      "mcap": 844894.8367893687,
+      "pct": -50.0568
+    },
+    {
+      "name": "USELESS COIN",
+      "symbol": "USELESS",
+      "label": "USELESS",
+      "full": "USELESS COIN (USELESS)",
+      "mcap": 139019092.5049866,
+      "pct": 15.7055
+    },
+    {
+      "name": "JAGENT",
+      "symbol": "JAGENT",
+      "label": "JAGENT",
+      "full": "JAGENT",
+      "mcap": 3039551.0851054247,
+      "pct": -6.969
+    },
+    {
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "label": "MASK",
+      "full": "Nullmask (MASK)",
+      "mcap": 21909087.87366718,
+      "pct": 5.3674
+    },
+    {
+      "name": "Anonymous Cat",
+      "symbol": "ZCAT",
+      "label": "ZCAT",
+      "full": "Anonymous Cat (ZCAT)",
+      "mcap": 26656216.92411018,
+      "pct": 3.8153
     },
     {
       "name": "Super Inu",
       "symbol": "SI",
       "label": "SI",
       "full": "Super Inu (SI)",
-      "mcap": 9916850.85846521,
-      "pct": -2.9553
-    },
-    {
-      "name": "GTA6DOG",
-      "symbol": "RICO",
-      "label": "RICO",
-      "full": "GTA6DOG (RICO)",
-      "mcap": 601714.263005932,
-      "pct": 28681.2988
-    },
-    {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 12005709.745651,
-      "pct": -15.0654
-    },
-    {
-      "name": "Anonymous Dog",
-      "symbol": "XDG",
-      "label": "XDG",
-      "full": "Anonymous Dog (XDG)",
-      "mcap": 344739.303208761,
-      "pct": 1320.3086
-    },
-    {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 33010056.566479225,
-      "pct": -12.921
+      "mcap": 10109687.142832106,
+      "pct": 6.6869
     }
   ],
-  "story_image": "fomo/2026-11-03-story.jpg",
-  "post_image": "fomo/2026-11-03-post.jpg"
+  "story_image": "fomo/2026-11-04-story.jpg",
+  "post_image": "fomo/2026-11-04-post.jpg"
 }
