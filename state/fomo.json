@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "most_held": [
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 95549352.12661272,
-      "pct": 13.9048
-    },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 37164188.855432846,
-      "pct": 16.5474
+      "mcap": 38597491.26159649,
+      "pct": 5.6145
+    },
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 96567379.15705992,
+      "pct": 1.5386
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 58541338.718875505,
-      "pct": 12.1925
+      "mcap": 53255390.21594827,
+      "pct": -12.0689
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 146049755.7072073,
-      "pct": 10.6603
+      "mcap": 143386729.53171384,
+      "pct": -1.7829
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 11189396.951637045,
-      "pct": -7.5201
+      "mcap": 10866389.327572081,
+      "pct": -1.9723
     },
     {
       "name": "Useless Coin",
       "symbol": "USELESS",
       "label": "USELESS",
       "full": "Useless Coin (USELESS)",
-      "mcap": 140296569.18593863,
-      "pct": 15.3799
+      "mcap": 140593488.8848872,
+      "pct": 1.553
     },
     {
-      "name": "MarsCoin",
-      "symbol": "MARSCOIN",
-      "label": "MARSCOIN",
-      "full": "MarsCoin",
-      "mcap": 51407611.659693755,
-      "pct": 2.5637
+      "name": "Cash Cat",
+      "symbol": "CASHCAT",
+      "label": "CASHCAT",
+      "full": "Cash Cat (CASHCAT)",
+      "mcap": 102342382.18028584,
+      "pct": -3.1538
     }
   ],
   "trending": [
     {
-      "name": "Percolator",
-      "symbol": "PERCOLATOR",
-      "label": "PERCOLATOR",
-      "full": "Percolator",
-      "mcap": 3762620.3041871847,
-      "pct": 29.3725
+      "name": "baton",
+      "symbol": "BATON",
+      "label": "BATON",
+      "full": "baton",
+      "mcap": 6316694.465867683,
+      "pct": 49.1694
     },
     {
-      "name": "Nigga Its Over",
-      "symbol": "NIO",
-      "label": "NIO",
-      "full": "Nigga Its Over (NIO)",
-      "mcap": 844894.8367893687,
-      "pct": -50.0568
+      "name": "FLOAT",
+      "symbol": "FLOAT",
+      "label": "FLOAT",
+      "full": "FLOAT",
+      "mcap": 3523222.4115256947,
+      "pct": 75.1034
     },
     {
-      "name": "USELESS COIN",
-      "symbol": "USELESS",
-      "label": "USELESS",
-      "full": "USELESS COIN (USELESS)",
-      "mcap": 139019092.5049866,
-      "pct": 15.7055
+      "name": "Commander Vrax",
+      "symbol": "VRAX",
+      "label": "VRAX",
+      "full": "Commander Vrax (VRAX)",
+      "mcap": 5731383.857742239,
+      "pct": 23.8402
     },
     {
-      "name": "JAGENT",
-      "symbol": "JAGENT",
-      "label": "JAGENT",
-      "full": "JAGENT",
-      "mcap": 3039551.0851054247,
-      "pct": -6.969
+      "name": "Wofl",
+      "symbol": "WOFL",
+      "label": "WOFL",
+      "full": "Wofl",
+      "mcap": 439631.66165421525,
+      "pct": -1.8885
     },
     {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 21909087.87366718,
-      "pct": 5.3674
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 10941841.081374345,
+      "pct": -1.7827
     },
     {
-      "name": "Anonymous Cat",
-      "symbol": "ZCAT",
-      "label": "ZCAT",
-      "full": "Anonymous Cat (ZCAT)",
-      "mcap": 26656216.92411018,
-      "pct": 3.8153
+      "name": "Leeroy Jenkins",
+      "symbol": "LEEROY",
+      "label": "LEEROY",
+      "full": "Leeroy Jenkins (LEEROY)",
+      "mcap": 541562.6347439826,
+      "pct": 15152.4439
     },
     {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 10109687.142832106,
-      "pct": 6.6869
+      "name": "CORLA",
+      "symbol": "CORLA",
+      "label": "CORLA",
+      "full": "CORLA",
+      "mcap": 786326.6206588353,
+      "pct": 810.7298
     }
   ],
-  "story_image": "fomo/2026-11-04-story.jpg",
-  "post_image": "fomo/2026-11-04-post.jpg"
+  "story_image": "fomo/2026-11-05-story.jpg",
+  "post_image": "fomo/2026-11-05-post.jpg"
 }
