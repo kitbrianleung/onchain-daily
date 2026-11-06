@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 38597491.26159649,
-      "pct": 5.6145
+      "mcap": 33253778.247185342,
+      "pct": -16.1584
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 96567379.15705992,
-      "pct": 1.5386
+      "mcap": 80822683.38722691,
+      "pct": -18.2624
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 53255390.21594827,
-      "pct": -12.0689
+      "mcap": 40847869.462144375,
+      "pct": -24.4785
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 143386729.53171384,
-      "pct": -1.7829
+      "mcap": 128544759.54422927,
+      "pct": -11.9343
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 10866389.327572081,
-      "pct": -1.9723
+      "mcap": 10445801.591402153,
+      "pct": -5.4009
     },
     {
       "name": "Useless Coin",
       "symbol": "USELESS",
       "label": "USELESS",
       "full": "Useless Coin (USELESS)",
-      "mcap": 140593488.8848872,
-      "pct": 1.553
+      "mcap": 134549065.95420957,
+      "pct": -3.8767
     },
     {
-      "name": "Cash Cat",
-      "symbol": "CASHCAT",
-      "label": "CASHCAT",
-      "full": "Cash Cat (CASHCAT)",
-      "mcap": 102342382.18028584,
-      "pct": -3.1538
+      "name": "MarsCoin",
+      "symbol": "MARSCOIN",
+      "label": "MARSCOIN",
+      "full": "MarsCoin",
+      "mcap": 45064838.50228477,
+      "pct": -9.9013
     }
   ],
   "trending": [
     {
+      "name": "Rocco",
+      "symbol": "Rocco",
+      "label": "Rocco",
+      "full": "Rocco",
+      "mcap": 749760.2027761148,
+      "pct": 22970.1773
+    },
+    {
+      "name": "Genius",
+      "symbol": "GENIUS",
+      "label": "GENIUS",
+      "full": "Genius",
+      "mcap": 268845990.827501,
+      "pct": 0.4822
+    },
+    {
+      "name": "GREEN MORNING",
+      "symbol": "GM",
+      "label": "GM",
+      "full": "GREEN MORNING (GM)",
+      "mcap": 5633519.488618365,
+      "pct": 793.8444
+    },
+    {
+      "name": "coin",
+      "symbol": "coin",
+      "label": "coin",
+      "full": "coin",
+      "mcap": 310289.5806786252,
+      "pct": 12346.6062
+    },
+    {
+      "name": "Diamond",
+      "symbol": "Diamond",
+      "label": "Diamond",
+      "full": "Diamond",
+      "mcap": 310969.3300485633,
+      "pct": 8927.2624
+    },
+    {
       "name": "baton",
-      "symbol": "BATON",
-      "label": "BATON",
+      "symbol": "baton",
+      "label": "baton",
       "full": "baton",
-      "mcap": 6316694.465867683,
-      "pct": 49.1694
+      "mcap": 5317044.320532384,
+      "pct": -19.9764
     },
     {
-      "name": "FLOAT",
-      "symbol": "FLOAT",
-      "label": "FLOAT",
-      "full": "FLOAT",
-      "mcap": 3523222.4115256947,
-      "pct": 75.1034
-    },
-    {
-      "name": "Commander Vrax",
-      "symbol": "VRAX",
-      "label": "VRAX",
-      "full": "Commander Vrax (VRAX)",
-      "mcap": 5731383.857742239,
-      "pct": 23.8402
-    },
-    {
-      "name": "Wofl",
-      "symbol": "WOFL",
-      "label": "WOFL",
-      "full": "Wofl",
-      "mcap": 439631.66165421525,
-      "pct": -1.8885
-    },
-    {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 10941841.081374345,
-      "pct": -1.7827
-    },
-    {
-      "name": "Leeroy Jenkins",
-      "symbol": "LEEROY",
-      "label": "LEEROY",
-      "full": "Leeroy Jenkins (LEEROY)",
-      "mcap": 541562.6347439826,
-      "pct": 15152.4439
-    },
-    {
-      "name": "CORLA",
-      "symbol": "CORLA",
-      "label": "CORLA",
-      "full": "CORLA",
-      "mcap": 786326.6206588353,
-      "pct": 810.7298
+      "name": "Choo Choo",
+      "symbol": "CHOO",
+      "label": "CHOO",
+      "full": "Choo Choo (CHOO)",
+      "mcap": 3853905.650207165,
+      "pct": 0.3305
     }
   ],
-  "story_image": "fomo/2026-11-05-story.jpg",
-  "post_image": "fomo/2026-11-05-post.jpg"
+  "story_image": "fomo/2026-11-06-story.jpg",
+  "post_image": "fomo/2026-11-06-post.jpg"
 }
