@@ -1,35 +1,35 @@
 {
-  "date": "01 NOV 2026",
+  "date": "07 NOV 2026",
   "items": [
     {
-      "headline": "b14g Hack Drains 97M $CORE, Contracts Paused",
-      "summary": "Bitcoin staking protocol b14g says 97 million $CORE was drained in an exploit. Exchanges froze ~9M $CORE and staked BTC was unaffected.",
-      "url": "https://thedefiant.io/news/hacks/b14g-says-97-million-core-drained-pauses-contracts",
-      "token": "$CORE"
+      "headline": "$XTEN Locks Final Airdrop Rate as Xpoints End",
+      "summary": "$XTEN locks its final airdrop rate as Xpoints end, putting the token launch in focus; early testers also earned bonus points.\n#altcoins #defi #onchain #crypto #alpha #XTEN #ZEC #ONDO #INJ #GNO",
+      "url": "https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends",
+      "token": "$XTEN"
     },
     {
-      "headline": "$IPX Token Launches on Base Nov 17 With Atomic Router",
-      "summary": "IPX unveiled its patent-pending atomic router with protected bonding-curve capital ahead of the $IPX token launch on Base Nov 17, plus Coinbase-funded rewards.",
-      "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-patent-pending-atomic-router-bonding-curve-graduation",
-      "token": "$IPX"
+      "headline": "$ZEC's NU7 Goes Live, Cutting Block Times Threefold",
+      "summary": "$ZEC activates NU7 on mainnet, cutting block times threefold and removing 60% of transaction fees from circulation via its Network Sustainability Mechanism.",
+      "url": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
+      "token": "$ZEC"
     },
     {
-      "headline": "$OGN Sold at 79% Discount in Binance Hack Chaos",
-      "summary": "Origin pulled 46.74M $OGN from its Curve pool after the Binance attacker dumped $OGN at an average 79% discount. Liquidity has since been restored.",
-      "url": "https://thedefiant.io/news/defi/origin-restores-ogn-liquidity-after-pulling-funds-during-binance-incident",
-      "token": "$OGN"
+      "headline": "$ONDO Plans Tokenized Anthropic Shares From IPO Day",
+      "summary": "$ONDO plans share-backed Anthropic notes for eligible non-US investors from IPO day, expanding its tokenized stocks push beyond valuation derivatives.",
+      "url": "https://thedefiant.io/news/defi/ondo-plans-tokenized-anthropic-shares-from-ipo-day",
+      "token": "$ONDO"
     },
     {
-      "headline": "Polymarket Resumes After $2.65M Exploit",
-      "summary": "Polymarket lost over $2.5M in minutes via a compromised third-party provider, went cancel-only, and has now resumed trading.",
-      "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
-      "token": "Polymarket"
+      "headline": "$INJ Staking ETF Debuts on Nasdaq",
+      "summary": "Canary's staked $INJ ETF begins trading on Nasdaq, giving investors token exposure plus staking rewards reflected in NAV.",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
+      "token": "$INJ"
     },
     {
-      "headline": "$1INCH Slides 13% After Binance Hack Exposure",
-      "summary": "$1INCH fell 13%, underperforming BTC and ETH, after 1inch confirmed its token was among assets stolen in the Binance hack.",
-      "url": "https://thedefiant.io/news/markets/1inch-slides-13-extending-losses-beyond-bitcoin-and-ether",
-      "token": "$1INCH"
+      "headline": "$GNO's Gnosis Pay Confirms Customer Data Breach",
+      "summary": "Gnosis Pay says unauthorized access to its legacy consumer-card system exposed customer data, but funds and its enterprise platform were unaffected.",
+      "url": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
+      "token": "$GNO"
     }
   ]
 }
