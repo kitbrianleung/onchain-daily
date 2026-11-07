@@ -1,35 +1,35 @@
 {
-  "date": "07 NOV 2026",
+  "date": "08 NOV 2026",
   "items": [
     {
-      "headline": "Dormant Whale Moves $ASTER, $FF and $OP to Binance",
-      "summary": "A wallet dormant for a year shifted about $444,700 in $ASTER, $FF and $OP from MEXC to Binance, sparking talk of a coming sell or major reposition.",
-      "url": "https://www.panews.io/newsflash",
-      "token": "$ASTER"
+      "headline": "$GNO: Rotki Founder Says Gnosis Pay Leaked His Wallet Data",
+      "summary": "Rotki's founder shared a notice saying $GNO's Gnosis Pay consumer-card system was breached on Nov. 3, exposing address, card and wallet details. Funds were reportedly unaffected.",
+      "url": "https://thedefiant.io/news/security/rotki-founder-says-gnosis-pay-exposed-his-address-card-and-wallet-details",
+      "token": "$GNO"
     },
     {
-      "headline": "Coinbase Gold-Backed Loans Go Live via $MORPHO",
-      "summary": "Coinbase is offering gold-backed borrowing built on $MORPHO infrastructure, opening a fresh DeFi lending use case beyond pure crypto collateral.",
-      "url": "https://cryptobriefing.com/",
-      "token": "$MORPHO"
+      "headline": "$T: Threshold Sets tBTC Restart After Week-Long Pause",
+      "summary": "Threshold ($T) set a target to reconnect tBTC as redemptions stay paused pending operator return. Aave's $123.2M Ethereum Core tBTC reserve remains frozen.",
+      "url": "https://thedefiant.io/news/security/threshold-sets-tbtc-reconnection-target-as-week-long-pause-continues",
+      "token": "$T"
     },
     {
-      "headline": "$KAIA Stakers Told to Migrate Before Permissionless Upgrade",
-      "summary": "$KAIA is asking stakers to migrate ahead of its permissionless network upgrade, a key step as the smaller L1 opens up validator access.",
-      "url": "https://crypto.news",
-      "token": "$KAIA"
+      "headline": "$STRK Slumps 57% in Four Weeks as Starknet Rally Unwinds",
+      "summary": "$STRK extended its reversal as Starknet DeFi TVL fell to $35.8M after Extended moved settlement to Arc. The proposed Layer 1 transition is still only at research stage.",
+      "url": "https://thedefiant.io/news/markets/strk-slumps-57-in-four-weeks-as-starknet-rally-unwinds",
+      "token": "$STRK"
     },
     {
-      "headline": "$PYTH ARR Jumps 18.9% as Oracle Data Expansion Speeds Up",
-      "summary": "$PYTH's October report shows ARR up 18.9% with faster data expansion, signaling rising demand for its oracle feeds across DeFi.",
-      "url": "https://coinpedia.org",
-      "token": "$PYTH"
+      "headline": "$ALGO: Algorand Foundation Shuts Forum and Advisory Council",
+      "summary": "The Algorand Foundation is closing its forum and advisory council, pausing xGov grants on Dec. 6 and shelving Project King Safety. Bonus staking support runs through January 2028.",
+      "url": "https://thedefiant.io/news/blockchains/algorand-foundation-shuts-forum-and-advisory-council",
+      "token": "$ALGO"
     },
     {
-      "headline": "$SOL Targets Hong Kong's Tokenization Market",
-      "summary": "$SOL is positioning for Hong Kong's tokenization sector, chasing regulated RWA growth as the chain pushes deeper into institutional finance.",
-      "url": "https://u.today",
-      "token": "$SOL"
+      "headline": "$AAVE: Aave Labs Buys Avon Team in Fixed-Rate Push",
+      "summary": "Aave Labs acquired Avon's team, lending protocols and onchain order book to build fixed-rate lending for $AAVE. No first market or launch date has been named.",
+      "url": "https://thedefiant.io/news/defi/aave-labs-acquires-avon-team-to-develop-fixed-rate-lending",
+      "token": "$AAVE"
     }
   ]
 }
