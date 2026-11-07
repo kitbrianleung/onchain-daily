@@ -2,34 +2,34 @@
   "date": "07 NOV 2026",
   "items": [
     {
-      "headline": "$XTEN Locks Final Airdrop Rate as Xpoints End",
-      "summary": "$XTEN locks its final airdrop rate as Xpoints end, putting the token launch in focus; early testers also earned bonus points.\n#altcoins #defi #onchain #crypto #alpha #XTEN #ZEC #ONDO #INJ #GNO",
-      "url": "https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends",
-      "token": "$XTEN"
+      "headline": "Dormant Whale Moves $ASTER, $FF and $OP to Binance",
+      "summary": "A wallet dormant for a year shifted about $444,700 in $ASTER, $FF and $OP from MEXC to Binance, sparking talk of a coming sell or major reposition.",
+      "url": "https://www.panews.io/newsflash",
+      "token": "$ASTER"
     },
     {
-      "headline": "$ZEC's NU7 Goes Live, Cutting Block Times Threefold",
-      "summary": "$ZEC activates NU7 on mainnet, cutting block times threefold and removing 60% of transaction fees from circulation via its Network Sustainability Mechanism.",
-      "url": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
-      "token": "$ZEC"
+      "headline": "Coinbase Gold-Backed Loans Go Live via $MORPHO",
+      "summary": "Coinbase is offering gold-backed borrowing built on $MORPHO infrastructure, opening a fresh DeFi lending use case beyond pure crypto collateral.",
+      "url": "https://cryptobriefing.com/",
+      "token": "$MORPHO"
     },
     {
-      "headline": "$ONDO Plans Tokenized Anthropic Shares From IPO Day",
-      "summary": "$ONDO plans share-backed Anthropic notes for eligible non-US investors from IPO day, expanding its tokenized stocks push beyond valuation derivatives.",
-      "url": "https://thedefiant.io/news/defi/ondo-plans-tokenized-anthropic-shares-from-ipo-day",
-      "token": "$ONDO"
+      "headline": "$KAIA Stakers Told to Migrate Before Permissionless Upgrade",
+      "summary": "$KAIA is asking stakers to migrate ahead of its permissionless network upgrade, a key step as the smaller L1 opens up validator access.",
+      "url": "https://crypto.news",
+      "token": "$KAIA"
     },
     {
-      "headline": "$INJ Staking ETF Debuts on Nasdaq",
-      "summary": "Canary's staked $INJ ETF begins trading on Nasdaq, giving investors token exposure plus staking rewards reflected in NAV.",
-      "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
-      "token": "$INJ"
+      "headline": "$PYTH ARR Jumps 18.9% as Oracle Data Expansion Speeds Up",
+      "summary": "$PYTH's October report shows ARR up 18.9% with faster data expansion, signaling rising demand for its oracle feeds across DeFi.",
+      "url": "https://coinpedia.org",
+      "token": "$PYTH"
     },
     {
-      "headline": "$GNO's Gnosis Pay Confirms Customer Data Breach",
-      "summary": "Gnosis Pay says unauthorized access to its legacy consumer-card system exposed customer data, but funds and its enterprise platform were unaffected.",
-      "url": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
-      "token": "$GNO"
+      "headline": "$SOL Targets Hong Kong's Tokenization Market",
+      "summary": "$SOL is positioning for Hong Kong's tokenization sector, chasing regulated RWA growth as the chain pushes deeper into institutional finance.",
+      "url": "https://u.today",
+      "token": "$SOL"
     }
   ]
 }
