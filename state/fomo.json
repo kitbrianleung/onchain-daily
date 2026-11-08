@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 32406432.800315093,
-      "pct": -1.0771
+      "mcap": 30436534.808418334,
+      "pct": -6.3678
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 76872012.57188825,
-      "pct": -5.605
-    },
-    {
-      "name": "Artificial Inu",
-      "symbol": "AI",
-      "label": "AI",
-      "full": "Artificial Inu (AI)",
-      "mcap": 39051379.25181242,
-      "pct": -1.1693
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "label": "PONS",
-      "full": "Pons",
-      "mcap": 128153768.2805703,
-      "pct": 0.3353
+      "mcap": 54122138.39330952,
+      "pct": -29.5987
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 12017659.57682519,
-      "pct": 18.1155
+      "mcap": 13454726.398191072,
+      "pct": 11.6872
+    },
+    {
+      "name": "Artificial Inu",
+      "symbol": "AI",
+      "label": "AI",
+      "full": "Artificial Inu (AI)",
+      "mcap": 27419076.885059275,
+      "pct": -30.2434
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "label": "PONS",
+      "full": "Pons",
+      "mcap": 112194569.23099233,
+      "pct": -13.0544
+    },
+    {
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "label": "USELESS",
+      "full": "Useless Coin (USELESS)",
+      "mcap": 133467201.14098462,
+      "pct": 0.1292
     },
     {
       "name": "Orbio.so",
       "symbol": "ORBIO",
       "label": "ORBIO",
       "full": "Orbio.so (ORBIO)",
-      "mcap": 34630274.48819505,
-      "pct": 31.3662
-    },
-    {
-      "name": "Useless Coin",
-      "symbol": "USELESS",
-      "label": "USELESS",
-      "full": "Useless Coin (USELESS)",
-      "mcap": 131547269.14062151,
-      "pct": -2.5144
+      "mcap": 29777209.72087898,
+      "pct": -13.4815
     }
   ],
   "trending": [
     {
-      "name": "GREEN MORNING",
-      "symbol": "GM",
-      "label": "GM",
-      "full": "GREEN MORNING (GM)",
-      "mcap": 6203676.501332526,
-      "pct": 34.0339
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "label": "CLAUDIA",
+      "full": "Claudia",
+      "mcap": 7833113.40969104,
+      "pct": 313.8214
     },
     {
-      "name": "BagsPay",
-      "symbol": "BAGSPAY",
-      "label": "BAGSPAY",
-      "full": "BagsPay",
-      "mcap": 2577669.9071242176,
-      "pct": 184.5007
-    },
-    {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 32430542.468725823,
-      "pct": -1.0239
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 13455056.296024887,
+      "pct": 11.6885
     },
     {
       "name": "FLOAT",
       "symbol": "FLOAT",
       "label": "FLOAT",
       "full": "FLOAT",
-      "mcap": 5447969.191913339,
-      "pct": 89.9685
+      "mcap": 11113037.893637916,
+      "pct": 103.7466
     },
     {
-      "name": "Useless Coin",
-      "symbol": "USELESS",
-      "label": "USELESS",
-      "full": "Useless Coin (USELESS)",
-      "mcap": 131642558.6259736,
-      "pct": -2.331
+      "name": "SHIB AGENT",
+      "symbol": "SHIB",
+      "label": "SHIB",
+      "full": "SHIB AGENT (SHIB)",
+      "mcap": 1692165.4687227402,
+      "pct": 817.5342
     },
     {
-      "name": "Relay",
-      "symbol": "RELAY",
-      "label": "RELAY",
-      "full": "Relay",
-      "mcap": 477800.8236142848,
-      "pct": 11547.7137
+      "name": "Gang",
+      "symbol": "GANG",
+      "label": "GANG",
+      "full": "Gang",
+      "mcap": 2859093.6467570746,
+      "pct": 21.6003
     },
     {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 17025321.25137682,
-      "pct": 5.5268
+      "name": "APU",
+      "symbol": "APU",
+      "label": "APU",
+      "full": "APU",
+      "mcap": 368717.47655029595,
+      "pct": 2193.3038
+    },
+    {
+      "name": "Gargantuan Cat",
+      "symbol": "MAGGIE",
+      "label": "MAGGIE",
+      "full": "Gargantuan Cat (MAGGIE)",
+      "mcap": 220396.77568193202,
+      "pct": 7226.5368
     }
   ],
-  "story_image": "fomo/2026-11-07-story.jpg",
-  "post_image": "fomo/2026-11-07-post.jpg"
+  "story_image": "fomo/2026-11-08-story.jpg",
+  "post_image": "fomo/2026-11-08-post.jpg"
 }
