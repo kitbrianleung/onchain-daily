@@ -1,35 +1,35 @@
 {
-  "date": "08 NOV 2026",
+  "date": "09 NOV 2026",
   "items": [
     {
-      "headline": "$ATOM Wallets Drained? 2,266 Staked Tokens Moved",
-      "summary": "Cosmos saw 2,266 staked $ATOM moved from six accounts, with one delegator reporting theft. Web3Auth claims some transfers are protective recoveries.",
-      "url": "https://thedefiant.io/news/hacks/cosmos-batch-moves-2-266-staked-atom-from-six-accounts",
+      "headline": "$HYPE whale opens $26M leveraged long-short",
+      "summary": "A Tornado Cash-funded wallet moved onchain and built a $26M leveraged position on Hyperliquid, pairing a major long with a short.",
+      "url": "https://thedefiant.io/news/hacks/tornado-cash-funded-wallet-builds-26-million-bitcoin-ether-trade",
+      "token": "$HYPE"
+    },
+    {
+      "headline": "$ATOM wallets hit as Keplr confirms breach",
+      "summary": "Keplr confirmed Web3Auth recovery addresses after a wallet breach tied to a six-account Cosmos Hub batch of 2,265 staked $ATOM.",
+      "url": "https://thedefiant.io/news/security/keplr-confirms-web3auth-recovery-addresses-after-wallet-breach",
       "token": "$ATOM"
     },
     {
-      "headline": "$SKY TVL Slides 15% as $USDS Supply Shrinks",
-      "summary": "Sky's TVL fell 15% in a week while $USDS supply contracted to $5.59B. The savings rate now sits at 3.80% per governance.",
-      "url": "https://thedefiant.io/news/defi/sky-tvl-falls-15-in-a-week-as-usds-supply-contracts",
-      "token": "$SKY"
+      "headline": "$STX tops Bitcoin layers with $88.9M DeFi TVL",
+      "summary": "Stacks led $BTC-layer networks in Q3 DeFi TVL at $88.9M, putting $STX back on the BTCFi radar.",
+      "url": "https://cryptobriefing.com/stacks-bitcoin-layers-q3-defi-tvl/",
+      "token": "$STX"
     },
     {
-      "headline": "Robinhood Chain Mainnet Goes Live on $ARB Stack",
-      "summary": "Robinhood opened its Arbitrum-based L2 publicly with stock tokens, Morpho-powered lending and agentic trading, eyeing Canada, Singapore and UK expansion.",
-      "url": "https://thedefiant.io/news/robinhood-launches-chain-mainnet-stock-tokens-onchain-lending-agentic-trading",
-      "token": "$ARB"
+      "headline": "Roger Ver $BCH buy? $163K swap raises eyebrows",
+      "summary": "A suspicious $163K swap revived talk that Roger Ver is accumulating $BCH again, putting whale-watchers on alert.",
+      "url": "https://u.today/roger-ver-buying-bitcoin-cash-again-suspicious-163000-swap-raises-eyebrows",
+      "token": "$BCH"
     },
     {
-      "headline": "Bullish Picks $APT for Tokenized Shares Push",
-      "summary": "Bullish chose Solana, Aptos and Ethereum for tokenized shares. $BLSH already trades tokenized on Solana, with $APT and ETH launches undated.",
-      "url": "https://thedefiant.io/news/bullish-picks-solana-aptos-ethereum-tokenized-shares",
-      "token": "$APT"
-    },
-    {
-      "headline": "13 $JPMD Copycat Tokens Pop Up After JPMorgan Launch",
-      "summary": "A wave of $JPMD lookalike tokens emerged alongside JPMorgan's Ethereum-based deposit token rollout — traders beware of fakes.",
-      "url": "https://thedefiant.io/news/13-jpmd-lookalikes-emerge-jpmorgan-ethereum-launch",
-      "token": "$JPMD"
+      "headline": "$SHIB community seeks answers as Shibarium goes quiet",
+      "summary": "Shibarium’s official account went silent, unsettling $SHIB holders and sparking fresh questions about network communications.",
+      "url": "https://u.today/shibarium-network-account-goes-silent-as-shib-community-seeks-answers",
+      "token": "$SHIB"
     }
   ]
 }
