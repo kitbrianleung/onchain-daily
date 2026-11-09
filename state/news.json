@@ -1,35 +1,35 @@
 {
-  "date": "09 NOV 2026",
+  "date": "10 NOV 2026",
   "items": [
     {
-      "headline": "Hyperliquid Whale's $ETH Long Wiped Out Completely",
-      "summary": "A Hyperliquid whale's 56,667-$ETH long was fully liquidated, leaving the tracked accounts with lifetime losses near $44.8M after earlier trimming from 93,184 ETH.",
-      "url": "https://thedefiant.io/news/markets/hyperliquid-whale-s-56-667-eth-long-fully-liquidated",
-      "token": "$ETH"
+      "headline": "$IRIS Brings Fixed-Rate Borrowing to SparkLend Today",
+      "summary": "$IRIS goes live Nov. 10 with fixed-rate loans on SparkLend, letting borrowers set custom durations while solvers post capital to absorb rate gaps.",
+      "url": "https://thedefiant.io/news/defi/iris-sets-nov-10-launch-for-fixed-rate-borrowing-on-sparklend",
+      "token": "$IRIS"
     },
     {
-      "headline": "$ZEC Explained: How Shielded Transactions Work",
-      "summary": "With $ZEC back in the spotlight after its Nu7 upgrade, this breakdown explains how zk-SNARK shielded transactions hide sender, recipient and amount on Zcash.",
-      "url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
-      "token": "$ZEC"
+      "headline": "Kinetiq Launches Elysium Mainnet on $HYPE",
+      "summary": "Kinetiq's Elysium mainnet is live for $HYPE, with Pump.fun and Fomo enabling trading; native HyperCore reads and fast order submissions come later.",
+      "url": "https://thedefiant.io/news/defi/kinetiq-launches-elysium-mainnet-for-hyperliquid",
+      "token": "$HYPE"
     },
     {
-      "headline": "Toss Won Stablecoin Pilot Picks $OP Stack",
-      "summary": "Korean super-app Toss will run a won stablecoin pilot on $OP Stack, making it the fourth regulated financial institution in a year to choose Optimism's stack.",
-      "url": "https://thedefiant.io/converge/blockchains/south-korea-super-app-toss-won-stablecoin-pilot-op-stack",
-      "token": "$OP"
+      "headline": "PeckShield Links $45M ETH Long to $UXLINK Exploit",
+      "summary": "PeckShield flagged a $45.3M ETH long possibly tied to the $UXLINK exploiter; a later snapshot showed ~$44M exposure and a $652K unrealized loss.",
+      "url": "https://thedefiant.io/news/markets/peckshield-flags-45-3-million-eth-long-with-possible-uxlink-exploit-link",
+      "token": "$UXLINK"
     },
     {
-      "headline": "Anchorpoint to Issue HKDAP Natively on $SOL",
-      "summary": "Anchorpoint plans to issue its HKDAP token natively on Solana, adding to the chain's growing roster of tokenized fiat and payment assets. $SOL keeps attracting issuers.",
-      "url": "https://thedefiant.io/converge/blockchains/anchorpoint-plans-native-hkdap-issuance-solana",
-      "token": "$SOL"
+      "headline": "$ANKR Bridge Drained $303K in Five Transactions",
+      "summary": "$ANKR's Ethereum bridge lost over $303K across five transactions after withdrawals reused an already-redeemed Optimism deposit; the contract stayed unpaused.",
+      "url": "https://thedefiant.io/news/hacks/ankr-ethereum-bridge-loses-more-than-303-000-in-five-transaction-exploit",
+      "token": "$ANKR"
     },
     {
-      "headline": "BIP-110 $BTC Fork Dies as Only Miner Quits",
-      "summary": "The BIP-110 $BTC breakaway fork stalled at two blocks after its sole miner OCEAN pulled hashrate, refunding about 0.3 BTC after roughly 18 hours of mining.",
-      "url": "https://thedefiant.io/converge/blockchains/bip-110-bitcoin-fork-stalls-two-blocks-only-miner-quits",
-      "token": "$BTC"
+      "headline": "NYSE Taps $AVAX for 24/7 Tokenized Stock Settlement",
+      "summary": "NYSE chose $AVAX to power clearing for its tokenized-securities venue, targeting instant settlement and stablecoin funding pending regulatory approval.",
+      "url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
+      "token": "$AVAX"
     }
   ]
 }
