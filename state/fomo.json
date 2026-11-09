@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 30436534.808418334,
-      "pct": -6.3678
-    },
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 54122138.39330952,
-      "pct": -29.5987
-    },
-    {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 13454726.398191072,
-      "pct": 11.6872
+      "mcap": 31304966.880446997,
+      "pct": -2.6473
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 27419076.885059275,
-      "pct": -30.2434
+      "mcap": 32247361.484531824,
+      "pct": 22.9555
     },
     {
-      "name": "Pons",
-      "symbol": "PONS",
-      "label": "PONS",
-      "full": "Pons",
-      "mcap": 112194569.23099233,
-      "pct": -13.0544
-    },
-    {
-      "name": "Useless Coin",
-      "symbol": "USELESS",
-      "label": "USELESS",
-      "full": "Useless Coin (USELESS)",
-      "mcap": 133467201.14098462,
-      "pct": 0.1292
-    },
-    {
-      "name": "Orbio.so",
-      "symbol": "ORBIO",
-      "label": "ORBIO",
-      "full": "Orbio.so (ORBIO)",
-      "mcap": 29777209.72087898,
-      "pct": -13.4815
-    }
-  ],
-  "trending": [
-    {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "label": "CLAUDIA",
-      "full": "Claudia",
-      "mcap": 7833113.40969104,
-      "pct": 313.8214
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 42200947.15731258,
+      "pct": -11.9129
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 13455056.296024887,
-      "pct": 11.6885
+      "mcap": 11599105.340778178,
+      "pct": -18.0044
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "label": "PONS",
+      "full": "Pons",
+      "mcap": 104894623.5968061,
+      "pct": -4.8917
+    },
+    {
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "label": "USELESS",
+      "full": "Useless Coin (USELESS)",
+      "mcap": 139387274.9365354,
+      "pct": 5.9857
+    },
+    {
+      "name": "MarsCoin",
+      "symbol": "MARSCOIN",
+      "label": "MARSCOIN",
+      "full": "MarsCoin",
+      "mcap": 42738367.525467426,
+      "pct": 3.3033
+    }
+  ],
+  "trending": [
+    {
+      "name": "HODL",
+      "symbol": "HODL",
+      "label": "HODL",
+      "full": "HODL",
+      "mcap": 3220749.030038199,
+      "pct": 170.6696
     },
     {
       "name": "FLOAT",
       "symbol": "FLOAT",
       "label": "FLOAT",
       "full": "FLOAT",
-      "mcap": 11113037.893637916,
-      "pct": 103.7466
+      "mcap": 10681587.057396304,
+      "pct": -4.7193
     },
     {
-      "name": "SHIB AGENT",
-      "symbol": "SHIB",
-      "label": "SHIB",
-      "full": "SHIB AGENT (SHIB)",
-      "mcap": 1692165.4687227402,
-      "pct": 817.5342
+      "name": "Pirate Shop Token",
+      "symbol": "PIRATE",
+      "label": "PIRATE",
+      "full": "Pirate Shop Token (PIRATE)",
+      "mcap": 544509.5878387907,
+      "pct": 53.4303
     },
     {
-      "name": "Gang",
-      "symbol": "GANG",
-      "label": "GANG",
-      "full": "Gang",
-      "mcap": 2859093.6467570746,
-      "pct": 21.6003
+      "name": "GREEN MORNING",
+      "symbol": "GM",
+      "label": "GM",
+      "full": "GREEN MORNING (GM)",
+      "mcap": 2650025.627517045,
+      "pct": -37.8088
     },
     {
-      "name": "APU",
-      "symbol": "APU",
-      "label": "APU",
-      "full": "APU",
-      "mcap": 368717.47655029595,
-      "pct": 2193.3038
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 31308974.001258753,
+      "pct": -2.6511
     },
     {
-      "name": "Gargantuan Cat",
-      "symbol": "MAGGIE",
-      "label": "MAGGIE",
-      "full": "Gargantuan Cat (MAGGIE)",
-      "mcap": 220396.77568193202,
-      "pct": 7226.5368
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 11576543.979847262,
+      "pct": -17.4259
+    },
+    {
+      "name": "ELYSION",
+      "symbol": "Elysion Pad",
+      "label": "Elysion Pad",
+      "full": "ELYSION (Elysion Pad)",
+      "mcap": 358600.3036821765,
+      "pct": 387.6533
     }
   ],
-  "story_image": "fomo/2026-11-08-story.jpg",
-  "post_image": "fomo/2026-11-08-post.jpg"
+  "story_image": "fomo/2026-11-09-story.jpg",
+  "post_image": "fomo/2026-11-09-post.jpg"
 }
