@@ -2,34 +2,34 @@
   "date": "10 NOV 2026",
   "items": [
     {
-      "headline": "$IRIS Brings Fixed-Rate Borrowing to SparkLend Today",
-      "summary": "$IRIS goes live Nov. 10 with fixed-rate loans on SparkLend, letting borrowers set custom durations while solvers post capital to absorb rate gaps.",
-      "url": "https://thedefiant.io/news/defi/iris-sets-nov-10-launch-for-fixed-rate-borrowing-on-sparklend",
-      "token": "$IRIS"
-    },
-    {
-      "headline": "Kinetiq Launches Elysium Mainnet on $HYPE",
-      "summary": "Kinetiq's Elysium mainnet is live for $HYPE, with Pump.fun and Fomo enabling trading; native HyperCore reads and fast order submissions come later.",
-      "url": "https://thedefiant.io/news/defi/kinetiq-launches-elysium-mainnet-for-hyperliquid",
+      "headline": "Upbit Lists $HYPE With Direct KRW Pairs",
+      "summary": "Upbit will open direct Korean-won pairs for $HYPE, adding a major fiat on-ramp after $HYPE briefly outpaced BTC around the announcement.",
+      "url": "https://thedefiant.io/news/cefi/upbit-to-list-hype-with-direct-korean-won-trading",
       "token": "$HYPE"
     },
     {
-      "headline": "PeckShield Links $45M ETH Long to $UXLINK Exploit",
-      "summary": "PeckShield flagged a $45.3M ETH long possibly tied to the $UXLINK exploiter; a later snapshot showed ~$44M exposure and a $652K unrealized loss.",
-      "url": "https://thedefiant.io/news/markets/peckshield-flags-45-3-million-eth-long-with-possible-uxlink-exploit-link",
-      "token": "$UXLINK"
+      "headline": "$IRIS Brings Fixed-Rate Borrowing to SparkLend",
+      "summary": "$IRIS is wiring fixed-rate borrowing into SparkLend liquidity, a new DeFi credit primitive launching as rate demand returns.",
+      "url": "https://cryptobriefing.com/iris-fixed-rate-borrowing-sparklend/",
+      "token": "$IRIS"
     },
     {
-      "headline": "$ANKR Bridge Drained $303K in Five Transactions",
-      "summary": "$ANKR's Ethereum bridge lost over $303K across five transactions after withdrawals reused an already-redeemed Optimism deposit; the contract stayed unpaused.",
-      "url": "https://thedefiant.io/news/hacks/ankr-ethereum-bridge-loses-more-than-303-000-in-five-transaction-exploit",
-      "token": "$ANKR"
+      "headline": "$ZEST Loans Jump 132% to $14.75M in Q3",
+      "summary": "Zest Protocol’s $ZEST credit market saw Q3 loan volume surge 132% to $14.75M, a small-but-growing Bitcoin DeFi signal worth watching.",
+      "url": "https://cryptobriefing.com/zest-protocol-loans-q3-growth/",
+      "token": "$ZEST"
     },
     {
-      "headline": "NYSE Taps $AVAX for 24/7 Tokenized Stock Settlement",
-      "summary": "NYSE chose $AVAX to power clearing for its tokenized-securities venue, targeting instant settlement and stablecoin funding pending regulatory approval.",
-      "url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
-      "token": "$AVAX"
+      "headline": "Threshold $T Bridge Resumes Onchain, App Paused",
+      "summary": "Threshold says $tBTC bridging is back onchain while the app remains paused, keeping $T in focus after the week-long disruption.",
+      "url": "https://thedefiant.io/news/defi/threshold-tbtc-bridge-resumed-onchain-app-paused",
+      "token": "$T"
+    },
+    {
+      "headline": "Staked $INJ ETF Hits $16.12M in Two Sessions",
+      "summary": "Canary’s staked $INJ ETF reached $16.12M across its first two Nasdaq sessions, signaling steady TradFi demand for staked altcoin exposure.",
+      "url": "https://en.coinotag.com",
+      "token": "$INJ"
     }
   ]
 }
