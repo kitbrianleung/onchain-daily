@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 31304966.880446997,
-      "pct": -2.6473
+      "mcap": 28317393.504264053,
+      "pct": -5.5558
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 32247361.484531824,
-      "pct": 22.9555
+      "mcap": 28727226.25560201,
+      "pct": -9.1443
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 42200947.15731258,
-      "pct": -11.9129
+      "mcap": 38560980.852553405,
+      "pct": -6.6487
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 11599105.340778178,
-      "pct": -18.0044
+      "mcap": 10498830.69380753,
+      "pct": -8.1846
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 104894623.5968061,
-      "pct": -4.8917
+      "mcap": 103323682.84592347,
+      "pct": 0.1438
     },
     {
       "name": "Useless Coin",
       "symbol": "USELESS",
       "label": "USELESS",
       "full": "Useless Coin (USELESS)",
-      "mcap": 139387274.9365354,
-      "pct": 5.9857
+      "mcap": 135380150.83821672,
+      "pct": -1.3181
     },
     {
-      "name": "MarsCoin",
-      "symbol": "MARSCOIN",
-      "label": "MARSCOIN",
-      "full": "MarsCoin",
-      "mcap": 42738367.525467426,
-      "pct": 3.3033
+      "name": "Orbio.so",
+      "symbol": "ORBIO",
+      "label": "ORBIO",
+      "full": "Orbio.so (ORBIO)",
+      "mcap": 29890019.777375333,
+      "pct": 20.3693
     }
   ],
   "trending": [
-    {
-      "name": "HODL",
-      "symbol": "HODL",
-      "label": "HODL",
-      "full": "HODL",
-      "mcap": 3220749.030038199,
-      "pct": 170.6696
-    },
     {
       "name": "FLOAT",
       "symbol": "FLOAT",
       "label": "FLOAT",
       "full": "FLOAT",
-      "mcap": 10681587.057396304,
-      "pct": -4.7193
+      "mcap": 6988444.675557377,
+      "pct": -36.7501
     },
     {
-      "name": "Pirate Shop Token",
-      "symbol": "PIRATE",
-      "label": "PIRATE",
-      "full": "Pirate Shop Token (PIRATE)",
-      "mcap": 544509.5878387907,
-      "pct": 53.4303
-    },
-    {
-      "name": "GREEN MORNING",
-      "symbol": "GM",
-      "label": "GM",
-      "full": "GREEN MORNING (GM)",
-      "mcap": 2650025.627517045,
-      "pct": -37.8088
-    },
-    {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 31308974.001258753,
-      "pct": -2.6511
+      "name": "Veil Token",
+      "symbol": "VEIL",
+      "label": "VEIL",
+      "full": "Veil Token (VEIL)",
+      "mcap": 198071.3592670539,
+      "pct": -68.0171
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 11576543.979847262,
-      "pct": -17.4259
+      "mcap": 10581293.545385426,
+      "pct": -7.4278
     },
     {
-      "name": "ELYSION",
-      "symbol": "Elysion Pad",
-      "label": "Elysion Pad",
-      "full": "ELYSION (Elysion Pad)",
-      "mcap": 358600.3036821765,
-      "pct": 387.6533
+      "name": "Dacity Coin",
+      "symbol": "Dacity",
+      "label": "Dacity",
+      "full": "Dacity Coin (Dacity)",
+      "mcap": 9498651.083237397,
+      "pct": 9.3913
+    },
+    {
+      "name": "Pirate Shop Token",
+      "symbol": "PIRATE",
+      "label": "PIRATE",
+      "full": "Pirate Shop Token (PIRATE)",
+      "mcap": 476753.68515010667,
+      "pct": 221.3416
+    },
+    {
+      "name": "higher.fun",
+      "symbol": "HIGH",
+      "label": "HIGH",
+      "full": "higher.fun (HIGH)",
+      "mcap": 649273.9894046702,
+      "pct": -19.9973
+    },
+    {
+      "name": "Orbio.so",
+      "symbol": "ORBIO",
+      "label": "ORBIO",
+      "full": "Orbio.so (ORBIO)",
+      "mcap": 29890111.527663805,
+      "pct": 19.9058
     }
   ],
-  "story_image": "fomo/2026-11-09-story.jpg",
-  "post_image": "fomo/2026-11-09-post.jpg"
+  "story_image": "fomo/2026-11-10-story.jpg",
+  "post_image": "fomo/2026-11-10-post.jpg"
 }
