@@ -1,35 +1,35 @@
 {
-  "date": "10 NOV 2026",
+  "date": "11 NOV 2026",
   "items": [
     {
-      "headline": "Upbit Lists $HYPE With Direct KRW Pairs",
-      "summary": "Upbit will open direct Korean-won pairs for $HYPE, adding a major fiat on-ramp after $HYPE briefly outpaced BTC around the announcement.",
-      "url": "https://thedefiant.io/news/cefi/upbit-to-list-hype-with-direct-korean-won-trading",
-      "token": "$HYPE"
+      "headline": "Visa Taps $MONAD for Stablecoin Settlement",
+      "summary": "Visa added Monad as a stablecoin settlement option for issuers and acquirers, a major TradFi nod for the high-performance L1 and its $MONAD ecosystem.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201",
+      "token": "$MONAD"
     },
     {
-      "headline": "$IRIS Brings Fixed-Rate Borrowing to SparkLend",
-      "summary": "$IRIS is wiring fixed-rate borrowing into SparkLend liquidity, a new DeFi credit primitive launching as rate demand returns.",
-      "url": "https://cryptobriefing.com/iris-fixed-rate-borrowing-sparklend/",
-      "token": "$IRIS"
+      "headline": "$PUMP Adds Cross Margin to Hyperliquid Perps",
+      "summary": "Pump.fun upgraded its Hyperliquid-powered perps with cross margin, TWAP execution and manual margin tweaks, just two weeks after launch. $PUMP keeps shipping.",
+      "url": "https://thedefiant.io/news/defi/pump-fun-adds-cross-margin-to-hyperliquid-powered-perps",
+      "token": "$PUMP"
     },
     {
-      "headline": "$ZEST Loans Jump 132% to $14.75M in Q3",
-      "summary": "Zest Protocol’s $ZEST credit market saw Q3 loan volume surge 132% to $14.75M, a small-but-growing Bitcoin DeFi signal worth watching.",
-      "url": "https://cryptobriefing.com/zest-protocol-loans-q3-growth/",
-      "token": "$ZEST"
+      "headline": "$JUP Launches Token Baskets & Yield Vaults",
+      "summary": "Jupiter rolled out token baskets and curator-run yield vaults, letting users automate strategies from individual vaults. A fresh DeFi use case for $JUP.",
+      "url": "https://thedefiant.io/news/defi/jupiter-adds-token-baskets-and-curated-yield-vaults",
+      "token": "$JUP"
     },
     {
-      "headline": "Threshold $T Bridge Resumes Onchain, App Paused",
-      "summary": "Threshold says $tBTC bridging is back onchain while the app remains paused, keeping $T in focus after the week-long disruption.",
-      "url": "https://thedefiant.io/news/defi/threshold-tbtc-bridge-resumed-onchain-app-paused",
-      "token": "$T"
+      "headline": "$PENDLE Lists Four Fixed-Term USDe Markets",
+      "summary": "Pendle opened four new fixed-term USDe markets on Ethereum with quoted yields of 5.24%–6.00%, expanding its yield-trading footprint for $PENDLE holders.",
+      "url": "https://thedefiant.io/news/defi/pendle-lists-four-fixed-term-usde-markets-on-ethereum",
+      "token": "$PENDLE"
     },
     {
-      "headline": "Staked $INJ ETF Hits $16.12M in Two Sessions",
-      "summary": "Canary’s staked $INJ ETF reached $16.12M across its first two Nasdaq sessions, signaling steady TradFi demand for staked altcoin exposure.",
-      "url": "https://en.coinotag.com",
-      "token": "$INJ"
+      "headline": "$MEGA Rebrands, Pledges $30M to AI Push",
+      "summary": "MegaETH Foundation rebranded to MEGA and committed $30M from treasury to new products, starting with an AI inference marketplace due in December.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+      "token": "$MEGA"
     }
   ]
 }
