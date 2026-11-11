@@ -2,34 +2,34 @@
   "date": "11 NOV 2026",
   "items": [
     {
-      "headline": "Visa Taps $MONAD for Stablecoin Settlement",
-      "summary": "Visa added Monad as a stablecoin settlement option for issuers and acquirers, a major TradFi nod for the high-performance L1 and its $MONAD ecosystem.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201",
-      "token": "$MONAD"
+      "headline": "Solana Perp Volume Explodes 65% as Spot Fades",
+      "summary": "$SOL perpetual futures volume surged 65% even as spot activity contracted, signaling leveraged traders are piling into Solana.",
+      "url": "https://cryptoslate.com/",
+      "token": "$SOL"
     },
     {
-      "headline": "$PUMP Adds Cross Margin to Hyperliquid Perps",
-      "summary": "Pump.fun upgraded its Hyperliquid-powered perps with cross margin, TWAP execution and manual margin tweaks, just two weeks after launch. $PUMP keeps shipping.",
-      "url": "https://thedefiant.io/news/defi/pump-fun-adds-cross-margin-to-hyperliquid-powered-perps",
-      "token": "$PUMP"
+      "headline": "LlamaRisk Proposes $1.33B Collateral Exit From $AAVE",
+      "summary": "LlamaRisk wants to pull $1.33B in collateral from Aave Core, a major governance shake-up that could reshape $AAVE's risk framework.",
+      "url": "https://cryptonews.net/news/defi/",
+      "token": "$AAVE"
     },
     {
-      "headline": "$JUP Launches Token Baskets & Yield Vaults",
-      "summary": "Jupiter rolled out token baskets and curator-run yield vaults, letting users automate strategies from individual vaults. A fresh DeFi use case for $JUP.",
-      "url": "https://thedefiant.io/news/defi/jupiter-adds-token-baskets-and-curated-yield-vaults",
-      "token": "$JUP"
+      "headline": "$SEI Holders Unanimously Approve SIP-6 Autobahn Upgrade",
+      "summary": "Sei Network's SIP-6 Autobahn upgrade passed with zero votes against, setting up a major performance overhaul for $SEI.",
+      "url": "https://bsc.news/",
+      "token": "$SEI"
     },
     {
-      "headline": "$PENDLE Lists Four Fixed-Term USDe Markets",
-      "summary": "Pendle opened four new fixed-term USDe markets on Ethereum with quoted yields of 5.24%–6.00%, expanding its yield-trading footprint for $PENDLE holders.",
-      "url": "https://thedefiant.io/news/defi/pendle-lists-four-fixed-term-usde-markets-on-ethereum",
-      "token": "$PENDLE"
+      "headline": "$TAO Gains After Tencent AI Launch, Subnet Fees in Focus",
+      "summary": "$TAO rose 3% following Tencent's AI launch as traders watch whether Bittensor subnet fee momentum can fuel a bigger rally.",
+      "url": "https://ambcrypto.com/",
+      "token": "$TAO"
     },
     {
-      "headline": "$MEGA Rebrands, Pledges $30M to AI Push",
-      "summary": "MegaETH Foundation rebranded to MEGA and committed $30M from treasury to new products, starting with an AI inference marketplace due in December.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-      "token": "$MEGA"
+      "headline": "BitGo Takes Strategic Position in $APT",
+      "summary": "BitGo took a strategic position in $APT after a 20-month Aptos integration, a notable institutional vote of confidence in the ecosystem.",
+      "url": "https://en.coinotag.com/",
+      "token": "$APT"
     }
   ]
 }
