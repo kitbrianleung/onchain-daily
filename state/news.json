@@ -1,35 +1,35 @@
 {
-  "date": "11 NOV 2026",
+  "date": "12 NOV 2026",
   "items": [
     {
-      "headline": "Solana Perp Volume Explodes 65% as Spot Fades",
-      "summary": "$SOL perpetual futures volume surged 65% even as spot activity contracted, signaling leveraged traders are piling into Solana.",
-      "url": "https://cryptoslate.com/",
-      "token": "$SOL"
+      "headline": "$XTEN Airdrop Checker Live — Sign by Dec 31",
+      "summary": "Extended opened its $XTEN allocation checker with a Dec. 31 signing deadline. Unclaimed allocations go to the Ecosystem Fund; token launch date still TBA.",
+      "url": "https://thedefiant.io/news/tokens/extended-opens-xten-checker-with-dec-31-signing-deadline",
+      "token": "$XTEN"
     },
     {
-      "headline": "LlamaRisk Proposes $1.33B Collateral Exit From $AAVE",
-      "summary": "LlamaRisk wants to pull $1.33B in collateral from Aave Core, a major governance shake-up that could reshape $AAVE's risk framework.",
-      "url": "https://cryptonews.net/news/defi/",
-      "token": "$AAVE"
+      "headline": "$ACX Bridge Across Hit by Domain Hijack",
+      "summary": "Crosschain protocol Across restored systems after attackers seized its domain via a Namecheap social-engineering attack. Users were urged to avoid the app during the incident.",
+      "url": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
+      "token": "$ACX"
     },
     {
-      "headline": "$SEI Holders Unanimously Approve SIP-6 Autobahn Upgrade",
-      "summary": "Sei Network's SIP-6 Autobahn upgrade passed with zero votes against, setting up a major performance overhaul for $SEI.",
-      "url": "https://bsc.news/",
-      "token": "$SEI"
+      "headline": "$PYTH Taps NYSE for Real-Time Stock Data",
+      "summary": "$PYTH Network added real-time NYSE stock and ETF data to its marketplace, covering five NYSE Group exchanges — a big push into tokenized-equity oracles.",
+      "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
+      "token": "$PYTH"
     },
     {
-      "headline": "$TAO Gains After Tencent AI Launch, Subnet Fees in Focus",
-      "summary": "$TAO rose 3% following Tencent's AI launch as traders watch whether Bittensor subnet fee momentum can fuel a bigger rally.",
-      "url": "https://ambcrypto.com/",
-      "token": "$TAO"
+      "headline": "$VAR Coming: Variational Opens Omni to All",
+      "summary": "Variational ended its Omni beta and dropped the invite-code gate, opening the perp DEX to everyone ahead of its $VAR token launch slated for Q4 2026.",
+      "url": "https://thedefiant.io/news/defi/variational-ends-omni-beta-removes-invite-code-gate",
+      "token": "$VAR"
     },
     {
-      "headline": "BitGo Takes Strategic Position in $APT",
-      "summary": "BitGo took a strategic position in $APT after a 20-month Aptos integration, a notable institutional vote of confidence in the ecosystem.",
-      "url": "https://en.coinotag.com/",
-      "token": "$APT"
+      "headline": "$STX Tests Post-Quantum Signatures on Mainnet",
+      "summary": "Stacks executed a mainnet $sBTC vault withdrawal using a Lamport one-time signature, an early post-quantum security test for the Bitcoin L2 ecosystem.",
+      "url": "https://thedefiant.io/news/blockchains/stacks-tests-post-quantum-signatures-with-sbtc-transfer",
+      "token": "$STX"
     }
   ]
 }
