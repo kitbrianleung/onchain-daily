@@ -1,61 +1,61 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 24890547.590337675,
-      "pct": -11.8866
+      "mcap": 22739342.16415185,
+      "pct": -10.9318
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 28759226.21247426,
-      "pct": -3.2176
+      "mcap": 29147207.452905495,
+      "pct": 4.5602
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 39327912.32959052,
-      "pct": 1.4949
+      "mcap": 35038640.48796269,
+      "pct": -10.8648
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 103031192.16356793,
-      "pct": -0.2027
+      "mcap": 99423424.44064876,
+      "pct": -3.4403
     },
     {
       "name": "Useless Coin",
       "symbol": "USELESS",
       "label": "USELESS",
       "full": "Useless Coin (USELESS)",
-      "mcap": 141396374.93906298,
-      "pct": 4.0416
-    },
-    {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 8067928.60728278,
-      "pct": -29.8433
+      "mcap": 123144599.21291381,
+      "pct": -12.4421
     },
     {
       "name": "Orbio.so",
       "symbol": "ORBIO",
       "label": "ORBIO",
       "full": "Orbio.so (ORBIO)",
-      "mcap": 28720699.15793873,
-      "pct": -3.8604
+      "mcap": 29536227.113325804,
+      "pct": 4.711
+    },
+    {
+      "name": "ni hao cat",
+      "symbol": "mihao",
+      "label": "mihao",
+      "full": "ni hao cat (mihao)",
+      "mcap": 17977437.361096326,
+      "pct": -6.2146
     }
   ],
   "trending": [
@@ -64,58 +64,58 @@
       "symbol": "mihao",
       "label": "mihao",
       "full": "ni hao cat (mihao)",
-      "mcap": 12686860.031624129,
-      "pct": 1871.3586
+      "mcap": 18408486.164148785,
+      "pct": -5.7672
     },
     {
-      "name": "Zero",
-      "symbol": "ZERO",
-      "label": "ZERO",
-      "full": "Zero",
-      "mcap": 353220.96142258105,
-      "pct": 455.1279
+      "name": "Fly Cat",
+      "symbol": "FLC",
+      "label": "FLC",
+      "full": "Fly Cat (FLC)",
+      "mcap": 296204.59016955143,
+      "pct": 10676.3577
     },
     {
-      "name": "Hold",
-      "symbol": "HOLD",
-      "label": "HOLD",
-      "full": "Hold",
-      "mcap": 803317.8520625681,
-      "pct": 38374.3751
+      "name": "whatsup dog",
+      "symbol": "updog",
+      "label": "updog",
+      "full": "whatsup dog (updog)",
+      "mcap": 966462.9910178975,
+      "pct": 34407.6043
+    },
+    {
+      "name": "paws at you",
+      "symbol": "paws",
+      "label": "paws",
+      "full": "paws at you (paws)",
+      "mcap": 934696.8912483827,
+      "pct": 141.3486
     },
     {
       "name": "AudaCity",
       "symbol": "DacityCoin",
       "label": "DacityCoin",
       "full": "AudaCity (DacityCoin)",
-      "mcap": 4539247.150562944,
-      "pct": 394.1699
+      "mcap": 6915362.513031713,
+      "pct": 55.5274
+    },
+    {
+      "name": "Jensen Hung",
+      "symbol": "HUNG",
+      "label": "HUNG",
+      "full": "Jensen Hung (HUNG)",
+      "mcap": 262848.3370355987,
+      "pct": 2824.4639
     },
     {
       "name": "Dacity Coin",
       "symbol": "Dacity",
       "label": "Dacity",
       "full": "Dacity Coin (Dacity)",
-      "mcap": 5980189.903801943,
-      "pct": -42.4645
-    },
-    {
-      "name": "Gang",
-      "symbol": "GANG",
-      "label": "GANG",
-      "full": "Gang",
-      "mcap": 5194106.447945134,
-      "pct": 8.7695
-    },
-    {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 8063076.784092599,
-      "pct": -29.8193
+      "mcap": 1786388.2172310785,
+      "pct": -67.803
     }
   ],
-  "story_image": "fomo/2026-11-11-story.jpg",
-  "post_image": "fomo/2026-11-11-post.jpg"
+  "story_image": "fomo/2026-11-12-story.jpg",
+  "post_image": "fomo/2026-11-12-post.jpg"
 }
