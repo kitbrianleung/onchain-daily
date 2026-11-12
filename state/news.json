@@ -2,34 +2,34 @@
   "date": "12 NOV 2026",
   "items": [
     {
-      "headline": "$XTEN Airdrop Checker Live — Sign by Dec 31",
-      "summary": "Extended opened its $XTEN allocation checker with a Dec. 31 signing deadline. Unclaimed allocations go to the Ecosystem Fund; token launch date still TBA.",
-      "url": "https://thedefiant.io/news/tokens/extended-opens-xten-checker-with-dec-31-signing-deadline",
-      "token": "$XTEN"
+      "headline": "DogeOS 'Very Close' to Launching $DOGE DeFi Layer",
+      "summary": "DogeOS says its DeFi features and app layer for $DOGE are imminent, potentially bringing smart-contract utility to Dogecoin for the first time.",
+      "url": "https://www.theblock.co/",
+      "token": "$DOGE"
     },
     {
-      "headline": "$ACX Bridge Across Hit by Domain Hijack",
-      "summary": "Crosschain protocol Across restored systems after attackers seized its domain via a Namecheap social-engineering attack. Users were urged to avoid the app during the incident.",
-      "url": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
-      "token": "$ACX"
+      "headline": "$VVS Dominates Cronos as DEX Volume Jumps 26%",
+      "summary": "$VVS Finance now accounts for three-quarters of Cronos TVL while DEX volume climbs 26%, signaling renewed momentum for the chain's top DEX.",
+      "url": "https://bsc.news",
+      "token": "$VVS"
     },
     {
-      "headline": "$PYTH Taps NYSE for Real-Time Stock Data",
-      "summary": "$PYTH Network added real-time NYSE stock and ETF data to its marketplace, covering five NYSE Group exchanges — a big push into tokenized-equity oracles.",
-      "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
-      "token": "$PYTH"
+      "headline": "$SUSHI Acquired by Katana in DeFi Consolidation Play",
+      "summary": "Katana's acquisition of Sushi brings spot trading and yield in-house, a major shake-up for the veteran $SUSHI DEX ecosystem.",
+      "url": "https://en.cryptonomist.ch",
+      "token": "$SUSHI"
     },
     {
-      "headline": "$VAR Coming: Variational Opens Omni to All",
-      "summary": "Variational ended its Omni beta and dropped the invite-code gate, opening the perp DEX to everyone ahead of its $VAR token launch slated for Q4 2026.",
-      "url": "https://thedefiant.io/news/defi/variational-ends-omni-beta-removes-invite-code-gate",
-      "token": "$VAR"
+      "headline": "Plume Bets on Distribution as $PLUME Vaults Hit $250M",
+      "summary": "Plume CEO Chris Yin is prioritizing distribution over pure tokenization as the RWA network's vaults reach $250M, boosting the $PLUME ecosystem.",
+      "url": "https://en.coinotag.com",
+      "token": "$PLUME"
     },
     {
-      "headline": "$STX Tests Post-Quantum Signatures on Mainnet",
-      "summary": "Stacks executed a mainnet $sBTC vault withdrawal using a Lamport one-time signature, an early post-quantum security test for the Bitcoin L2 ecosystem.",
-      "url": "https://thedefiant.io/news/blockchains/stacks-tests-post-quantum-signatures-with-sbtc-transfer",
-      "token": "$STX"
+      "headline": "Nvidia Perps Plunge 10% on $HYPE Amid Huang Drama",
+      "summary": "Nvidia perpetuals on Hyperliquid dropped 10% after reports its board may oust Jensen Huang, showcasing $HYPE's growing equity-perp markets.",
+      "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+      "token": "$HYPE"
     }
   ]
 }
