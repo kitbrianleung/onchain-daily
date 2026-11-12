@@ -1,35 +1,35 @@
 {
-  "date": "12 NOV 2026",
+  "date": "13 NOV 2026",
   "items": [
     {
-      "headline": "DogeOS 'Very Close' to Launching $DOGE DeFi Layer",
-      "summary": "DogeOS says its DeFi features and app layer for $DOGE are imminent, potentially bringing smart-contract utility to Dogecoin for the first time.",
-      "url": "https://www.theblock.co/",
-      "token": "$DOGE"
+      "headline": "$KAT Plans Revenue-Funded Buybacks for Stakers",
+      "summary": "Katana will retire emissions voting and start revenue-funded $KAT buybacks, with unstaking cooldowns shortened Nov. 17 and full onchain automation to follow.",
+      "url": "https://thedefiant.io/news/tokens/katana-plans-revenue-funded-buybacks-for-kat-stakers",
+      "token": "$KAT"
     },
     {
-      "headline": "$VVS Dominates Cronos as DEX Volume Jumps 26%",
-      "summary": "$VVS Finance now accounts for three-quarters of Cronos TVL while DEX volume climbs 26%, signaling renewed momentum for the chain's top DEX.",
-      "url": "https://bsc.news",
-      "token": "$VVS"
+      "headline": "$ZEC Plan Would Pull 50,000 Tokens From Treasury",
+      "summary": "A new Zcash draft would end ZCG's 8% funding stream and lock 50,000 $ZEC into a development and legal-defense reserve. Polling starts Nov. 16.",
+      "url": "https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury",
+      "token": "$ZEC"
     },
     {
-      "headline": "$SUSHI Acquired by Katana in DeFi Consolidation Play",
-      "summary": "Katana's acquisition of Sushi brings spot trading and yield in-house, a major shake-up for the veteran $SUSHI DEX ecosystem.",
-      "url": "https://en.cryptonomist.ch",
-      "token": "$SUSHI"
+      "headline": "$ENA: $100M BUIDL Liquidity Facility Goes Live",
+      "summary": "Securitize and Ethena launched a facility letting BUIDL holders swap into stablecoins 24/7, starting with $25M each in USDC and BUIDL. Big DeFi-RWA crossover for $ENA.",
+      "url": "https://thedefiant.io/converge/defi/securitize-ethena-open-buidl-facility-with-100m-capacity",
+      "token": "$ENA"
     },
     {
-      "headline": "Plume Bets on Distribution as $PLUME Vaults Hit $250M",
-      "summary": "Plume CEO Chris Yin is prioritizing distribution over pure tokenization as the RWA network's vaults reach $250M, boosting the $PLUME ecosystem.",
-      "url": "https://en.coinotag.com",
-      "token": "$PLUME"
+      "headline": "$PYTH Adds Real-Time NYSE Data Onchain",
+      "summary": "Pyth Network now streams Level 1 data from five NYSE Group exchanges through its marketplace, pushing $PYTH deeper into institutional market data.",
+      "url": "https://thedefiant.io/news/infrastructure/pyth-adds-real-time-nyse-data-to-its-data-marketplace",
+      "token": "$PYTH"
     },
     {
-      "headline": "Nvidia Perps Plunge 10% on $HYPE Amid Huang Drama",
-      "summary": "Nvidia perpetuals on Hyperliquid dropped 10% after reports its board may oust Jensen Huang, showcasing $HYPE's growing equity-perp markets.",
-      "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
-      "token": "$HYPE"
+      "headline": "$WELL Cuts Collateral Limits, Drops VELO & wrsETH",
+      "summary": "Moonwell's MIP-X75 slashes backing for loans on Base and Optimism; overextended borrowers face liquidation unless they deleverage. Key risk event for $WELL holders.",
+      "url": "https://thedefiant.io/news/defi/moonwell-cuts-collateral-limits-drops-velo-and-wrseth",
+      "token": "$WELL"
     }
   ]
 }
