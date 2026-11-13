@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 22739342.16415185,
-      "pct": -10.9318
-    },
-    {
-      "name": "Artificial Inu",
-      "symbol": "AI",
-      "label": "AI",
-      "full": "Artificial Inu (AI)",
-      "mcap": 29147207.452905495,
-      "pct": 4.5602
+      "mcap": 18935487.117856823,
+      "pct": -16.311
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 35038640.48796269,
-      "pct": -10.8648
+      "mcap": 38120155.15153352,
+      "pct": 9.1445
+    },
+    {
+      "name": "Artificial Inu",
+      "symbol": "AI",
+      "label": "AI",
+      "full": "Artificial Inu (AI)",
+      "mcap": 26830455.515067674,
+      "pct": -9.8453
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 99423424.44064876,
-      "pct": -3.4403
+      "mcap": 103521303.34372154,
+      "pct": 3.4965
+    },
+    {
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "label": "MASK",
+      "full": "Nullmask (MASK)",
+      "mcap": 23480023.877136342,
+      "pct": 112.3955
     },
     {
       "name": "Useless Coin",
       "symbol": "USELESS",
       "label": "USELESS",
       "full": "Useless Coin (USELESS)",
-      "mcap": 123144599.21291381,
-      "pct": -12.4421
+      "mcap": 135397425.07778183,
+      "pct": 8.2259
     },
     {
-      "name": "Orbio.so",
-      "symbol": "ORBIO",
-      "label": "ORBIO",
-      "full": "Orbio.so (ORBIO)",
-      "mcap": 29536227.113325804,
-      "pct": 4.711
-    },
-    {
-      "name": "ni hao cat",
-      "symbol": "mihao",
-      "label": "mihao",
-      "full": "ni hao cat (mihao)",
-      "mcap": 17977437.361096326,
-      "pct": -6.2146
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 7894154.136519343,
+      "pct": 24.6428
     }
   ],
   "trending": [
     {
+      "name": "",
+      "symbol": "Sakura",
+      "label": "Sakura",
+      "full": " (Sakura)",
+      "mcap": 634246.0756020191,
+      "pct": 35332.9284
+    },
+    {
+      "name": "Gang",
+      "symbol": "GANG",
+      "label": "GANG",
+      "full": "Gang",
+      "mcap": 4205936.803153713,
+      "pct": 18.5113
+    },
+    {
+      "name": "Just a jacket",
+      "symbol": "Jacket",
+      "label": "Jacket",
+      "full": "Just a jacket (Jacket)",
+      "mcap": 2234713.2656656746,
+      "pct": 2561.1833
+    },
+    {
       "name": "ni hao cat",
       "symbol": "mihao",
       "label": "mihao",
       "full": "ni hao cat (mihao)",
-      "mcap": 18408486.164148785,
-      "pct": -5.7672
+      "mcap": 14586607.16771409,
+      "pct": -16.994
     },
     {
-      "name": "Fly Cat",
-      "symbol": "FLC",
-      "label": "FLC",
-      "full": "Fly Cat (FLC)",
-      "mcap": 296204.59016955143,
-      "pct": 10676.3577
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 19021154.697107803,
+      "pct": -16.0642
     },
     {
-      "name": "whatsup dog",
-      "symbol": "updog",
-      "label": "updog",
-      "full": "whatsup dog (updog)",
-      "mcap": 966462.9910178975,
-      "pct": 34407.6043
+      "name": "(Punch)",
+      "symbol": "PUNCH",
+      "label": "PUNCH",
+      "full": "(Punch) (PUNCH)",
+      "mcap": 539909.8502279135,
+      "pct": 172.414
     },
     {
-      "name": "paws at you",
-      "symbol": "paws",
-      "label": "paws",
-      "full": "paws at you (paws)",
-      "mcap": 934696.8912483827,
-      "pct": 141.3486
-    },
-    {
-      "name": "AudaCity",
-      "symbol": "DacityCoin",
-      "label": "DacityCoin",
-      "full": "AudaCity (DacityCoin)",
-      "mcap": 6915362.513031713,
-      "pct": 55.5274
-    },
-    {
-      "name": "Jensen Hung",
-      "symbol": "HUNG",
-      "label": "HUNG",
-      "full": "Jensen Hung (HUNG)",
-      "mcap": 262848.3370355987,
-      "pct": 2824.4639
-    },
-    {
-      "name": "Dacity Coin",
-      "symbol": "Dacity",
-      "label": "Dacity",
-      "full": "Dacity Coin (Dacity)",
-      "mcap": 1786388.2172310785,
-      "pct": -67.803
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 7977026.523973015,
+      "pct": 24.7336
     }
   ],
-  "story_image": "fomo/2026-11-12-story.jpg",
-  "post_image": "fomo/2026-11-12-post.jpg"
+  "story_image": "fomo/2026-11-13-story.jpg",
+  "post_image": "fomo/2026-11-13-post.jpg"
 }
