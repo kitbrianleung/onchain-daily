@@ -2,34 +2,34 @@
   "date": "13 NOV 2026",
   "items": [
     {
-      "headline": "$KAT Plans Revenue-Funded Buybacks for Stakers",
-      "summary": "Katana will retire emissions voting and start revenue-funded $KAT buybacks, with unstaking cooldowns shortened Nov. 17 and full onchain automation to follow.",
-      "url": "https://thedefiant.io/news/tokens/katana-plans-revenue-funded-buybacks-for-kat-stakers",
-      "token": "$KAT"
+      "headline": "$NIGHT Gains on $ZEC as Midnight Network Data Heats Up",
+      "summary": "Fresh network data suggests Midnight's $NIGHT is closing the gap with Zcash ($ZEC). Privacy-season rotation could make $NIGHT one to watch early.",
+      "url": "https://cryptopotato.com/",
+      "token": "$NIGHT"
     },
     {
-      "headline": "$ZEC Plan Would Pull 50,000 Tokens From Treasury",
-      "summary": "A new Zcash draft would end ZCG's 8% funding stream and lock 50,000 $ZEC into a development and legal-defense reserve. Polling starts Nov. 16.",
-      "url": "https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury",
-      "token": "$ZEC"
+      "headline": "$KAIA Forces Stakers to Migrate to New Contract Today",
+      "summary": "Kaia is requiring public delegated staking users to manually migrate to a new contract, with a detailed guide dropping today. $KAIA holders should act fast.",
+      "url": "https://www.panewslab.com/zh-hant/newsflash",
+      "token": "$KAIA"
     },
     {
-      "headline": "$ENA: $100M BUIDL Liquidity Facility Goes Live",
-      "summary": "Securitize and Ethena launched a facility letting BUIDL holders swap into stablecoins 24/7, starting with $25M each in USDC and BUIDL. Big DeFi-RWA crossover for $ENA.",
-      "url": "https://thedefiant.io/converge/defi/securitize-ethena-open-buidl-facility-with-100m-capacity",
-      "token": "$ENA"
+      "headline": "$JUP Adds Anchorage-Backed USDGO to $1B Lending Hub",
+      "summary": "Jupiter integrates Anchorage-backed USDGO into its ~$1B Solana lending platform. The move deepens $JUP's DeFi moat as Solana lending heats up.",
+      "url": "https://www.coindesk.com/",
+      "token": "$JUP"
     },
     {
-      "headline": "$PYTH Adds Real-Time NYSE Data Onchain",
-      "summary": "Pyth Network now streams Level 1 data from five NYSE Group exchanges through its marketplace, pushing $PYTH deeper into institutional market data.",
-      "url": "https://thedefiant.io/news/infrastructure/pyth-adds-real-time-nyse-data-to-its-data-marketplace",
-      "token": "$PYTH"
+      "headline": "Polymarket Launches Jensen Huang Affair Markets",
+      "summary": "Polymarket rolled out serialized markets on whether media will report a fourth Jensen Huang affair participant, with 'No' trading at 54.5%. Peak 2026 prediction-market absurdity.",
+      "url": "https://en.theblockbeats.news/newsflash",
+      "token": "Polymarket"
     },
     {
-      "headline": "$WELL Cuts Collateral Limits, Drops VELO & wrsETH",
-      "summary": "Moonwell's MIP-X75 slashes backing for loans on Base and Optimism; overextended borrowers face liquidation unless they deleverage. Key risk event for $WELL holders.",
-      "url": "https://thedefiant.io/news/defi/moonwell-cuts-collateral-limits-drops-velo-and-wrseth",
-      "token": "$WELL"
+      "headline": "Hoskinson: $ADA Is a Far Better Store of Value",
+      "summary": "Charles Hoskinson argued Cardano is a superior store of value compared to rivals. $ADA faithful rallied behind the claim as alt sentiment resets.",
+      "url": "https://thecryptobasic.com/",
+      "token": "$ADA"
     }
   ]
 }
