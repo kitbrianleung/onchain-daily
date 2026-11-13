@@ -1,35 +1,35 @@
 {
-  "date": "13 NOV 2026",
+  "date": "14 NOV 2026",
   "items": [
     {
-      "headline": "$NIGHT Gains on $ZEC as Midnight Network Data Heats Up",
-      "summary": "Fresh network data suggests Midnight's $NIGHT is closing the gap with Zcash ($ZEC). Privacy-season rotation could make $NIGHT one to watch early.",
-      "url": "https://cryptopotato.com/",
-      "token": "$NIGHT"
+      "headline": "$HYPE Flips Bybit, Kraken, OKX in Open Interest",
+      "summary": "$HYPE open interest jumped 80% in Q3, lifting Hyperliquid past Bybit, Kraken and OKX with an 11.7% share across major rivals.",
+      "url": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
+      "token": "$HYPE"
     },
     {
-      "headline": "$KAIA Forces Stakers to Migrate to New Contract Today",
-      "summary": "Kaia is requiring public delegated staking users to manually migrate to a new contract, with a detailed guide dropping today. $KAIA holders should act fast.",
-      "url": "https://www.panewslab.com/zh-hant/newsflash",
-      "token": "$KAIA"
+      "headline": "$INJ Opens Veyra Vote for Cross-Chain Trading",
+      "summary": "$INJ governance opened the Veyra vote for a Nov. 24 upgrade adding cross-chain asset transfers and trading infrastructure; turnout is still below quorum.",
+      "url": "https://thedefiant.io/news/blockchains/injective-opens-veyra-vote-for-cross-chain-trading",
+      "token": "$INJ"
     },
     {
-      "headline": "$JUP Adds Anchorage-Backed USDGO to $1B Lending Hub",
-      "summary": "Jupiter integrates Anchorage-backed USDGO into its ~$1B Solana lending platform. The move deepens $JUP's DeFi moat as Solana lending heats up.",
-      "url": "https://www.coindesk.com/",
-      "token": "$JUP"
+      "headline": "$OSMO Restarts After Halt as Upbit Pauses Transfers",
+      "summary": "$OSMO block production resumed after a roughly four-hour halt, while Upbit kept trading open but paused deposits and withdrawals.",
+      "url": "https://thedefiant.io/news/infrastructure/osmosis-restarts-after-halt-upbit-pauses-transfers",
+      "token": "$OSMO"
     },
     {
-      "headline": "Polymarket Launches Jensen Huang Affair Markets",
-      "summary": "Polymarket rolled out serialized markets on whether media will report a fourth Jensen Huang affair participant, with 'No' trading at 54.5%. Peak 2026 prediction-market absurdity.",
-      "url": "https://en.theblockbeats.news/newsflash",
-      "token": "Polymarket"
+      "headline": "$SKY Advisor Moves to Halt New Core Vault Borrowing",
+      "summary": "A $SKY advisor proposed stopping new Core vault borrowing after BA Labs flagged 771 vaults and 376.33M $USDS in debt; repayments would continue.",
+      "url": "https://thedefiant.io/news/defi/sky-advisor-proposes-halting-new-core-vault-borrowing",
+      "token": "$SKY"
     },
     {
-      "headline": "Hoskinson: $ADA Is a Far Better Store of Value",
-      "summary": "Charles Hoskinson argued Cardano is a superior store of value compared to rivals. $ADA faithful rallied behind the claim as alt sentiment resets.",
-      "url": "https://thecryptobasic.com/",
-      "token": "$ADA"
+      "headline": "$AVAX Owns 5% of Tokenized Stocks",
+      "summary": "Tokenized-stock venues are splitting chains, and $AVAX now holds about 5% of the sector after NYSE picked Avalanche for its planned 24/7 market.",
+      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
+      "token": "$AVAX"
     }
   ]
 }
