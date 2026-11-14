@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 18935487.117856823,
-      "pct": -16.311
+      "mcap": 16198778.36136865,
+      "pct": -12.9822
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 38120155.15153352,
-      "pct": 9.1445
+      "mcap": 34999565.08505059,
+      "pct": -7.1294
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 26830455.515067674,
-      "pct": -9.8453
+      "mcap": 22859582.010687225,
+      "pct": -13.2259
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 103521303.34372154,
-      "pct": 3.4965
-    },
-    {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 23480023.877136342,
-      "pct": 112.3955
+      "mcap": 85801296.7357097,
+      "pct": -17.3588
     },
     {
       "name": "Useless Coin",
       "symbol": "USELESS",
       "label": "USELESS",
       "full": "Useless Coin (USELESS)",
-      "mcap": 135397425.07778183,
-      "pct": 8.2259
+      "mcap": 112404014.57814589,
+      "pct": -17.0438
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 7894154.136519343,
-      "pct": 24.6428
+      "mcap": 6642846.562197914,
+      "pct": -19.4724
+    },
+    {
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "label": "MASK",
+      "full": "Nullmask (MASK)",
+      "mcap": 18425601.216334417,
+      "pct": -19.6369
     }
   ],
   "trending": [
     {
-      "name": "",
-      "symbol": "Sakura",
-      "label": "Sakura",
-      "full": " (Sakura)",
-      "mcap": 634246.0756020191,
-      "pct": 35332.9284
+      "name": "GTA Dollar",
+      "symbol": "GTA$",
+      "label": "GTA$",
+      "full": "GTA Dollar (GTA$)",
+      "mcap": 243544.97574412267,
+      "pct": 4680.3061
     },
     {
-      "name": "Gang",
-      "symbol": "GANG",
-      "label": "GANG",
-      "full": "Gang",
-      "mcap": 4205936.803153713,
-      "pct": 18.5113
+      "name": "tinfoil hat",
+      "symbol": "tinfoil",
+      "label": "tinfoil",
+      "full": "tinfoil hat (tinfoil)",
+      "mcap": 353951.5297752693,
+      "pct": 10505.7315
     },
     {
-      "name": "Just a jacket",
-      "symbol": "Jacket",
-      "label": "Jacket",
-      "full": "Just a jacket (Jacket)",
-      "mcap": 2234713.2656656746,
-      "pct": 2561.1833
+      "name": "Stand With Jensen",
+      "symbol": "SWJ",
+      "label": "SWJ",
+      "full": "Stand With Jensen (SWJ)",
+      "mcap": 350895.8539347406,
+      "pct": 9047.2999
     },
     {
       "name": "ni hao cat",
       "symbol": "mihao",
       "label": "mihao",
       "full": "ni hao cat (mihao)",
-      "mcap": 14586607.16771409,
-      "pct": -16.994
-    },
-    {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 19021154.697107803,
-      "pct": -16.0642
-    },
-    {
-      "name": "(Punch)",
-      "symbol": "PUNCH",
-      "label": "PUNCH",
-      "full": "(Punch) (PUNCH)",
-      "mcap": 539909.8502279135,
-      "pct": 172.414
+      "mcap": 16056355.859746668,
+      "pct": 10.5144
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 7977026.523973015,
-      "pct": 24.7336
+      "mcap": 6825879.9906501705,
+      "pct": -17.049
+    },
+    {
+      "name": "Just a jacket",
+      "symbol": "Jacket",
+      "label": "Jacket",
+      "full": "Just a jacket (Jacket)",
+      "mcap": 1898535.162744003,
+      "pct": -15.4959
+    },
+    {
+      "name": "chudhaos",
+      "symbol": "chudhaos",
+      "label": "chudhaos",
+      "full": "chudhaos",
+      "mcap": 468699.17546216707,
+      "pct": 720.2854
     }
   ],
-  "story_image": "fomo/2026-11-13-story.jpg",
-  "post_image": "fomo/2026-11-13-post.jpg"
+  "story_image": "fomo/2026-11-14-story.jpg",
+  "post_image": "fomo/2026-11-14-post.jpg"
 }
