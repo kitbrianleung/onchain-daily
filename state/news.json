@@ -2,34 +2,34 @@
   "date": "14 NOV 2026",
   "items": [
     {
-      "headline": "$HYPE Flips Bybit, Kraken, OKX in Open Interest",
-      "summary": "$HYPE open interest jumped 80% in Q3, lifting Hyperliquid past Bybit, Kraken and OKX with an 11.7% share across major rivals.",
-      "url": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
-      "token": "$HYPE"
+      "headline": "$ONDO Stocks Unlock Interest-Free Stablecoin Loans",
+      "summary": "$ONDO stock tokens can now be used to access interest-free stablecoin loans, adding a fresh RWA-DeFi use case.",
+      "url": "https://cryptonews.net/",
+      "token": "$ONDO"
     },
     {
-      "headline": "$INJ Opens Veyra Vote for Cross-Chain Trading",
-      "summary": "$INJ governance opened the Veyra vote for a Nov. 24 upgrade adding cross-chain asset transfers and trading infrastructure; turnout is still below quorum.",
-      "url": "https://thedefiant.io/news/blockchains/injective-opens-veyra-vote-for-cross-chain-trading",
-      "token": "$INJ"
+      "headline": "$GHO 61% Supply Drop Is Just Accounting",
+      "summary": "$GHO's reported 61% supply plunge came from DefiLlama excluding idle pre-minted tokens, not an organic collapse.",
+      "url": "https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change",
+      "token": "$GHO"
     },
     {
-      "headline": "$OSMO Restarts After Halt as Upbit Pauses Transfers",
-      "summary": "$OSMO block production resumed after a roughly four-hour halt, while Upbit kept trading open but paused deposits and withdrawals.",
-      "url": "https://thedefiant.io/news/infrastructure/osmosis-restarts-after-halt-upbit-pauses-transfers",
-      "token": "$OSMO"
+      "headline": "$DOGE Cofounder Drops Shiba Inu Bombshell",
+      "summary": "$DOGE's cofounder made a tongue-in-cheek canine declaration that stirred fresh meme-coin chatter across crypto socials.",
+      "url": "https://u.today/",
+      "token": "$DOGE"
     },
     {
-      "headline": "$SKY Advisor Moves to Halt New Core Vault Borrowing",
-      "summary": "A $SKY advisor proposed stopping new Core vault borrowing after BA Labs flagged 771 vaults and 376.33M $USDS in debt; repayments would continue.",
-      "url": "https://thedefiant.io/news/defi/sky-advisor-proposes-halting-new-core-vault-borrowing",
-      "token": "$SKY"
+      "headline": "$ETH Breaks Below $1,900 as ETFs Bleed",
+      "summary": "$ETH fell under $1,900 as US spot ether ETFs logged a sixth straight session of net withdrawals.",
+      "url": "https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin",
+      "token": "$ETH"
     },
     {
-      "headline": "$AVAX Owns 5% of Tokenized Stocks",
-      "summary": "Tokenized-stock venues are splitting chains, and $AVAX now holds about 5% of the sector after NYSE picked Avalanche for its planned 24/7 market.",
-      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
-      "token": "$AVAX"
+      "headline": "$BTC Sinks Under $67K in Deep Selloff",
+      "summary": "$BTC dropped below $67,000 as the crypto selloff deepened, with 42 of 44 watched tokens lower over 24 hours.",
+      "url": "https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens",
+      "token": "$BTC"
     }
   ]
 }
