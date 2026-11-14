@@ -1,35 +1,35 @@
 {
-  "date": "14 NOV 2026",
+  "date": "15 NOV 2026",
   "items": [
     {
-      "headline": "$ONDO Stocks Unlock Interest-Free Stablecoin Loans",
-      "summary": "$ONDO stock tokens can now be used to access interest-free stablecoin loans, adding a fresh RWA-DeFi use case.",
-      "url": "https://cryptonews.net/",
+      "headline": "Pennysia Exploit: Users Told to Revoke Approvals Now",
+      "summary": "Pennysia suffered an exploit draining four addresses, with SlowMist urging users to revoke approvals. Swaps were disabled before the public warning went out.",
+      "url": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit",
+      "token": "$PENNYSIA"
+    },
+    {
+      "headline": "$OM Shock: MANTRA Freezes New Unstaking for 7 Days",
+      "summary": "MANTRA announced a seven-day pause on new unstaking requests, filed under hacks. Tokens already unstaking keep their eight-day countdown, but new withdrawals are blocked.",
+      "url": "https://thedefiant.io/news/hacks/mantra-announces-seven-day-pause-on-new-unstaking",
+      "token": "$OM"
+    },
+    {
+      "headline": "$DYDX Proposes Moving USDC Backing to Injective",
+      "summary": "The $DYDX v9.9 plan would shift USDC backing from Noble to Injective, rerouting deposits and withdrawals while leaving balances, collateral and open positions untouched.",
+      "url": "https://thedefiant.io/news/defi/dydx-proposes-usdc-backing-shift-from-noble-to-injective",
+      "token": "$DYDX"
+    },
+    {
+      "headline": "$ONDO Backs Spout's No-Interest Stock-Token Loans",
+      "summary": "Ondo is backing Spout's plan for zero-interest loans against stock tokens on Solana, funding lender returns with covered calls. Borrowers take on forgone gains and liquidation risk.",
+      "url": "https://thedefiant.io/news/defi/ondo-backs-spout-plan-for-no-interest-stock-token-loans",
       "token": "$ONDO"
     },
     {
-      "headline": "$GHO 61% Supply Drop Is Just Accounting",
-      "summary": "$GHO's reported 61% supply plunge came from DefiLlama excluding idle pre-minted tokens, not an organic collapse.",
-      "url": "https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change",
-      "token": "$GHO"
-    },
-    {
-      "headline": "$DOGE Cofounder Drops Shiba Inu Bombshell",
-      "summary": "$DOGE's cofounder made a tongue-in-cheek canine declaration that stirred fresh meme-coin chatter across crypto socials.",
-      "url": "https://u.today/",
-      "token": "$DOGE"
-    },
-    {
-      "headline": "$ETH Breaks Below $1,900 as ETFs Bleed",
-      "summary": "$ETH fell under $1,900 as US spot ether ETFs logged a sixth straight session of net withdrawals.",
-      "url": "https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin",
-      "token": "$ETH"
-    },
-    {
-      "headline": "$BTC Sinks Under $67K in Deep Selloff",
-      "summary": "$BTC dropped below $67,000 as the crypto selloff deepened, with 42 of 44 watched tokens lower over 24 hours.",
-      "url": "https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens",
-      "token": "$BTC"
+      "headline": "$1INCH Delegators Must Claim Rewards by Nov. 27",
+      "summary": "1inch closed new resolver delegations and warned existing delegators to claim rewards and undelegate before Nov. 27. Plain $1INCH staking is unaffected.",
+      "url": "https://thedefiant.io/news/defi/1inch-warns-delegators-to-claim-rewards-by-nov-27",
+      "token": "$1INCH"
     }
   ]
 }
