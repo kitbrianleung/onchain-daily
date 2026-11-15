@@ -2,34 +2,34 @@
   "date": "15 NOV 2026",
   "items": [
     {
-      "headline": "Pennysia Exploit: Users Told to Revoke Approvals Now",
-      "summary": "Pennysia suffered an exploit draining four addresses, with SlowMist urging users to revoke approvals. Swaps were disabled before the public warning went out.",
-      "url": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit",
-      "token": "$PENNYSIA"
+      "headline": "$KAVA Lend Exploit Drains Millions, Token Crashes 47%",
+      "summary": "Attackers used inflated BUSD collateral to borrow 55.2M $KAVA from Kava Lend. Bridge withdrawals halted and three Korean exchanges suspended transfers as $KAVA plunged 47%.",
+      "url": "https://thedefiant.io/news/hacks/kava-lend-exploit-drains-millions-as-kava-falls-47",
+      "token": "$KAVA"
     },
     {
-      "headline": "$OM Shock: MANTRA Freezes New Unstaking for 7 Days",
-      "summary": "MANTRA announced a seven-day pause on new unstaking requests, filed under hacks. Tokens already unstaking keep their eight-day countdown, but new withdrawals are blocked.",
-      "url": "https://thedefiant.io/news/hacks/mantra-announces-seven-day-pause-on-new-unstaking",
-      "token": "$OM"
+      "headline": "$AAVE Sees $39M in Liquidations Amid Market Rout",
+      "summary": "Aave executive Luigi D'Onorio DeMeo reported ~$18M in liquidations in one day and $21M more the next as the crypto selloff hammered $AAVE borrowers.",
+      "url": "https://thedefiant.io/news/defi/aave-executive-reports-39-million-in-liquidations",
+      "token": "$AAVE"
     },
     {
-      "headline": "$DYDX Proposes Moving USDC Backing to Injective",
-      "summary": "The $DYDX v9.9 plan would shift USDC backing from Noble to Injective, rerouting deposits and withdrawals while leaving balances, collateral and open positions untouched.",
-      "url": "https://thedefiant.io/news/defi/dydx-proposes-usdc-backing-shift-from-noble-to-injective",
-      "token": "$DYDX"
+      "headline": "Mystery 1.78M $SOL Stake Withdrawal Sparks Treasury Drama",
+      "summary": "Trackers linked 1.78M $SOL (~$123M) in stake withdrawals to Forward Industries, but the treasury company denies ownership. Onchain data confirms the moves — the whale remains disputed.",
+      "url": "https://thedefiant.io/news/markets/forward-industries-denies-123-million-sol-transfer",
+      "token": "$SOL"
     },
     {
-      "headline": "$ONDO Backs Spout's No-Interest Stock-Token Loans",
-      "summary": "Ondo is backing Spout's plan for zero-interest loans against stock tokens on Solana, funding lender returns with covered calls. Borrowers take on forgone gains and liquidation risk.",
-      "url": "https://thedefiant.io/news/defi/ondo-backs-spout-plan-for-no-interest-stock-token-loans",
-      "token": "$ONDO"
+      "headline": "$DOT Bets Big on Messaging App and Native Stablecoin",
+      "summary": "Polkadot is leaning into a new messaging app and a $DOT-backed stablecoin initiative, aiming to revive ecosystem momentum with fresh consumer and DeFi use cases.",
+      "url": "https://crypto-news-flash.com",
+      "token": "$DOT"
     },
     {
-      "headline": "$1INCH Delegators Must Claim Rewards by Nov. 27",
-      "summary": "1inch closed new resolver delegations and warned existing delegators to claim rewards and undelegate before Nov. 27. Plain $1INCH staking is unaffected.",
-      "url": "https://thedefiant.io/news/defi/1inch-warns-delegators-to-claim-rewards-by-nov-27",
-      "token": "$1INCH"
+      "headline": "Telegram Bot Widget Ban Rattles $TON Mini-App Scene",
+      "summary": "Telegram restricted general bots from sending HTML widgets amid a security dispute, a blow to the $TON ecosystem's mini-app and bot-driven DeFi tooling.",
+      "url": "https://thedefiant.io/news/security/telegram-restricts-bot-widgets-amid-security-dispute",
+      "token": "$TON"
     }
   ]
 }
