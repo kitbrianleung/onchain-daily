@@ -1,35 +1,35 @@
 {
-  "date": "15 NOV 2026",
+  "date": "16 NOV 2026",
   "items": [
     {
-      "headline": "$KAVA Lend Exploit Drains Millions, Token Crashes 47%",
-      "summary": "Attackers used inflated BUSD collateral to borrow 55.2M $KAVA from Kava Lend. Bridge withdrawals halted and three Korean exchanges suspended transfers as $KAVA plunged 47%.",
-      "url": "https://thedefiant.io/news/hacks/kava-lend-exploit-drains-millions-as-kava-falls-47",
+      "headline": "Kava Lend Hacked for $3.8M, $KAVA Craters 40%",
+      "summary": "Attackers bridged ~49.2M $KAVA to BNB Chain via LayerZero and dumped it for roughly $2.1M in $BNB and stablecoins, sending $KAVA down nearly 40%.",
+      "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
       "token": "$KAVA"
     },
     {
-      "headline": "$AAVE Sees $39M in Liquidations Amid Market Rout",
-      "summary": "Aave executive Luigi D'Onorio DeMeo reported ~$18M in liquidations in one day and $21M more the next as the crypto selloff hammered $AAVE borrowers.",
-      "url": "https://thedefiant.io/news/defi/aave-executive-reports-39-million-in-liquidations",
-      "token": "$AAVE"
+      "headline": "$AERO Slides 27% in a Week as Merger Rally Unwinds",
+      "summary": "$AERO's post-merger retreat erased October's rally, though its Base pools still hold ~$250M and handled $5.09B in weekly swaps.",
+      "url": "https://thedefiant.io/news/markets/aero-falls-27-in-a-week-lagging-bitcoin-and-ether",
+      "token": "$AERO"
     },
     {
-      "headline": "Mystery 1.78M $SOL Stake Withdrawal Sparks Treasury Drama",
-      "summary": "Trackers linked 1.78M $SOL (~$123M) in stake withdrawals to Forward Industries, but the treasury company denies ownership. Onchain data confirms the moves — the whale remains disputed.",
-      "url": "https://thedefiant.io/news/markets/forward-industries-denies-123-million-sol-transfer",
-      "token": "$SOL"
+      "headline": "$LDO: Lido Lend Plan Would Freeze Repayments",
+      "summary": "A proposed emergency pause on Lido Lend would block repayments, lender exits and liquidations, with a governance path to remove its auto-expiry. $LDO holders on alert.",
+      "url": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
+      "token": "$LDO"
     },
     {
-      "headline": "$DOT Bets Big on Messaging App and Native Stablecoin",
-      "summary": "Polkadot is leaning into a new messaging app and a $DOT-backed stablecoin initiative, aiming to revive ecosystem momentum with fresh consumer and DeFi use cases.",
-      "url": "https://crypto-news-flash.com",
-      "token": "$DOT"
+      "headline": "$SPK: Spark TVL Drops 15.3% to a 30-Day Low",
+      "summary": "Spark's tracked TVL fell to $5.70B, a 30-day low, though the decline reflects asset prices rather than withdrawals or lost lending capacity. $SPK ecosystem cools.",
+      "url": "https://thedefiant.io/news/defi/spark-tvl-falls-15-3-in-a-week-to-a-30-day-low",
+      "token": "$SPK"
     },
     {
-      "headline": "Telegram Bot Widget Ban Rattles $TON Mini-App Scene",
-      "summary": "Telegram restricted general bots from sending HTML widgets amid a security dispute, a blow to the $TON ecosystem's mini-app and bot-driven DeFi tooling.",
-      "url": "https://thedefiant.io/news/security/telegram-restricts-bot-widgets-amid-security-dispute",
-      "token": "$TON"
+      "headline": "$ATOM: Cosmos Hub Votes on Governance Query Fix",
+      "summary": "Proposal 1061 is above quorum with near-unanimous backing; validators would upgrade to Gaia v29.1.0 at block 33,935,300 if it passes. $ATOM governance in focus.",
+      "url": "https://thedefiant.io/news/blockchains/cosmos-hub-votes-on-fix-for-broken-governance-queries",
+      "token": "$ATOM"
     }
   ]
 }
