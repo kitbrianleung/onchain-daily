@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 16198778.36136865,
-      "pct": -12.9822
+      "mcap": 16859802.16194351,
+      "pct": 4.5077
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 34999565.08505059,
-      "pct": -7.1294
+      "mcap": 33986261.23491563,
+      "pct": -1.8976
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 22859582.010687225,
-      "pct": -13.2259
+      "mcap": 23152348.34850716,
+      "pct": 1.0865
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 85801296.7357097,
-      "pct": -17.3588
-    },
-    {
-      "name": "Useless Coin",
-      "symbol": "USELESS",
-      "label": "USELESS",
-      "full": "Useless Coin (USELESS)",
-      "mcap": 112404014.57814589,
-      "pct": -17.0438
-    },
-    {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 6642846.562197914,
-      "pct": -19.4724
+      "mcap": 81752662.94305858,
+      "pct": -4.3295
     },
     {
       "name": "Nullmask",
       "symbol": "MASK",
       "label": "MASK",
       "full": "Nullmask (MASK)",
-      "mcap": 18425601.216334417,
-      "pct": -19.6369
-    }
-  ],
-  "trending": [
-    {
-      "name": "GTA Dollar",
-      "symbol": "GTA$",
-      "label": "GTA$",
-      "full": "GTA Dollar (GTA$)",
-      "mcap": 243544.97574412267,
-      "pct": 4680.3061
-    },
-    {
-      "name": "tinfoil hat",
-      "symbol": "tinfoil",
-      "label": "tinfoil",
-      "full": "tinfoil hat (tinfoil)",
-      "mcap": 353951.5297752693,
-      "pct": 10505.7315
-    },
-    {
-      "name": "Stand With Jensen",
-      "symbol": "SWJ",
-      "label": "SWJ",
-      "full": "Stand With Jensen (SWJ)",
-      "mcap": 350895.8539347406,
-      "pct": 9047.2999
-    },
-    {
-      "name": "ni hao cat",
-      "symbol": "mihao",
-      "label": "mihao",
-      "full": "ni hao cat (mihao)",
-      "mcap": 16056355.859746668,
-      "pct": 10.5144
+      "mcap": 24354538.10812012,
+      "pct": 28.9535
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 6825879.9906501705,
-      "pct": -17.049
+      "mcap": 7113233.831202675,
+      "pct": 7.5593
+    },
+    {
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "label": "USELESS",
+      "full": "Useless Coin (USELESS)",
+      "mcap": 101158581.54336812,
+      "pct": -8.9652
+    }
+  ],
+  "trending": [
+    {
+      "name": "ni hao cat",
+      "symbol": "mihao",
+      "label": "mihao",
+      "full": "ni hao cat (mihao)",
+      "mcap": 16071127.789442873,
+      "pct": 2.7881
     },
     {
       "name": "Just a jacket",
       "symbol": "Jacket",
       "label": "Jacket",
       "full": "Just a jacket (Jacket)",
-      "mcap": 1898535.162744003,
-      "pct": -15.4959
+      "mcap": 827335.7294092028,
+      "pct": -50.9433
     },
     {
-      "name": "chudhaos",
-      "symbol": "chudhaos",
-      "label": "chudhaos",
-      "full": "chudhaos",
-      "mcap": 468699.17546216707,
-      "pct": 720.2854
+      "name": "The Black Bull",
+      "symbol": "ANSEM",
+      "label": "ANSEM",
+      "full": "The Black Bull (ANSEM)",
+      "mcap": 52698635.04513937,
+      "pct": 8.1895
+    },
+    {
+      "name": "microduck",
+      "symbol": "MICRODUCK",
+      "label": "MICRODUCK",
+      "full": "microduck",
+      "mcap": 3292506.8926615613,
+      "pct": -0.577
+    },
+    {
+      "name": "FLOAT",
+      "symbol": "FLOAT",
+      "label": "FLOAT",
+      "full": "FLOAT",
+      "mcap": 2223184.7241833825,
+      "pct": -25.9244
+    },
+    {
+      "name": "Nigga Its Over",
+      "symbol": "NIO",
+      "label": "NIO",
+      "full": "Nigga Its Over (NIO)",
+      "mcap": 1471006.9341289776,
+      "pct": -26.259
+    },
+    {
+      "name": "StarsAI",
+      "symbol": "StarsAI",
+      "label": "StarsAI",
+      "full": "StarsAI",
+      "mcap": 1284588.5491877052,
+      "pct": 51.2631
     }
   ],
-  "story_image": "fomo/2026-11-14-story.jpg",
-  "post_image": "fomo/2026-11-14-post.jpg"
+  "story_image": "fomo/2026-11-15-story.jpg",
+  "post_image": "fomo/2026-11-15-post.jpg"
 }
