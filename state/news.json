@@ -2,34 +2,34 @@
   "date": "16 NOV 2026",
   "items": [
     {
-      "headline": "Kava Lend Hacked for $3.8M, $KAVA Craters 40%",
-      "summary": "Attackers bridged ~49.2M $KAVA to BNB Chain via LayerZero and dumped it for roughly $2.1M in $BNB and stablecoins, sending $KAVA down nearly 40%.",
-      "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
-      "token": "$KAVA"
+      "headline": "$ASTER Crashes 32% as CEO Blames 'Malicious' Liquidations",
+      "summary": "$ASTER plunged ~32% from its intraday spike on Aster and Binance. CEO Leonard called the liquidations 'likely malicious' and said the team is investigating.",
+      "url": "https://thedefiant.io/news/markets/aster-ceo-blames-liquidations-for-aster-s-sharp-swing",
+      "token": "$ASTER"
     },
     {
-      "headline": "$AERO Slides 27% in a Week as Merger Rally Unwinds",
-      "summary": "$AERO's post-merger retreat erased October's rally, though its Base pools still hold ~$250M and handled $5.09B in weekly swaps.",
-      "url": "https://thedefiant.io/news/markets/aero-falls-27-in-a-week-lagging-bitcoin-and-ether",
-      "token": "$AERO"
+      "headline": "$OCEAN Payouts Flow to Address Flagged in Mining Hijack",
+      "summary": "Two confirmed Bitcoin payouts totaling ~$10,500 reached a flagged address, while $OCEAN's reward system keeps assigning it a share of future blocks.",
+      "url": "https://thedefiant.io/news/hacks/ocean-payouts-reach-address-flagged-in-mining-hijack",
+      "token": "$OCEAN"
     },
     {
-      "headline": "$LDO: Lido Lend Plan Would Freeze Repayments",
-      "summary": "A proposed emergency pause on Lido Lend would block repayments, lender exits and liquidations, with a governance path to remove its auto-expiry. $LDO holders on alert.",
-      "url": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
-      "token": "$LDO"
+      "headline": "Hyperliquid Whale Loses $10M, Rotates Into $SOL Bet",
+      "summary": "A Hyperliquid whale that lost $10M has shifted sizable bets toward $SOL, signaling renewed leveraged conviction in Solana.",
+      "url": "https://beincrypto.com",
+      "token": "$SOL"
     },
     {
-      "headline": "$SPK: Spark TVL Drops 15.3% to a 30-Day Low",
-      "summary": "Spark's tracked TVL fell to $5.70B, a 30-day low, though the decline reflects asset prices rather than withdrawals or lost lending capacity. $SPK ecosystem cools.",
-      "url": "https://thedefiant.io/news/defi/spark-tvl-falls-15-3-in-a-week-to-a-30-day-low",
-      "token": "$SPK"
+      "headline": "$AVAX Alone Sees ETF Inflows as LINK, DOT Bleed",
+      "summary": "Chainlink and Polkadot spot ETFs posted weekly outflows, while $AVAX was the only altcoin ETF recording inflows — a quiet accumulation signal.",
+      "url": "https://bsc.news",
+      "token": "$AVAX"
     },
     {
-      "headline": "$ATOM: Cosmos Hub Votes on Governance Query Fix",
-      "summary": "Proposal 1061 is above quorum with near-unanimous backing; validators would upgrade to Gaia v29.1.0 at block 33,935,300 if it passes. $ATOM governance in focus.",
-      "url": "https://thedefiant.io/news/blockchains/cosmos-hub-votes-on-fix-for-broken-governance-queries",
-      "token": "$ATOM"
+      "headline": "Vestige Shuts Algorand DeFi Platform, $ALGO Ecosystem Hit",
+      "summary": "Vestige will close its Algorand DeFi platform on Dec. 31, 2026, citing costs — a blow to the $ALGO DeFi ecosystem.",
+      "url": "https://cryptobriefing.com/",
+      "token": "$ALGO"
     }
   ]
 }
