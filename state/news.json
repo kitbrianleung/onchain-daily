@@ -1,35 +1,35 @@
 {
-  "date": "17 NOV 2026",
+  "date": "18 NOV 2026",
   "items": [
     {
-      "headline": "$HYPE shorts cut to $8.6M by Abraxas wallets",
-      "summary": "Four suspected Abraxas wallets still hold $8.6M in $HYPE shorts on Hyperliquid, with analyst attribution tying them to Lighter's API-key scare. #altcoins #defi #onchain #crypto #alpha #HYPE",
-      "url": "https://thedefiant.io/news/defi/abraxas-linked-wallets-cut-hyperliquid-shorts-to-8-6m",
-      "token": "$HYPE"
+      "headline": "Tokenized Stocks Get Uniswap v4 Liquidity on $MON",
+      "summary": "Monad announced 10 xStocks markets with live Uniswap v4 liquidity, bringing tokenized equities deeper into DeFi. Access limits and collateral-pricing rules still apply for builders.",
+      "url": "https://thedefiant.io/news/defi/tokenized-stocks-gain-uniswap-v4-liquidity-on-monad",
+      "token": "$MON"
     },
     {
-      "headline": "$BACKPACK wins CFTC nod for US perps venue",
-      "summary": "Backpack won CFTC approval for a US blockchain derivatives venue planning leveraged perps and one global order book; $BACKPACK waitlist is open. #altcoins #defi #onchain #crypto #alpha #BACKPACK",
-      "url": "https://thedefiant.io/news/regulation/cftc-approves-backpack-s-blockchain-derivatives-venue",
-      "token": "$BACKPACK"
+      "headline": "$ONDO Launches S&P 500 Token With Loss Buffers",
+      "summary": "$ONDO's new SPYSHIELD token bundles exposure to 12 defined-protection ETFs for eligible non-US investors. Loss buffers depend on holding periods and exclude fees.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-launches-s-p-500-portfolio-token-with-loss-buffers",
+      "token": "$ONDO"
     },
     {
-      "headline": "$GARUDA DeFi admits five late-October exploits",
-      "summary": "Garuda DeFi disclosed a record five exploits in late October, a rough security stretch for the small $GARUDA protocol. #altcoins #defi #onchain #crypto #alpha #GARUDA",
-      "url": "https://protos.com",
-      "token": "$GARUDA"
+      "headline": "Coinbase Expands Onchain Loans to NY via $MORPHO",
+      "summary": "Coinbase brought its $MORPHO-powered onchain loan product to New York residents, supporting BTC, ETH and SOL as collateral. A big regulatory win for DeFi lending rails.",
+      "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+      "token": "$MORPHO"
     },
     {
-      "headline": "$ETH picked for Invesco tokenized reserve fund",
-      "summary": "Invesco's stablecoin reserve fund began issuing tokenized shares on $ETH, with Superstate touting automated dividend reinvestment. #altcoins #defi #onchain #crypto #alpha #ETH",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/invesco-s-stablecoin-reserve-fund-goes-live-on-ethereum",
-      "token": "$ETH"
+      "headline": "$GRVT Debuts RWA Perps Tied to TradFi Funding",
+      "summary": "$GRVT launched Stable Funding Perps across seven commodity markets, with funding rates linked to market makers' real financing costs. A fresh DeFi use case bridging traditional markets.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
+      "token": "$GRVT"
     },
     {
-      "headline": "$SOL treasury tops 2.6M after nine-week buy streak",
-      "summary": "DeFi Development Corp lifted its treasury past 2.6M $SOL after nine straight weekly buys, a steady corporate accumulation signal. #altcoins #defi #onchain #crypto #alpha #SOL",
-      "url": "https://cryip.co/",
-      "token": "$SOL"
+      "headline": "CFTC Halts Kalshi Trump Word Bets for Review",
+      "summary": "The CFTC ordered Kalshi to defend its Trump-word contracts by December 11 over manipulation concerns. Other mention markets remain listed on the prediction platform.",
+      "url": "https://thedefiant.io/news/regulation/cftc-halts-kalshi-trump-word-bets-for-manipulation-review",
+      "token": "Kalshi"
     }
   ]
 }
