@@ -1,61 +1,61 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "most_held": [
+    {
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 18485431.963216264,
+      "pct": 85.0822
+    },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 16332771.43808412,
-      "pct": -1.5993
+      "mcap": 18456885.048576005,
+      "pct": 12.2449
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 26505307.637669995,
-      "pct": 15.736
+      "mcap": 25743170.75312471,
+      "pct": -3.5945
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 31849543.300969504,
-      "pct": -8.4288
-    },
-    {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 9427967.113302244,
-      "pct": 30.1632
+      "mcap": 33991446.06050015,
+      "pct": 10.5909
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 81560266.73671323,
-      "pct": -0.0959
+      "mcap": 77280818.8940045,
+      "pct": -4.1258
+    },
+    {
+      "name": "Anonymous Cat",
+      "symbol": "ZCAT",
+      "label": "ZCAT",
+      "full": "Anonymous Cat (ZCAT)",
+      "mcap": 23150301.129257515,
+      "pct": 28.1708
     },
     {
       "name": "Nullmask",
       "symbol": "MASK",
       "label": "MASK",
       "full": "Nullmask (MASK)",
-      "mcap": 19847348.317507762,
-      "pct": -15.3043
-    },
-    {
-      "name": "Useless Coin",
-      "symbol": "USELESS",
-      "label": "USELESS",
-      "full": "Useless Coin (USELESS)",
-      "mcap": 99426058.39940986,
-      "pct": -5.3955
+      "mcap": 19646061.19661549,
+      "pct": -1.3681
     }
   ],
   "trending": [
@@ -64,58 +64,58 @@
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 9484647.516880311,
-      "pct": 29.9113
+      "mcap": 18728868.488450106,
+      "pct": 86.5286
     },
     {
-      "name": "rockstar",
-      "symbol": "rockstar",
-      "label": "rockstar",
-      "full": "rockstar",
-      "mcap": 1173417.045719783,
-      "pct": 1168.038
-    },
-    {
-      "name": "StarsAI",
-      "symbol": "StarsAI",
-      "label": "StarsAI",
-      "full": "StarsAI",
-      "mcap": 1793533.113650006,
-      "pct": 43.9124
+      "name": "Not in Employment, Education, or Training",
+      "symbol": "NEET",
+      "label": "NEET",
+      "full": "Not in Employment, Education, or Trainin",
+      "mcap": 29671978.63312128,
+      "pct": 1.9321
     },
     {
       "name": "ni hao cat",
       "symbol": "mihao",
       "label": "mihao",
       "full": "ni hao cat (mihao)",
-      "mcap": 15363039.27730023,
-      "pct": -10.2467
+      "mcap": 8845511.822000433,
+      "pct": -38.9607
+    },
+    {
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 18538030.661180455,
+      "pct": 11.753
+    },
+    {
+      "name": "Hogecoin",
+      "symbol": "HOGE",
+      "label": "HOGE",
+      "full": "Hogecoin (HOGE)",
+      "mcap": 1001304.6473247753,
+      "pct": 29.1792
+    },
+    {
+      "name": "bul",
+      "symbol": "bul",
+      "label": "bul",
+      "full": "bul",
+      "mcap": 267395.57447333157,
+      "pct": 1841.3151
     },
     {
       "name": "",
       "symbol": "",
       "label": "?",
       "full": "?",
-      "mcap": 498245.443553491,
-      "pct": 15278.8375
-    },
-    {
-      "name": "Nigga Its Over",
-      "symbol": "NIO",
-      "label": "NIO",
-      "full": "Nigga Its Over (NIO)",
-      "mcap": 1523502.850788626,
-      "pct": -1.2321
-    },
-    {
-      "name": "WASTED",
-      "symbol": "WASTED",
-      "label": "WASTED",
-      "full": "WASTED",
-      "mcap": 3326054.601020314,
-      "pct": -32.7921
+      "mcap": 995473.5235911473,
+      "pct": -8.9518
     }
   ],
-  "story_image": "fomo/2026-11-16-story.jpg",
-  "post_image": "fomo/2026-11-16-post.jpg"
+  "story_image": "fomo/2026-11-17-story.jpg",
+  "post_image": "fomo/2026-11-17-post.jpg"
 }
