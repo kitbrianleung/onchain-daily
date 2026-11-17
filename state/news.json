@@ -2,33 +2,33 @@
   "date": "17 NOV 2026",
   "items": [
     {
-      "headline": "Cypherpunk Buys the $ZEC Dip After Mining Debut",
-      "summary": "Cypherpunk bought 3,775 more $ZEC for about $3.5M at roughly $920, leaning into the dip as its mining debut posted $2.6M operating profit.",
-      "url": "https://www.theblock.co/news/business/2026-11-16-winklevoss-cypherpunk-buys-zcash-dip-mining-debut-delivers-2-6-million-operating-profit-441392",
-      "token": "$ZEC"
+      "headline": "$HYPE shorts cut to $8.6M by Abraxas wallets",
+      "summary": "Four suspected Abraxas wallets still hold $8.6M in $HYPE shorts on Hyperliquid, with analyst attribution tying them to Lighter's API-key scare. #altcoins #defi #onchain #crypto #alpha #HYPE",
+      "url": "https://thedefiant.io/news/defi/abraxas-linked-wallets-cut-hyperliquid-shorts-to-8-6m",
+      "token": "$HYPE"
     },
     {
-      "headline": "$COW Goes Live on Solana With Intent Trading",
-      "summary": "$COW’s CoW Swap launched direct intent-based trading on Solana, expanding from cross-chain routes into native swaps on the network.",
-      "url": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
-      "token": "$COW"
+      "headline": "$BACKPACK wins CFTC nod for US perps venue",
+      "summary": "Backpack won CFTC approval for a US blockchain derivatives venue planning leveraged perps and one global order book; $BACKPACK waitlist is open. #altcoins #defi #onchain #crypto #alpha #BACKPACK",
+      "url": "https://thedefiant.io/news/regulation/cftc-approves-backpack-s-blockchain-derivatives-venue",
+      "token": "$BACKPACK"
     },
     {
-      "headline": "$KMNO Ships New App, Eyes Omni Pilots for 2027",
-      "summary": "$KMNO’s Kamino rolled out a new app with its ONE swap engine live, and pitched Omni for institutional tokenized portfolios by 2027.",
-      "url": "https://thedefiant.io/news/defi/kamino-launches-new-app-targets-omni-pilots-for-2027",
-      "token": "$KMNO"
+      "headline": "$GARUDA DeFi admits five late-October exploits",
+      "summary": "Garuda DeFi disclosed a record five exploits in late October, a rough security stretch for the small $GARUDA protocol. #altcoins #defi #onchain #crypto #alpha #GARUDA",
+      "url": "https://protos.com",
+      "token": "$GARUDA"
     },
     {
-      "headline": "$SAFE Wallet Drained of $6.4M via Roles Module",
-      "summary": "A delegated-roles gap let an attacker drain $6.4M from a $SAFE wallet, exposing how risky trading permissions can become a single point of failure.",
-      "url": "https://thedefiant.io/news/hacks/safe-wallet-drained-of-6-4-million-via-roles-module",
-      "token": "$SAFE"
+      "headline": "$ETH picked for Invesco tokenized reserve fund",
+      "summary": "Invesco's stablecoin reserve fund began issuing tokenized shares on $ETH, with Superstate touting automated dividend reinvestment. #altcoins #defi #onchain #crypto #alpha #ETH",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/invesco-s-stablecoin-reserve-fund-goes-live-on-ethereum",
+      "token": "$ETH"
     },
     {
-      "headline": "$SOL Drops Mainnet Beta Label, Adopts v1.0",
-      "summary": "$SOL retired the mainnet beta tag and adopted protocol version 1.0, a symbolic maturity milestone for the network’s shared client standard.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
+      "headline": "$SOL treasury tops 2.6M after nine-week buy streak",
+      "summary": "DeFi Development Corp lifted its treasury past 2.6M $SOL after nine straight weekly buys, a steady corporate accumulation signal. #altcoins #defi #onchain #crypto #alpha #SOL",
+      "url": "https://cryip.co/",
       "token": "$SOL"
     }
   ]
