@@ -2,34 +2,34 @@
   "date": "18 NOV 2026",
   "items": [
     {
-      "headline": "Tokenized Stocks Get Uniswap v4 Liquidity on $MON",
-      "summary": "Monad announced 10 xStocks markets with live Uniswap v4 liquidity, bringing tokenized equities deeper into DeFi. Access limits and collateral-pricing rules still apply for builders.",
-      "url": "https://thedefiant.io/news/defi/tokenized-stocks-gain-uniswap-v4-liquidity-on-monad",
-      "token": "$MON"
+      "headline": "Polymarket Moves Crypto Bets to Chainlink $LINK",
+      "summary": "Polymarket is shifting its hourly and daily crypto markets to $LINK-powered oracles, using 60-second average prices for settlement. A big DeFi adoption win for Chainlink.",
+      "url": "https://thedefiant.io/news/defi/polymarket-moves-hourly-daily-crypto-bets-to-chainlink",
+      "token": "$LINK"
     },
     {
-      "headline": "$ONDO Launches S&P 500 Token With Loss Buffers",
-      "summary": "$ONDO's new SPYSHIELD token bundles exposure to 12 defined-protection ETFs for eligible non-US investors. Loss buffers depend on holding periods and exclude fees.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-launches-s-p-500-portfolio-token-with-loss-buffers",
-      "token": "$ONDO"
+      "headline": "$ETHFI Tumbles 25%, Doubling Bitcoin's Weekly Loss",
+      "summary": "$ETHFI is down 25% in a week and 32% over four weeks, while Ether.fi's staking TVL slid about 11%. Restaking tokens are under heavy pressure.",
+      "url": "https://thedefiant.io/news/markets/ether-fi-token-falls-25-doubling-bitcoin-s-weekly-loss",
+      "token": "$ETHFI"
     },
     {
-      "headline": "Coinbase Expands Onchain Loans to NY via $MORPHO",
-      "summary": "Coinbase brought its $MORPHO-powered onchain loan product to New York residents, supporting BTC, ETH and SOL as collateral. A big regulatory win for DeFi lending rails.",
-      "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+      "headline": "Coinbase Brings $MORPHO Onchain Loans to New York",
+      "summary": "Coinbase is expanding its Morpho-powered onchain crypto loans to New York users. Another big regulated-market push for $MORPHO's DeFi lending rails.",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902",
       "token": "$MORPHO"
     },
     {
-      "headline": "$GRVT Debuts RWA Perps Tied to TradFi Funding",
-      "summary": "$GRVT launched Stable Funding Perps across seven commodity markets, with funding rates linked to market makers' real financing costs. A fresh DeFi use case bridging traditional markets.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
-      "token": "$GRVT"
+      "headline": "Paytaca Warns $BCH Wallet Users After Attacks",
+      "summary": "Bitcoin Cash wallet Paytaca flagged two backend attacks where attackers created fake orders and payment requests. Private keys stayed on users' devices, but $BCH users should stay alert.",
+      "url": "https://thedefiant.io/news/security/paytaca-warns-users-after-two-backend-security-attacks",
+      "token": "$BCH"
     },
     {
-      "headline": "CFTC Halts Kalshi Trump Word Bets for Review",
-      "summary": "The CFTC ordered Kalshi to defend its Trump-word contracts by December 11 over manipulation concerns. Other mention markets remain listed on the prediction platform.",
-      "url": "https://thedefiant.io/news/regulation/cftc-halts-kalshi-trump-word-bets-for-manipulation-review",
-      "token": "Kalshi"
+      "headline": "$USD1 Supply Falls 11% Below $3 Billion",
+      "summary": "World Liberty Financial's $USD1 stablecoin shed 11% of supply in a week, hitting a 30-day low with declines across Solana, Ethereum and BNB Chain.",
+      "url": "https://thedefiant.io/converge/tokens/usd1-supply-falls-11-in-a-week-to-below-3-billion",
+      "token": "$USD1"
     }
   ]
 }
