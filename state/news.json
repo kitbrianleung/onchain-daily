@@ -1,35 +1,35 @@
 {
-  "date": "18 NOV 2026",
+  "date": "19 NOV 2026",
   "items": [
     {
-      "headline": "Polymarket Moves Crypto Bets to Chainlink $LINK",
-      "summary": "Polymarket is shifting its hourly and daily crypto markets to $LINK-powered oracles, using 60-second average prices for settlement. A big DeFi adoption win for Chainlink.",
-      "url": "https://thedefiant.io/news/defi/polymarket-moves-hourly-daily-crypto-bets-to-chainlink",
-      "token": "$LINK"
+      "headline": "$LYX Under Attack: LUKSO Urges Key Removal Now",
+      "summary": "LUKSO warns Universal Profile holders to remove an attacker key and malicious recovery controller after an exploit. Revoking permissions alone isn't enough — $LYX users must act fast.",
+      "url": "https://thedefiant.io/news/security/lukso-urges-key-removal-after-universal-profile-attack",
+      "token": "$LYX"
     },
     {
-      "headline": "$ETHFI Tumbles 25%, Doubling Bitcoin's Weekly Loss",
-      "summary": "$ETHFI is down 25% in a week and 32% over four weeks, while Ether.fi's staking TVL slid about 11%. Restaking tokens are under heavy pressure.",
-      "url": "https://thedefiant.io/news/markets/ether-fi-token-falls-25-doubling-bitcoin-s-weekly-loss",
-      "token": "$ETHFI"
+      "headline": "PancakeSwap Rebrands to Pancake — $CAKE Stays Put",
+      "summary": "The DEX giant shortens its name to reflect its expansion into perps and tokenized stocks. No migration needed — $CAKE holders can relax.",
+      "url": "https://thedefiant.io/news/defi/pancakeswap-becomes-pancake-cake-needs-no-migration",
+      "token": "$CAKE"
     },
     {
-      "headline": "Coinbase Brings $MORPHO Onchain Loans to New York",
-      "summary": "Coinbase is expanding its Morpho-powered onchain crypto loans to New York users. Another big regulated-market push for $MORPHO's DeFi lending rails.",
-      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902",
-      "token": "$MORPHO"
+      "headline": "$ONDO to Launch Tokenized Anthropic Stock on IPO Day",
+      "summary": "Ondo's ANTon token will track Anthropic shares from day one of the Claude maker's Nasdaq debut. Binance Wallet's xStocks pool already hit its 500M USDC cap hours early.",
+      "url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
+      "token": "$ONDO"
     },
     {
-      "headline": "Paytaca Warns $BCH Wallet Users After Attacks",
-      "summary": "Bitcoin Cash wallet Paytaca flagged two backend attacks where attackers created fake orders and payment requests. Private keys stayed on users' devices, but $BCH users should stay alert.",
-      "url": "https://thedefiant.io/news/security/paytaca-warns-users-after-two-backend-security-attacks",
-      "token": "$BCH"
+      "headline": "$GRT Whale Drops 300K Deposit, Shakes Curation Market",
+      "summary": "A 300,000 $GRT deposit lifted one deployment's modeled share of The Graph's indexing rewards to 6.2%. Arbitrators declined to penalize self-curation, keeping the burn at 1%.",
+      "url": "https://thedefiant.io/news/blockchains/the-graph-s-curation-burn-stays-at-1-after-300-000-grt-deposit",
+      "token": "$GRT"
     },
     {
-      "headline": "$USD1 Supply Falls 11% Below $3 Billion",
-      "summary": "World Liberty Financial's $USD1 stablecoin shed 11% of supply in a week, hitting a 30-day low with declines across Solana, Ethereum and BNB Chain.",
-      "url": "https://thedefiant.io/converge/tokens/usd1-supply-falls-11-in-a-week-to-below-3-billion",
-      "token": "$USD1"
+      "headline": "$EIGEN Craters 48% in Four Weeks as Restaking Cools",
+      "summary": "EigenCloud's restaking collateral slid to $4.52B, down 28.5% since Oct. 21. $EIGEN is badly lagging BTC and ETH — capitulation or opportunity?",
+      "url": "https://thedefiant.io/news/markets/eigen-falls-48-in-four-weeks-lagging-bitcoin-ether",
+      "token": "$EIGEN"
     }
   ]
 }
