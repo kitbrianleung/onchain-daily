@@ -1,61 +1,61 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "most_held": [
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 18485431.963216264,
-      "pct": 85.0822
+      "mcap": 18756969.061558433,
+      "pct": 60.4264
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 18456885.048576005,
-      "pct": 12.2449
-    },
-    {
-      "name": "Artificial Inu",
-      "symbol": "AI",
-      "label": "AI",
-      "full": "Artificial Inu (AI)",
-      "mcap": 25743170.75312471,
-      "pct": -3.5945
+      "mcap": 20610163.359650347,
+      "pct": 28.4272
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 33991446.06050015,
-      "pct": 10.5909
+      "mcap": 33471074.50183991,
+      "pct": 8.3422
+    },
+    {
+      "name": "Artificial Inu",
+      "symbol": "AI",
+      "label": "AI",
+      "full": "Artificial Inu (AI)",
+      "mcap": 23876534.326538943,
+      "pct": -4.4412
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 77280818.8940045,
-      "pct": -4.1258
+      "mcap": 73802732.96563242,
+      "pct": -5.2766
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 23150301.129257515,
-      "pct": 28.1708
+      "mcap": 21286749.66544974,
+      "pct": 14.4622
     },
     {
       "name": "Nullmask",
       "symbol": "MASK",
       "label": "MASK",
       "full": "Nullmask (MASK)",
-      "mcap": 19646061.19661549,
-      "pct": -1.3681
+      "mcap": 17508038.40634136,
+      "pct": -10.1508
     }
   ],
   "trending": [
@@ -64,58 +64,58 @@
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 18728868.488450106,
-      "pct": 86.5286
+      "mcap": 18723908.090153623,
+      "pct": 43.2822
     },
     {
-      "name": "Not in Employment, Education, or Training",
-      "symbol": "NEET",
-      "label": "NEET",
-      "full": "Not in Employment, Education, or Trainin",
-      "mcap": 29671978.63312128,
-      "pct": 1.9321
+      "name": "Just a jacket",
+      "symbol": "Jacket",
+      "label": "Jacket",
+      "full": "Just a jacket (Jacket)",
+      "mcap": 1651814.6949297003,
+      "pct": 39.9859
     },
     {
       "name": "ni hao cat",
       "symbol": "mihao",
       "label": "mihao",
       "full": "ni hao cat (mihao)",
-      "mcap": 8845511.822000433,
-      "pct": -38.9607
+      "mcap": 8804361.87008853,
+      "pct": -38.8806
     },
     {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 18538030.661180455,
-      "pct": 11.753
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "label": "MASK",
+      "full": "Nullmask (MASK)",
+      "mcap": 17504555.155669015,
+      "pct": -13.7301
     },
     {
-      "name": "Hogecoin",
-      "symbol": "HOGE",
-      "label": "HOGE",
-      "full": "Hogecoin (HOGE)",
-      "mcap": 1001304.6473247753,
-      "pct": 29.1792
+      "name": "Cyber Security Inu",
+      "symbol": "CSI",
+      "label": "CSI",
+      "full": "Cyber Security Inu (CSI)",
+      "mcap": 274881.82433293585,
+      "pct": 1743.5795
     },
     {
-      "name": "bul",
-      "symbol": "bul",
-      "label": "bul",
-      "full": "bul",
-      "mcap": 267395.57447333157,
-      "pct": 1841.3151
+      "name": "Vice City Index",
+      "symbol": "BAWSAQ",
+      "label": "BAWSAQ",
+      "full": "Vice City Index (BAWSAQ)",
+      "mcap": 404287.35141279275,
+      "pct": 20887.411
     },
     {
-      "name": "",
-      "symbol": "",
-      "label": "?",
-      "full": "?",
-      "mcap": 995473.5235911473,
-      "pct": -8.9518
+      "name": "WANTED",
+      "symbol": "WANTED",
+      "label": "WANTED",
+      "full": "WANTED",
+      "mcap": 220945.49476885702,
+      "pct": 7530.3172
     }
   ],
-  "story_image": "fomo/2026-11-17-story.jpg",
-  "post_image": "fomo/2026-11-17-post.jpg"
+  "story_image": "fomo/2026-11-18-story.jpg",
+  "post_image": "fomo/2026-11-18-post.jpg"
 }
