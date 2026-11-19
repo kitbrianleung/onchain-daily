@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "most_held": [
-    {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 18756969.061558433,
-      "pct": 60.4264
-    },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 20610163.359650347,
-      "pct": 28.4272
-    },
-    {
-      "name": "STONK",
-      "symbol": "STONK",
-      "label": "STONK",
-      "full": "STONK",
-      "mcap": 33471074.50183991,
-      "pct": 8.3422
+      "mcap": 16845607.533258714,
+      "pct": -15.1553
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 23876534.326538943,
-      "pct": -4.4412
+      "mcap": 23361846.75647668,
+      "pct": -2.0065
+    },
+    {
+      "name": "STONK",
+      "symbol": "STONK",
+      "label": "STONK",
+      "full": "STONK",
+      "mcap": 32263900.77760158,
+      "pct": -5.5209
+    },
+    {
+      "name": "DacityCoin",
+      "symbol": "DCTY",
+      "label": "DCTY",
+      "full": "DacityCoin (DCTY)",
+      "mcap": 19858867.784662142,
+      "pct": 63078.4001
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 73802732.96563242,
-      "pct": -5.2766
+      "mcap": 79786921.55585618,
+      "pct": 2.0469
+    },
+    {
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "label": "USELESS",
+      "full": "Useless Coin (USELESS)",
+      "mcap": 104257196.34714718,
+      "pct": 2.4302
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 21286749.66544974,
-      "pct": 14.4622
-    },
-    {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 17508038.40634136,
-      "pct": -10.1508
+      "mcap": 17907670.832503695,
+      "pct": -6.2179
     }
   ],
   "trending": [
     {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 18723908.090153623,
-      "pct": 43.2822
+      "name": "DacityCoin",
+      "symbol": "DCTY",
+      "label": "DCTY",
+      "full": "DacityCoin (DCTY)",
+      "mcap": 19378137.860600155,
+      "pct": 61878.0361
     },
     {
-      "name": "Just a jacket",
-      "symbol": "Jacket",
-      "label": "Jacket",
-      "full": "Just a jacket (Jacket)",
-      "mcap": 1651814.6949297003,
-      "pct": 39.9859
+      "name": "PIPI",
+      "symbol": "PIPI",
+      "label": "PIPI",
+      "full": "PIPI",
+      "mcap": 693109.7578091022,
+      "pct": 4671.8233
     },
     {
       "name": "ni hao cat",
       "symbol": "mihao",
       "label": "mihao",
       "full": "ni hao cat (mihao)",
-      "mcap": 8804361.87008853,
-      "pct": -38.8806
+      "mcap": 6895982.601162946,
+      "pct": -12.9809
     },
     {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 17504555.155669015,
-      "pct": -13.7301
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 3277470.959692202,
+      "pct": -66.2529
     },
     {
-      "name": "Cyber Security Inu",
-      "symbol": "CSI",
-      "label": "CSI",
-      "full": "Cyber Security Inu (CSI)",
-      "mcap": 274881.82433293585,
-      "pct": 1743.5795
+      "name": "WASTED",
+      "symbol": "WASTED",
+      "label": "WASTED",
+      "full": "WASTED",
+      "mcap": 760233.0933341586,
+      "pct": -49.0763
     },
     {
-      "name": "Vice City Index",
-      "symbol": "BAWSAQ",
-      "label": "BAWSAQ",
-      "full": "Vice City Index (BAWSAQ)",
-      "mcap": 404287.35141279275,
-      "pct": 20887.411
+      "name": "Nigga Its Over",
+      "symbol": "NIO",
+      "label": "NIO",
+      "full": "Nigga Its Over (NIO)",
+      "mcap": 812835.6794648116,
+      "pct": -52.9318
     },
     {
-      "name": "WANTED",
-      "symbol": "WANTED",
-      "label": "WANTED",
-      "full": "WANTED",
-      "mcap": 220945.49476885702,
-      "pct": 7530.3172
+      "name": "Max coin",
+      "symbol": "Max",
+      "label": "Max",
+      "full": "Max coin (Max)",
+      "mcap": 808670.0944011435,
+      "pct": -27.834
     }
   ],
-  "story_image": "fomo/2026-11-18-story.jpg",
-  "post_image": "fomo/2026-11-18-post.jpg"
+  "story_image": "fomo/2026-11-19-story.jpg",
+  "post_image": "fomo/2026-11-19-post.jpg"
 }
