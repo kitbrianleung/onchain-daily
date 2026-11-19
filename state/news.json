@@ -1,35 +1,35 @@
 {
-  "date": "19 NOV 2026",
+  "date": "20 NOV 2026",
   "items": [
     {
-      "headline": "$LYX Hack: 1.4M Tokens Stolen via Email Flaw",
-      "summary": "LUKSO blames an email recovery flaw for thefts hitting ~300 accounts, with roughly 1.4 million $LYX lost. The project is retiring email recovery, but victims must still remove the attacker's key.",
-      "url": "https://thedefiant.io/news/security/lukso-blames-email-recovery-flaw-for-profile-thefts",
-      "token": "$LYX"
+      "headline": "Bitcoin DeFi Protocol Hashi Launches on $SUI Mainnet",
+      "summary": "Hashi is live on $SUI mainnet, processing BTC deposits with hBTC usable for Fluid loans and HoneyB vaults on Upshift — a fresh Bitcoin DeFi use case.",
+      "url": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
+      "token": "$SUI"
     },
     {
-      "headline": "$BNB Chain Sets Jenner Upgrade Date Amid Bug Warning",
-      "summary": "BNB Chain locked in its Jenner upgrade date, but a forum post warns BEP-706 sample code could let expired quotes slip through a timing check. One to watch for $BNB ecosystem devs.",
-      "url": "https://thedefiant.io/news/blockchains/bnb-chain-sets-jenner-date-post-flags-timestamp-risk",
-      "token": "$BNB"
-    },
-    {
-      "headline": "$HYPE Ecosystem: TradeXYZ Halts Oura Pre-IPO Perp",
-      "summary": "TradeXYZ, a Hyperliquid HIP-3 deployer, will halt its Oura pre-IPO perpetual on Dec. 1, settling open positions at a TWAP. A key moment for pre-IPO perp markets in the $HYPE ecosystem.",
-      "url": "https://thedefiant.io/news/defi/tradexyz-to-halt-oura-pre-ipo-perpetual-on-dec-1",
+      "headline": "1inch Integrates $HYPE Perpetual Futures Into Its dApp",
+      "summary": "1inch users can now open $HYPE perpetual positions directly, with any held token auto-routed to USDC and deposited on Hyperliquid.",
+      "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
       "token": "$HYPE"
     },
     {
-      "headline": "$XSGD Issuer Joins Tokenized Deposit Trial",
-      "summary": "Standard Chartered, StraitsX and OCBC completed a tokenized deposit interoperability trial in Singapore, a step toward always-on institutional DeFi rails involving the $XSGD issuer.",
-      "url": "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964",
-      "token": "$XSGD"
+      "headline": "Bitwise Files SEC Registration for a $ZEC ETF",
+      "summary": "Bitwise has filed to launch a $ZEC trust giving shareholders direct price exposure to Zcash — another institutional milestone for the privacy coin.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-files-sec-registration-for-a-zcash-etf",
+      "token": "$ZEC"
     },
     {
-      "headline": "$BTC Lightning: pi402 Lets AI Agents Pay",
-      "summary": "Lightning Labs' pi402 lets coding agents buy prepaid token bundles over Lightning, with a mainnet endpoint already advertising DeepSeek inference. A fresh DeFi-adjacent use case for $BTC.",
-      "url": "https://thedefiant.io/news/infrastructure/lightning-labs-pi402-lets-coding-agents-pay-in-bitcoin",
-      "token": "$BTC"
+      "headline": "$ANT Token Debuts on Solana With $1M Meteora Pool",
+      "summary": "Backpack's Anthropic-linked $ANT token started trading on Solana on IPO day, with a Meteora ANT-USDC pool quickly holding ~$1.06M. US persons excluded.",
+      "url": "https://thedefiant.io/news/markets/backpack-s-anthropic-token-debuts-on-solana-on-ipo-day",
+      "token": "$ANT"
+    },
+    {
+      "headline": "$JTO Sinks 46% in 28 Days, Lagging BTC and ETH",
+      "summary": "Jito's $JTO lost ~21% in a week versus ~12% for BTC, as the Solana MEV protocol's dollar-denominated fees soften. Capitulation or entry point?",
+      "url": "https://thedefiant.io/news/markets/jito-s-jto-falls-46-in-28-days-lagging-btc-and-eth",
+      "token": "$JTO"
     }
   ]
 }
