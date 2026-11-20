@@ -2,34 +2,34 @@
   "date": "20 NOV 2026",
   "items": [
     {
-      "headline": "Bitcoin DeFi Protocol Hashi Launches on $SUI Mainnet",
-      "summary": "Hashi is live on $SUI mainnet, processing BTC deposits with hBTC usable for Fluid loans and HoneyB vaults on Upshift — a fresh Bitcoin DeFi use case.",
-      "url": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
-      "token": "$SUI"
+      "headline": "Coinbase's $ANTC Anthropic Certificate Trades on Base",
+      "summary": "$ANTC offers share-backed exposure rather than direct stock ownership, with wallet buyers needing vesting conditions to register rights.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-s-anthropic-share-certificate-trades-on-base",
+      "token": "$ANTC"
     },
     {
-      "headline": "1inch Integrates $HYPE Perpetual Futures Into Its dApp",
-      "summary": "1inch users can now open $HYPE perpetual positions directly, with any held token auto-routed to USDC and deposited on Hyperliquid.",
-      "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
-      "token": "$HYPE"
+      "headline": "$USDS Supply Falls 39% in One Day on Sky",
+      "summary": "DefiLlama showed about 2B fewer $USDS in circulation, with one Ethereum swap burning 400M $USDS.",
+      "url": "https://thedefiant.io/news/defi/sky-s-usds-circulating-supply-falls-39-in-one-day",
+      "token": "$USDS"
     },
     {
-      "headline": "Bitwise Files SEC Registration for a $ZEC ETF",
-      "summary": "Bitwise has filed to launch a $ZEC trust giving shareholders direct price exposure to Zcash — another institutional milestone for the privacy coin.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitwise-files-sec-registration-for-a-zcash-etf",
-      "token": "$ZEC"
+      "headline": "$SKY Council Plans Extra Buybacks After Price Slump",
+      "summary": "Sky's seven-day plan adds 750,000 $USDS in daily $SKY buybacks while keeping staking-reward allocations roughly steady.",
+      "url": "https://thedefiant.io/news/defi/sky-council-plans-extra-buybacks-after-sky-price-slump",
+      "token": "$SKY"
     },
     {
-      "headline": "$ANT Token Debuts on Solana With $1M Meteora Pool",
-      "summary": "Backpack's Anthropic-linked $ANT token started trading on Solana on IPO day, with a Meteora ANT-USDC pool quickly holding ~$1.06M. US persons excluded.",
-      "url": "https://thedefiant.io/news/markets/backpack-s-anthropic-token-debuts-on-solana-on-ipo-day",
-      "token": "$ANT"
+      "headline": "$OP Drops 25% in a Week, Trailing Bitcoin",
+      "summary": "Optimism's $OP is down about 39% over 28 days, reversing October's rally as the broader market slides.",
+      "url": "https://thedefiant.io/news/markets/optimism-s-op-drops-25-in-a-week-trailing-bitcoin",
+      "token": "$OP"
     },
     {
-      "headline": "$JTO Sinks 46% in 28 Days, Lagging BTC and ETH",
-      "summary": "Jito's $JTO lost ~21% in a week versus ~12% for BTC, as the Solana MEV protocol's dollar-denominated fees soften. Capitulation or entry point?",
-      "url": "https://thedefiant.io/news/markets/jito-s-jto-falls-46-in-28-days-lagging-btc-and-eth",
-      "token": "$JTO"
+      "headline": "$BTC Sets New Selloff Low at $61,220 on Coinbase",
+      "summary": "$BTC's four-week loss hit 24.6%, while 38 of 40 watched tokens fell over 24 hours.",
+      "url": "https://thedefiant.io/news/markets/bitcoin-sets-new-selloff-low-of-61-220-on-coinbase",
+      "token": "$BTC"
     }
   ]
 }
