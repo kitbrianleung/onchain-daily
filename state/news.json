@@ -1,35 +1,35 @@
 {
-  "date": "20 NOV 2026",
+  "date": "21 NOV 2026",
   "items": [
     {
-      "headline": "Coinbase's $ANTC Anthropic Certificate Trades on Base",
-      "summary": "$ANTC offers share-backed exposure rather than direct stock ownership, with wallet buyers needing vesting conditions to register rights.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-s-anthropic-share-certificate-trades-on-base",
-      "token": "$ANTC"
+      "headline": "$XMR1 Crashes 99% After $13M Wagyu Hack",
+      "summary": "Wagyu's wrapped Monero token $XMR1 plunged 99% after an attacker dumped tokens in a $13M exploit. The founder pledged to personally refund affected users.",
+      "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+      "token": "$XMR1"
     },
     {
-      "headline": "$USDS Supply Falls 39% in One Day on Sky",
-      "summary": "DefiLlama showed about 2B fewer $USDS in circulation, with one Ethereum swap burning 400M $USDS.",
-      "url": "https://thedefiant.io/news/defi/sky-s-usds-circulating-supply-falls-39-in-one-day",
-      "token": "$USDS"
+      "headline": "$ZRO Staking Goes Live Nov. 23 Ahead of Zero",
+      "summary": "LayerZero set Nov. 23 for $ZRO staking ahead of its Zero launch. Rewards come from new issuance with no early exit; unstaking expected by March 2027.",
+      "url": "https://thedefiant.io/news/blockchains/layerzero-sets-nov-23-zro-staking-ahead-of-zero",
+      "token": "$ZRO"
     },
     {
-      "headline": "$SKY Council Plans Extra Buybacks After Price Slump",
-      "summary": "Sky's seven-day plan adds 750,000 $USDS in daily $SKY buybacks while keeping staking-reward allocations roughly steady.",
-      "url": "https://thedefiant.io/news/defi/sky-council-plans-extra-buybacks-after-sky-price-slump",
-      "token": "$SKY"
+      "headline": "$ASTER Blames Coordinated Trades for Price Chaos",
+      "summary": "$ASTER says coordinated trades caused its mark-price divergence, forcing its insurance fund to take over positions. A safeguards review is announced but no compensation plan yet.",
+      "url": "https://thedefiant.io/news/markets/aster-blames-coordinated-trades-for-mark-price-divergence",
+      "token": "$ASTER"
     },
     {
-      "headline": "$OP Drops 25% in a Week, Trailing Bitcoin",
-      "summary": "Optimism's $OP is down about 39% over 28 days, reversing October's rally as the broader market slides.",
-      "url": "https://thedefiant.io/news/markets/optimism-s-op-drops-25-in-a-week-trailing-bitcoin",
-      "token": "$OP"
+      "headline": "$QI's BENQI Plans Queue to Cut sAVAX Unstake Waits",
+      "summary": "BENQI is planning a new queue to shorten sAVAX unstaking waits on Avalanche. Pending requests carry over without losing waited time, and holders won't need to move tokens.",
+      "url": "https://thedefiant.io/news/defi/benqi-plans-new-queue-to-shorten-savax-unstaking-waits",
+      "token": "$QI"
     },
     {
-      "headline": "$BTC Sets New Selloff Low at $61,220 on Coinbase",
-      "summary": "$BTC's four-week loss hit 24.6%, while 38 of 40 watched tokens fell over 24 hours.",
-      "url": "https://thedefiant.io/news/markets/bitcoin-sets-new-selloff-low-of-61-220-on-coinbase",
-      "token": "$BTC"
+      "headline": "$PI Hits Record Low After First Pi Summit",
+      "summary": "$PI slid about 26% in a week to a record low, far outpacing bitcoin's 11% drop, even as Pi Network unveiled developer incentives and mainnet trading tool plans.",
+      "url": "https://thedefiant.io/news/markets/pi-hits-record-low-after-pi-network-s-first-summit",
+      "token": "$PI"
     }
   ]
 }
