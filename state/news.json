@@ -1,35 +1,35 @@
 {
-  "date": "21 NOV 2026",
+  "date": "22 NOV 2026",
   "items": [
     {
-      "headline": "$CAKE Bounces Back: PancakeSwap Volume Up 34%",
-      "summary": "PancakeSwap's daily volume rebounded 34% to $991M, with BNB Chain driving $828M of the action. $CAKE traders eye a DEX recovery despite the broader selloff.",
-      "url": "https://thedefiant.io/news/defi/pancakeswap-volume-rebounds-34-to-991-million",
-      "token": "$CAKE"
+      "headline": "$FLIP Crashes 34% After $4.86M Vault Exploit",
+      "summary": "Chainflip halted swaps after a suspected key compromise drained $4.86M from its Ethereum vault. $FLIP plunged 34% as deposits and withdrawals were frozen.",
+      "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+      "token": "$FLIP"
     },
     {
-      "headline": "$PROS Gets Auto-Compounding Staking on Pharos",
-      "summary": "Pharos just launched auto-compounding for $PROS staking rewards, a fresh DeFi upgrade for the small-cap token as it builds out its ecosystem.",
-      "url": "https://blockster.com/",
-      "token": "$PROS"
+      "headline": "$CYBER Warns Users Off Bridge After Mystery Minting",
+      "summary": "Cyber told users to avoid its bridge after unexpected token minting. Upbit and Bithumb suspended $CYBER deposits and withdrawals on Ethereum.",
+      "url": "https://thedefiant.io/news/hacks/cyber-warns-against-bridge-use-after-unexpected-minting",
+      "token": "$CYBER"
     },
     {
-      "headline": "$SKY TVL Craters 45% in a Week",
-      "summary": "Sky's tracked assets plunged to $2.24B as its USDC reserve shrank sharply. The $SKY protocol's rapid contraction is one of DeFi's steepest weekly drawdowns.",
-      "url": "https://thedefiant.io/news/defi/sky-tvl-falls-45-in-a-week-as-usdc-reserve-shrinks",
+      "headline": "$CC Burns to Expand Across Canton MainNet",
+      "summary": "Canton approved a plan to replace legacy license fees with $CC token burns on dedicated synchronizers, with phase one tentatively set for Q1 2027.",
+      "url": "https://thedefiant.io/converge/blockchains/canton-approves-plan-to-extend-cc-burns-across-mainnet",
+      "token": "$CC"
+    },
+    {
+      "headline": "$SKY Buybacks Outpace Revenue, Llama Data Shows",
+      "summary": "DefiLlama data shows Sky's buybacks and staking rewards hit $827K on Nov. 20, well above its $440K revenue — raising sustainability questions for $SKY.",
+      "url": "https://thedefiant.io/news/defi/sky-buybacks-and-rewards-exceed-revenue-in-llama-data",
       "token": "$SKY"
     },
     {
-      "headline": "$ETH Slides Near $1,550, Down 35% in a Month",
-      "summary": "Ether's drop to near $1,550 marks a brutal 35% four-week decline, outpacing Bitcoin's 31% fall as the market-wide selloff deepens.",
-      "url": "https://thedefiant.io/news/markets/ether-slides-near-1-550-down-about-35-in-four-weeks",
-      "token": "$ETH"
-    },
-    {
-      "headline": "$BTC Crash Triggers $2.38B Liquidation Bloodbath",
-      "summary": "Bitcoin's 8% plunge liquidated 343,889 traders, with longs making up 92.6% of the $2.38B wipeout. Altcoin leverage was flushed across the board.",
-      "url": "https://thedefiant.io/news/markets/bitcoin-falls-8-as-liquidations-reach-2-38-billion",
-      "token": "$BTC"
+      "headline": "$AAVE Voters Back Plan to Slim V3 Core Collateral",
+      "summary": "Aave voters approved LlamaRisk's plan to narrow V3 core collateral, steering borrowers toward retained assets or Aave V4 while existing loans stay open.",
+      "url": "https://thedefiant.io/news/defi/aave-voters-back-plan-to-narrow-v3-core-collateral",
+      "token": "$AAVE"
     }
   ]
 }
