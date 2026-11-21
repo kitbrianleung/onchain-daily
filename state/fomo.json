@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 15375262.416471438,
-      "pct": -8.4437
-    },
-    {
-      "name": "Artificial Inu",
-      "symbol": "AI",
-      "label": "AI",
-      "full": "Artificial Inu (AI)",
-      "mcap": 19914704.450978734,
-      "pct": -18.2864
+      "mcap": 16815894.990421187,
+      "pct": 9.6645
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 25552751.682787914,
-      "pct": -19.8435
+      "mcap": 26064209.739965465,
+      "pct": 1.7085
+    },
+    {
+      "name": "Artificial Inu",
+      "symbol": "AI",
+      "label": "AI",
+      "full": "Artificial Inu (AI)",
+      "mcap": 14282333.154835122,
+      "pct": -27.4933
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 67757837.87713702,
-      "pct": -15.0489
+      "mcap": 59468563.54419168,
+      "pct": -11.6624
     },
     {
       "name": "Useless Coin",
       "symbol": "USELESS",
       "label": "USELESS",
       "full": "Useless Coin (USELESS)",
-      "mcap": 87949487.62608825,
-      "pct": -15.3456
+      "mcap": 77290993.2094161,
+      "pct": -11.7571
+    },
+    {
+      "name": "Anonymous Cat",
+      "symbol": "ZCAT",
+      "label": "ZCAT",
+      "full": "Anonymous Cat (ZCAT)",
+      "mcap": 14202820.6716727,
+      "pct": 16.6568
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "label": "SOL",
       "full": "Solana (SOL)",
-      "mcap": 40277187373.90639,
-      "pct": -4.837
-    },
-    {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 13149078.850060064,
-      "pct": -11.5666
+      "mcap": 39265571760.925,
+      "pct": -2.5067
     }
   ],
   "trending": [
     {
-      "name": "DacityCoin",
-      "symbol": "DCTY",
-      "label": "DCTY",
-      "full": "DacityCoin (DCTY)",
-      "mcap": 3108569.0381731666,
-      "pct": 511.8605
+      "name": "FLOAT",
+      "symbol": "FLOAT",
+      "label": "FLOAT",
+      "full": "FLOAT",
+      "mcap": 2820841.0929733436,
+      "pct": 81.2286
+    },
+    {
+      "name": "Rings",
+      "symbol": "Rings",
+      "label": "Rings",
+      "full": "Rings",
+      "mcap": 2994099.867537842,
+      "pct": 185.4982
+    },
+    {
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 16856262.553844735,
+      "pct": 9.6645
+    },
+    {
+      "name": "The Trader",
+      "symbol": "Trader",
+      "label": "Trader",
+      "full": "The Trader (Trader)",
+      "mcap": 208278.2955620012,
+      "pct": 1426.423
     },
     {
       "name": "DacityCoin",
       "symbol": "DCTY",
       "label": "DCTY",
       "full": "DacityCoin (DCTY)",
-      "mcap": 2849830.857452858,
-      "pct": -82.7298
+      "mcap": 1982394.5461380424,
+      "pct": -35.7426
     },
     {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "label": "CLAUDIA",
-      "full": "Claudia",
-      "mcap": 4859861.850867574,
-      "pct": -15.2924
-    },
-    {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 15674991.43142814,
-      "pct": -12.2014
-    },
-    {
-      "name": "Huss",
-      "symbol": "Huss",
-      "label": "Huss",
-      "full": "Huss",
-      "mcap": 435618.81865951826,
-      "pct": 224.2878
+      "name": "Nigga Its Over",
+      "symbol": "NIO",
+      "label": "NIO",
+      "full": "Nigga Its Over (NIO)",
+      "mcap": 1372409.8846467328,
+      "pct": 6.1837
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 2384133.063329358,
-      "pct": -30.7538
-    },
-    {
-      "name": "ni hao cat",
-      "symbol": "mihao",
-      "label": "mihao",
-      "full": "ni hao cat (mihao)",
-      "mcap": 6913990.116280883,
-      "pct": 4.3643
+      "mcap": 1441629.7053698017,
+      "pct": -39.6567
     }
   ],
-  "story_image": "fomo/2026-11-20-story.jpg",
-  "post_image": "fomo/2026-11-20-post.jpg"
+  "story_image": "fomo/2026-11-21-story.jpg",
+  "post_image": "fomo/2026-11-21-post.jpg"
 }
