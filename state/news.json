@@ -2,34 +2,34 @@
   "date": "21 NOV 2026",
   "items": [
     {
-      "headline": "$XMR1 Crashes 99% After $13M Wagyu Hack",
-      "summary": "Wagyu's wrapped Monero token $XMR1 plunged 99% after an attacker dumped tokens in a $13M exploit. The founder pledged to personally refund affected users.",
-      "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
-      "token": "$XMR1"
+      "headline": "$CAKE Bounces Back: PancakeSwap Volume Up 34%",
+      "summary": "PancakeSwap's daily volume rebounded 34% to $991M, with BNB Chain driving $828M of the action. $CAKE traders eye a DEX recovery despite the broader selloff.",
+      "url": "https://thedefiant.io/news/defi/pancakeswap-volume-rebounds-34-to-991-million",
+      "token": "$CAKE"
     },
     {
-      "headline": "$ZRO Staking Goes Live Nov. 23 Ahead of Zero",
-      "summary": "LayerZero set Nov. 23 for $ZRO staking ahead of its Zero launch. Rewards come from new issuance with no early exit; unstaking expected by March 2027.",
-      "url": "https://thedefiant.io/news/blockchains/layerzero-sets-nov-23-zro-staking-ahead-of-zero",
-      "token": "$ZRO"
+      "headline": "$PROS Gets Auto-Compounding Staking on Pharos",
+      "summary": "Pharos just launched auto-compounding for $PROS staking rewards, a fresh DeFi upgrade for the small-cap token as it builds out its ecosystem.",
+      "url": "https://blockster.com/",
+      "token": "$PROS"
     },
     {
-      "headline": "$ASTER Blames Coordinated Trades for Price Chaos",
-      "summary": "$ASTER says coordinated trades caused its mark-price divergence, forcing its insurance fund to take over positions. A safeguards review is announced but no compensation plan yet.",
-      "url": "https://thedefiant.io/news/markets/aster-blames-coordinated-trades-for-mark-price-divergence",
-      "token": "$ASTER"
+      "headline": "$SKY TVL Craters 45% in a Week",
+      "summary": "Sky's tracked assets plunged to $2.24B as its USDC reserve shrank sharply. The $SKY protocol's rapid contraction is one of DeFi's steepest weekly drawdowns.",
+      "url": "https://thedefiant.io/news/defi/sky-tvl-falls-45-in-a-week-as-usdc-reserve-shrinks",
+      "token": "$SKY"
     },
     {
-      "headline": "$QI's BENQI Plans Queue to Cut sAVAX Unstake Waits",
-      "summary": "BENQI is planning a new queue to shorten sAVAX unstaking waits on Avalanche. Pending requests carry over without losing waited time, and holders won't need to move tokens.",
-      "url": "https://thedefiant.io/news/defi/benqi-plans-new-queue-to-shorten-savax-unstaking-waits",
-      "token": "$QI"
+      "headline": "$ETH Slides Near $1,550, Down 35% in a Month",
+      "summary": "Ether's drop to near $1,550 marks a brutal 35% four-week decline, outpacing Bitcoin's 31% fall as the market-wide selloff deepens.",
+      "url": "https://thedefiant.io/news/markets/ether-slides-near-1-550-down-about-35-in-four-weeks",
+      "token": "$ETH"
     },
     {
-      "headline": "$PI Hits Record Low After First Pi Summit",
-      "summary": "$PI slid about 26% in a week to a record low, far outpacing bitcoin's 11% drop, even as Pi Network unveiled developer incentives and mainnet trading tool plans.",
-      "url": "https://thedefiant.io/news/markets/pi-hits-record-low-after-pi-network-s-first-summit",
-      "token": "$PI"
+      "headline": "$BTC Crash Triggers $2.38B Liquidation Bloodbath",
+      "summary": "Bitcoin's 8% plunge liquidated 343,889 traders, with longs making up 92.6% of the $2.38B wipeout. Altcoin leverage was flushed across the board.",
+      "url": "https://thedefiant.io/news/markets/bitcoin-falls-8-as-liquidations-reach-2-38-billion",
+      "token": "$BTC"
     }
   ]
 }
