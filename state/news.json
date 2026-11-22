@@ -2,33 +2,33 @@
   "date": "22 NOV 2026",
   "items": [
     {
-      "headline": "$FLIP Crashes 34% After $4.86M Vault Exploit",
-      "summary": "Chainflip halted swaps after a suspected key compromise drained $4.86M from its Ethereum vault. $FLIP plunged 34% as deposits and withdrawals were frozen.",
-      "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
-      "token": "$FLIP"
+      "headline": "$CYS Bridge Exploit Minted 10M Tokens on BNB",
+      "summary": "The $CYS bridge exploit let an attacker mint 10 million tokens on BNB Chain, with PeckShield tracing ~$744K to Tornado Cash. Transfers resumed by Oct. 28.",
+      "url": "https://thedefiant.io/news/hacks/cysic-bridge-exploit-minted-10-million-tokens-on-bnb",
+      "token": "$CYS"
     },
     {
-      "headline": "$CYBER Warns Users Off Bridge After Mystery Minting",
-      "summary": "Cyber told users to avoid its bridge after unexpected token minting. Upbit and Bithumb suspended $CYBER deposits and withdrawals on Ethereum.",
-      "url": "https://thedefiant.io/news/hacks/cyber-warns-against-bridge-use-after-unexpected-minting",
-      "token": "$CYBER"
+      "headline": "Top $HYPE Whale Adds Millions to Dodge Liquidation",
+      "summary": "A major $HYPE holder injected millions in USDC margin to stave off liquidation on a sizable leveraged position. Whales are defending big Hyperliquid bets.",
+      "url": "https://thecoinrise.com/",
+      "token": "$HYPE"
     },
     {
-      "headline": "$CC Burns to Expand Across Canton MainNet",
-      "summary": "Canton approved a plan to replace legacy license fees with $CC token burns on dedicated synchronizers, with phase one tentatively set for Q1 2027.",
-      "url": "https://thedefiant.io/converge/blockchains/canton-approves-plan-to-extend-cc-burns-across-mainnet",
+      "headline": "$FKEY Blames Unpatched Tool for $1.6M Hack",
+      "summary": "Fluidkey's post-mortem says stolen session tokens let an attacker stage transfers that users' apps signed, draining $1.6M. Personal data and viewing keys were also exposed.",
+      "url": "https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack",
+      "token": "$FKEY"
+    },
+    {
+      "headline": "MUFG Tests $CC for Intraday JGB Repo Funding",
+      "summary": "MUFG detailed a Canton Network test for intraday JGB repo funding, exploring digital deposits and stablecoins while preserving bonds' legal status. Big TradFi validation for $CC.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/mufg-details-canton-test-for-intraday-jgb-repo-funding",
       "token": "$CC"
     },
     {
-      "headline": "$SKY Buybacks Outpace Revenue, Llama Data Shows",
-      "summary": "DefiLlama data shows Sky's buybacks and staking rewards hit $827K on Nov. 20, well above its $440K revenue — raising sustainability questions for $SKY.",
-      "url": "https://thedefiant.io/news/defi/sky-buybacks-and-rewards-exceed-revenue-in-llama-data",
-      "token": "$SKY"
-    },
-    {
-      "headline": "$AAVE Voters Back Plan to Slim V3 Core Collateral",
-      "summary": "Aave voters approved LlamaRisk's plan to narrow V3 core collateral, steering borrowers toward retained assets or Aave V4 while existing loans stay open.",
-      "url": "https://thedefiant.io/news/defi/aave-voters-back-plan-to-narrow-v3-core-collateral",
+      "headline": "$AAVE USDC Borrow Cap Nears Limit, $190M Left",
+      "summary": "$AAVE's $4B USDC borrow cap is nearly maxed out, leaving roughly $190M available for withdrawals. A liquidity squeeze worth watching for DeFi users.",
+      "url": "https://bitcoinworld.co.in/",
       "token": "$AAVE"
     }
   ]
