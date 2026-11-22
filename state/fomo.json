@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 16815894.990421187,
-      "pct": 9.6645
+      "mcap": 18592907.972634662,
+      "pct": 9.9144
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 26064209.739965465,
-      "pct": 1.7085
+      "mcap": 27102194.240640014,
+      "pct": 5.0196
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 14282333.154835122,
-      "pct": -27.4933
+      "mcap": 15701353.70245043,
+      "pct": 7.8953
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 59468563.54419168,
-      "pct": -11.6624
-    },
-    {
-      "name": "Useless Coin",
-      "symbol": "USELESS",
-      "label": "USELESS",
-      "full": "Useless Coin (USELESS)",
-      "mcap": 77290993.2094161,
-      "pct": -11.7571
+      "mcap": 63128165.028298534,
+      "pct": 6.6501
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 14202820.6716727,
-      "pct": 16.6568
+      "mcap": 19641617.660224758,
+      "pct": 28.834
     },
     {
-      "name": "Solana",
-      "symbol": "SOL",
-      "label": "SOL",
-      "full": "Solana (SOL)",
-      "mcap": 39265571760.925,
-      "pct": -2.5067
+      "name": "Nullmask",
+      "symbol": "MASK",
+      "label": "MASK",
+      "full": "Nullmask (MASK)",
+      "mcap": 14504111.490538366,
+      "pct": 18.9448
+    },
+    {
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "label": "CLAUDIA",
+      "full": "Claudia",
+      "mcap": 11070671.902807647,
+      "pct": 83.5218
     }
   ],
   "trending": [
     {
-      "name": "FLOAT",
-      "symbol": "FLOAT",
-      "label": "FLOAT",
-      "full": "FLOAT",
-      "mcap": 2820841.0929733436,
-      "pct": 81.2286
+      "name": "Singularity",
+      "symbol": "Singularity",
+      "label": "Singularity",
+      "full": "Singularity",
+      "mcap": 1036130.9322463886,
+      "pct": 790.9483
     },
     {
-      "name": "Rings",
-      "symbol": "Rings",
-      "label": "Rings",
-      "full": "Rings",
-      "mcap": 2994099.867537842,
-      "pct": 185.4982
-    },
-    {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 16856262.553844735,
-      "pct": 9.6645
-    },
-    {
-      "name": "The Trader",
-      "symbol": "Trader",
-      "label": "Trader",
-      "full": "The Trader (Trader)",
-      "mcap": 208278.2955620012,
-      "pct": 1426.423
+      "name": "",
+      "symbol": "",
+      "label": "?",
+      "full": "?",
+      "mcap": 1462686.243003237,
+      "pct": 15.8071
     },
     {
       "name": "DacityCoin",
       "symbol": "DCTY",
       "label": "DCTY",
       "full": "DacityCoin (DCTY)",
-      "mcap": 1982394.5461380424,
-      "pct": -35.7426
+      "mcap": 3261135.6672698506,
+      "pct": 65.5506
     },
     {
-      "name": "Nigga Its Over",
-      "symbol": "NIO",
-      "label": "NIO",
-      "full": "Nigga Its Over (NIO)",
-      "mcap": 1372409.8846467328,
-      "pct": 6.1837
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 18652196.10489502,
+      "pct": 9.3239
     },
     {
-      "name": "GTA VI",
-      "symbol": "GTA6",
-      "label": "GTA6",
-      "full": "GTA VI (GTA6)",
-      "mcap": 1441629.7053698017,
-      "pct": -39.6567
+      "name": "Huss",
+      "symbol": "Huss",
+      "label": "Huss",
+      "full": "Huss",
+      "mcap": 630043.8958289454,
+      "pct": 64.482
+    },
+    {
+      "name": "Fistbump",
+      "symbol": "FIST",
+      "label": "FIST",
+      "full": "Fistbump (FIST)",
+      "mcap": 44307707.71192218,
+      "pct": 2.3194
+    },
+    {
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "label": "CLAUDIA",
+      "full": "Claudia",
+      "mcap": 11039426.230952727,
+      "pct": 83.5218
     }
   ],
-  "story_image": "fomo/2026-11-21-story.jpg",
-  "post_image": "fomo/2026-11-21-post.jpg"
+  "story_image": "fomo/2026-11-22-story.jpg",
+  "post_image": "fomo/2026-11-22-post.jpg"
 }
