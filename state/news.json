@@ -1,35 +1,35 @@
 {
-  "date": "22 NOV 2026",
+  "date": "23 NOV 2026",
   "items": [
     {
-      "headline": "$CYS Bridge Exploit Minted 10M Tokens on BNB",
-      "summary": "The $CYS bridge exploit let an attacker mint 10 million tokens on BNB Chain, with PeckShield tracing ~$744K to Tornado Cash. Transfers resumed by Oct. 28.",
-      "url": "https://thedefiant.io/news/hacks/cysic-bridge-exploit-minted-10-million-tokens-on-bnb",
-      "token": "$CYS"
+      "headline": "Chainflip Hack Balloons to $12M, $FLIP Offers Bounty",
+      "summary": "Chainflip disclosed a 122.9 BTC theft, pushing losses to $12M across BTC, ETH and stablecoins. The protocol is offering the hacker a 10% bounty, with $FLIP holders watching the Monday deadline.",
+      "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+      "token": "$FLIP"
     },
     {
-      "headline": "Top $HYPE Whale Adds Millions to Dodge Liquidation",
-      "summary": "A major $HYPE holder injected millions in USDC margin to stave off liquidation on a sizable leveraged position. Whales are defending big Hyperliquid bets.",
-      "url": "https://thecoinrise.com/",
-      "token": "$HYPE"
+      "headline": "$CYBER Probes $1M Bridge Exploit, Korean Exchanges Freeze",
+      "summary": "Cyber is investigating a suspected $1M bridge exploit as Upbit and Bithumb froze $CYBER deposits and withdrawals, citing a security incident.",
+      "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+      "token": "$CYBER"
     },
     {
-      "headline": "$FKEY Blames Unpatched Tool for $1.6M Hack",
-      "summary": "Fluidkey's post-mortem says stolen session tokens let an attacker stage transfers that users' apps signed, draining $1.6M. Personal data and viewing keys were also exposed.",
-      "url": "https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack",
-      "token": "$FKEY"
+      "headline": "$ANT Token Debuts on Solana With $135M Day-One Volume",
+      "summary": "The Anthropic-linked $ANT token launched on Solana with a reported $134.7M in first-24-hour trading volume. Backpack says it's redeemable for shares, though holder rights differ from brokerage customers.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-token-debuts-on-solana-with-135m-in-reported-trading-volume",
+      "token": "$ANT"
     },
     {
-      "headline": "MUFG Tests $CC for Intraday JGB Repo Funding",
-      "summary": "MUFG detailed a Canton Network test for intraday JGB repo funding, exploring digital deposits and stablecoins while preserving bonds' legal status. Big TradFi validation for $CC.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/mufg-details-canton-test-for-intraday-jgb-repo-funding",
-      "token": "$CC"
+      "headline": "$RAILGUN Community Touts Post-Quantum Privacy Prototype",
+      "summary": "A ZKNOX wallet proof of concept on Sepolia demos new note encryption for $RAILGUN, an early step toward quantum-resistant private transactions — though spending isn't quantum-proof yet.",
+      "url": "https://thedefiant.io/news/security/railgun-community-account-touts-post-quantum-prototype",
+      "token": "$RAIL"
     },
     {
-      "headline": "$AAVE USDC Borrow Cap Nears Limit, $190M Left",
-      "summary": "$AAVE's $4B USDC borrow cap is nearly maxed out, leaving roughly $190M available for withdrawals. A liquidity squeeze worth watching for DeFi users.",
-      "url": "https://bitcoinworld.co.in/",
-      "token": "$AAVE"
+      "headline": "DCG's Zcash Miner Fortitude Clears Nasdaq Listing Vote",
+      "summary": "Fortitude, DCG's Zcash mining arm, won shareholder approval for its Nasdaq debut even as $ZEC trades 55% below its all-time high.",
+      "url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+      "token": "$ZEC"
     }
   ]
 }
