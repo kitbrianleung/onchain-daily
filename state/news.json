@@ -1,35 +1,35 @@
 {
-  "date": "23 NOV 2026",
+  "date": "24 NOV 2026",
   "items": [
     {
-      "headline": "Bitquery Flags 400 BTC Gap in $SYRUP Backing",
-      "summary": "Bitquery found Maple's listed wallets hold ~97.6% of the BTC reported for syrupUSDC, a 400 BTC shortfall, though counted collateral still exceeds loans.",
-      "url": "https://thedefiant.io/news/defi/bitquery-finds-400-btc-gap-in-maple-s-listed-wallets",
-      "token": "$SYRUP"
+      "headline": "$ACE Bridge Exploit Sparks $3.7M Free-For-All",
+      "summary": "A $2M exploit on Fusionist's $ACE bridge turned into a $3.7M scramble as traders drained the pool — one flipped $50 into nearly $17,700.",
+      "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+      "token": "$ACE"
     },
     {
-      "headline": "$SOON Unlocks 20.24M Tokens Worth $5.3M Today",
-      "summary": "$SOON unlocked roughly 20.24 million tokens (~$5.3M) on Nov 23, a fresh supply event traders are watching for price impact.",
-      "url": "https://www.panewslab.com/zh-hant/newsflash",
-      "token": "$SOON"
-    },
-    {
-      "headline": "Whale With 15% Win Rate Up $9.7M on $HYPE DEX",
-      "summary": "A Hyperliquid whale with just a 15.1% win rate sits on $18.95M in profitable leveraged longs across ETH, BTC and NVDA, with $9.7M cumulative profit.",
-      "url": "https://www.panews.io/newsflash",
-      "token": "$HYPE"
-    },
-    {
-      "headline": "$ARB Q3 Revenue Jumps 200% to $7.4M",
-      "summary": "Arbitrum Foundation reported Q3 treasury revenue of $7.4M, up 200% QoQ, with Robinhood Chain contributing $5M+ in licensing fees and RWA AUM near $1.1B.",
-      "url": "https://en.theblockbeats.news/newsflash",
-      "token": "$ARB"
-    },
-    {
-      "headline": "$CYBER Bridge Mints 5.21M Tokens Out of Nowhere",
-      "summary": "$CYBER's bridge minted 5.21 million tokens while its Ethereum vault released the same amount just 107 seconds later, echoing the ongoing exploit saga.",
-      "url": "https://blockchainreporter.net/",
+      "headline": "$CYBER Hack: 5.2M Unbacked Tokens Minted",
+      "summary": "AstraSec says 5.213M unbacked $CYBER were minted after LayerZero exited support, with its CEO suspecting Cyber's replacement infrastructure was compromised.",
+      "url": "https://thedefiant.io/news/hacks/cyber-bridge-hack-followed-layerzero-s-support-exit",
       "token": "$CYBER"
+    },
+    {
+      "headline": "$SKY Cofounder May Sell Stake to Repay $77M",
+      "summary": "Rune Christensen is weighing direct $SKY sales — with Du Jun eyeing the entire holding — to repay ~77M USDS as the stUSDS pool shows zero withdrawal liquidity.",
+      "url": "https://thedefiant.io/news/defi/du-jun-eyes-purchase-of-rune-s-entire-sky-holding",
+      "token": "$SKY"
+    },
+    {
+      "headline": "$ZEC Goes Leveraged: Grayscale's 2x ETF Debuts",
+      "summary": "Grayscale launched ZECX, a 2x leveraged Zcash ETF targeting twice ZCSH's daily return — though it slid 13% on day one.",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/grayscale-launches-zecx-a-leveraged-zcash-focused-etf",
+      "token": "$ZEC"
+    },
+    {
+      "headline": "$XLM Bell Upgrade Live With Smart Accounts",
+      "summary": "Stellar's Bell upgrade is live, adding customer-tagged contract addresses and optional post-quantum signature verification to the $XLM network.",
+      "url": "https://thedefiant.io/news/blockchains/stellar-s-bell-upgrade-goes-live-with-smart-account-tools",
+      "token": "$XLM"
     }
   ]
 }
