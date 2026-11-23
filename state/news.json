@@ -2,34 +2,34 @@
   "date": "23 NOV 2026",
   "items": [
     {
-      "headline": "Chainflip Hack Balloons to $12M, $FLIP Offers Bounty",
-      "summary": "Chainflip disclosed a 122.9 BTC theft, pushing losses to $12M across BTC, ETH and stablecoins. The protocol is offering the hacker a 10% bounty, with $FLIP holders watching the Monday deadline.",
-      "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
-      "token": "$FLIP"
+      "headline": "Bitquery Flags 400 BTC Gap in $SYRUP Backing",
+      "summary": "Bitquery found Maple's listed wallets hold ~97.6% of the BTC reported for syrupUSDC, a 400 BTC shortfall, though counted collateral still exceeds loans.",
+      "url": "https://thedefiant.io/news/defi/bitquery-finds-400-btc-gap-in-maple-s-listed-wallets",
+      "token": "$SYRUP"
     },
     {
-      "headline": "$CYBER Probes $1M Bridge Exploit, Korean Exchanges Freeze",
-      "summary": "Cyber is investigating a suspected $1M bridge exploit as Upbit and Bithumb froze $CYBER deposits and withdrawals, citing a security incident.",
-      "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+      "headline": "$SOON Unlocks 20.24M Tokens Worth $5.3M Today",
+      "summary": "$SOON unlocked roughly 20.24 million tokens (~$5.3M) on Nov 23, a fresh supply event traders are watching for price impact.",
+      "url": "https://www.panewslab.com/zh-hant/newsflash",
+      "token": "$SOON"
+    },
+    {
+      "headline": "Whale With 15% Win Rate Up $9.7M on $HYPE DEX",
+      "summary": "A Hyperliquid whale with just a 15.1% win rate sits on $18.95M in profitable leveraged longs across ETH, BTC and NVDA, with $9.7M cumulative profit.",
+      "url": "https://www.panews.io/newsflash",
+      "token": "$HYPE"
+    },
+    {
+      "headline": "$ARB Q3 Revenue Jumps 200% to $7.4M",
+      "summary": "Arbitrum Foundation reported Q3 treasury revenue of $7.4M, up 200% QoQ, with Robinhood Chain contributing $5M+ in licensing fees and RWA AUM near $1.1B.",
+      "url": "https://en.theblockbeats.news/newsflash",
+      "token": "$ARB"
+    },
+    {
+      "headline": "$CYBER Bridge Mints 5.21M Tokens Out of Nowhere",
+      "summary": "$CYBER's bridge minted 5.21 million tokens while its Ethereum vault released the same amount just 107 seconds later, echoing the ongoing exploit saga.",
+      "url": "https://blockchainreporter.net/",
       "token": "$CYBER"
-    },
-    {
-      "headline": "$ANT Token Debuts on Solana With $135M Day-One Volume",
-      "summary": "The Anthropic-linked $ANT token launched on Solana with a reported $134.7M in first-24-hour trading volume. Backpack says it's redeemable for shares, though holder rights differ from brokerage customers.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-token-debuts-on-solana-with-135m-in-reported-trading-volume",
-      "token": "$ANT"
-    },
-    {
-      "headline": "$RAILGUN Community Touts Post-Quantum Privacy Prototype",
-      "summary": "A ZKNOX wallet proof of concept on Sepolia demos new note encryption for $RAILGUN, an early step toward quantum-resistant private transactions — though spending isn't quantum-proof yet.",
-      "url": "https://thedefiant.io/news/security/railgun-community-account-touts-post-quantum-prototype",
-      "token": "$RAIL"
-    },
-    {
-      "headline": "DCG's Zcash Miner Fortitude Clears Nasdaq Listing Vote",
-      "summary": "Fortitude, DCG's Zcash mining arm, won shareholder approval for its Nasdaq debut even as $ZEC trades 55% below its all-time high.",
-      "url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
-      "token": "$ZEC"
     }
   ]
 }
