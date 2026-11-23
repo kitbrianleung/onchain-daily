@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 18592907.972634662,
-      "pct": 9.9144
+      "mcap": 19514660.681629397,
+      "pct": 5.8599
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 27102194.240640014,
-      "pct": 5.0196
+      "mcap": 30610262.64896845,
+      "pct": 10.4909
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 15701353.70245043,
-      "pct": 7.8953
-    },
-    {
-      "name": "Pons",
-      "symbol": "PONS",
-      "label": "PONS",
-      "full": "Pons",
-      "mcap": 63128165.028298534,
-      "pct": 6.6501
+      "mcap": 21977284.932918526,
+      "pct": 38.9723
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 19641617.660224758,
-      "pct": 28.834
+      "mcap": 19676145.603003614,
+      "pct": 6.2077
+    },
+    {
+      "name": "Pons",
+      "symbol": "PONS",
+      "label": "PONS",
+      "full": "Pons",
+      "mcap": 66904458.55616257,
+      "pct": 3.1162
     },
     {
       "name": "Nullmask",
       "symbol": "MASK",
       "label": "MASK",
       "full": "Nullmask (MASK)",
-      "mcap": 14504111.490538366,
-      "pct": 18.9448
+      "mcap": 17795086.067099337,
+      "pct": 1.6207
     },
     {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "label": "CLAUDIA",
-      "full": "Claudia",
-      "mcap": 11070671.902807647,
-      "pct": 83.5218
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 8080984.077305665,
+      "pct": 81.064
     }
   ],
   "trending": [
     {
-      "name": "Singularity",
-      "symbol": "Singularity",
-      "label": "Singularity",
-      "full": "Singularity",
-      "mcap": 1036130.9322463886,
-      "pct": 790.9483
+      "name": "Just a jacket",
+      "symbol": "Jacket",
+      "label": "Jacket",
+      "full": "Just a jacket (Jacket)",
+      "mcap": 4042454.271161789,
+      "pct": 351.5448
     },
     {
-      "name": "",
-      "symbol": "",
-      "label": "?",
-      "full": "?",
-      "mcap": 1462686.243003237,
-      "pct": 15.8071
+      "name": "Jensen Hung",
+      "symbol": "HUNG",
+      "label": "HUNG",
+      "full": "Jensen Hung (HUNG)",
+      "mcap": 196301.65942902732,
+      "pct": 427.597
     },
     {
-      "name": "DacityCoin",
-      "symbol": "DCTY",
-      "label": "DCTY",
-      "full": "DacityCoin (DCTY)",
-      "mcap": 3261135.6672698506,
-      "pct": 65.5506
+      "name": "GREEN MORNING",
+      "symbol": "GM",
+      "label": "GM",
+      "full": "GREEN MORNING (GM)",
+      "mcap": 1497123.0545376344,
+      "pct": 52.5439
+    },
+    {
+      "name": "microduck",
+      "symbol": "MICRODUCK",
+      "label": "MICRODUCK",
+      "full": "microduck",
+      "mcap": 3947868.4662757777,
+      "pct": 48.9771
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 18652196.10489502,
-      "pct": 9.3239
+      "mcap": 19557639.296548102,
+      "pct": 5.8708
     },
     {
-      "name": "Huss",
-      "symbol": "Huss",
-      "label": "Huss",
-      "full": "Huss",
-      "mcap": 630043.8958289454,
-      "pct": 64.482
+      "name": "Nigga Its Over",
+      "symbol": "NIO",
+      "label": "NIO",
+      "full": "Nigga Its Over (NIO)",
+      "mcap": 962215.1212394045,
+      "pct": -26.7993
     },
     {
-      "name": "Fistbump",
-      "symbol": "FIST",
-      "label": "FIST",
-      "full": "Fistbump (FIST)",
-      "mcap": 44307707.71192218,
-      "pct": 2.3194
-    },
-    {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "label": "CLAUDIA",
-      "full": "Claudia",
-      "mcap": 11039426.230952727,
-      "pct": 83.5218
+      "name": "Anthropic",
+      "symbol": "ANT",
+      "label": "ANT",
+      "full": "Anthropic (ANT)",
+      "mcap": 841606.1997752781,
+      "pct": -40.0152
     }
   ],
-  "story_image": "fomo/2026-11-22-story.jpg",
-  "post_image": "fomo/2026-11-22-post.jpg"
+  "story_image": "fomo/2026-11-23-story.jpg",
+  "post_image": "fomo/2026-11-23-post.jpg"
 }
