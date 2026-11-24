@@ -2,34 +2,34 @@
   "date": "24 NOV 2026",
   "items": [
     {
-      "headline": "$ACE Bridge Exploit Sparks $3.7M Free-For-All",
-      "summary": "A $2M exploit on Fusionist's $ACE bridge turned into a $3.7M scramble as traders drained the pool — one flipped $50 into nearly $17,700.",
-      "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
-      "token": "$ACE"
+      "headline": "Chainflip Suspects Key Theft in $12.6M $FLIP Vault Hack",
+      "summary": "Chainflip's first report points to validly signed transfers outside the protocol, with key theft suspected but unconfirmed. Services remain paused as $FLIP holders await answers.",
+      "url": "https://thedefiant.io/news/hacks/chainflip-suspects-key-theft-in-12-6-million-vault-hack",
+      "token": "$FLIP"
     },
     {
-      "headline": "$CYBER Hack: 5.2M Unbacked Tokens Minted",
-      "summary": "AstraSec says 5.213M unbacked $CYBER were minted after LayerZero exited support, with its CEO suspecting Cyber's replacement infrastructure was compromised.",
-      "url": "https://thedefiant.io/news/hacks/cyber-bridge-hack-followed-layerzero-s-support-exit",
-      "token": "$CYBER"
+      "headline": "$S Supply Shock: Sonic Reports 4.7B Tokens, 48% Above Launch",
+      "summary": "Sonic disclosed 4.70 billion $S, 48% above its launch figure, with a 91.7M token burn planned. The historical $FTM supply mismatch is still under investigation.",
+      "url": "https://thedefiant.io/news/tokens/sonic-reports-4-70-billion-s-48-above-launch-figure",
+      "token": "$S"
     },
     {
-      "headline": "$SKY Cofounder May Sell Stake to Repay $77M",
-      "summary": "Rune Christensen is weighing direct $SKY sales — with Du Jun eyeing the entire holding — to repay ~77M USDS as the stUSDS pool shows zero withdrawal liquidity.",
-      "url": "https://thedefiant.io/news/defi/du-jun-eyes-purchase-of-rune-s-entire-sky-holding",
-      "token": "$SKY"
+      "headline": "Tydro TVL Quadruples as $USDe Lending Booms",
+      "summary": "DefiLlama data shows Tydro's TVL quadrupled by Nov. 22 as $USDe balances surged and outstanding loans hit $258.6M, though TVL sits below its Nov. 20 peak.",
+      "url": "https://thedefiant.io/news/defi/defillama-shows-tydro-tvl-quadrupled-by-nov-22",
+      "token": "$USDE"
     },
     {
-      "headline": "$ZEC Goes Leveraged: Grayscale's 2x ETF Debuts",
-      "summary": "Grayscale launched ZECX, a 2x leveraged Zcash ETF targeting twice ZCSH's daily return — though it slid 13% on day one.",
-      "url": "https://thedefiant.io/converge/tradfi-and-fintech/grayscale-launches-zecx-a-leveraged-zcash-focused-etf",
-      "token": "$ZEC"
+      "headline": "$JTO Plan Puts Foundation First for New Network Fees",
+      "summary": "Jito's JIP-40 ties DAO sharing of new revenues to a $20M annual threshold while preserving existing DAO income and $JTO buybacks. A big governance shift for Solana MEV.",
+      "url": "https://thedefiant.io/news/defi/jito-plan-puts-foundation-first-for-new-network-fees",
+      "token": "$JTO"
     },
     {
-      "headline": "$XLM Bell Upgrade Live With Smart Accounts",
-      "summary": "Stellar's Bell upgrade is live, adding customer-tagged contract addresses and optional post-quantum signature verification to the $XLM network.",
-      "url": "https://thedefiant.io/news/blockchains/stellar-s-bell-upgrade-goes-live-with-smart-account-tools",
-      "token": "$XLM"
+      "headline": "$PUMP to End External Wallet Login on Nov. 30",
+      "summary": "Pump.fun is dropping external wallet logins, pushing a web import flow that asks for private keys. $PUMP users can instead create a new wallet and transfer funds.",
+      "url": "https://thedefiant.io/news/security/pump-fun-to-end-external-wallet-login-on-nov-30",
+      "token": "$PUMP"
     }
   ]
 }
