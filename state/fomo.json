@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 19514660.681629397,
-      "pct": 5.8599
+      "mcap": 16498543.314580822,
+      "pct": -14.6853
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 30610262.64896845,
-      "pct": 10.4909
+      "mcap": 25211369.490493126,
+      "pct": -17.6075
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 21977284.932918526,
-      "pct": 38.9723
-    },
-    {
-      "name": "Anonymous Cat",
-      "symbol": "ZCAT",
-      "label": "ZCAT",
-      "full": "Anonymous Cat (ZCAT)",
-      "mcap": 19676145.603003614,
-      "pct": 6.2077
+      "mcap": 16418915.207002198,
+      "pct": -25.5255
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 66904458.55616257,
-      "pct": 3.1162
+      "mcap": 60408773.339791596,
+      "pct": -10.096
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "label": "SOL",
+      "full": "Solana (SOL)",
+      "mcap": 39758261777.77847,
+      "pct": -8.5185
     },
     {
       "name": "Nullmask",
       "symbol": "MASK",
       "label": "MASK",
       "full": "Nullmask (MASK)",
-      "mcap": 17795086.067099337,
-      "pct": 1.6207
+      "mcap": 13335896.7906716,
+      "pct": -30.08
     },
     {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 8080984.077305665,
-      "pct": 81.064
+      "name": "Anonymous Cat",
+      "symbol": "ZCAT",
+      "label": "ZCAT",
+      "full": "Anonymous Cat (ZCAT)",
+      "mcap": 14214255.291027294,
+      "pct": -27.3464
     }
   ],
   "trending": [
     {
-      "name": "Just a jacket",
-      "symbol": "Jacket",
-      "label": "Jacket",
-      "full": "Just a jacket (Jacket)",
-      "mcap": 4042454.271161789,
-      "pct": 351.5448
+      "name": "Jimmy Rustles",
+      "symbol": "JIMMY",
+      "label": "JIMMY",
+      "full": "Jimmy Rustles (JIMMY)",
+      "mcap": 815451.0437411522,
+      "pct": 38833.093
     },
     {
-      "name": "Jensen Hung",
-      "symbol": "HUNG",
-      "label": "HUNG",
-      "full": "Jensen Hung (HUNG)",
-      "mcap": 196301.65942902732,
-      "pct": 427.597
+      "name": "Crowded",
+      "symbol": "CROWD",
+      "label": "CROWD",
+      "full": "Crowded (CROWD)",
+      "mcap": 349592.67375163856,
+      "pct": 215.2318
     },
     {
-      "name": "GREEN MORNING",
-      "symbol": "GM",
-      "label": "GM",
-      "full": "GREEN MORNING (GM)",
-      "mcap": 1497123.0545376344,
-      "pct": 52.5439
+      "name": "",
+      "symbol": "ZUNSHUN",
+      "label": "ZUNSHUN",
+      "full": " (ZUNSHUN)",
+      "mcap": 3657302.391527688,
+      "pct": 296.3461
     },
     {
-      "name": "microduck",
-      "symbol": "MICRODUCK",
-      "label": "MICRODUCK",
-      "full": "microduck",
-      "mcap": 3947868.4662757777,
-      "pct": 48.9771
+      "name": "The Black Bull",
+      "symbol": "ANSEM",
+      "label": "ANSEM",
+      "full": "The Black Bull (ANSEM)",
+      "mcap": 19833525.159069266,
+      "pct": -53.196
     },
     {
-      "name": "Cate",
-      "symbol": "CATE",
-      "label": "CATE",
-      "full": "Cate",
-      "mcap": 19557639.296548102,
-      "pct": 5.8708
+      "name": "DacityCoin",
+      "symbol": "DCTY",
+      "label": "DCTY",
+      "full": "DacityCoin (DCTY)",
+      "mcap": 1209782.217371369,
+      "pct": -42.8002
     },
     {
       "name": "Nigga Its Over",
       "symbol": "NIO",
       "label": "NIO",
       "full": "Nigga Its Over (NIO)",
-      "mcap": 962215.1212394045,
-      "pct": -26.7993
+      "mcap": 1398773.755625876,
+      "pct": 44.2105
     },
     {
-      "name": "Anthropic",
-      "symbol": "ANT",
-      "label": "ANT",
-      "full": "Anthropic (ANT)",
-      "mcap": 841606.1997752781,
-      "pct": -40.0152
+      "name": "Moon Cat",
+      "symbol": "MCAT",
+      "label": "MCAT",
+      "full": "Moon Cat (MCAT)",
+      "mcap": 160478.12457985547,
+      "pct": -30.4253
     }
   ],
-  "story_image": "fomo/2026-11-23-story.jpg",
-  "post_image": "fomo/2026-11-23-post.jpg"
+  "story_image": "fomo/2026-11-24-story.jpg",
+  "post_image": "fomo/2026-11-24-post.jpg"
 }
