@@ -1,10 +1,5 @@
 {
  "used_urls": [
-  "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-  "https://www.panewslab.com/zh-hant/newsflash",
-  "https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-agentic-crypto-trading",
-  "https://thedefiant.io/news/blockchains/south-korea-super-app-toss-to-run-won-stablecoin-pilot-on-op-stack",
-  "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
   "https://coinpedia.org/",
   "https://ambcrypto.com/",
   "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
@@ -599,6 +594,11 @@
   "https://thedefiant.io/news/tokens/sonic-reports-4-70-billion-s-48-above-launch-figure",
   "https://thedefiant.io/news/defi/defillama-shows-tydro-tvl-quadrupled-by-nov-22",
   "https://thedefiant.io/news/defi/jito-plan-puts-foundation-first-for-new-network-fees",
-  "https://thedefiant.io/news/security/pump-fun-to-end-external-wallet-login-on-nov-30"
+  "https://thedefiant.io/news/security/pump-fun-to-end-external-wallet-login-on-nov-30",
+  "https://thedefiant.io/news/hacks/osmosis-restricts-84-000-wallets-after-web3auth-breach",
+  "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
+  "https://thedefiant.io/news/defi/euler-technologies-replaces-labs-in-commercial-push",
+  "https://thedefiant.io/news/blockchains/sei-v6-8-adds-cosmwasm-shutdown-controls-ahead-of-giga",
+  "https://thedefiant.io/news/cefi/gemini-announces-shielded-zcash-deposits-via-ironwood"
  ]
 }
