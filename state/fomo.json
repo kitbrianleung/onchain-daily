@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 16498543.314580822,
-      "pct": -14.6853
+      "mcap": 15553593.689102236,
+      "pct": -5.8323
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 25211369.490493126,
-      "pct": -17.6075
+      "mcap": 21569125.282396704,
+      "pct": -14.922
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 16418915.207002198,
-      "pct": -25.5255
+      "mcap": 13779277.775604008,
+      "pct": -20.0698
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 60408773.339791596,
-      "pct": -10.096
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "label": "SOL",
-      "full": "Solana (SOL)",
-      "mcap": 39758261777.77847,
-      "pct": -8.5185
+      "mcap": 54450798.39843132,
+      "pct": -8.9912
     },
     {
       "name": "Nullmask",
       "symbol": "MASK",
       "label": "MASK",
       "full": "Nullmask (MASK)",
-      "mcap": 13335896.7906716,
-      "pct": -30.08
+      "mcap": 13109925.826135794,
+      "pct": 2.3293
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "label": "SOL",
+      "full": "Solana (SOL)",
+      "mcap": 37859260152.1381,
+      "pct": -4.4591
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 14214255.291027294,
-      "pct": -27.3464
+      "mcap": 13605603.248099072,
+      "pct": 5.5748
     }
   ],
   "trending": [
     {
-      "name": "Jimmy Rustles",
-      "symbol": "JIMMY",
-      "label": "JIMMY",
-      "full": "Jimmy Rustles (JIMMY)",
-      "mcap": 815451.0437411522,
-      "pct": 38833.093
+      "name": "IGNIS",
+      "symbol": "IGNIS",
+      "label": "IGNIS",
+      "full": "IGNIS",
+      "mcap": 190881.2932683362,
+      "pct": 18.8437
     },
     {
-      "name": "Crowded",
-      "symbol": "CROWD",
-      "label": "CROWD",
-      "full": "Crowded (CROWD)",
-      "mcap": 349592.67375163856,
-      "pct": 215.2318
+      "name": "Claudia",
+      "symbol": "CLAUDIA",
+      "label": "CLAUDIA",
+      "full": "Claudia",
+      "mcap": 6981243.99938899,
+      "pct": -13.8251
     },
     {
-      "name": "",
-      "symbol": "ZUNSHUN",
-      "label": "ZUNSHUN",
-      "full": " (ZUNSHUN)",
-      "mcap": 3657302.391527688,
-      "pct": 296.3461
+      "name": "Super Inu",
+      "symbol": "SI",
+      "label": "SI",
+      "full": "Super Inu (SI)",
+      "mcap": 4648734.067463868,
+      "pct": -25.7504
+    },
+    {
+      "name": "GTA VI",
+      "symbol": "GTA6",
+      "label": "GTA6",
+      "full": "GTA VI (GTA6)",
+      "mcap": 1009275.3128095252,
+      "pct": 27.5381
     },
     {
       "name": "The Black Bull",
       "symbol": "ANSEM",
       "label": "ANSEM",
       "full": "The Black Bull (ANSEM)",
-      "mcap": 19833525.159069266,
-      "pct": -53.196
+      "mcap": 19292438.796760704,
+      "pct": -8.2736
     },
     {
-      "name": "DacityCoin",
-      "symbol": "DCTY",
-      "label": "DCTY",
-      "full": "DacityCoin (DCTY)",
-      "mcap": 1209782.217371369,
-      "pct": -42.8002
+      "name": "Gang",
+      "symbol": "GANG",
+      "label": "GANG",
+      "full": "Gang",
+      "mcap": 1319034.1570739679,
+      "pct": -21.9009
     },
     {
-      "name": "Nigga Its Over",
-      "symbol": "NIO",
-      "label": "NIO",
-      "full": "Nigga Its Over (NIO)",
-      "mcap": 1398773.755625876,
-      "pct": 44.2105
-    },
-    {
-      "name": "Moon Cat",
-      "symbol": "MCAT",
-      "label": "MCAT",
-      "full": "Moon Cat (MCAT)",
-      "mcap": 160478.12457985547,
-      "pct": -30.4253
+      "name": "Shiitake",
+      "symbol": "shiit",
+      "label": "shiit",
+      "full": "Shiitake (shiit)",
+      "mcap": 593699.660228497,
+      "pct": -8.873
     }
   ],
-  "story_image": "fomo/2026-11-24-story.jpg",
-  "post_image": "fomo/2026-11-24-post.jpg"
+  "story_image": "fomo/2026-11-25-story.jpg",
+  "post_image": "fomo/2026-11-25-post.jpg"
 }
