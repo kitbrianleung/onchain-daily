@@ -1,10 +1,5 @@
 {
  "used_urls": [
-  "https://coinpedia.org/",
-  "https://ambcrypto.com/",
-  "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
-  "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
-  "https://crypto.news/",
   "https://thedefiant.io/news/solana/solana-native-payments-rail-subscriptions-allowances",
   "https://thedefiant.io/news/blockchains/sophon-shuts-down-zksync-chain-rebuilds-consumer-app-studio-base",
   "https://cointelegraph.com",
@@ -599,6 +594,11 @@
   "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
   "https://thedefiant.io/news/defi/euler-technologies-replaces-labs-in-commercial-push",
   "https://thedefiant.io/news/blockchains/sei-v6-8-adds-cosmwasm-shutdown-controls-ahead-of-giga",
-  "https://thedefiant.io/news/cefi/gemini-announces-shielded-zcash-deposits-via-ironwood"
+  "https://thedefiant.io/news/cefi/gemini-announces-shielded-zcash-deposits-via-ironwood",
+  "https://thedefiant.io/news/tokens/mon-hits-record-low-after-first-insider-lockup-ends",
+  "https://thedefiant.io/news/defi/liquity-says-v2-eth-branch-is-in-safety-mode-near-149",
+  "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+  "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+  "https://thedefiant.io/news/regulation/french-senate-rejects-100-000-crypto-wallet-rule"
  ]
 }
