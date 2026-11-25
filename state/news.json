@@ -2,34 +2,34 @@
   "date": "25 NOV 2026",
   "items": [
     {
-      "headline": "$OSMO Freezes 84K Wallets After Web3Auth Breach",
-      "summary": "Osmosis pushed a validator patch restricting 84,000 wallets to recovery-only transfers after a Web3Auth breach, freezing 64 accounts linked to the attacker.",
-      "url": "https://thedefiant.io/news/hacks/osmosis-restricts-84-000-wallets-after-web3auth-breach",
-      "token": "$OSMO"
+      "headline": "$MON Hits Record Low as Insider Unlock Looms",
+      "summary": "About 16.6B $MON became eligible for release, roughly 1.4x pre-unlock supply, pressuring Monad’s token to a record low. #MON",
+      "url": "https://thedefiant.io/news/tokens/mon-hits-record-low-after-first-insider-lockup-ends",
+      "token": "$MON"
     },
     {
-      "headline": "Ansem Wallet Drain Sends $BULL Crashing 55%",
-      "summary": "A $2.57M drain hit Ansem-linked Bullpen beta accounts, and the Black Bull creator coin $BULL plunged 55% as Ansem denied involvement.",
-      "url": "https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
-      "token": "$BULL"
+      "headline": "$LQTY: Liquity V2 ETH Branch Enters Safety Mode",
+      "summary": "Liquity said its V2 ETH branch fell near 149% collateralization, under the 150% threshold that restricts withdrawals and new debt. #LQTY",
+      "url": "https://thedefiant.io/news/defi/liquity-says-v2-eth-branch-is-in-safety-mode-near-149",
+      "token": "$LQTY"
     },
     {
-      "headline": "$EUL Shakeup: Euler Technologies Replaces Labs",
-      "summary": "Euler is swapping its dev shop, with Euler Technologies taking over the app and protocol development as admin permissions transfer by end of November.",
-      "url": "https://thedefiant.io/news/defi/euler-technologies-replaces-labs-in-commercial-push",
-      "token": "$EUL"
+      "headline": "$ETH Foundation Doubles Security Team on AI Risk",
+      "summary": "Ethereum Foundation is doubling its security team as AI-driven risks grow, a notable ecosystem hardening move for $ETH. #ETH",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+      "token": "$ETH"
     },
     {
-      "headline": "$SEI v6.8 Preps Giga With Contract Kill Switch",
-      "summary": "Sei's mandatory v6.8 mainnet upgrade removes legacy Cosmos modules and adds CosmWasm contract-shutdown controls ahead of the Giga upgrade.",
-      "url": "https://thedefiant.io/news/blockchains/sei-v6-8-adds-cosmwasm-shutdown-controls-ahead-of-giga",
-      "token": "$SEI"
+      "headline": "Kalshi Sees Utah Move to Drop Criminal Charges",
+      "summary": "Utah’s AG moved to drop charges without prejudice after Kalshi halted operations, leaving refiling possible if it returns.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+      "token": "Kalshi"
     },
     {
-      "headline": "Gemini Enables Shielded $ZEC Deposits",
-      "summary": "Gemini now lets customers deposit $ZEC directly into shielded addresses via Ironwood, expanding privacy-preserving support for Zcash.",
-      "url": "https://thedefiant.io/news/cefi/gemini-announces-shielded-zcash-deposits-via-ironwood",
-      "token": "$ZEC"
+      "headline": "$BTC Spared as France Rejects €100K Wallet Rule",
+      "summary": "France’s Senate rejected a €100,000 crypto wallet rule and stablecoin-swap tax ideas, easing near-term pressure for $BTC holders. #BTC",
+      "url": "https://thedefiant.io/news/regulation/french-senate-rejects-100-000-crypto-wallet-rule",
+      "token": "$BTC"
     }
   ]
 }
