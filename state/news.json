@@ -2,34 +2,34 @@
   "date": "26 NOV 2026",
   "items": [
     {
-      "headline": "$BTW Rallies 84% While Bitcoin Tumbles 7%",
-      "summary": "Bitway's $BTW surged nearly 84% against the market dump, with $6.49M in daily volume against a $1.35B valuation — though its 30-day loss isn't fully erased yet.",
-      "url": "https://thedefiant.io/news/tokens/bitway-s-btw-rallies-nearly-84-as-bitcoin-drops-7",
-      "token": "$BTW"
+      "headline": "$AQUA Dominates 97% of Stellar DEX Volume",
+      "summary": "DefiLlama data shows $AQUA's Aquarius protocol now drives 97% of all DEX trading on Stellar, cementing its grip on the ecosystem.",
+      "url": "https://bsc.news/post/aquarius-stellar-dex-volume-dominance",
+      "token": "$AQUA"
     },
     {
-      "headline": "$VVV Jumps 33% as Venice Revenue Tops $200M",
-      "summary": "Venice Token $VVV gained 33% while BTC and $TAO fell, as founder Erik Voorhees revealed $200M+ annualized revenue and two new burn mechanisms.",
-      "url": "https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat",
-      "token": "$VVV"
+      "headline": "$ZRO Taps Samsung Card, Kakao Pay as Validators",
+      "summary": "LayerZero added Samsung Card, Kakao Pay and ZAN as validators for its upcoming Zero blockchain, which uses ZK proofs to split execution from verification.",
+      "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+      "token": "$ZRO"
     },
     {
-      "headline": "$HYPE Joins Franklin Templeton's Crypto Index ETF",
-      "summary": "Franklin Templeton's EZPZ crypto index ETF will add Hyperliquid's $HYPE effective Dec. 1, per an SEC prospectus supplement — a big institutional nod for the perp DEX token.",
-      "url": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
-      "token": "$HYPE"
+      "headline": "$CRV Fees Jump 61% as YieldBasis LP Fees Double",
+      "summary": "Curve's fee revenue surged 61% while YieldBasis liquidity provider fees more than doubled, signaling renewed DeFi yield activity.",
+      "url": "https://thedefiant.io/news/defi/curve-fees-rise-61-yieldbasis-lp-fees-double",
+      "token": "$CRV"
     },
     {
-      "headline": "Fidelity Files for Spot $LINK ETF on Nasdaq",
-      "summary": "Fidelity filed with the SEC for a spot Chainlink ETF holding $LINK directly (no staking), joining Grayscale and Bitwise in the race — filing, not launch.",
-      "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
-      "token": "$LINK"
+      "headline": "$ZEC Urged to Cut Off Legacy Sapling Pool Sooner",
+      "summary": "Zakura is pushing Zcash to end Sapling deposits earlier, with about 376,530 $ZEC still sitting in the legacy privacy pool. Withdrawals would stay open.",
+      "url": "https://thedefiant.io/news/blockchains/zakura-urges-zcash-to-cut-off-sapling-deposits-sooner",
+      "token": "$ZEC"
     },
     {
-      "headline": "$COW Fees Double, Ethereum Drives 92% of Gain",
-      "summary": "CoW Swap fees doubled month-over-month with Ethereum driving ~92% of the increase — four days alone generated nearly 39% of the month's fees.",
-      "url": "https://thedefiant.io/news/defi/cow-swap-fees-double-with-ethereum-driving-the-gain",
-      "token": "$COW"
+      "headline": "$MORPHO Fees Up 66% as Base Activity Booms",
+      "summary": "Activity on Coinbase's Base chain pushed Morpho Blue's monthly fees up 66%, highlighting growing lending demand on the L2.",
+      "url": "https://thedefiant.io/news/defi/base-drives-morpho-blue-66-monthly-fee-increase",
+      "token": "$MORPHO"
     }
   ]
 }
