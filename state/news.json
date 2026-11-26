@@ -1,35 +1,35 @@
 {
-  "date": "26 NOV 2026",
+  "date": "27 NOV 2026",
   "items": [
     {
-      "headline": "$AQUA Dominates 97% of Stellar DEX Volume",
-      "summary": "DefiLlama data shows $AQUA's Aquarius protocol now drives 97% of all DEX trading on Stellar, cementing its grip on the ecosystem.",
-      "url": "https://bsc.news/post/aquarius-stellar-dex-volume-dominance",
-      "token": "$AQUA"
+      "headline": "$XTEN Airdrop Lands Nov. 29 Ahead of Trading Debut",
+      "summary": "Extended set its $XTEN airdrop for Nov. 29, with points holders needing to sign before 3:30 a.m. ET to make the first batch. Vault depositors must stake $XTEN to earn Extra Yield.",
+      "url": "https://thedefiant.io/news/tokens/extended-sets-xten-airdrop-for-nov-29-ahead-of-trading",
+      "token": "$XTEN"
     },
     {
-      "headline": "$ZRO Taps Samsung Card, Kakao Pay as Validators",
-      "summary": "LayerZero added Samsung Card, Kakao Pay and ZAN as validators for its upcoming Zero blockchain, which uses ZK proofs to split execution from verification.",
-      "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
-      "token": "$ZRO"
+      "headline": "$CC Bridge to BNB Opens via LayerZero, Hits PancakeSwap",
+      "summary": "LayerZero opened a Canton Coin bridge to BNB Smart Chain, letting traders swap bridged $CC on PancakeSwap. It says $CC is backed one-for-one by native Canton Coin.",
+      "url": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
+      "token": "$CC"
     },
     {
-      "headline": "$CRV Fees Jump 61% as YieldBasis LP Fees Double",
-      "summary": "Curve's fee revenue surged 61% while YieldBasis liquidity provider fees more than doubled, signaling renewed DeFi yield activity.",
-      "url": "https://thedefiant.io/news/defi/curve-fees-rise-61-yieldbasis-lp-fees-double",
-      "token": "$CRV"
+      "headline": "$PUMP Launchpad Adds 'Block0' Fee on New Coins Dec. 4",
+      "summary": "Pump.fun plans a Block0 fee on new launches from Dec. 4, exempting only each coin's creator wallet. The fee rate is still unannounced, a notable shift for the $PUMP memecoin pipeline.",
+      "url": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
+      "token": "$PUMP"
     },
     {
-      "headline": "$ZEC Urged to Cut Off Legacy Sapling Pool Sooner",
-      "summary": "Zakura is pushing Zcash to end Sapling deposits earlier, with about 376,530 $ZEC still sitting in the legacy privacy pool. Withdrawals would stay open.",
-      "url": "https://thedefiant.io/news/blockchains/zakura-urges-zcash-to-cut-off-sapling-deposits-sooner",
-      "token": "$ZEC"
+      "headline": "$ENA: Ethena Kills sUSDe Unstaking Wait",
+      "summary": "Ethena's risk committee backed instant sUSDe unstaking with safeguards, though early explorer checks still showed a 24-hour cooldown. A meaningful DeFi UX shift for the $ENA ecosystem.",
+      "url": "https://thedefiant.io/news/defi/ethena-says-susde-wait-is-gone-early-checks-read-one-day",
+      "token": "$ENA"
     },
     {
-      "headline": "$MORPHO Fees Up 66% as Base Activity Booms",
-      "summary": "Activity on Coinbase's Base chain pushed Morpho Blue's monthly fees up 66%, highlighting growing lending demand on the L2.",
-      "url": "https://thedefiant.io/news/defi/base-drives-morpho-blue-66-monthly-fee-increase",
-      "token": "$MORPHO"
+      "headline": "$VVV Slides as Venice AI Founder Defends Privacy",
+      "summary": "Erik Voorhees said some Private-labeled models run on outside servers under no-retention deals. Venice's $VVV fell 13.5% in two hours while Bitcoin barely moved.",
+      "url": "https://thedefiant.io/news/security/venice-ai-founder-defends-privacy-after-vvv-slide",
+      "token": "$VVV"
     }
   ]
 }
