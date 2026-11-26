@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 15553593.689102236,
-      "pct": -5.8323
+      "mcap": 17259190.708959177,
+      "pct": 12.086
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 21569125.282396704,
-      "pct": -14.922
+      "mcap": 24447561.353430044,
+      "pct": 12.8548
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 13779277.775604008,
-      "pct": -20.0698
+      "mcap": 16387901.781471614,
+      "pct": 19.3823
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 54450798.39843132,
-      "pct": -8.9912
-    },
-    {
-      "name": "Nullmask",
-      "symbol": "MASK",
-      "label": "MASK",
-      "full": "Nullmask (MASK)",
-      "mcap": 13109925.826135794,
-      "pct": 2.3293
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "label": "SOL",
-      "full": "Solana (SOL)",
-      "mcap": 37859260152.1381,
-      "pct": -4.4591
+      "mcap": 58806449.43158169,
+      "pct": 8.3077
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 13605603.248099072,
-      "pct": 5.5748
-    }
-  ],
-  "trending": [
-    {
-      "name": "IGNIS",
-      "symbol": "IGNIS",
-      "label": "IGNIS",
-      "full": "IGNIS",
-      "mcap": 190881.2932683362,
-      "pct": 18.8437
-    },
-    {
-      "name": "Claudia",
-      "symbol": "CLAUDIA",
-      "label": "CLAUDIA",
-      "full": "Claudia",
-      "mcap": 6981243.99938899,
-      "pct": -13.8251
+      "mcap": 16585452.711219512,
+      "pct": 19.4501
     },
     {
       "name": "Super Inu",
       "symbol": "SI",
       "label": "SI",
       "full": "Super Inu (SI)",
-      "mcap": 4648734.067463868,
-      "pct": -25.7504
+      "mcap": 8150663.838180162,
+      "pct": 75.6368
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "label": "SOL",
+      "full": "Solana (SOL)",
+      "mcap": 40477663893.56018,
+      "pct": 6.7563
+    }
+  ],
+  "trending": [
+    {
+      "name": "SpaceXCoin",
+      "symbol": "SpaceXCoin",
+      "label": "SpaceXCoin",
+      "full": "SpaceXCoin",
+      "mcap": 668654.2067823578,
+      "pct": 10850.2406
+    },
+    {
+      "name": "",
+      "symbol": "hello",
+      "label": "hello",
+      "full": " (hello)",
+      "mcap": 414143.4291906283,
+      "pct": 140.2094
+    },
+    {
+      "name": "Basket",
+      "symbol": "BASKET",
+      "label": "BASKET",
+      "full": "Basket",
+      "mcap": 627901.4719009242,
+      "pct": -52.3479
     },
     {
       "name": "GTA VI",
       "symbol": "GTA6",
       "label": "GTA6",
       "full": "GTA VI (GTA6)",
-      "mcap": 1009275.3128095252,
-      "pct": 27.5381
+      "mcap": 2251774.341868858,
+      "pct": 158.2098
     },
     {
-      "name": "The Black Bull",
-      "symbol": "ANSEM",
-      "label": "ANSEM",
-      "full": "The Black Bull (ANSEM)",
-      "mcap": 19292438.796760704,
-      "pct": -8.2736
+      "name": "Cate",
+      "symbol": "CATE",
+      "label": "CATE",
+      "full": "Cate",
+      "mcap": 17263860.952339396,
+      "pct": 12.1013
     },
     {
-      "name": "Gang",
-      "symbol": "GANG",
-      "label": "GANG",
-      "full": "Gang",
-      "mcap": 1319034.1570739679,
-      "pct": -21.9009
+      "name": "Fiona the Hippo",
+      "symbol": "FIONA",
+      "label": "FIONA",
+      "full": "Fiona the Hippo (FIONA)",
+      "mcap": 1902813.9795425176,
+      "pct": -14.9904
     },
     {
-      "name": "Shiitake",
-      "symbol": "shiit",
-      "label": "shiit",
-      "full": "Shiitake (shiit)",
-      "mcap": 593699.660228497,
-      "pct": -8.873
+      "name": "Jimmy Rustles",
+      "symbol": "JIMMY",
+      "label": "JIMMY",
+      "full": "Jimmy Rustles (JIMMY)",
+      "mcap": 868307.1554292614,
+      "pct": -50.3702
     }
   ],
-  "story_image": "fomo/2026-11-25-story.jpg",
-  "post_image": "fomo/2026-11-25-post.jpg"
+  "story_image": "fomo/2026-11-26-story.jpg",
+  "post_image": "fomo/2026-11-26-post.jpg"
 }
