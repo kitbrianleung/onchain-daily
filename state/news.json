@@ -2,34 +2,34 @@
   "date": "27 NOV 2026",
   "items": [
     {
-      "headline": "$XTEN Airdrop Lands Nov. 29 Ahead of Trading Debut",
-      "summary": "Extended set its $XTEN airdrop for Nov. 29, with points holders needing to sign before 3:30 a.m. ET to make the first batch. Vault depositors must stake $XTEN to earn Extra Yield.",
-      "url": "https://thedefiant.io/news/tokens/extended-sets-xten-airdrop-for-nov-29-ahead-of-trading",
-      "token": "$XTEN"
+      "headline": "$SKY emergency vote eyed amid liquidity stress",
+      "summary": "$SKY is weighing an emergency $25M transfer as liquidity stress lingers, putting DeFi governance and stablecoin resilience back in focus.",
+      "url": "https://cointelegraph.com/",
+      "token": "$SKY"
     },
     {
-      "headline": "$CC Bridge to BNB Opens via LayerZero, Hits PancakeSwap",
-      "summary": "LayerZero opened a Canton Coin bridge to BNB Smart Chain, letting traders swap bridged $CC on PancakeSwap. It says $CC is backed one-for-one by native Canton Coin.",
-      "url": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
-      "token": "$CC"
+      "headline": "$BLUE perps exit Sui as shutdown nears",
+      "summary": "$BLUE will close perpetual futures on Sui Dec. 4, telling traders to unwind early while rivals route more $SUI perp flow.",
+      "url": "https://thedefiant.io/news/defi/bluefin-to-shut-down-perpetual-futures-on-sui-dec-4",
+      "token": "$BLUE"
     },
     {
-      "headline": "$PUMP Launchpad Adds 'Block0' Fee on New Coins Dec. 4",
-      "summary": "Pump.fun plans a Block0 fee on new launches from Dec. 4, exempting only each coin's creator wallet. The fee rate is still unannounced, a notable shift for the $PUMP memecoin pipeline.",
-      "url": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
-      "token": "$PUMP"
+      "headline": "$CARDS pack volume cools 46% from peak",
+      "summary": "$CARDS pack volume is down 46% after October’s spike, with 30-day average daily pace still 31% below pre-surge levels.",
+      "url": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-pack-volume-drops-46-after-october-peak",
+      "token": "$CARDS"
     },
     {
-      "headline": "$ENA: Ethena Kills sUSDe Unstaking Wait",
-      "summary": "Ethena's risk committee backed instant sUSDe unstaking with safeguards, though early explorer checks still showed a 24-hour cooldown. A meaningful DeFi UX shift for the $ENA ecosystem.",
-      "url": "https://thedefiant.io/news/defi/ethena-says-susde-wait-is-gone-early-checks-read-one-day",
-      "token": "$ENA"
+      "headline": "$BTC capitulation call hits crypto tape",
+      "summary": "JPMorgan flags $BTC capitulation as Strategy’s NAV multiple sinks, while Democrats push back on SEC crypto plans.",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+      "token": "$BTC"
     },
     {
-      "headline": "$VVV Slides as Venice AI Founder Defends Privacy",
-      "summary": "Erik Voorhees said some Private-labeled models run on outside servers under no-retention deals. Venice's $VVV fell 13.5% in two hours while Bitcoin barely moved.",
-      "url": "https://thedefiant.io/news/security/venice-ai-founder-defends-privacy-after-vvv-slide",
-      "token": "$VVV"
+      "headline": "$ETH regulation watch: Asia payment bloc forms",
+      "summary": "China, Japan, South Korea and ASEAN are forming a digital-payments and crypto-regulation group, a macro tailwind watch for $ETH DeFi rails.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+      "token": "$ETH"
     }
   ]
 }
