@@ -1,35 +1,35 @@
 {
-  "date": "27 NOV 2026",
+  "date": "28 NOV 2026",
   "items": [
     {
-      "headline": "$SKY emergency vote eyed amid liquidity stress",
-      "summary": "$SKY is weighing an emergency $25M transfer as liquidity stress lingers, putting DeFi governance and stablecoin resilience back in focus.",
-      "url": "https://cointelegraph.com/",
-      "token": "$SKY"
+      "headline": "$ATOS Crashes 94% After Bridge Drained on Ethereum",
+      "summary": "Atoshi's bridge lost 201 million $ATOS on Ethereum, with the exploiter netting only ~$60K via KyberSwap. The token plunged 94% within an hour across two Uniswap pools.",
+      "url": "https://thedefiant.io/news/hacks/atoshi-bridge-drained-of-201-million-atos-on-ethereum",
+      "token": "$ATOS"
     },
     {
-      "headline": "$BLUE perps exit Sui as shutdown nears",
-      "summary": "$BLUE will close perpetual futures on Sui Dec. 4, telling traders to unwind early while rivals route more $SUI perp flow.",
-      "url": "https://thedefiant.io/news/defi/bluefin-to-shut-down-perpetual-futures-on-sui-dec-4",
-      "token": "$BLUE"
+      "headline": "$ZRO: LayerZero Names 40+ Validators for Zero Launch",
+      "summary": "LayerZero revealed its launch validator set for the new Zero chain, including Kakao Pay and Broadridge. Staked $ZRO deposits will be split evenly across the launch validators.",
+      "url": "https://thedefiant.io/news/blockchains/layerzero-names-40-plus-validators-for-zero-launch",
+      "token": "$ZRO"
     },
     {
-      "headline": "$CARDS pack volume cools 46% from peak",
-      "summary": "$CARDS pack volume is down 46% after October’s spike, with 30-day average daily pace still 31% below pre-surge levels.",
-      "url": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-pack-volume-drops-46-after-october-peak",
-      "token": "$CARDS"
+      "headline": "$RUNE: Binance Hack Flows Through THORChain Top $600M",
+      "summary": "Reuters estimates over $600M in stolen Binance funds have moved through THORChain, though double-counting is possible. The FBI has asked $RUNE node operators to block theft-linked transactions.",
+      "url": "https://thedefiant.io/news/hacks/binance-hack-flows-through-thorchain-top-600m-reuters",
+      "token": "$RUNE"
     },
     {
-      "headline": "$BTC capitulation call hits crypto tape",
-      "summary": "JPMorgan flags $BTC capitulation as Strategy’s NAV multiple sinks, while Democrats push back on SEC crypto plans.",
-      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
-      "token": "$BTC"
+      "headline": "$XMR Sinks Below $400 as KuCoin Pulls the Plug",
+      "summary": "Monero dropped over 10% in 24 hours as KuCoin confirmed it will end all $XMR spot trading on Nov. 30. Privacy rival $ZEC rallied in the opposite direction.",
+      "url": "https://thedefiant.io/news/markets/monero-sinks-below-400-as-privacy-rival-zcash-rallies",
+      "token": "$XMR"
     },
     {
-      "headline": "$ETH regulation watch: Asia payment bloc forms",
-      "summary": "China, Japan, South Korea and ASEAN are forming a digital-payments and crypto-regulation group, a macro tailwind watch for $ETH DeFi rails.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
-      "token": "$ETH"
+      "headline": "$GRAM: Telegram Cuts Gift Resale Fee to 2%",
+      "summary": "Telegram slashed fees on gift resales paid in Gram, with sellers now paid directly in $GRAM when sales settle on TON. Durov is pushing the in-app onchain economy.",
+      "url": "https://thedefiant.io/news/nfts-and-web3/telegram-cuts-fee-to-2-on-gift-resales-paid-in-gram",
+      "token": "$GRAM"
     }
   ]
 }
