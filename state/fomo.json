@@ -1,121 +1,121 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "most_held": [
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 17812064.076447975,
-      "pct": 3.7582
+      "mcap": 16894006.726725493,
+      "pct": -4.0662
     },
     {
       "name": "STONK",
       "symbol": "STONK",
       "label": "STONK",
       "full": "STONK",
-      "mcap": 26172300.977375355,
-      "pct": 7.3842
+      "mcap": 23916829.07476478,
+      "pct": -8.2994
     },
     {
       "name": "Artificial Inu",
       "symbol": "AI",
       "label": "AI",
       "full": "Artificial Inu (AI)",
-      "mcap": 17933902.416850727,
-      "pct": 10.4373
+      "mcap": 15767027.345680134,
+      "pct": -8.916
     },
     {
       "name": "Pons",
       "symbol": "PONS",
       "label": "PONS",
       "full": "Pons",
-      "mcap": 73032825.24348578,
-      "pct": 24.9283
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "label": "SOL",
-      "full": "Solana (SOL)",
-      "mcap": 41720326952.715546,
-      "pct": 3.1806
+      "mcap": 66305408.69955553,
+      "pct": -8.5418
     },
     {
       "name": "Anonymous Cat",
       "symbol": "ZCAT",
       "label": "ZCAT",
       "full": "Anonymous Cat (ZCAT)",
-      "mcap": 16759338.47933921,
-      "pct": 0.0561
+      "mcap": 15959056.478136908,
+      "pct": -4.057
     },
     {
-      "name": "Super Inu",
-      "symbol": "SI",
-      "label": "SI",
-      "full": "Super Inu (SI)",
-      "mcap": 7448364.323846378,
-      "pct": -6.0197
+      "name": "Solana",
+      "symbol": "SOL",
+      "label": "SOL",
+      "full": "Solana (SOL)",
+      "mcap": 40181051164.94585,
+      "pct": -3.3699
+    },
+    {
+      "name": "Useless Coin",
+      "symbol": "USELESS",
+      "label": "USELESS",
+      "full": "Useless Coin (USELESS)",
+      "mcap": 71864314.32867189,
+      "pct": -6.516
     }
   ],
   "trending": [
     {
-      "name": "Woopy Dog",
-      "symbol": "WOOPY",
-      "label": "WOOPY",
-      "full": "Woopy Dog (WOOPY)",
-      "mcap": 705148.4141039712,
-      "pct": 9339.2231
+      "name": "We Literally Fuck Investors",
+      "symbol": "WLFI",
+      "label": "WLFI",
+      "full": "We Literally Fuck Investors (WLFI)",
+      "mcap": 302501.8068420864,
+      "pct": 11771.3344
     },
     {
-      "name": "SpaceXCoin",
-      "symbol": "SpaceXCoin",
-      "label": "SpaceXCoin",
-      "full": "SpaceXCoin",
-      "mcap": 1339822.3781496573,
-      "pct": 105.4808
+      "name": "MoonBoy",
+      "symbol": "MoonBoy",
+      "label": "MoonBoy",
+      "full": "MoonBoy",
+      "mcap": 829568.1999061154,
+      "pct": 27038.5442
     },
     {
-      "name": "USFF",
-      "symbol": "USFF",
-      "label": "USFF",
-      "full": "USFF",
-      "mcap": 1819947.7908046532,
-      "pct": 44017.0706
-    },
-    {
-      "name": "Snowball",
-      "symbol": "Snowball",
-      "label": "Snowball",
-      "full": "Snowball",
-      "mcap": 643236.8073840901,
-      "pct": 1937.1132
-    },
-    {
-      "name": "Just a jacket",
-      "symbol": "Jacket",
-      "label": "Jacket",
-      "full": "Just a jacket (Jacket)",
-      "mcap": 1410888.3719397532,
-      "pct": -12.3481
+      "name": "Anon",
+      "symbol": "ANON",
+      "label": "ANON",
+      "full": "Anon",
+      "mcap": 236297.19866325802,
+      "pct": 826.8168
     },
     {
       "name": "Fiona the Hippo",
       "symbol": "FIONA",
       "label": "FIONA",
       "full": "Fiona the Hippo (FIONA)",
-      "mcap": 1083442.010192199,
-      "pct": -43.3719
+      "mcap": 1361510.9033135222,
+      "pct": 20.3833
+    },
+    {
+      "name": "Jimmy Rustles",
+      "symbol": "JIMMY",
+      "label": "JIMMY",
+      "full": "Jimmy Rustles (JIMMY)",
+      "mcap": 862653.8886405295,
+      "pct": 83.2169
+    },
+    {
+      "name": "SpaceXCoin",
+      "symbol": "SpaceXCoin",
+      "label": "SpaceXCoin",
+      "full": "SpaceXCoin",
+      "mcap": 749020.9439474534,
+      "pct": -21.5316
     },
     {
       "name": "Cate",
       "symbol": "CATE",
       "label": "CATE",
       "full": "Cate",
-      "mcap": 17795283.23459156,
-      "pct": 3.0751
+      "mcap": 16910395.89086806,
+      "pct": -3.4782
     }
   ],
-  "story_image": "fomo/2026-11-27-story.jpg",
-  "post_image": "fomo/2026-11-27-post.jpg"
+  "story_image": "fomo/2026-11-28-story.jpg",
+  "post_image": "fomo/2026-11-28-post.jpg"
 }
