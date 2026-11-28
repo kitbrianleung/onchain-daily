@@ -2,34 +2,34 @@
   "date": "28 NOV 2026",
   "items": [
     {
-      "headline": "$ATOS Crashes 94% After Bridge Drained on Ethereum",
-      "summary": "Atoshi's bridge lost 201 million $ATOS on Ethereum, with the exploiter netting only ~$60K via KyberSwap. The token plunged 94% within an hour across two Uniswap pools.",
-      "url": "https://thedefiant.io/news/hacks/atoshi-bridge-drained-of-201-million-atos-on-ethereum",
-      "token": "$ATOS"
+      "headline": "$WLFI Craters 39% in Sudden One-Hour Selloff",
+      "summary": "Trump-linked World Liberty's $WLFI plunged ~25% in a single hour on Coinbase and OKX, extending losses to 39% as Bitcoin slipped just 2%. Traders are watching for the next move.",
+      "url": "https://thedefiant.io/news/markets/world-liberty-s-wlfi-sinks-39-as-bitcoin-slips-2",
+      "token": "$WLFI"
     },
     {
-      "headline": "$ZRO: LayerZero Names 40+ Validators for Zero Launch",
-      "summary": "LayerZero revealed its launch validator set for the new Zero chain, including Kakao Pay and Broadridge. Staked $ZRO deposits will be split evenly across the launch validators.",
-      "url": "https://thedefiant.io/news/blockchains/layerzero-names-40-plus-validators-for-zero-launch",
-      "token": "$ZRO"
+      "headline": "$FLUID Halts $5.5B Market After Mythos AI Review",
+      "summary": "$FLUID paused its $5.5B trading market following a review by Mythos AI, sparking fresh security concerns across DeFi. Details on the trigger are still emerging.",
+      "url": "https://cryptopolitan.com",
+      "token": "$FLUID"
     },
     {
-      "headline": "$RUNE: Binance Hack Flows Through THORChain Top $600M",
-      "summary": "Reuters estimates over $600M in stolen Binance funds have moved through THORChain, though double-counting is possible. The FBI has asked $RUNE node operators to block theft-linked transactions.",
-      "url": "https://thedefiant.io/news/hacks/binance-hack-flows-through-thorchain-top-600m-reuters",
-      "token": "$RUNE"
+      "headline": "$CHZ Tells Holders: Bridge Out Before Dec 1",
+      "summary": "Chiliz is urging users to move funds off Chiliz Chain before ChainPort shuts down, naming Arbitrum, BNB Chain and Avalanche as destinations. Withdrawals can't be guaranteed after Dec. 1.",
+      "url": "https://thedefiant.io/news/infrastructure/chiliz-urges-holders-to-bridge-usdc-off-its-chain-before-chainport-shutdown",
+      "token": "$CHZ"
     },
     {
-      "headline": "$XMR Sinks Below $400 as KuCoin Pulls the Plug",
-      "summary": "Monero dropped over 10% in 24 hours as KuCoin confirmed it will end all $XMR spot trading on Nov. 30. Privacy rival $ZEC rallied in the opposite direction.",
-      "url": "https://thedefiant.io/news/markets/monero-sinks-below-400-as-privacy-rival-zcash-rallies",
-      "token": "$XMR"
+      "headline": "$SKY Boosts Staker Rewards, Cuts Vault Debt Caps",
+      "summary": "Sky's new settings allocate more $SKY to stakers while trimming vault debt limits, effective Nov. 23. A separate 25M USDS debt-repayment proposal is still pending.",
+      "url": "https://thedefiant.io/news/defi/sky-allocates-more-sky-to-stakers-cuts-vault-debt-limits",
+      "token": "$SKY"
     },
     {
-      "headline": "$GRAM: Telegram Cuts Gift Resale Fee to 2%",
-      "summary": "Telegram slashed fees on gift resales paid in Gram, with sellers now paid directly in $GRAM when sales settle on TON. Durov is pushing the in-app onchain economy.",
-      "url": "https://thedefiant.io/news/nfts-and-web3/telegram-cuts-fee-to-2-on-gift-resales-paid-in-gram",
-      "token": "$GRAM"
+      "headline": "$SFP Maker SafePal Widens August Breach Disclosure",
+      "summary": "SafePal, maker of $SFP's ecosystem wallet, expanded its August breach disclosure to older orders and warned of fake firmware-update emails targeting affected buyers.",
+      "url": "https://thedefiant.io/news/security/safepal-extends-august-breach-disclosure-to-older-orders",
+      "token": "$SFP"
     }
   ]
 }
