@@ -1,10 +1,5 @@
 {
  "used_urls": [
-  "https://thedefiant.io/news/defi/kinetiq-opens-elysium-testnet-for-hyperliquid-focused-defi-apps",
-  "https://thedefiant.io/news/tradfi-and-fintech/near-com-adds-ondo-tokenized-stocks-confidential-execution",
-  "https://thedefiant.io/news/markets/cme-group-to-list-bitcoin-cash-and-uniswap-futures-oct-19",
-  "https://usethebitcoin.com/sei-giga-completes-first-full-test-with-63200-requests-per-second/",
-  "https://coinfomania.com/starknet-announces-proof-of-privacy-cohort-01-demo-day/",
   "https://thedefiant.io/news/defi/vitalik-buterin-backs-trueo-ethereum-move-true-jumps-900",
   "https://thedefiant.io/news/markets/bitcoin-cash-cme-futures-listing-sep-22-2026",
   "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049",
@@ -599,6 +594,11 @@
   "https://thedefiant.io/news/blockchains/layerzero-names-40-plus-validators-for-zero-launch",
   "https://thedefiant.io/news/hacks/binance-hack-flows-through-thorchain-top-600m-reuters",
   "https://thedefiant.io/news/markets/monero-sinks-below-400-as-privacy-rival-zcash-rallies",
-  "https://thedefiant.io/news/nfts-and-web3/telegram-cuts-fee-to-2-on-gift-resales-paid-in-gram"
+  "https://thedefiant.io/news/nfts-and-web3/telegram-cuts-fee-to-2-on-gift-resales-paid-in-gram",
+  "https://thedefiant.io/news/markets/world-liberty-s-wlfi-sinks-39-as-bitcoin-slips-2",
+  "https://cryptopolitan.com",
+  "https://thedefiant.io/news/infrastructure/chiliz-urges-holders-to-bridge-usdc-off-its-chain-before-chainport-shutdown",
+  "https://thedefiant.io/news/defi/sky-allocates-more-sky-to-stakers-cuts-vault-debt-limits",
+  "https://thedefiant.io/news/security/safepal-extends-august-breach-disclosure-to-older-orders"
  ]
 }
